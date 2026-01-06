@@ -91,7 +91,7 @@ echo ========================================
 echo   Inserting English Text
 echo ========================================
 echo.
-bun start i
+bun src/insert.ts
 echo.
 pause
 goto menu
