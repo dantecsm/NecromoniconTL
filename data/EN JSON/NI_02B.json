@@ -1,0 +1,199 @@
+[
+    {
+        "message": "Returned to the underground passage."
+    },
+    {
+        "message": "There are doors ahead leading to five rooms."
+    },
+    {
+        "message": "Entered the underground passage."
+    },
+    {
+        "message": "Seems like it's almost the same here, day or night."
+    },
+    {
+        "message": "Looks like an underground passage with doors on both sides."
+    },
+    {
+        "message": "Fresh traces of fire are here too, and most of the wooden doors on the sides are almost charred."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Looks like I can get down somehow."
+    },
+    {
+        "message": "　　　　　　　　Don't touch any of those stones around here, if one of them falls on your head, you won't stand a chance."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Are you okay？"
+    },
+    {
+        "message": "　　　　　　　　Be careful........."
+    },
+    {
+        "message": "We pushed aside the rubble and went down the stairs leading underground."
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's bigger than I thought."
+    },
+    {
+        "message": "　　　　　　　　I　was　imagining　a　room　like　a　warehouse,　though."
+    },
+    {
+        "message": "Spreading out before me is a hallway-looking place with charred wooden doors on either side. The marks of the fire are still painfully fresh here, too, and I can’t be optimistic about what kind of shape each room is in."
+    },
+    {
+        "message": "Even though it's been over a hundred years since the fire, maybe I'm just imagining that the air here still feels scratchy, but the sense of oppression is so strong that I can't help but think that way, and it feels suffocating."
+    },
+    {
+        "name": "Cordelia",
+        "message": "There sure are a lot of rooms, huh."
+    },
+    {
+        "message": "　　　　　　　　I wonder what this place was used for."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I've never been in a monastery before, so I have no idea either."
+    },
+    {
+        "message": "But in my head, this strange feeling kept popping up, like I'd been here before, even though I couldn't make sense of it myself."
+    },
+    {
+        "message": "It wouldn't be surprising if it collapsed at any moment."
+    },
+    {
+        "message": "In fact, some parts of the ceiling are cracked, and there are even places where it's collapsed."
+    },
+    {
+        "message": "Burned by the flames, the mortar has gotten all messed up."
+    },
+    {
+        "message": "It's so fragile that it wouldn't be surprising if it collapsed on top of me at any moment."
+    },
+    {
+        "message": "Like a coal miner afraid of a cave-in, I’m hit with an unbearable sense of fear and pressure, and I just want to run away right now."
+    },
+    {
+        "message": "There’s a lot of small rubble scattered around, but it’s not so much that you can’t get through."
+    },
+    {
+        "message": "火災の後なら床も灰で汚れていて当然だろうに、そんな様子は無い。"
+    },
+    {
+        "message": "Did someone clean it up?"
+    },
+    {
+        "message": "Even though it's after a fire, the floor doesn't look dirty with ash or anything."
+    },
+    {
+        "message": "Come to think of it, the stairs leading down to the basement look like they were deliberately hidden, rather than just getting buried naturally."
+    },
+    {
+        "message": "It’s true it was left alone for a long time, but it’s also a fact that someone entered this Basement after the fire."
+    },
+    {
+        "message": "Does that mean there are other people besides us who are interested in the Monastery？"
+    },
+    {
+        "message": "Or maybe, they found something suspicious about this fire and started an investigation..."
+    },
+    {
+        "message": "It's almost completely charred, just like the other doors."
+    },
+    {
+        "message": "With things like this, I don't think the lock would work even if there was one."
+    },
+    {
+        "message": "Just like the other doors, it's almost completely charred, and it looks like it'll crumble just by touching it."
+    },
+    {
+        "message": "It looks like the handle and such have already melted off from the heat and hardly retain their original shape anymore."
+    },
+    {
+        "message": "It's easy to get inside, but with how messed up it is in here, I wonder if there's anything left in the room at all."
+    },
+    {
+        "message": "Or maybe the interior didn’t get hit as badly as this hallway. Not impossible, but…"
+    },
+    {
+        "message": "Huge rubble is piled up in front of the door."
+    },
+    {
+        "message": "There's no way to get inside with this."
+    },
+    {
+        "message": "There's a big pile of rubble stacked up in front of the door."
+    },
+    {
+        "message": "まるで扉を開けさせたくないために、故意に塞いだようにも見える。"
+    },
+    {
+        "message": "Just like the other doors, it probably isn't locked, but like this, getting into the room would be impossible."
+    },
+    {
+        "message": "I can still understand that the buildings on the surface were wiped out without a trace by the spreading fire."
+    },
+    {
+        "message": "I wonder why even around here underground is affected by the fire."
+    },
+    {
+        "message": "There's a charred door."
+    },
+    {
+        "message": "I don't know where the fire started, but I can still understand how the buildings on the surface were burned down so completely there's nothing left of them."
+    },
+    {
+        "message": "I wonder what the hell happened to make even this room underground end up in such a terrible state."
+    },
+    {
+        "message": "I can't see inside from here."
+    },
+    {
+        "message": "Speaking of rooms you'd find under a monastery, all I can think of is maybe a storage room..."
+    },
+    {
+        "message": "From here, I can't tell what's going on inside the room."
+    },
+    {
+        "message": "Speaking of a room that might be underground in a Monastery........"
+    },
+    {
+        "message": "The only things I can think of are food storage or warehouses for storing valuable holy items, but if that's all, I don't think they'd need this many rooms."
+    },
+    {
+        "message": "After such a terrible fire, I doubt there's much left of how things used to be."
+    },
+    {
+        "message": "It's the entrance that leads to the back room."
+    },
+    {
+        "message": "The door has been burned away without a trace, looking just like a black hole."
+    },
+    {
+        "message": "Looks like this room got especially badly burned."
+    },
+    {
+        "message": "The entrance door was completely gone, and the surrounding walls were badly blackened."
+    },
+    {
+        "message": "It's too dark to see inside, but maybe it was a room where they kept things that could easily catch fire."
+    },
+    {
+        "message": "The front room on the left"
+    },
+    {
+        "message": "The front room on the right"
+    },
+    {
+        "message": "　The back room on the right　"
+    },
+    {
+        "message": "　　The　room　in　the　back　　"
+    },
+    {
+        "message": "　　Go outside　　"
+    }
+]

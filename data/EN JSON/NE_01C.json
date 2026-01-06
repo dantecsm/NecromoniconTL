@@ -1,0 +1,209 @@
+[
+    {
+        "message": "日の光が入らず風通しも悪い蔵書室には、古書特有の黴臭い空気が充満している。あまり長居すると気分が悪くなりそうだ。"
+    },
+    {
+        "name": "Thomas",
+        "message": "Man, this room sure smells musty."
+    },
+    {
+        "message": "　　　　　　俺様はこういう陰気な場所は大嫌いだぜ。"
+    },
+    {
+        "message": "Most of the space is taken up by gigantic bookshelves that reach all the way to the ceiling."
+    },
+    {
+        "message": "It's hard to believe that such a small village could have enough history to fill such a huge archive."
+    },
+    {
+        "message": "Most of them are probably academic books left behind at the university, or regular books donated by some collector."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Amazing..."
+    },
+    {
+        "message": "　　　　　　　　This is the first time in my life I've ever seen so many books lined up like this."
+    },
+    {
+        "message": "この村の中しか知らないコーデリアは、まるで知識に飢えた無垢な子供のように何でもない事に大きな関心を示す。"
+    },
+    {
+        "message": "I wonder what kind of face she'd make if I took her to the British Museum's library."
+    },
+    {
+        "name": "Gardner",
+        "message": "You won't find what you're looking for just by spacing out and staring！"
+    },
+    {
+        "message": "　　　　　　　　Why　don't　we　just　try　searching　everywhere　at　random?"
+    },
+    {
+        "name": "Thomas",
+        "message": "Good grief........."
+    },
+    {
+        "message": "　　　　　　Why do I have to do something this damn annoying？"
+    },
+    {
+        "message": "This kind of job is probably the hardest for this impatient guy to tolerate."
+    },
+    {
+        "message": "I'm glad this guy isn't my publisher's typesetter."
+    },
+    {
+        "message": "I've pretty much looked through all the books in this library."
+    },
+    {
+        "message": "If I could get any more information than this......"
+    },
+    {
+        "message": "Anyway, I guess I gotta learn more about Dollie Dunwich in detail."
+    },
+    {
+        "message": "It's the archive where the case law books recording incidents that happened in Arkham are kept. There's also a record about the 'Dunwich Incident.'"
+    },
+    {
+        "name": "Gardner",
+        "message": "Looks like I need to learn more about Dollie Dunwich."
+    },
+    {
+        "name": "Gardner",
+        "message": "If I could just understand why that man had to commit such a gruesome murder‥‥‥‥"
+    },
+    {
+        "name": "Thomas",
+        "message": "So what if you understand？"
+    },
+    {
+        "message": "　　　　　　You think you know this cute girl's background, and why the people in the village treat us like enemies?"
+    },
+    {
+        "name": "Thomas",
+        "message": "So you’re telling me you know why someone went and hauled a bunch of worthless stone pillars and walls into this village？"
+    },
+    {
+        "name": "Gardner",
+        "message": "‥‥‥‥‥‥‥‥"
+    },
+    {
+        "name": "Gardner",
+        "message": "This is what I think."
+    },
+    {
+        "message": "　　　　　　　　The strange phenomena happening in this village, like how unreasonably closed-off the villagers are, the foreign girl who was suddenly brought here, and the ruins someone brought in, all of that‥‥‥‥"
+    },
+    {
+        "name": "Gardner",
+        "message": "There's got to be some kind of connection."
+    },
+    {
+        "message": "　　　　　　　　I can't believe that mysterious dream Jonathan saw is totally unrelated either."
+    },
+    {
+        "name": "Thomas",
+        "message": "Ridiculous."
+    },
+    {
+        "message": "　　　　　　Where's your proof for that?"
+    },
+    {
+        "name": "Gardner",
+        "message": "There's no basis for that."
+    },
+    {
+        "message": "　　　　　　　　This is what you call my gut feeling."
+    },
+    {
+        "name": "Thomas",
+        "message": "I can't believe a scholar would say something like that！"
+    },
+    {
+        "name": "Gardner",
+        "message": "I'm not a scientist, I'm a folklorist."
+    },
+    {
+        "message": "　　　　　　　　I'm　not　against　admitting　that　there　are　things　in　this　world　that　can't　be　explained　by　logic."
+    },
+    {
+        "name": "Thomas",
+        "message": "But there’s no guarantee your hunch is right."
+    },
+    {
+        "name": "Gardner",
+        "message": "I don't think I'm saying anything outrageous.　　　　　　　　I just can't shake the feeling that in this Arkham,　　　　　　　　some unimaginable powerful force is at work."
+    },
+    {
+        "message": "There’s no doubt that only officially published books are kept on this shelf."
+    },
+    {
+        "message": "Surely records of the various incidents that happened in Arkham, too......"
+    },
+    {
+        "message": "The neatly lined-up old books all have matching spine materials, unlike the other bookshelves, and the way they've aged makes you feel the different eras they come from."
+    },
+    {
+        "message": "Maybe this shelf is where the village keeps official documents and records. That's probably why it's so organized."
+    },
+    {
+        "name": "Gardner",
+        "message": "It seems that if we're going to look into Dollie Dunwich,　　　　　　　first we need to know about her father, Philip."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Maybe Marsh might know something."
+    },
+    {
+        "message": "　　　　　　　　I can't just ignore that monastery that appeared in my dream, either..."
+    },
+    {
+        "name": "Gardner",
+        "message": "Well, hold on."
+    },
+    {
+        "message": "　　　　　　　　If you don't follow things step by step, you'll never solve anything."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So first off..."
+    },
+    {
+        "message": "　　　　　　　　It's about getting a Map of Arkham, right."
+    },
+    {
+        "message": "This bookshelf probably holds academic books left behind at the university, as well as books donated by private collectors and the like."
+    },
+    {
+        "message": "Even though it's neatly organized, it still gives the impression that the books have been stuffed in pretty messily."
+    },
+    {
+        "message": "The ages and bindings are all over the place, with fancy, expensive-looking books bound in sheepskin with gold-stamped letters right next to worthless, beat-up scraps that'd make even a used bookstore owner frown."
+    },
+    {
+        "message": "Most of them are just worthless mass-produced stuff published recently."
+    },
+    {
+        "message": "Seeing firsthand how old-school craftsmanship is disappearing really makes me feel empty inside."
+    },
+    {
+        "message": "This bookshelf seems to be filled mostly with relatively new books."
+    },
+    {
+        "message": "While it's hardly dirty or old, there's absolutely no sign of the elaborate craftsmanship of artisans from the past."
+    },
+    {
+        "message": "Still, judging by this, it looks like hardly anyone's ever touched these bookshelves. Guess the villagers aren't much into reading."
+    },
+    {
+        "message": "　　Left bookshelf　　"
+    },
+    {
+        "message": "Center bookshelf"
+    },
+    {
+        "message": "　　Right bookshelf　　"
+    },
+    {
+        "message": "　　Reception　　"
+    }
+]

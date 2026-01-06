@@ -1,0 +1,166 @@
+[
+    {
+        "message": "It's the second floor hallway of the Dunwitch Mansion."
+    },
+    {
+        "message": "There are two doors on the left and right, and further in it's too dark to really tell."
+    },
+    {
+        "name": "Jonathan",
+        "message": "The floor might give way, so walk quietly, okay?"
+    },
+    {
+        "message": "　　　　　　　　After all, it's an old building......"
+    },
+    {
+        "message": "It's the hallway on the second floor of the Dunwitch Mansion."
+    },
+    {
+        "message": "左右にふたつの扉があり、もっと奥は暗くてよくわからない。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "So this is what the inside of the mansion looks like."
+    },
+    {
+        "message": "　　　　　　　　It's dim and scary."
+    },
+    {
+        "message": "Cordelia presses her body against my arm and whispers in my ear."
+    },
+    {
+        "message": "The soft feeling of her chest pressing against my arm isn't bad, but with our bodies so close together like this, it's seriously hard to walk."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Move away a bit, I can't walk properly like this.　　　　　　　It's already dark enough as it is..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Because it's scary."
+    },
+    {
+        "message": "　　　　　　　　If I were a kid in this house, there's no way I could walk down a hallway like this every day."
+    },
+    {
+        "message": "It's a floor that was built over a hundred years ago; it wouldn't be weird if it gave way any second."
+    },
+    {
+        "message": "The spots that look kind of blackened here and there—are the floorboards rotting, or is it some leftover trace from that incident...?"
+    },
+    {
+        "message": "窓がないおかげでどこからも埃が入ってきたりしないからなのか、玄関ホールほど汚れてはいない。"
+    },
+    {
+        "message": "With this, even if someone had entered before, it'd be hard to find their tracks. Well, that's assuming there's any way into the mansion other than the front door."
+    },
+    {
+        "message": "There's not as much dust piled up as I thought, but here and there it's blackened and discolored."
+    },
+    {
+        "message": "It's not clear if the floorboards are rotten or if it's a remnant of the incident."
+    },
+    {
+        "message": "The ceiling, neatly plastered with stucco, is pretty much just like it was back then, aside from a few spider webs."
+    },
+    {
+        "message": "The upper floor should be an attic or something, but I don't see any stairs around here that look like they'd go up there."
+    },
+    {
+        "message": "Maybe it hadn't been used since Dollie was alive, and they had already taken away the stairs or something."
+    },
+    {
+        "message": "You can see cracks here and there in the plaster, but there's no major damage."
+    },
+    {
+        "message": "If the upper floor had been used as a regular room, it wouldn't be surprising if things had gotten even worse from the vibrations......"
+    },
+    {
+        "message": "Because there’s almost no light, I can’t really tell what’s in the back."
+    },
+    {
+        "message": "There’s probably Dollie couple’s bedroom and the other daughter’s room further in, too."
+    },
+    {
+        "message": "Right now, there's probably no need to rummage through those rooms, but even if it became necessary, barging into someone's house with your shoes on and tearing the place up like some filthy petty thief isn't exactly something I want to do."
+    },
+    {
+        "message": "If we have to, we can’t help it if it’s to find the Necronomicon, but it’s hard to believe they hid the book in those rooms that aren’t all that important."
+    },
+    {
+        "message": "For now, I don't feel like there's any need to check out the room in the back."
+    },
+    {
+        "message": "もしも屋敷の中にネクロノミコンが隠されているのだとしたら、もう少し関連がありそうな場所をあたってみた方がいいだろう。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "I think this room is the most suspicious... I feel like this place has a different vibe from everywhere else."
+    },
+    {
+        "message": "Yeah, now that you mention it, that might be true."
+    },
+    {
+        "message": "Even though you couldn't call it luxurious or elegant, this room's door is way too rugged for a Mansion that at least cares about its design."
+    },
+    {
+        "message": "Someone must have done it out of necessity, but still, what's the reason for needing a door this sturdy?"
+    },
+    {
+        "message": "There's a clunky iron door."
+    },
+    {
+        "message": "The lock's already open, though..."
+    },
+    {
+        "message": "I still can't figure out why only this room was turned into something sturdy, like steel."
+    },
+    {
+        "message": "I wonder what kind of things were done in this room before."
+    },
+    {
+        "message": "Looks like an ordinary room door."
+    },
+    {
+        "message": "Considering it's facing in a sunny direction on the second floor, it's most likely the room of Dollie's daughters, Lorina or Hannah."
+    },
+    {
+        "message": "Both girls were killed by an axe swung down by their father."
+    },
+    {
+        "message": "I especially remember it being recorded that Lorina was found in a gruesome state, with both her arms and legs cut off."
+    },
+    {
+        "message": "There's no doubt this room is the scene of the incident."
+    },
+    {
+        "message": "The Bed Sheet in the room and the darkened blood stains left on the floor clearly tell the story."
+    },
+    {
+        "name": "Cordelia",
+        "message": "ここ、女の子が殺された子供部屋でしょう？"
+    },
+    {
+        "message": "　　　　　　　　I don't really think this room is suspicious..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Because that's how it is, right？"
+    },
+    {
+        "message": "　　　　　　　　If it was a murder scene, the police would definitely do a thorough investigation there."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Even if you try to hide something, isn’t the chance of it getting found pretty damn high?"
+    },
+    {
+        "message": "Laboratory"
+    },
+    {
+        "message": "　　kids' room　　"
+    },
+    {
+        "message": "Entrance hall"
+    }
+]

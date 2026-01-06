@@ -1,0 +1,271 @@
+[
+    {
+        "message": "It's Dunwich's Laboratory."
+    },
+    {
+        "message": "On the desk, various pieces of experimental equipment are crammed together so tightly that, as a layperson, I have no idea what they're used for."
+    },
+    {
+        "message": "The sheer number of those items is a bit much for a rich man's hobby, making me imagine just what kind of suspicious research was going on in the Laboratory."
+    },
+    {
+        "message": "It's Dunwich's Laboratory."
+    },
+    {
+        "message": "The room is filled with a big Table crammed with all sorts of experimental equipment, and shelves packed with bottles of suspicious-looking chemicals in all kinds of shapes."
+    },
+    {
+        "name": "Cordelia",
+        "message": "See, I'm sure it's gotta be here, right？"
+    },
+    {
+        "message": "Cordelia looks around the room with a proud smile on her face."
+    },
+    {
+        "message": "It's true, it wouldn't be weird if anything was hiding here."
+    },
+    {
+        "message": "But when I checked this room before, there shouldn't have been anything like that."
+    },
+    {
+        "message": "Maybe I need to take a closer look."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Nn... this door won't open."
+    },
+    {
+        "message": "The door of the shelf lined with medicine bottles seems to have warped over time, and even when I try to force it open, it doesn't budge at all."
+    },
+    {
+        "name": "Jonathan",
+        "message": "It won't open."
+    },
+    {
+        "name": "Cordelia",
+        "message": "What should we do？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Well, whatever, let's try peeking inside through the glass."
+    },
+    {
+        "message": "　　　　　　　　I wonder if there's something‥‥‥‥"
+    },
+    {
+        "message": "I peeked inside the shelf."
+    },
+    {
+        "message": "I peeked inside through the gap in the bottle, but I couldn't see any book or anything like a key."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Looks like there's nothing inside the shelf."
+    },
+    {
+        "message": "　　　　　　　　Well, a key is such a small thing, if you wanted to hide it, you could probably hide it just about anywhere."
+    },
+    {
+        "name": "Cordelia",
+        "message": "That's not true, let me see it for a sec."
+    },
+    {
+        "message": "Cordelia shoved my body aside and peered into the shelf, practically pressing her face against the glass door."
+    },
+    {
+        "name": "Cordelia",
+        "message": "おかしいわね‥‥‥‥絶対ここだと思ったのに。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "There’s nothing but medicine bottles in here."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Can't be helped, let's check out the others too."
+    },
+    {
+        "message": "Dust has piled up on the books lined up on the shelf, making you hesitate to touch them."
+    },
+    {
+        "message": "I can't tell what the book is about just from the title on the spine, but judging from the state of this room, it's probably a book related to science experiments."
+    },
+    {
+        "name": "Cordelia",
+        "message": "How is it？"
+    },
+    {
+        "message": "　　　　　　　　There's a Necronomicon."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Nah, I don't see any books like that."
+    },
+    {
+        "message": "　　　　　　　　It looks like everything lined up here is related to science experiments."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Really？"
+    },
+    {
+        "message": "　　　　　　　　Take a good look, you're the only one who really knows what kind of book the Necronomicon is."
+    },
+    {
+        "message": "I let my eyes run over the books lined up on the shelf again."
+    },
+    {
+        "message": "Looks like the book I saw in my dream isn't here after all."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Looks like they're all from different books after all."
+    },
+    {
+        "name": "Cordelia",
+        "message": "There are so many books here, and not a single one is the same. What the heck."
+    },
+    {
+        "name": "Jonathan",
+        "message": "仕方がないだろう、どこにでも転がっているような物　　　　　　　　ではないんだから。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Do you have anywhere else in mind？"
+    },
+    {
+        "message": "　　　　　　　　If it's not in this room......"
+    },
+    {
+        "message": "Looks like the Dunwich family doesn't have any kind of appliances that use electricity at all."
+    },
+    {
+        "message": "This Lamp is also something that uses gas to provide light, and it seems to be one of the first things installed when gas lines were brought into ordinary homes."
+    },
+    {
+        "message": "確かに実験をするのに、蝋燭の明かりだけではあまりにも暗すぎるように思えるが、特にこのアーカムでは工事を請け負ってくれるような業者は少なかっただろう。"
+    },
+    {
+        "message": "Looks like a gas lamp."
+    },
+    {
+        "message": "It's super rare for an ordinary household to have something like this."
+    },
+    {
+        "message": "It was probably something someone who wasn't satisfied with just the weak light of candles set up, paying a hefty price for it."
+    },
+    {
+        "message": "A buret stuck in a glass bottle, a gas burner heating a flask, and so on are placed here."
+    },
+    {
+        "message": "Unlike now, glass test tubes and flasks were probably pretty expensive back then."
+    },
+    {
+        "message": "I'm impressed by all the equipment, but the Necronomicon itself doesn't seem to be anywhere."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Did you find it？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "いや、駄目だ‥‥‥‥何処にも見あたらない。"
+    },
+    {
+        "name": "Gardner",
+        "message": "It's really here, right？"
+    },
+    {
+        "message": "　　　　　　　　If there's really nothing here, then it's ridiculous to be crawling on all fours getting my clothes all dusty."
+    },
+    {
+        "name": "Cordelia",
+        "message": "It's nowhere to be found."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Ah............."
+    },
+    {
+        "name": "Thomas",
+        "message": "もう止めにしようぜ。"
+    },
+    {
+        "message": "　　　　　　There's no need to be so hung up on just this room."
+    },
+    {
+        "message": "There are all kinds of instruments lying around, and I have no idea what kind of experiments they're used for."
+    },
+    {
+        "message": "I don't know what kind of research the head of the Dunwich family was doing in this room, but I can't believe they'd spend this much money on something just for fun."
+    },
+    {
+        "message": "I glanced between the glass instruments shaped as intricately as candy art, searching to see if anything had fallen, but there was nothing that looked like a worthwhile find."
+    },
+    {
+        "message": "ネクロノミコンはもっと他の場所にあるのだろうか。"
+    },
+    {
+        "message": "At the very least, I don't see anything like that on the desk......"
+    },
+    {
+        "message": "I picked up the folded Parchment, brushed off the dust, and spread it out."
+    },
+    {
+        "message": "Even after many years, the tough leather still hasn't lost its elasticity or strength."
+    },
+    {
+        "message": "The parchment is covered in fluent writing, and while it is written in English, the phrasing is a bit different from what you'd hear nowadays."
+    },
+    {
+        "message": "『My honored and venerable older brother━━"
+    },
+    {
+        "message": "　まず、我らが帰依し奉る永遠の力に正しき敬意と祈りを捧げよう。』"
+    },
+    {
+        "message": "『あらかじめ結論を述べると小生には賢兄と行動を共にする所存はなく　昨今における我々のような人間に対する取り締まりの厳しさ鑑み、し　ばしの間居を移し隠遁の生活に身を窶す所存である。』"
+    },
+    {
+        "message": "『Luckily, I was able to get help from members of an organization called Tan Tavan, and considering the circumstances, I can only think of that as fortunate too.』"
+    },
+    {
+        "message": "『賢兄の得た新たな実験の場と、多くの被験者にはただ憧憬と羨望の念　を感じており、小生がこのような事態に陥ったからには、契約者たる　資格を有するのは賢兄のみである。』"
+    },
+    {
+        "message": "『As written in that handwritten book in your possession, thus, from the seed of the old, one who looks back upon the past is born without knowing what they themselves ought to do.』"
+    },
+    {
+        "message": "『If you believe those words, then I think any wish will eventually come true. After I'm gone, Naiarathotep will be your wise brother's advisor, just so you know.』"
+    },
+    {
+        "message": "『This man, though his true nature is unknown, will surely bring fortune to my wise brother. He has already departed for that land, and it seems he will arrive there in a few months.』"
+    },
+    {
+        "message": "The eternally unchanging loyal friend of the wise big brother"
+    },
+    {
+        "message": "　　　　　　　　　　Joseph C』"
+    },
+    {
+        "message": "It's a letter sent to someone in the Mansion by a person named Joseph C."
+    },
+    {
+        "message": "It's written in a pretty old-fashioned way, so it's tough to read."
+    },
+    {
+        "message": "I have no clue at all who 'wise brother' in the letter is supposed to be, but does 'a new place for experiments' mean this lab？"
+    },
+    {
+        "message": "What the heck are 'the seeds of the old ones' or 'those who look back on the past' supposed to mean?"
+    },
+    {
+        "message": "It's like I'm solving a crossword puzzle or something, and it's giving me a headache."
+    },
+    {
+        "message": "It felt like I saw a good example of how the ever-changing English language can turn into something totally incomprehensible if you go back just a hundred years."
+    },
+    {
+        "message": "　　Second floor hallway　　"
+    }
+]

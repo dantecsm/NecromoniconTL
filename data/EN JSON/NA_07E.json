@@ -1,0 +1,290 @@
+[
+    {
+        "message": "持っていくべき荷物は全て取り返した。"
+    },
+    {
+        "message": "I don't think Thomas and Cordelia would be in a place like this......"
+    },
+    {
+        "message": "Let's go check out the Dunwich mansion."
+    },
+    {
+        "message": "This key must be for that room that wouldn't open."
+    },
+    {
+        "message": "Looks like that monster is gone."
+    },
+    {
+        "message": "私は服を着替え、枕元にまとめてあった荷物を身につけた。"
+    },
+    {
+        "message": "Looks like they've seriously started thinking about killing us."
+    },
+    {
+        "message": "Thomas said that the 'Deep Ones' that attacked us are nothing more than food for the god Dagon."
+    },
+    {
+        "message": "It seems like the Pietro I saw in my dream said he was experimenting to increase the number of Deep Ones........"
+    },
+    {
+        "message": "The lady said that her husband, who had transformed into a Deep One, was just an ordinary human at first."
+    },
+    {
+        "message": "She said that people from this village end up like that when they get old."
+    },
+    {
+        "message": "The village gravekeeper said that people here almost never die; before their death, everyone just disappears somewhere."
+    },
+    {
+        "message": "I wonder if all the villagers turn into Deep Ones when they get old and return to the sea."
+    },
+    {
+        "message": "The women who were forcibly mated with Deep Ones in my dreams..."
+    },
+    {
+        "message": "The reason why everyone in the Dunwich clan had to be killed and then die themselves..."
+    },
+    {
+        "name": "Gardner",
+        "message": "Jonathan......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Professor, are you okay？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Yeah, I'm fine, but..."
+    },
+    {
+        "message": "　　　　　　　　It　looks　like　I　owe　you　an　apology.　I　never　imagined　such　a　monster　could　really　exist."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Nobody could believe something like that."
+    },
+    {
+        "name": "Gardner",
+        "message": "But, if only I had chased after Thomas back then..."
+    },
+    {
+        "name": "Gardner",
+        "message": "I didn't believe a word you or Thomas were saying, not at all. I thought you were just babbling nonsense."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Please, don't worry about that."
+    },
+    {
+        "message": "　　　　　　　　It doesn't really matter anymore now, does it?"
+    },
+    {
+        "name": "Gardner",
+        "message": "But, your Cordelia is already..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's okay, she must still be alive."
+    },
+    {
+        "message": "　　　　　　　　She has to be alive."
+    },
+    {
+        "name": "Gardner",
+        "message": "Well then, let's go look for her right away."
+    },
+    {
+        "message": "　　　　　　　　The sooner the better！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, before that, there's something we have to check."
+    },
+    {
+        "message": "　　　　　　　　We have to go to Dunwitch Mansion."
+    },
+    {
+        "name": "Gardner",
+        "message": "何を悠長な事を言っておるんだ！"
+    },
+    {
+        "message": "　　　　　　　　While we're doing this, Cordelia's life is..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "トマスはそう簡単にコーデリアを殺したりはしないは　　　　　　　　ずです。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "なぜならば、コーデリアはナイの言う『我が主』の為　　　　　　　　の大事な贄なんですから。"
+    },
+    {
+        "name": "Gardner",
+        "message": "But......"
+    },
+    {
+        "message": "　　　　　　　　I don't know if Thomas knows about that or not."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Anyway, I have to take care of that first......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "This is......my room, huh."
+    },
+    {
+        "message": "It seems Gardner brought me to my room while I was delirious."
+    },
+    {
+        "message": "I don't even remember how I changed my clothes or got into bed."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What's that sound？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Is someone there？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Professor？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No way......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "That guy..."
+    },
+    {
+        "message": "I jumped out of bed."
+    },
+    {
+        "message": "There's no time to change clothes, I've gotta get out of here fast..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's it, Thomas's gun！"
+    },
+    {
+        "message": "The door leading to Gardner's room was left unlocked."
+    },
+    {
+        "message": "I jump into the next room and lock the door."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Professor...... Professor, please wake up."
+    },
+    {
+        "name": "Jonathan",
+        "message": "If we don't hurry, that guy..."
+    },
+    {
+        "name": "Gardner",
+        "message": "What is it... What time is it now？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "We don't have time to be so laid-back."
+    },
+    {
+        "message": "　　　　　　　　He's already that close."
+    },
+    {
+        "name": "Gardner",
+        "message": "What are you talking about..."
+    },
+    {
+        "name": "Gardner",
+        "message": "What's that sound？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Did someone come by？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "What are you babbling about?"
+    },
+    {
+        "message": "　　　　　　　　There shouldn't be anyone at the Fish Scale Inn except for us！"
+    },
+    {
+        "name": "Gardner",
+        "message": "Then who........."
+    },
+    {
+        "name": "Jonathan",
+        "message": "早く、早く起きて下さい！"
+    },
+    {
+        "name": "Gardner",
+        "message": "That is......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Wake up, quick！"
+    },
+    {
+        "name": "Gardner",
+        "message": "Jonathan, what the hell is that?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "There's no time to explain."
+    },
+    {
+        "message": "　　　　　　　　Shit, is there anywhere I can run to......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "There's no choice but to jump out the window."
+    },
+    {
+        "name": "Gardner",
+        "message": "W-wait......"
+    },
+    {
+        "name": "Gardner",
+        "message": "I can't do it！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "We have no choice but to do it."
+    },
+    {
+        "message": "　　　　　　　　That guy is planning to kill us."
+    },
+    {
+        "name": "Gardner",
+        "message": "But........"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Do you wanna end up like Marsh?"
+    },
+    {
+        "name": "Gardner",
+        "message": "Wait......"
+    },
+    {
+        "name": "Gardner",
+        "message": "Are you really gonna jump from here？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "If you don't want to die, that's your only option！"
+    },
+    {
+        "name": "Gardner",
+        "message": "That's not something I could..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "さあ、行きますよ！"
+    }
+]

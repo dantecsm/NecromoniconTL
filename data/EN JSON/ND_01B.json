@@ -1,0 +1,134 @@
+[
+    {
+        "message": "The woman quickly pulled away from me and went back behind the Counter like nothing had happened."
+    },
+    {
+        "message": "The customers listened to what she said and, for now, sat down on the Stools, but there was still a chance they might impulsively attack us again at any moment."
+    },
+    {
+        "name": "Bartender",
+        "message": "Hey, you guys！"
+    },
+    {
+        "message": "The Bartender gulped back a scream the moment he saw us. Even from here, I could feel the villagers sitting at the Counter radiating an intense hatred so strong it could be called murderous intent."
+    },
+    {
+        "message": "We opened the pub door and went inside. The hinges needed oil, and the door was really heavy."
+    },
+    {
+        "message": "The room doesn't look as comfortable as I imagined."
+    },
+    {
+        "message": "Ｌ字型に曲がったカウンターに１０席ほどせの高いストゥールが並べてあり、他にはテーブル席がいくつか。現在は４人ほどの客がカウンターに陣取っているだけだ。"
+    },
+    {
+        "message": "Nothing stands out in particular. No famous artist reproductions, no photos of the owner laughing and shaking hands with celebrities, no vase with a single rose stuck in it—just the usual stuff you'd see at a rundown pub."
+    },
+    {
+        "message": "That kind of sterile vibe weirdly seems to fit this place."
+    },
+    {
+        "message": "It doesn't seem as comfortable as it looked."
+    },
+    {
+        "message": "Quite a few bottles are lined up on the built-in shelves behind the Counter, but none of them are really notable brands."
+    },
+    {
+        "message": "It's not much different from a back-alley tavern you’d find in the slums, selling cheap liquor to prostitutes and the lowest-level workers. It's the kind of place where rum comes out in pitchers meant for ale."
+    },
+    {
+        "message": "It's as tense as ever......"
+    },
+    {
+        "message": "It looks like it's better not to get too involved."
+    },
+    {
+        "message": "They've been staring intently at us ever since we came into the store."
+    },
+    {
+        "message": "In those eyes, you could see not curiosity toward an unfamiliar guest, but rather a nasty, baseless sense of hostility that could be called downright animosity."
+    },
+    {
+        "message": "The man chugs his mug of Ale while watching us, pointedly pretending he doesn't care. I didn't expect just the sight of strangers to get that much of a reaction."
+    },
+    {
+        "message": "He tries to act completely insensitive, but all that effort ends up being pointless."
+    },
+    {
+        "message": "I can tell at a glance that she's pretending it's a coincidence while watching our every move, and the blush on her cheeks gives away how tense she is."
+    },
+    {
+        "message": "Thinking about how the villagers overreacted when they heard the words 'Innsmouth look', it's smarter to listen to what the woman says. I just hope she doesn't accuse me of breaking the promise we made earlier..."
+    },
+    {
+        "message": "Just what sort of circumstances led him to end up in this Arkham? I felt a similar kind of doubt when I saw Mrs. Hudson of the Fish Scale Inn, but I can’t think of anyone who seems more out of place in Arkham than this bartender."
+    },
+    {
+        "message": "The woman in the bartender's uniform is watching us, the out-of-place intruders, looking uneasy."
+    },
+    {
+        "message": "どうやら東洋人らしいが、どこの国の生まれなのかは見当もつかない。もっとも、我々英国人にとってはどこの生まれでも大した違いはない。黄色人種は皆同じ顔に見えるのだから。"
+    },
+    {
+        "name": "Bartender",
+        "message": "I told you to go home, didn't I？"
+    },
+    {
+        "message": "　　　　　　　You guys, I won't be responsible for whatever happens to you！"
+    },
+    {
+        "name": "Bartender",
+        "message": "If you came from the cape, it must've been pretty cold, huh.　　　　　　　How about taking a seat at the Table by the Fireplace？"
+    },
+    {
+        "message": "It's a reasonable suggestion, but judging from the woman's attitude, I can't help but suspect it's an attempt to put some distance between our group and the villagers."
+    },
+    {
+        "name": "Thomas",
+        "message": "Good grief. Looks like I can finally get my hands on a decent drink.　　　　　　I'm not a kid, there's no way I'd be satisfied　　　　　　with warm milk or cocoa."
+    },
+    {
+        "name": "Bartender",
+        "message": "What’ll it be?"
+    },
+    {
+        "message": "The female voice is cold and mechanical."
+    },
+    {
+        "message": "Looks like we were really unwanted guests."
+    },
+    {
+        "name": "Thomas",
+        "message": "This pub is really barren, and it's kinda cold, too."
+    },
+    {
+        "message": "　　　　　　For now, I'll order something to warm me up."
+    },
+    {
+        "message": "Thomas doesn't seem to care about the bartender lady, let alone the customers with a hostile vibe. Having such unbelievably thick skin actually comes in handy at times like this."
+    },
+    {
+        "name": "Bartender",
+        "message": "Where are you folks from？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's London. I heard there's a rare ruins in this village, so I came here. I just went and saw it a moment ago."
+    },
+    {
+        "message": "Tension ran across the woman's face. Like with what happened earlier with the Old man at the Ruins, it looks like people here are extremely afraid of anything to do with the Ruins."
+    },
+    {
+        "name": "Bartender",
+        "message": "...Welcome."
+    },
+    {
+        "message": "　　　　　　　Please, come on in."
+    },
+    {
+        "message": "The female bartender's voice, despite her words, didn't seem to welcome our visit. She was oddly fidgety, nervously glancing at the villagers occupying the Counter."
+    },
+    {
+        "message": "　　Go outside　　"
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "message": "We're in front of the Gilman House, but......"
+    },
+    {
+        "message": "There's no way Thomas would be here, and even if I opened the Necronomicon in a place like this, it wouldn't mean anything."
+    },
+    {
+        "message": "I can't exactly go inside and soak in Cordelia's memories..."
+    },
+    {
+        "message": "Let's hurry to the Dunwitch Mansion."
+    },
+    {
+        "message": "In front of the Gilman House."
+    },
+    {
+        "message": "When I come here, I can't help but remember the awful memories from last night."
+    },
+    {
+        "message": "I can never forget that time when I went crazy with worry over Cordelia not being in the room."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan？"
+    },
+    {
+        "message": "Cordelia looks worried."
+    },
+    {
+        "message": "Looks like the fatigue has gotten to the point where they just can't take it anymore, and they're looking seriously worn out."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Sorry, but I don't have the energy to open the shop right now."
+    },
+    {
+        "message": "　　　　　　　　I'm sorry, please forgive me."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't mind."
+    },
+    {
+        "message": "　　　　　　　　I'm not really in the mood to just relax and chill at the pub either, so let's hurry on ahead."
+    },
+    {
+        "message": "In front of the Gilman House."
+    },
+    {
+        "message": "This street, which rarely sees people even at the best of times, is no exception now—there's absolutely no one moving about."
+    },
+    {
+        "message": "Ever since I rushed out of the shop last night and left it without even locking up, it doesn't look like anyone's broken in."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan, sorry, but I don't want to go into the shop.　　　　　　　　I feel like something bad might happen again‥‥‥‥"
+    },
+    {
+        "message": "Cordelia seems pretty on edge."
+    },
+    {
+        "message": "疲労の極に達して、立っているのも辛そうだというのに、この上店を開けさせるのも酷というものだろう。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Besides, I don't think we have time to be relaxing in a place like this."
+    },
+    {
+        "name": "Jonathan",
+        "message": "As long as you're okay with it, I don't mind at all."
+    },
+    {
+        "message": "　　　　　　　　Are　you　sure　you're　okay　not　taking　a　break？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "It's okay."
+    },
+    {
+        "message": "　　　　　　　　I'll get some proper sleep after we leave the village."
+    },
+    {
+        "message": "This is the street where Cordelia and I ran away together last night."
+    },
+    {
+        "message": "It's just a little over 2 miles from here to the plaza with the suspension bridge."
+    },
+    {
+        "message": "Even though Cordelia was with me, it should have only taken a little over ten minutes. And yet, the suspension bridge had already been cut down."
+    },
+    {
+        "message": "Someone is keeping watch in front of Gilman House, so even if we went to destroy the bridge after leaving the store, there's no way we'd make it in time."
+    },
+    {
+        "message": "Did Nai know in advance that Cordelia and I would try to escape last night?"
+    },
+    {
+        "message": "Yesterday's rain has collected in the dips of the paved road and frozen over from the cold."
+    },
+    {
+        "message": "On a rough road like this, it's almost impossible to actually run properly."
+    },
+    {
+        "message": "Is even the weather trying to get in our way......"
+    },
+    {
+        "message": "With the bridge destroyed, the railroad bridge already guarded, and the roads in bad shape, it looks like escaping by sea is our only option."
+    },
+    {
+        "message": "I can't believe I managed to run the shop alone all this time."
+    },
+    {
+        "message": "I guess that means Cordelia was really important to the villagers, but still, kidnapping a little girl and raising her for over ten years…"
+    },
+    {
+        "message": "It's a mind-blowing story, and no matter how you look at it, it's definitely not normal."
+    },
+    {
+        "message": "Why did Nai need Cordelia so much?"
+    },
+    {
+        "message": "It's an old brick pub."
+    },
+    {
+        "message": "It’s just like the kind of pub you often see along roads heading out to the London suburbs—a place that serves beer and light meals, nothing you’d call fancy."
+    },
+    {
+        "message": "I'll probably never open this shop again, but when I think about how Cordelia poured most of her precious teenage years into it, it just feels like a huge waste to give it up so easily."
+    },
+    {
+        "message": "The shop's name is written in plain Gothic letters."
+    },
+    {
+        "message": "Judging from how the paint is bubbling up because of the rust, it’s probably been left alone for over ten years."
+    },
+    {
+        "message": "昨晩私とコーデリアが逃げ出した時以来開いたままになっている。"
+    },
+    {
+        "message": "At this point, I couldn't care less if the inside of the shop gets trashed, but I doubt any of the villagers would do something like that."
+    },
+    {
+        "message": "After all, Cordelia is a valuable sacrifice for the villagers, and somehow, with them blindly worshipping Nai, I can't imagine they'd break the rules."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan？"
+    },
+    {
+        "message": "Cordelia looks worried."
+    },
+    {
+        "message": "She seems to be at her limit with exhaustion, looking totally worn out."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Sorry, but I just don't have the energy to open the shop right now."
+    },
+    {
+        "message": "　　　　　　　　I'm sorry, please forgive me."
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's okay."
+    },
+    {
+        "message": "　　　　　　　　I'm not really in the mood to relax and hang out in the pub either, so let's just get going."
+    },
+    {
+        "message": "It's been left open ever since Cordelia and I escaped last night."
+    },
+    {
+        "message": "At this point, I couldn't care less if the inside of the shop gets trashed, but I doubt any of the villagers would do something like that."
+    },
+    {
+        "message": "Did Thomas kidnap Cordelia because Nai ordered him to? The way he acted in the director's office at the archives, like he'd lost his mind, gave off the vibe that he felt cornered, with everyone around him as his enemy."
+    },
+    {
+        "message": "If Thomas did it on his own, I doubt Nai or Dagon's followers would let it slide."
+    },
+    {
+        "message": "　　　Map　　　"
+    }
+]

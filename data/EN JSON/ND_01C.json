@@ -1,0 +1,441 @@
+[
+    {
+        "message": "We settled into a table seat in a secluded spot at the back of the shop, as if to avoid the hostile stares of the villagers. Even though the fireplace was piled high with firewood and blazing bright red, an indescribable chill drifted through the place."
+    },
+    {
+        "message": "Probably part of the reason is the baseless hostile stares from the villagers stationed at the Counter."
+    },
+    {
+        "message": "While I was lost in those thoughts, before long the woman brought drinks over to our Table."
+    },
+    {
+        "name": "Bartender",
+        "message": "Sorry to keep you waiting."
+    },
+    {
+        "message": "　　　　　　　Is this your order, alright？"
+    },
+    {
+        "message": "Thomas, turning toward the voice as if he'd been waiting for it, noticed the woman's attractive features that he hadn't recognized before when she was hidden away in the dim store, especially at the back of the Counter."
+    },
+    {
+        "name": "Thomas",
+        "message": "Well, well... I didn’t notice because your hair was tied up, but you’re quite the cute young lady."
+    },
+    {
+        "message": "Thomas grinned lewdly with a sleazy smile, eyeing the bartender up and down from head to toe as if sizing him up."
+    },
+    {
+        "message": "From here, the villager sitting at the counter isn’t in view."
+    },
+    {
+        "message": "The walls, smoked for ages by the Fireplace and tobacco smoke, have turned black and feel steeped in history. I have no clue what time it is, but the view from the window is as always, blurry, with the details melting away under the dull, overcast sky."
+    },
+    {
+        "message": "I don't know when it was built, but it has a calm vibe that feels almost too out of place for a rundown fishing village like this."
+    },
+    {
+        "message": "I don't know what era it was built in, but it's definitely been around since before the Bartender woman was born. But it doesn't seem like there's any other owner-looking person around, either. Maybe this woman is the owner of Gilman House."
+    },
+    {
+        "message": "Thomas doesn't seem flustered at all by the villagers' angry mood."
+    },
+    {
+        "message": "Maybe he's just really thick-skinned, or maybe he's used to this kind of thing..."
+    },
+    {
+        "message": "What kind of job does this guy have, and what kind of life does he live？ Thomas won't tell me himself, so there's no way for me to know, but it seems like he's got a shady side to him..."
+    },
+    {
+        "message": "He kept yelling about booze, booze, booze until we got to the Gilman House, but the moment he saw that exotic, Orient-style beauty of a bartender, his interest totally shifted toward her."
+    },
+    {
+        "message": "Thomas doesn't seem interested at all in the shop's interior or the gloomy customers."
+    },
+    {
+        "message": "今も酒を運んで来たバーテンの、ベストの下の豊満な肉体を想像して、ヤニ下がりの卑猥な表情を浮かべている。"
+    },
+    {
+        "message": "Saying she's honest with herself or has a free-spirited personality may sound nice, but between her behavior at meals at the Fish Scale Inn and the lecherous vibe she's giving off now, she's basically just like the privileged elite from the days when they flaunted their prosperity."
+    },
+    {
+        "message": "Gardner seems to feel both fear and suspicion toward the villagers' strange reactions. Can't blame him. Who could have predicted that a phrase I muttered half to myself, 'Innsmouth face,' would have such an effect？"
+    },
+    {
+        "message": "But for now, his interest is focused on that old man."
+    },
+    {
+        "message": "She pokes my elbow and gives me a scary look, like she's saying, 'You better not mess this up or else.'"
+    },
+    {
+        "message": "Looks like I’ve come up with a way to break through this dead-end situation."
+    },
+    {
+        "message": "Eyes that were once sunken and lifeless are now shining with a blazing light. Maybe that's the kind of obsession you only see in scholars..."
+    },
+    {
+        "message": "Gardner's eyes aren't so much watching the scenery around him as they are drifting unconsciously, lost in deep thought. He's probably thinking about that old man he met at the ruins."
+    },
+    {
+        "message": "Gardner, who plopped down heavily into the chair, had an expression filled with the relief of finally being able to take a breather."
+    },
+    {
+        "message": "Earlier, he didn’t show any signs of it at all, but I guess being out on that cape with the cold wind blowing hit him hard. Not getting the important testimony about the ruins that we thought the Old man had really seemed to shock him too."
+    },
+    {
+        "message": "From the woman's expression, I can clearly see signs of panic and blame directed at me."
+    },
+    {
+        "message": "They're probably hoping that a crazy brawl that would wreck the store doesn't break out."
+    },
+    {
+        "message": "Looks like they really don't want to get involved with us."
+    },
+    {
+        "message": "Are they acting like this just because we're outsiders?"
+    },
+    {
+        "message": "He clearly looks like an Oriental, but his mannerisms are completely British."
+    },
+    {
+        "message": "He doesn't look like he's had a high level of education, but it seems he's got enough sense to carefully judge the situation at hand."
+    },
+    {
+        "message": "Her lightly made-up face doesn’t really give off a 『tavern girl’ vibe, and while she deals in alcohol, it doesn’t seem like she’s selling her own body. Even though her arms and legs are slender, her figure is curvy enough that if she felt like it, there’s no doubt she could sell herself as well."
+    },
+    {
+        "message": "Thomas doesn't seem to notice me at all, and he whispers something into the woman's ear."
+    },
+    {
+        "name": "Thomas",
+        "message": "What time does this place close？"
+    },
+    {
+        "name": "Bartender",
+        "message": "That's none of your business！"
+    },
+    {
+        "name": "Thomas",
+        "message": "Don't say something so cold."
+    },
+    {
+        "message": "　　　　　　Hey, how about doing something nice with me tonight？"
+    },
+    {
+        "name": "Thomas",
+        "message": "Booze is nice and all...but this lady's got a pretty cute face, don't you think? How about it, Jonathan? Isn't this your type?"
+    },
+    {
+        "message": "Thomas lowered his voice as he said that. But there was no way the Bartender right next to them couldn't hear their conversation. The woman frowned and looked at Thomas with a scornful gaze."
+    },
+    {
+        "name": "Thomas",
+        "message": "Don't make such a scary face."
+    },
+    {
+        "message": "　　　　　　Even so, I'm a gentleman, you know. It's not like I'm gonna catch you and eat you or anything."
+    },
+    {
+        "name": "Gardner",
+        "message": "I'm counting on you, Jonathan！"
+    },
+    {
+        "message": "　　　　　　　　You're the only one who can find out where that old man is."
+    },
+    {
+        "name": "Gardner",
+        "message": "Here we go again."
+    },
+    {
+        "message": "　　　　　　　　The　people　living　here　really　don't　seem　to　like　us　learning　about　themselves　or　their　land,　huh！"
+    },
+    {
+        "message": "After Gardner spat out his words, he suddenly lowered his voice and whispered into my ear."
+    },
+    {
+        "name": "Gardner",
+        "message": "Jonathan... At this point, we have no choice but to rely on your power."
+    },
+    {
+        "message": "　　　　　　　　Somehow, make her spill the beans."
+    },
+    {
+        "name": "Jonathan",
+        "message": "No way, what am I supposed to do！"
+    },
+    {
+        "name": "Gardner",
+        "message": "You're too loud！"
+    },
+    {
+        "message": "　　　　　　　　What, isn't it a simple thing? She's a young woman, and you're a gentleman who came from　　　　　　　　London."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What do you mean？"
+    },
+    {
+        "name": "Gardner",
+        "message": "I wish I were 20 years younger..."
+    },
+    {
+        "name": "Gardner",
+        "message": "First off, the best thing to do is just ask someone."
+    },
+    {
+        "message": "　　　　　　　　Jonathan. Hey, go ask that bartender."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why me? Wouldn't it be better if the professor just asked himself?"
+    },
+    {
+        "name": "Gardner",
+        "message": "There are women out there who actually like withered old men like me, but that's definitely a minority. Most ladies in the world prefer someone young and good-looking."
+    },
+    {
+        "message": "Even though I couldn't quite accept that, I coolly tried to make it clear to the bartender that I didn’t have any ulterior motives as I spoke."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Excuse me, can I ask you something..."
+    },
+    {
+        "name": "Bartender",
+        "message": "Yes？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Actually, I want to know who the old man we met at the ruins on the cape really is. We're not from around here, you see."
+    },
+    {
+        "name": "Bartender",
+        "message": "I wonder who you're talking about..."
+    },
+    {
+        "message": "　　　　　　　If there's something distinctive, I think I might be able to figure it out."
+    },
+    {
+        "message": "That said, the Bartender doesn't seem too enthusiastic. I frowned, trying to recall the features of the old man I met at the ruins."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Even if you ask about characteristics... everyone here is either a fisherman or a sailor, so pretty much everyone wears the same stuff..."
+    },
+    {
+        "name": "Bartender",
+        "message": "Just calling him 'old man' is a bit..."
+    },
+    {
+        "message": "　　　　　　　Did they say anything special, or did it look like their leg was hurt or something　　　　　　　Was there anything like that？"
+    },
+    {
+        "message": "Gardner has been deep in thought ever since he sat down at the table."
+    },
+    {
+        "message": "I'm left wondering how I should talk to her."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Professor, your drink has arrived."
+    },
+    {
+        "message": "I casually said, making sure not to give any hint that I was trying to figure out what Gardner was thinking."
+    },
+    {
+        "name": "Gardner",
+        "message": "ん‥‥‥ああ、ありがとう。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "What's wrong? You've seemed down for a while now. If you're tired, shouldn't we just head back to the Fish Scale Inn right away?"
+    },
+    {
+        "name": "Gardner",
+        "message": "何を言っとる、これしきの事で疲労を感じるほど老い　　　　　　　　てはおらんよ。ただ‥‥‥どうしても気になって仕方　　　　　　　　がないのだ。遺跡で出会ったあの‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Are you talking about that old man?"
+    },
+    {
+        "message": "　　　　　　　　あまり気にしない方がいいのでは？　トマスが言った　　　　　　　　とおり、少し頭のボケた不幸な人だったんですよ。"
+    },
+    {
+        "message": "ガードナーは私の考えをきっぱりと否定するように、テーブルを拳で叩いてから顔を上げた。"
+    },
+    {
+        "name": "Gardner",
+        "message": "馬鹿な事を言ってはいかん。あの老人の頭ははっきり　　　　　　　　していたさ。君の顔を見ながら口走った言葉、あれは　　　　　　　　遺跡に奉られていた神を崇める文句に違いない。"
+    },
+    {
+        "name": "Gardner",
+        "message": "It's not some story made up by an old man, and it's not the ramblings of a lunatic either."
+    },
+    {
+        "message": "　　　　　　　　Those words, although different from ours, are clearly an organized 'language'！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Is it possible it's some dialect, or maybe a foreign language？ That old man looked like a retired sailor to me. Maybe he picked it up in some country somewhere."
+    },
+    {
+        "name": "Gardner",
+        "message": "I can't deny that......"
+    },
+    {
+        "message": "　　　　　　　　Even so, don't you think the story is a bit too good to be true? It's the mysterious words spoken at the ruins."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I really can't say."
+    },
+    {
+        "name": "Gardner",
+        "message": "That old man, seemed to have mistaken you for someone else, Jonathan."
+    },
+    {
+        "message": "　　　　　　　　Jonathan, isn't there anything that comes to mind？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Sorry, but no. Honestly, I wanted to ask the old man about it myself. But, he just wouldn't talk. He even looked scared."
+    },
+    {
+        "name": "Gardner",
+        "message": "If only we could figure out who he is and where he lives..."
+    },
+    {
+        "message": "　　　　　　　　Yeah. We absolutely have to find him."
+    },
+    {
+        "name": "Bartender",
+        "message": "What are you doing? Hurry up and go home！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "But... what did I do wrong？"
+    },
+    {
+        "name": "Bartender",
+        "message": "Geez... you're such a handful！"
+    },
+    {
+        "message": "The woman leaned forward, bringing her face close to my ear."
+    },
+    {
+        "message": "Her silky, fine skin that white women don't have was right in front of me, with a faint scent of her makeup wafting over."
+    },
+    {
+        "message": "The soft swell of her ample chest hidden under her vest just barely brushed my shoulder, and a stray lock of her hair tickled my cheek."
+    },
+    {
+        "name": "Bartender",
+        "message": "I can't talk about this here right now！"
+    },
+    {
+        "message": "　　　　　　　Come back again when it's night."
+    },
+    {
+        "message": "The woman murmurs in a voice so small it's barely audible. The warm breath on my ear feels pleasant."
+    },
+    {
+        "name": "Bartender",
+        "message": "Hey, are you listening？"
+    },
+    {
+        "message": "I snapped back to myself at the irritated female voice."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Got it. What time works for you？"
+    },
+    {
+        "name": "Bartender",
+        "message": "If it's after midnight, the bar will be closed."
+    },
+    {
+        "message": "　　　　　　　Listen, make sure no one sees you."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Got it."
+    },
+    {
+        "name": "Jonathan",
+        "message": "He looked pretty old, but his legs were steady.　　　　　　　　Can't really say the same for his head, though.　　　　　　　　Yeah... he looked at me and started blurting something out."
+    },
+    {
+        "name": "Bartender",
+        "message": "Maybe you just mistook me for your grandchild."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You looked at my face and said it reminded you of something."
+    },
+    {
+        "message": "　　　　　　　　Yeah, they say I』ve got an 'Innsmouth face.'"
+    },
+    {
+        "name": "Bartender",
+        "message": "Shh！ You can't use words like that！"
+    },
+    {
+        "message": "The bartender got terribly flustered and tried to deny what I said."
+    },
+    {
+        "message": "But, it looks like I was just a little bit too late."
+    },
+    {
+        "message": "The sound of a glass being slammed onto the counter. A man stood up as if kicking the floor, and his figure burst into my view."
+    },
+    {
+        "name": "Bartender",
+        "message": "Stop it. Please, don't do anything rough！"
+    },
+    {
+        "message": "The Bartender desperately tries to calm the men down."
+    },
+    {
+        "message": "What the hell just happened? Like the word 'Innsmouth face' set them off, the guys at the Counter suddenly come at us."
+    },
+    {
+        "name": "Customer",
+        "message": "Koty, get out of there！"
+    },
+    {
+        "message": "　　　　Damn outsiders, always sneaking around sticking your noses where they don't belong！"
+    },
+    {
+        "name": "Customer",
+        "message": "You're a damn annoying punk, always skulking around！"
+    },
+    {
+        "message": "　　　　I'll kick you out of the village."
+    },
+    {
+        "name": "Bartender",
+        "message": "W-wait a sec！"
+    },
+    {
+        "message": "　　　　　　　Don't go making a mess in the shop, okay?"
+    },
+    {
+        "name": "Thomas",
+        "message": "Heh, this is gettin' kinda interesting. You fishy-smelling country folks, I'll take you all on anytime."
+    },
+    {
+        "name": "Bartender",
+        "message": "Wait, hang on."
+    },
+    {
+        "message": "　　　　　　　Hey, you guys, you'd better just go home. I'll handle things here somehow！"
+    },
+    {
+        "name": "Thomas",
+        "message": "Hey！ It’s not very gentlemanly to butt in from the side."
+    },
+    {
+        "message": "　　　　　　I’m the one talking right now, so I’d appreciate it if you didn’t get in the way！"
+    }
+]

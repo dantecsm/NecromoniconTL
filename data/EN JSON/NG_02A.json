@@ -1,0 +1,421 @@
+[
+    {
+        "message": "I met up with Cordelia, who had refused to enter the Church and waited outside."
+    },
+    {
+        "message": "Cordelia seemed to feel bad for not coming in with us, and looked uneasy."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Welcome back, how was it？"
+    },
+    {
+        "name": "Thomas",
+        "message": "Not much to say about it."
+    },
+    {
+        "message": "　　　　　　Churches　are　the　same　everywhere,　you　know."
+    },
+    {
+        "name": "Thomas",
+        "message": "On top of that, there’s absolutely nothing here."
+    },
+    {
+        "message": "　　　　　　No need to worry about thieves breaking into this Church, that's for sure."
+    },
+    {
+        "message": "We came to the Church of Dagon."
+    },
+    {
+        "message": "As usual, not a single believer is anywhere to be seen."
+    },
+    {
+        "message": "We're in front of the Church of Dagon."
+    },
+    {
+        "message": "It's not as scary as when I saw it in the dead of night, but still, it doesn't feel anything like a church."
+    },
+    {
+        "message": "With how creepy it looks, I doubt any painter would even want to pick up a brush."
+    },
+    {
+        "message": "Towering trees stand as if reaching up to the heavily overcast sky."
+    },
+    {
+        "message": "All the trees—firs and beeches alike—have been twisted in weird ways by the strong wind, casting an unpleasant shadow over the landscape that looks like something out of a painting."
+    },
+    {
+        "message": "With how creepy this scene is, no painter would want to pick up their brush."
+    },
+    {
+        "message": "It looks like a pretty old building, but it’s not exactly some valuable piece of architecture."
+    },
+    {
+        "message": "そんな事より、建物のもつ雰囲気はある種の険悪な感情を呼び起こす。教会が持っている壮麗な印象などみじんも感じられない。"
+    },
+    {
+        "message": "The man said something about the 'Dagon Cult', but I've never heard of such a group. It's probably just another shady new religion, but I can't understand why they'd set up their base in a countryside like this."
+    },
+    {
+        "message": "I wonder what this building is being used for."
+    },
+    {
+        "message": "The man who called himself Nai clearly said 'my Church,' but it seems to me that it has a different vibe from the Church I'm used to."
+    },
+    {
+        "message": "何よりまず奇異な所は、この建物には十字架をはじめとする教会につきものの装飾が一切施されていないところだ。"
+    },
+    {
+        "name": "Thomas",
+        "message": "Isn't there anywhere a bit more interesting?"
+    },
+    {
+        "message": "　　　　　　This way, it ain't even sightseeing."
+    },
+    {
+        "name": "Thomas",
+        "message": "なんでぇ、人の事を変な目で見やがって。"
+    },
+    {
+        "message": "　　　　　　Do you really think I'd go for the donation box in a dumpy Church like this？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I didn't say anything, did I?"
+    },
+    {
+        "message": "　　　　　　　　Why are you getting so uptight about it？"
+    },
+    {
+        "name": "Thomas",
+        "message": "You think I'm being neurotic？"
+    },
+    {
+        "message": "　　　　　　No fucking way."
+    },
+    {
+        "name": "Jonathan",
+        "message": "ならいいがね。"
+    },
+    {
+        "message": "　　　　　　　　If you've got something shady going on, I'd be happier if you came clean about it sooner rather than later."
+    },
+    {
+        "name": "Thomas",
+        "message": "Don't talk like some damn preacher."
+    },
+    {
+        "message": "　　　　　　説教くせえ奴は大嫌いだぜ。"
+    },
+    {
+        "message": "ガードナーには口止めされているが‥‥‥‥"
+    },
+    {
+        "message": "トマスとこの教会にどんな関係があるのだろうか。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "トマス、見てみろよ。"
+    },
+    {
+        "message": "　　　　　　　　There's some kind of ornament on top of the crest, it might be something pretty fancy."
+    },
+    {
+        "name": "Thomas",
+        "message": "どれだい？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Look closely, there's a stone relief on display."
+    },
+    {
+        "message": "　　　　　　　　Isn't this thing pretty old？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Jonathan！"
+    },
+    {
+        "name": "Thomas",
+        "message": "What the hell... Something like that, it's not worth anything."
+    },
+    {
+        "message": "　　　　　　First off, it's fixed on so tight, I don't think I can take it off."
+    },
+    {
+        "message": "Doesn't change their expression at all."
+    },
+    {
+        "message": "Is this guy really cunning, or is he just plain dense......"
+    },
+    {
+        "name": "Thomas",
+        "message": "What a damn gloomy Church."
+    },
+    {
+        "message": "　　　　　　It might suit a village like this, though."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I can't believe this is just a church......"
+    },
+    {
+        "message": "　　　　　　　　First off, there isn’t even a Cross standing in this Church."
+    },
+    {
+        "name": "Thomas",
+        "message": "Isn't that just the pastor's hobby？"
+    },
+    {
+        "message": "　　　　　　Isn't it fine if there's at least one dude like that around?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No way......"
+    },
+    {
+        "message": "　　　　　　　　Besides,　I've　never　even　heard　of　a　Black　priest."
+    },
+    {
+        "name": "Thomas",
+        "message": "Apparently, they've got those in America."
+    },
+    {
+        "message": "　　　　　　Sounds like a joke, though."
+    },
+    {
+        "name": "Jonathan",
+        "message": "This is England, you know."
+    },
+    {
+        "message": "　　　　　　　　The Church of England isn't that flexible."
+    },
+    {
+        "name": "Thomas",
+        "message": "Exactly right."
+    },
+    {
+        "message": "　　　　　　Trying to understand a king who faked adultery to divorce his wife and had her executed, just for that reason."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I feel like you might even be able to talk the cardinal into allowing polygamy."
+    },
+    {
+        "message": "Like Gardner said, it'd be better to keep quiet about us being suspicious of Thomas."
+    },
+    {
+        "name": "Gardner",
+        "message": "Anyway, it's best not to let your guard down around Thomas."
+    },
+    {
+        "message": "　　　　　　　　Jonathan, don't take your eyes off that man."
+    },
+    {
+        "name": "Gardner",
+        "message": "Jonathan, take a good look at the crest above the church door. You've seen that before, haven't you！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Which one？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Look closely！"
+    },
+    {
+        "message": "I looked in the direction Gardner nodded with his chin."
+    },
+    {
+        "message": "What was there was......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "That is......"
+    },
+    {
+        "name": "Gardner",
+        "message": "You recognize that crest, don't you？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's the same one that was on Thomas's ring！"
+    },
+    {
+        "name": "Gardner",
+        "message": "That's the Freemason's mark."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why would you come to a church..."
+    },
+    {
+        "message": "　　　　　　　　Does　Thomas　have　something　to　do　with　this　church　and　that　Black　priest　named　Nai　I　met？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Even if that were the case, I wouldn't think it's strange！"
+    },
+    {
+        "message": "　　　　　　　　No, Jonathan, hold back. We don't have to interrogate that man right now."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why is that？"
+    },
+    {
+        "message": "　　　　　　　　This is your chance to find out who Thomas really is."
+    },
+    {
+        "name": "Gardner",
+        "message": "I don't think that guy would ever spill the truth."
+    },
+    {
+        "message": "　　　　　　　　More importantly, isn't it smarter to let them think we don't know anything？"
+    },
+    {
+        "message": "Come to think of it......"
+    },
+    {
+        "message": "When I came here before, there was a crest above the entrance of the Church."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Professor,　don't　you　recognize　the　crest　above　that　entrance？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Which one is it."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Hey, look, over there......"
+    },
+    {
+        "name": "Gardner",
+        "message": "Ah......"
+    },
+    {
+        "message": "　　　　　　　　Hold on a second, I feel like I've seen this somewhere before..."
+    },
+    {
+        "name": "Gardner",
+        "message": "That was......"
+    },
+    {
+        "name": "Gardner",
+        "message": "Jonathan, that's the mark of the Freemason！"
+    },
+    {
+        "message": "　　　　　　　　You saw it too, right? The same crest was on Thomas's Ring."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I see, so that's what it was."
+    },
+    {
+        "message": "　　　　　　　　I've been weirdly curious about it since I saw it before."
+    },
+    {
+        "name": "Gardner",
+        "message": "But why the hell is that emblem hanging in the Church, anyway?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Is there some kind of connection between this church, that black priest named Nai, and Thomas？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Even if that were true, I wouldn’t find it strange！"
+    },
+    {
+        "message": "　　　　　　　　No, Jonasan, hold it. You don't have to press that guy right now."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why is that？"
+    },
+    {
+        "message": "　　　　　　　　This is your chance to find out who Thomas really is."
+    },
+    {
+        "name": "Gardner",
+        "message": "I can't believe that guy would actually spill the truth."
+    },
+    {
+        "message": "　　　　　　　　But wouldn't it be smarter to let them think we don't know anything？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "ジョナサン、悪いんだけど‥‥‥あなた達が中に入る　　　　　　　　つもりならここで待っていていいかしら？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't really mind."
+    },
+    {
+        "message": "　　　　　　　　Alright, then let's just go by ourselves."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Me......"
+    },
+    {
+        "message": "　　　　　　　　Somehow, being here makes me feel really uneasy."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What's wrong with you? This isn't like you."
+    },
+    {
+        "message": "　　　　　　　　If you stick with us, you won't have a thing to worry about."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Yeah...... It's strange, even to me."
+    },
+    {
+        "message": "　　　　　　　　It's not my first time coming here, and usually it's nothing at all　　　　　　　　so yeah."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Maybe you had a bad experience before, and it's making you feel afraid without even realizing it."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I don't remember anything like that though......"
+    },
+    {
+        "message": "　　　　　　　　I don't know why, but my body just won't stop shaking."
+    },
+    {
+        "message": "Fish Scale Inn"
+    },
+    {
+        "message": "　　　Plaza　　　"
+    },
+    {
+        "message": "General store"
+    },
+    {
+        "message": "　　　Ruins　　　"
+    },
+    {
+        "message": "Gilman House"
+    },
+    {
+        "message": "Port"
+    },
+    {
+        "message": "Archives"
+    },
+    {
+        "message": "　　Go inside　　"
+    },
+    {
+        "message": "　　　Map　　　"
+    },
+    {
+        "message": "　　Go inside　　"
+    }
+]

@@ -1,0 +1,269 @@
+[
+    {
+        "message": "This is in front of the once-glorious Miskatonic University."
+    },
+    {
+        "message": "Now it’s an archives that tells the village’s history, but barely any villagers come here, and this massive building is pretty much as meaningless as a gravestone."
+    },
+    {
+        "message": "夜になるとその不気味さはさらに凄味を増し、かつてこの大学で異彩を放っていた狂人と言われた学者の怪しげな研究の内容を想像せずにはいられない。"
+    },
+    {
+        "message": "This is in front of what was once Miskatonic University, now the Arkham Archives."
+    },
+    {
+        "message": "The building, designed in imitation of a famous museum still standing in Oxford, seems far too out of place in this village, which feels abandoned not just by time but by everything else too."
+    },
+    {
+        "message": "哀れなことに現在ではその荘厳な建築物を称える聴衆さえなく、建物はただ朽ち果てるのを待つばかりだ。"
+    },
+    {
+        "message": "As if to add to the gloomy, damp mood of Arkham, the thick clouds show no sign of clearing up."
+    },
+    {
+        "message": "This is probably the most unfit land for humans to live on in all of Great Britain."
+    },
+    {
+        "message": "How many times in a whole year do the villagers living here even get to see the sun? Or maybe this weird weather is actually our fault—like, because we’re the out-of-place intruders who barged into Arkham."
+    },
+    {
+        "message": "The sky beyond the towering brick buildings is still buried under thick clouds, almost like they’re about to crush the old, worn-out structures."
+    },
+    {
+        "message": "In Arkham, where most of the houses are at most only two stories high, this Archives building is the only high-rise structure—it looks just like the sole pillar holding up the sky."
+    },
+    {
+        "message": "Given a lonely and noble life, how much longer will this brick building be able to fulfill its purpose?"
+    },
+    {
+        "message": "The sharply pointed roof is reminiscent of the Church's bell tower."
+    },
+    {
+        "message": "In any case, it just seems way too unnatural for a university building..."
+    },
+    {
+        "message": "What was Philip Dunwich seeking when he built Miskatonic University here?"
+    },
+    {
+        "message": "The only reason a university was built in such a remote village is probably thanks to the power of the money Philip Dunwich brought in."
+    },
+    {
+        "message": "Dollie Dunwich ended up becoming the very last president of the university that his father had built with his own power."
+    },
+    {
+        "message": "Maybe that too was a heavy burden for Dollie."
+    },
+    {
+        "message": "When his father went missing and their savings ran out, the village's finances started to decline rapidly."
+    },
+    {
+        "message": "People who'd been interested in Arkham gradually began to leave the village......"
+    },
+    {
+        "message": "I'm sure the villagers probably saw Dollie, the last head of the Dunwich family who supported the village, as their enemy."
+    },
+    {
+        "message": "It must've once boasted an imposing presence, but with bits of slate peeling off here and there, there's not a trace of that dignity left."
+    },
+    {
+        "message": "It was probably built to imitate Oxford's University Museum, where my alma mater is, with its steep roof and skylight windows that remind me of back there."
+    },
+    {
+        "message": "Philip Dunwich, the founder of the university, maybe wanted to turn Arkham into a town like Oxford with gothic spires rising everywhere."
+    },
+    {
+        "message": "If that's the case, then he wasn't the kind of gold-digger I thought he was."
+    },
+    {
+        "message": "Can't you just picture a decent guy who, like a feudal lord from way back, wishes for his own land to prosper?"
+    },
+    {
+        "message": "Even though it's way past midnight, the door to the Archives is left wide open."
+    },
+    {
+        "message": "There's pretty much no protection against theft, but the fact that nothing bad has ever happened just proves how much the people of Arkham have forgotten the Archives even exist."
+    },
+    {
+        "message": "The entrance door is still wide open, but maybe they just assume no one would try to sneak in this late at night, since even during the day nobody comes by."
+    },
+    {
+        "message": "Honestly, I can't imagine there's anything here worth stealing, and if there was, it would've been taken ages ago."
+    },
+    {
+        "message": "There's no point rummaging through those massive shelves all by myself......"
+    },
+    {
+        "message": "Maybe I should just come back again tomorrow or something."
+    },
+    {
+        "message": "When I duck through the door that's been left open, it looks like there's a lawn inside, like a little garden."
+    },
+    {
+        "message": "Just imagining from the outside of the building, it's not hard to picture how rundown the garden must be now."
+    },
+    {
+        "message": "If you slip through the big gates, you're inside where there used to be a courtyard. It must've once had a cloister going all the way around, probably a place where students chilled out, but now there's no sign of those days left at all."
+    },
+    {
+        "message": "Even now, only a small section of the huge school building is still usable, while the rest has been left to completely decay."
+    },
+    {
+        "message": "If Philip Dunwich saw this scene, he might be furious at how pathetic it looks, but he's the reason it turned out this way."
+    },
+    {
+        "message": "They were probably afraid of having their wealth snatched away, but the only one who knew how to get the money was Philip, and after he went missing, no one could stop Arkham's decline."
+    },
+    {
+        "name": "Thomas",
+        "message": "Come to my room tonight, alright?"
+    },
+    {
+        "message": "　　　　　　If　you're　late,　I'll　leave　you　behind."
+    },
+    {
+        "name": "Thomas",
+        "message": "Hey, you remember that story, right？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "『That story'? What's that?"
+    },
+    {
+        "message": "　　　　　　　　What are you talking about."
+    },
+    {
+        "name": "Thomas",
+        "message": "Obviously, I'm talking about tonight."
+    },
+    {
+        "message": "　　　　　　I'm only taking you because you kept bugging me, you know."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Ah, that so-called nice place or whatever."
+    },
+    {
+        "message": "　　　　　　　　I'd be in trouble if it takes too long though..."
+    },
+    {
+        "name": "Thomas",
+        "message": "That's up to you, man."
+    },
+    {
+        "message": "　　　　　　Well, I'm planning to have fun until morning."
+    },
+    {
+        "name": "Thomas",
+        "message": "You got something else to do or what?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Just a little."
+    },
+    {
+        "name": "Thomas",
+        "message": "You going to the pub again tonight？"
+    },
+    {
+        "message": "　　　　　　That might be a little tough, you know."
+    },
+    {
+        "name": "Thomas",
+        "message": "You'd better start thinking up some excuses while you can."
+    },
+    {
+        "message": "　　　　　　Women are surprisingly sharp, you know......"
+    },
+    {
+        "name": "Gardner",
+        "message": "Personally, I don't really approve of going in and out of the Archives all the time."
+    },
+    {
+        "name": "Gardner",
+        "message": "What's up? Why'd you suddenly come to a place like this?"
+    },
+    {
+        "message": "　　　　　　　　Are you planning to turn over that pile of books again？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "There might still be some materials about Dunwich left.　　　　　　　　I mean, with that many books‥‥‥‥‥"
+    },
+    {
+        "name": "Gardner",
+        "message": "What was the name of that receptionist woman again... She's unfriendly, but she doesn't seem all that dumb."
+    },
+    {
+        "name": "Gardner",
+        "message": "They might know we snuck into the president's office, you know."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Do you think they noticed that I took the Map?"
+    },
+    {
+        "message": "　　　　　　　　Even so, I guess you could say I came to return it or something."
+    },
+    {
+        "name": "Gardner",
+        "message": "I don't know about that, she was a real stickler for the rules."
+    },
+    {
+        "message": "　　　　　　　　More importantly, wouldn’t it be smarter to try going to the Dunwich house？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "I don't really hate this Archives, you know."
+    },
+    {
+        "message": "　　　　　　　　Seeing books lined up all over the room makes me feel really happy."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Looks like nobody's here as usual."
+    },
+    {
+        "message": "　　　　　　　　I wonder if anyone besides us ever uses this Archives？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's a good question."
+    },
+    {
+        "message": "　　　　　　　　I wonder if those villagers can even read？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "There's no such thing as a school in the village though..."
+    },
+    {
+        "message": "　　　　　　　　I learned a bit from my foster father, so I can manage reading and writing somehow."
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's a sad thing not having the chance to get an education when you're young. Philip should've made more accessible schools before building a university."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Yeah‥‥‥‥‥‥‥"
+    },
+    {
+        "message": "　　　　　　　　I wish I could've studied at school too. If only I had more education..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I'll teach you as much as you want."
+    },
+    {
+        "message": "　　　　　　　　Once everything here is taken care of."
+    },
+    {
+        "message": "　　　Map　　　"
+    },
+    {
+        "message": "　　Go inside　　"
+    },
+    {
+        "message": "　　　Map　　　"
+    }
+]

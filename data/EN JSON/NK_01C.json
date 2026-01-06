@@ -1,0 +1,203 @@
+[
+    {
+        "message": "The windowless upstairs hallway doesn't even have the slightest bit of moonlight, so even just walking normally requires a lot of caution."
+    },
+    {
+        "message": "The wooden hallway, which must have easily been built over a hundred years ago, creaks annoyingly with every step I take, making me fear that I might fall through at any moment."
+    },
+    {
+        "message": "Maybe it really was a mistake to come here alone."
+    },
+    {
+        "message": "It's not like I actually believe in ghosts or anything, but......"
+    },
+    {
+        "message": "This is the upstairs hallway of the Dunwich Mansion."
+    },
+    {
+        "message": "There are two doors on either side, and it's so dark further down that I can't really see what's back there."
+    },
+    {
+        "message": "Climbing the stairs in the entrance hall and opening the unlocked door leads to a hallway connecting the various rooms."
+    },
+    {
+        "message": "The wooden floorboards and the plastered, decorated walls stretch all the way down."
+    },
+    {
+        "message": "Are the doors on either side maybe the private rooms of people who used to live in this mansion？"
+    },
+    {
+        "message": "We carefully made our way forward."
+    },
+    {
+        "message": "It feels like something could leap out of the darkness in the hallway at any second, and I have to scold myself to keep from just bolting out of here."
+    },
+    {
+        "message": "There's not as much dust as I expected, but some spots have turned black here and there."
+    },
+    {
+        "message": "It's unclear if the floorboards are rotten or if it's a trace left from the incident."
+    },
+    {
+        "message": "It's a floor built over a hundred years ago, so it wouldn't be surprising if it collapsed any time."
+    },
+    {
+        "message": "The places that look kinda blackened—is it because the floorboards are rotting, or is it traces from that incident...?"
+    },
+    {
+        "message": "Maybe it's because there aren't any windows for dust to come in, but it's not as dirty as the entrance hall."
+    },
+    {
+        "message": "これでは誰かが先に進入していたとしても、その足跡を発見するのは困難だろう。もっとも、屋敷に入る手段が玄関以外にあったとしたらの話だが。"
+    },
+    {
+        "message": "There are cracks here and there in the plaster, but there's no major damage."
+    },
+    {
+        "message": "If the upstairs had been used as a regular room, it wouldn't be surprising if things had gotten even worse from the vibrations......"
+    },
+    {
+        "message": "The beautifully plastered ceiling is pretty much the same as it was back then, except for some cobwebs."
+    },
+    {
+        "message": "The upper floor should be an attic or something, but I don't see any stairs around here that look like they lead up there."
+    },
+    {
+        "message": "ドルリイが生きていた頃からすでに使われておらず、階段を取り去ってしまっていたのだろうか。"
+    },
+    {
+        "message": "It's dark, I can't really tell."
+    },
+    {
+        "message": "There are two doors right in front of me, so I think I should start by checking them out..."
+    },
+    {
+        "message": "Because there's almost no light, I can't really tell what's further inside."
+    },
+    {
+        "message": "If the living room and the study are on the first floor, then the second floor should've had Dollie and her husband's bedroom, and their daughters' rooms."
+    },
+    {
+        "message": "Anyway, there's no way it's just these two rooms in front of us."
+    },
+    {
+        "message": "I'm not too keen on rummaging through a dead man's house like a thief, but I can't just leave it as is, either."
+    },
+    {
+        "message": "For now, we'll just have to start with whatever's close at hand."
+    },
+    {
+        "message": "We can't even talk without the key."
+    },
+    {
+        "message": "I have to find it somehow."
+    },
+    {
+        "message": "If the reason they went out of their way to install such a sturdy iron door was to keep something inside the room from getting out..."
+    },
+    {
+        "message": "I still feel like it's dangerous to go in alone."
+    },
+    {
+        "message": "It'd be smarter to go in with Gardner and the others tomorrow."
+    },
+    {
+        "message": "The door looked seriously sturdy and was made of metal, reinforced further with iron. It totally didn’t match the surrounding walls, which were solidified with plaster, making it obvious that someone had installed it later for some special purpose."
+    },
+    {
+        "message": "I touched the iron handle attached to the rusted door, but it didn’t budge at all."
+    },
+    {
+        "message": "It’s pretty amazing that there isn’t even the slightest looseness, even after several decades."
+    },
+    {
+        "message": "It must have been attached really securely."
+    },
+    {
+        "message": "If they went to all this trouble to keep others out, there must have been some serious reason for it."
+    },
+    {
+        "message": "What was going on in this room, I wonder?"
+    },
+    {
+        "message": "It's a clunky iron door, almost ridiculously out of place compared to the walls around it."
+    },
+    {
+        "message": "他の部屋が普通の木製の扉だったのに、この部屋に限って鉄製の物に取り替えられているのはどういう訳なのだろうか。"
+    },
+    {
+        "message": "Maybe they just didn't want to let outsiders into the room......"
+    },
+    {
+        "message": "Or is it to stop someone inside from getting out of the room?"
+    },
+    {
+        "message": "It's been left alone for more than half a century since the incident, so there probably isn't anything to worry about. Still, going in alone feels way too dangerous."
+    },
+    {
+        "message": "Maybe it'd be better to wait until tomorrow to go into the room, and do it together with Gardner and the others."
+    },
+    {
+        "message": "Without a key, it's impossible to get inside the room."
+    },
+    {
+        "message": "I'll have to get ahold of one somewhere."
+    },
+    {
+        "message": "It gives me the creeps to go alone into a room stained with a little girl's blood. I'd better put it off until tomorrow."
+    },
+    {
+        "message": "Looks like an ordinary room door."
+    },
+    {
+        "message": "Considering that it's facing in a sunny direction on the second floor, it's most likely the room of one of Dollie's two daughters, Lorina or Hannah."
+    },
+    {
+        "message": "Both daughters were killed by the axe their father brought down, right?"
+    },
+    {
+        "message": "I remember it was written that, especially Lorina, was found in a gruesome state with both her arms and legs cut off."
+    },
+    {
+        "message": "But it looks like I have no choice but to check it out."
+    },
+    {
+        "message": "Because you never know what kind of facts you might find."
+    },
+    {
+        "message": "I put my hand on the doorknob."
+    },
+    {
+        "message": "‥‥‥‥‥‥"
+    },
+    {
+        "message": "No good, it's locked."
+    },
+    {
+        "message": "The door made from a solid oak plank doesn't look like it'd break easily, even if I rammed into it."
+    },
+    {
+        "message": "Looks like I'm definitely out of luck without a key."
+    },
+    {
+        "message": "Since it's a south-facing room with lots of sunlight, there's a good chance it's the room of one of Dollie's two daughters."
+    },
+    {
+        "message": "Both daughters were killed by an axe swung down by their father, weren't they."
+    },
+    {
+        "message": "I remember it was written that especially Lorina was found in a gruesome state with both her hands and feet cut off."
+    },
+    {
+        "message": "おそらく、室内は血の海と化したことだろう‥‥‥‥"
+    },
+    {
+        "message": "そんな部屋にひとりで入るのはぞっとする。"
+    },
+    {
+        "message": "出来れば明日に回したいところだ。"
+    },
+    {
+        "message": "玄関ホール"
+    }
+]

@@ -1,0 +1,215 @@
+[
+    {
+        "message": "It's in front of the brothel......"
+    },
+    {
+        "message": "There's no way Cordelia would be in a place like this."
+    },
+    {
+        "message": "No way, are you saying you have another job I don't know about？"
+    },
+    {
+        "message": "So, she's the pub landlady by day, prostitute by night, huh......"
+    },
+    {
+        "message": "There's no way that's possible."
+    },
+    {
+        "message": "I'm in front of the brothel that Thomas brought me to."
+    },
+    {
+        "message": "It's surprising that there's a brothel in such a rundown village, but there's a saying that taverns, prostitutes, and undertakers can be found everywhere."
+    },
+    {
+        "message": "Prostitutes, said to be one of the oldest professions in the world, are probably tough enough to survive anywhere."
+    },
+    {
+        "name": "Thomas",
+        "message": "Yo, over here."
+    },
+    {
+        "message": "　　　　　　How about that, pretty impressive, right？"
+    },
+    {
+        "message": "ここがトマスの言う『いいところ』なのだろうか。"
+    },
+    {
+        "message": "To me, it just looks like a house that's only a bit nicer than normal."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Is this the 'good place'？"
+    },
+    {
+        "message": "　　　　　　　　I don't really get how it's different from a normal house though."
+    },
+    {
+        "name": "Thomas",
+        "message": "What a slow bastard..."
+    },
+    {
+        "message": "　　　　　　Do you think any rundown shacks around here would have a fancy display window？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "So it's a display window, huh……"
+    },
+    {
+        "message": "Now that you mention it, it's definitely a fancier build than your average house."
+    },
+    {
+        "message": "But so what about that?"
+    },
+    {
+        "name": "Thomas",
+        "message": "Still don't get it, huh."
+    },
+    {
+        "message": "　　　　　　You know that one called 'The Woman in the Window', right?"
+    },
+    {
+        "message": "『The Woman in the Window』, huh…………"
+    },
+    {
+        "message": "No way......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Could it be......"
+    },
+    {
+        "name": "Thomas",
+        "message": "That's how it is."
+    },
+    {
+        "message": "　　　　　　When I say 'something fun,' that can only mean one thing, right?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "A brothel?！"
+    },
+    {
+        "name": "Thomas",
+        "message": "That's a sleazy way to put it. Nowadays, they call this kind of place a 'Brothel'."
+    },
+    {
+        "name": "Jonathan",
+        "message": "W-wait a second, I’m not supposed to be in a place like this..."
+    },
+    {
+        "name": "Thomas",
+        "message": "Hey, don't say that."
+    },
+    {
+        "message": "　　　　　　They say you gotta experience everything at least once, so just give it a try."
+    },
+    {
+        "name": "Jonathan",
+        "message": "‥‥‥‥‥しかし‥‥‥‥‥‥‥‥‥‥‥"
+    },
+    {
+        "name": "Thomas",
+        "message": "Are you scared of that girl？"
+    },
+    {
+        "message": "　　　　　　Relax, I won't spill the beans to anyone."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's not the issue."
+    },
+    {
+        "message": "　　　　　　　　I've never been with a working girl before......"
+    },
+    {
+        "name": "Thomas",
+        "message": "Come on, stop standing there all stiff！"
+    },
+    {
+        "message": "　　　　　　Let's go."
+    },
+    {
+        "message": "Just thinking about those prostitutes getting it on with guys in that room every night gives me a weird feeling."
+    },
+    {
+        "message": "There's something like a Curtain hanging over the window, so you can't see inside."
+    },
+    {
+        "message": "The one on the right is the entrance, and the room right next to the door is for meeting with the prostitutes, so the window next to it must obviously be a private room."
+    },
+    {
+        "message": "Looks like it's a different room from the one I was shown to......"
+    },
+    {
+        "message": "In that room, with the prostitute I picked......"
+    },
+    {
+        "message": "娼婦を買うなんて誉められた事ではないが、私に植え付けられた道徳概念からはさらに著しく逸脱する行為だ。"
+    },
+    {
+        "message": "It's a room for the customers and the prostitutes to meet, you could say it's for 'showing faces'."
+    },
+    {
+        "message": "Well, that said, even if I say choose, there are only two prostitutes in this village."
+    },
+    {
+        "message": "It's a room where clients and prostitutes meet—basically a 'showing of faces'."
+    },
+    {
+        "message": "Even if you say choose, there are only two prostitutes in this village."
+    },
+    {
+        "message": "Well, unless you count that unusually generous Madam."
+    },
+    {
+        "message": "When there are two other young girls, would any customer really go out of their way to pick the older woman?"
+    },
+    {
+        "message": "Unless that's your thing, it's a different story, but if I'm paying money to sleep with a woman, I wouldn't want to pick that Madam on purpose."
+    },
+    {
+        "message": "It definitely looks much more elegant than a typical house in Arkham."
+    },
+    {
+        "message": "The way plaster is slathered over the bricks, like a woman heavily made up, seems to fit well with how it looks inside."
+    },
+    {
+        "message": "It definitely looks much more elegant than a typical house in Arkham."
+    },
+    {
+        "message": "Coating the bricks with plaster, making it look like a woman's heavy makeup, seems to really match the inside vibe."
+    },
+    {
+        "message": "Just knowing what goes on in the house every night, no matter how fancy the place is, I can't feel like it's beautiful."
+    },
+    {
+        "message": "Even so, why is there a brothel in Arkham, anyway?"
+    },
+    {
+        "message": "Even though there are still plenty of other things we're missing."
+    },
+    {
+        "message": "It's still early evening."
+    },
+    {
+        "message": "Of course, the door probably isn't locked."
+    },
+    {
+        "message": "It's still early evening."
+    },
+    {
+        "message": "Of course, the door probably isn't locked."
+    },
+    {
+        "message": "But even so, I still don't really feel like going in there again."
+    },
+    {
+        "message": "Anyway, Thomas is probably still monopolizing the other daughter, and as for the other one, I just had plenty of fun with her a little while ago."
+    },
+    {
+        "message": "　　　地図　　　"
+    },
+    {
+        "message": "　　Go inside　　"
+    }
+]

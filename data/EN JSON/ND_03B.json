@@ -1,0 +1,492 @@
+[
+    {
+        "name": "Jonathan",
+        "message": "There's nobody here."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Of course not."
+    },
+    {
+        "message": "　　　　　　　　The door was properly locked too."
+    },
+    {
+        "name": "Thomas",
+        "message": "More importantly, let's hurry up and have a drink."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I'm going to go change, so wait a sec, okay?"
+    },
+    {
+        "message": "　　　　　　　　Sit at the Table."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Isn't it kinda pointless to go out of your way to change clothes？"
+    },
+    {
+        "message": "　　　　　　　　We're just gonna have a drink anyway."
+    },
+    {
+        "name": "Cordelia",
+        "message": "That's not how it works."
+    },
+    {
+        "message": "　　　　　　　　When I'm standing behind the bar, I'm not my usual self."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You're pretty nitpicky, huh."
+    },
+    {
+        "name": "Cordelia",
+        "message": "But I mean, I live right above here, you know？"
+    },
+    {
+        "message": "　　　　　　　　If I don't do it like this, we won't be able to put an end to it, right?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I guess that's how it is."
+    },
+    {
+        "message": "She's downing straight Scotch like it's just drinking water."
+    },
+    {
+        "message": "For this guy, it probably doesn't matter whether it's water or whiskey."
+    },
+    {
+        "message": "Doesn't look tired at all."
+    },
+    {
+        "message": "He looks so lively, you wouldn't believe he's that old."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Hey, Jonathan......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "What's wrong？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Will you come to my room tonight？"
+    },
+    {
+        "message": "　　　　　　　　At the same time as yesterday."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why? We're going around the village together again tomorrow, aren't we?"
+    },
+    {
+        "message": "　　　　　　　　It doesn't have to be tonight, does it?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "That's true, but......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I didn't sleep much yesterday, so if possible, I'd like to get a little rest."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Please, if you want, you can even use my bed by yourself."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So, where are you planning to sleep then？"
+    },
+    {
+        "message": "　　　　　　　　I can't let you do something like that."
+    },
+    {
+        "name": "Cordelia",
+        "message": "‥‥‥‥ひとりじゃ寂しいのよ。"
+    },
+    {
+        "message": "Haven't you been doing it all alone up until now?"
+    },
+    {
+        "message": "そう言いたいところだが、やめておいた方が賢明だろう。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Got it."
+    },
+    {
+        "message": "　　　　　　　　It's the same time as yesterday......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "我侭言ってごめんなさい。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan, don't forget that promise, okay?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Promise？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Geez！"
+    },
+    {
+        "message": "　　　　　　　　It's the same time as yesterday, don't forget."
+    },
+    {
+        "name": "Thomas",
+        "message": "We really worked a lot today."
+    },
+    {
+        "message": "　　　　　　First we went to that crazy old man's house and dug through a pile of filthy books……"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I’ve said it before, but it’s not like I asked you to come with me, you know."
+    },
+    {
+        "name": "Thomas",
+        "message": "Just thinking about the inside of that filthy boat gives me the chills."
+    },
+    {
+        "message": "　　　　　　On top of that, we got covered in dust from all those books……"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't think I'm the type to worry about stuff like that."
+    },
+    {
+        "name": "Thomas",
+        "message": "I wanna hurry back to the Fish Scale Inn and change my clothes."
+    },
+    {
+        "message": "　　　　　　There's gotta be a laundry place in this village, right？"
+    },
+    {
+        "name": "Thomas",
+        "message": "What are we gonna do now？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "What do you mean, how？"
+    },
+    {
+        "name": "Thomas",
+        "message": "Hey......"
+    },
+    {
+        "message": "　　　　　　Ever since I got back from that old man's ship, my back's been feeling all itchy, you know."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Maybe it's just your imagination？"
+    },
+    {
+        "message": "　　　　　　　　That sounds just like you're saying Old man Marsh keeps bugs or something."
+    },
+    {
+        "name": "Thomas",
+        "message": "Hey, are you alright?"
+    },
+    {
+        "message": "　　　　　　Then I guess it was just your imagination."
+    },
+    {
+        "name": "Thomas",
+        "message": "Well, I just can't stand being in a filthy room like that."
+    },
+    {
+        "name": "Thomas",
+        "message": "It's nice to have a drink while the sun's still high."
+    },
+    {
+        "message": "　　　　　　It's my hard-earned vacation, so that's how it should be."
+    },
+    {
+        "name": "Jonathan",
+        "message": "We don't have time to mess around forever."
+    },
+    {
+        "message": "　　　　　　　　Because I have to go to Old man Marsh's place, you know."
+    },
+    {
+        "name": "Thomas",
+        "message": "No need to rush things like that."
+    },
+    {
+        "message": "　　　　　　One　more　drink　should　be　fine,　right？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Jonathan, about that guy Nai you met last night, the church was completely empty."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I wonder if it's really okay to call that place a Church."
+    },
+    {
+        "message": "　　　　　　　　Is something bothering you？"
+    },
+    {
+        "name": "Gardner",
+        "message": "No, it's true, you really can't call that an ordinary church."
+    },
+    {
+        "message": "　　　　　　　　I can't help but feel like it has some sort of connection to those ruins."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Now that you mention it, that temple-like thing in the ruins, it was clearly meant to enshrine something or someone."
+    },
+    {
+        "name": "Gardner",
+        "message": "If the god they worship at that church is the same as the god from those ruins..."
+    },
+    {
+        "name": "Gardner",
+        "message": "I just can't help but have such selfish thoughts."
+    },
+    {
+        "message": "　　　　　　　　I really want to see this guy Nai's face at least once."
+    },
+    {
+        "name": "Jonathan",
+        "message": "But since there's no one there, there's nothing we can do. If you want, should we go check it out again？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Professor, what do you think the church member meant by 'the last one left'?"
+    },
+    {
+        "name": "Gardner",
+        "message": "Well..."
+    },
+    {
+        "message": "　　　　　　　　I think it's probably some kind of slang related to their religion..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "It seems like it might be connected to the word 'chosen one' that the villager I met in the square mentioned."
+    },
+    {
+        "name": "Gardner",
+        "message": "Yeah, I think so too. The 'chosen one' is guided by God, and the 'last one left' stays behind."
+    },
+    {
+        "name": "Gardner",
+        "message": "Even considering that this guy Nai is in the special position of being a priest, there's nothing wrong with thinking of him as the person left with a special role in the end."
+    },
+    {
+        "name": "Gardner",
+        "message": "Jonathan, about that guy named Nai you met last night, the church was totally empty."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I'm not sure if we can really call that place a Church."
+    },
+    {
+        "message": "　　　　　　　　Is something bothering you？"
+    },
+    {
+        "name": "Gardner",
+        "message": "No, honestly, you really can't call that a normal church."
+    },
+    {
+        "message": "　　　　　　　　I can't help but feel it's somehow connected to those ruins."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Now that you mention it, that temple-like thing in the ruins, it definitely looked like something was being worshipped there."
+    },
+    {
+        "name": "Gardner",
+        "message": "If the god they worship at that church is the same as the one from those ruins..."
+    },
+    {
+        "name": "Gardner",
+        "message": "I can't help but think wishful things like “Gardner” and stuff."
+    },
+    {
+        "message": "　　　　　　　　I'd really love to get a look at the face of that guy called Nai."
+    },
+    {
+        "name": "Jonathan",
+        "message": "But no one's here, so there's really nothing we can do.　　　　　If you want, should I go check again？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Professor, what does that 'Last One Left' the believer let slip at the Church really mean?"
+    },
+    {
+        "name": "Gardner",
+        "message": "Well......"
+    },
+    {
+        "message": "　　　　　　　　I think it's some kind of jargon related to their religion..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Should we ask the old man Marsh？"
+    },
+    {
+        "name": "Gardner",
+        "message": "I don't really think that old man knows much about religion, though."
+    },
+    {
+        "message": "　　　　　　　　The　quickest　way　is　to　just　ask　a　believer."
+    },
+    {
+        "name": "Jonathan",
+        "message": "But they didn’t want to say anything."
+    },
+    {
+        "message": "　　　　　　　　It’s not like I have anyone else to rely on either......"
+    },
+    {
+        "name": "Gardner",
+        "message": "Maybe I'll try looking for someone who might accidentally let something slip.　　　　　　　　Though I doubt there are that many fools like that just lying around."
+    },
+    {
+        "name": "Gardner",
+        "message": "Come to think of it, didn't you say something weird this morning？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "What are you talking about？"
+    },
+    {
+        "name": "Gardner",
+        "message": "I'm pretty sure... you said you saw something like a church somewhere last night. You also mentioned something about a Black priest, I think."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Oh, that?."
+    },
+    {
+        "message": "　　　　　　　　It is a weird story for sure, a Church without even a single Cross, and on top of that, some shady guy acting as the priest‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "The place... I think I can figure it out somehow, though."
+    },
+    {
+        "message": "　　　　　　　　Shall we go check it out？"
+    },
+    {
+        "name": "Gardner",
+        "message": "First, I gotta meet with old man Marsh."
+    },
+    {
+        "message": "　　　　　　　　That's the main reason for today, after all."
+    },
+    {
+        "name": "Gardner",
+        "message": "Yeah, that's right."
+    },
+    {
+        "message": "　　　　　　　　If you got lost on the way here, you probably aren’t too far away, right？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan, what are we going to do now？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "どうしてマーシュ老人がダニッジ事件にこだわるのか　　　　　　　　知っておきたいな。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "So, you're going to Marsh's place, right？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "ダニッジ家と縁があった修道院の跡も調べてみる必要　　　　　　　　がありそうだ。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "The monastery, huh... If we leave at this time, the sun might set before we get there."
+    },
+    {
+        "name": "Jonathan",
+        "message": "事件が起きたダニッジ家の屋敷に行ってみるのもいい　　　　　　　　かもしれない。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "But it's locked, you know."
+    },
+    {
+        "message": "　　　　　　　　Otherwise, guys like hyenas would just take everything away."
+    },
+    {
+        "name": "Jonathan",
+        "message": "If I could get the key to the Dunwich Mansion somewhere..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Marsh's story was kinda really weird, wasn't it?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Seriously."
+    },
+    {
+        "message": "　　　　　　　　最初は『インスマウス顔』から始まったのに、気づい　　　　　　　　てみれば途方もない大きな話になってしまった。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "とりあえず、資料館に行ってみるんでしょ？"
+    },
+    {
+        "message": "　　　　　　　　If we look into the incident that made the Innsmouth look so hated, we might find something out."
+    },
+    {
+        "name": "Jonathan",
+        "message": "But, the fact that my face looks like the guy who committed such a gruesome crime... that's not exactly a pleasant thought."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Yeah......"
+    },
+    {
+        "message": "　　　　　　　　But　just　because　their　faces　look　alike,　it　doesn't　mean　they're　all　gonna　commit　cruel　incidents,　right？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Of course I do."
+    },
+    {
+        "message": "　　　　　　　　Do you really think I'm the kind of person who'd do something like that？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan, if you keep taking it so easy, Marsh　　　　　　　　-san is going to end up in a state where he can't even talk with us."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Is that old man really that much of a drunkard？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Most of the guys in this village are like that, though."
+    },
+    {
+        "message": "　　　　　　　　Marsh-san is like she's scared of something—she never lets go of her liquor bottles."
+    },
+    {
+        "name": "Jonathan",
+        "message": "If we stay here too long, we'll probably get just as drunk as them."
+    },
+    {
+        "message": "　　Go outside　　"
+    }
+]

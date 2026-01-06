@@ -1,0 +1,406 @@
+[
+    {
+        "name": "Hans",
+        "message": "You guys again......"
+    },
+    {
+        "message": "　　　　　　Koty, nothing good will come from getting involved with these people."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Is that a threat, Hans？"
+    },
+    {
+        "name": "Hans",
+        "message": "What would I possibly gain by threatening you?"
+    },
+    {
+        "message": "　　　　　　I'm just giving you some advice."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Then just leave us alone."
+    },
+    {
+        "message": "　　　　　　　　I trust Jonathan and the professors."
+    },
+    {
+        "name": "Hans",
+        "message": "......Do whatever you want."
+    },
+    {
+        "name": "Hans",
+        "message": "Huh, you guys are still in Arkham？"
+    },
+    {
+        "message": "　　　　　　You should get out while you can, before you end up a mess."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You don't have to worry about us."
+    },
+    {
+        "message": "　　　　　　　　So far, we've managed to handle things somehow."
+    },
+    {
+        "name": "Hans",
+        "message": "Well, that's good then... The one over there is..."
+    },
+    {
+        "name": "Hans",
+        "message": "Koty..."
+    },
+    {
+        "message": "　　　　　　Hey you, what are you doing with these people？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "What do you mean？"
+    },
+    {
+        "message": "　　　　　　　　I'm just showing you around the village."
+    },
+    {
+        "name": "Hans",
+        "message": "You... if someone from the village saw you like that！"
+    },
+    {
+        "name": "Cordelia",
+        "message": "どうなるって言うの？"
+    },
+    {
+        "message": "　　　　　　　　I mean, it's not like I'm doing anything wrong, right?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "These people don't know their way around the village, so I'm just showing them around for a bit, that's all."
+    },
+    {
+        "name": "Hans",
+        "message": "If you do that, he’ll‥‥‥‥‥‥‥"
+    },
+    {
+        "message": "Hans said that, then grimaced and shut his mouth."
+    },
+    {
+        "message": "I wonder who 'that person' is."
+    },
+    {
+        "message": "Is there someone in the village who doesn’t like that Cordelia and us are together？"
+    },
+    {
+        "message": "There isn't really anything all that interesting, though......"
+    },
+    {
+        "message": "It might be better to at least act like I'm thinking of buying something—the shopkeeper might like that."
+    },
+    {
+        "message": "The store is packed with a surprisingly large amount of products. Things like canned beans, Soup, cosmetics, and more are all jumbled together."
+    },
+    {
+        "message": "Most of it is just the common, cheap stuff you see anywhere, and since it doesn't look dusty, I guess the stock moves pretty well."
+    },
+    {
+        "name": "Hans",
+        "message": "Hey, if you don't have any business here, can you go home？"
+    },
+    {
+        "message": "　　　　　　If strangers are hanging around, it'll mess with the shop's business."
+    },
+    {
+        "message": "It's an old cash register I haven't seen in about 10 years. They probably don't find it inconvenient for now, but it seems like the owner of this place isn't the type to invest much in equipment."
+    },
+    {
+        "message": "But even so, the old machine actually seems to fit the vibe of the shop. Something this big and heavy would be a real pain to steal."
+    },
+    {
+        "message": "There's no doubt Hans is definitely hiding something."
+    },
+    {
+        "message": "But Cordelia should've become a villager way before that."
+    },
+    {
+        "message": "Are they saying that the newcomer Hans knows something that even Cordelia doesn't?"
+    },
+    {
+        "message": "Hans is looking around at us with a troubled expression."
+    },
+    {
+        "message": "He seems to care about me and Gardner and the others too, but his main concern is apparently Cordelia, who's standing next to me."
+    },
+    {
+        "message": "Does this guy have a thing for Cordelia...?"
+    },
+    {
+        "message": "No, it doesn't seem like that's all there is to it."
+    },
+    {
+        "message": "Isn't there some kind of connection between Cordelia being brought to this village and how flustered Hans is?"
+    },
+    {
+        "message": "Hans is, as usual, looking sullen, and as if he doesn't want to make eye contact with us, he's absorbed in wiping imaginary dust off the Counter with a rag."
+    },
+    {
+        "message": "She has a sulky look on her face."
+    },
+    {
+        "message": "Could it be that Hans has feelings for Cordelia？"
+    },
+    {
+        "message": "So are they saying they don't like us getting close to Cordelia? But then, what did Hans really mean by 'that person' earlier?"
+    },
+    {
+        "message": "I can't just chalk it up as something he blurted out..."
+    },
+    {
+        "name": "Hans",
+        "message": "Do you have any other business here？"
+    },
+    {
+        "message": "　　　　　　It's not like I have time to waste either, you know."
+    },
+    {
+        "name": "Cordelia",
+        "message": "What on earth am I supposed to ask？"
+    },
+    {
+        "message": "Cordelia whispered into my ear."
+    },
+    {
+        "message": "そうだな、ハンスから聞き出したい事と言えば‥‥‥‥"
+    },
+    {
+        "message": "『The thing I was about to say earlier』"
+    },
+    {
+        "message": "『店の前の主人の事』"
+    },
+    {
+        "message": "『店の経営状態』"
+    },
+    {
+        "name": "Hans",
+        "message": "Hey, you."
+    },
+    {
+        "message": "Hans glared at me, his face tense."
+    },
+    {
+        "message": "He probably thinks he's being intimidating, but unfortunately, it looks like he's not nearly as much of a bad guy as he thinks he is."
+    },
+    {
+        "name": "Hans",
+        "message": "You haven't been doing anything weird to Koty, have you?"
+    },
+    {
+        "message": "　　　　　　If you do something like that, there's no way you'd be able to just leave the village that easily."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Who were you talking about earlier when you said 'that person'? Who is that?"
+    },
+    {
+        "message": "　　　　　　　　Are you saying there's someone who gets mad whenever I do something？"
+    },
+    {
+        "name": "Hans",
+        "message": "‥‥‥‥‥"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Hans！"
+    },
+    {
+        "name": "Hans",
+        "message": "Hey... don't make such a scary face."
+    },
+    {
+        "message": "　　　　　　I didn't say anything like that."
+    },
+    {
+        "name": "Cordelia",
+        "message": "No, I definitely said it."
+    },
+    {
+        "message": "　　　　　　　　\"If you do that, that person will...\""
+    },
+    {
+        "name": "Cordelia",
+        "message": "Who are you talking about when you say 'that person'？"
+    },
+    {
+        "message": "　　　　　　　　You’re not scared of the people from Arkham Village, are you？"
+    },
+    {
+        "name": "Hans",
+        "message": "The guys here are just cowards, you know."
+    },
+    {
+        "message": "　　　　　　Why the hell should I be scared of those guys？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Then who the hell is it, anyway?"
+    },
+    {
+        "message": "　　　　　　　　You look totally pale."
+    },
+    {
+        "name": "Hans",
+        "message": "Koty, aren't you and I both outsiders?"
+    },
+    {
+        "message": "　　　　　　そんなにアーカムの事を嗅ぎ回って何の得になる。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "You really don't know anything？"
+    },
+    {
+        "message": "　　　　　　　　Who　the　hell　do　you　mean　by　'that　person'?"
+    },
+    {
+        "name": "Hans",
+        "message": "村の人間がよく口にしてる事だ。"
+    },
+    {
+        "message": "　　　　　　You really don't know how much the people in the village care about you, do you？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Me？"
+    },
+    {
+        "message": "　　　　　　　　Are you saying the people in the village treat me especially precious？"
+    },
+    {
+        "name": "Hans",
+        "message": "Yeah, if it wasn't for that, you would've already been made a plaything a long time ago."
+    },
+    {
+        "name": "Hans",
+        "message": "There's no way a girl who's just 15 or so could run a tavern all by herself, right？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "No way......"
+    },
+    {
+        "name": "Hans",
+        "message": "You have no idea how many times I've tried to shove you into the Gilman House. I'm not as decent a guy as you think, Koty."
+    },
+    {
+        "name": "Hans",
+        "message": "I don't remember at all what kind of person they were."
+    },
+    {
+        "message": "　　　　　　I just know that one day, they suddenly disappeared and that's it."
+    },
+    {
+        "name": "Cordelia",
+        "message": "What was the name of the general store owner before you again？"
+    },
+    {
+        "name": "Hans",
+        "message": "Why do you want to know something like that？"
+    },
+    {
+        "message": "　　　　　　First off, I came to the village after the shopkeeper disappeared, so isn’t it Koty who knows more about this than me?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "そうね‥‥‥‥あの人、なんて名前だったかしら？"
+    },
+    {
+        "message": "　　　　　　　　She wasn't exactly the memorable type..."
+    },
+    {
+        "name": "Hans",
+        "message": "I don't remember either."
+    },
+    {
+        "message": "　　　　　　I heard he was one of the people from this village, but one day he just suddenly disappeared."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Yeah, that's right‥‥‥‥"
+    },
+    {
+        "message": "　　　　　　　　The owner of the general store disappeared too. Just like my adoptive parents."
+    },
+    {
+        "name": "Hans",
+        "message": "I don't know why, but it seems like everyone in this village just disappears when they get old."
+    },
+    {
+        "name": "Hans",
+        "message": "Nah, it’s not just old folks. The guy Hudson at the Fish Scale Inn works for should be just a bit over 30, I think."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What did you say？"
+    },
+    {
+        "message": "　　　　　　　　So Hudson's husband disappeared too, huh."
+    },
+    {
+        "name": "Hans",
+        "message": "I don't know what he's so upset about, but if I were that husband, there's no way I'd dump such a beautiful wife and disappear."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why are you like that..."
+    },
+    {
+        "name": "Hans",
+        "message": "That's why I told you, people in this village tend to disappear a lot. Maybe the reason they let outsiders like us run the stores and inns is actually because of that."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Now that you mention it, it does feel like the villagers here disappear at a way higher rate compared to people from other areas."
+    },
+    {
+        "name": "Hans",
+        "message": "俺達よそ者に店やら宿やらを経営させるのも、案外それが　　　　　　原因かもしれんね。"
+    },
+    {
+        "name": "Hans",
+        "message": "I'm at least earning enough to feed myself."
+    },
+    {
+        "message": "　　　　　　No need to worry about me."
+    },
+    {
+        "name": "Cordelia",
+        "message": "It doesn't look like there are many customers, but is business doing well？"
+    },
+    {
+        "name": "Hans",
+        "message": "I guess I'm not really cut out for business."
+    },
+    {
+        "message": "　　　　　　こうして毎日店を開けていても大した儲けになんないね。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "It's the last shop in the village, so please try to keep it going somehow."
+    },
+    {
+        "name": "Hans",
+        "message": "But you know, it seems like people in this village don't really need this kind of stuff all that much."
+    },
+    {
+        "name": "Cordelia",
+        "message": "That can't be true, right？"
+    },
+    {
+        "message": "　　　　　　　　But then, how is everyone even getting wheat for baking bread, or things like butter？"
+    },
+    {
+        "name": "Hans",
+        "message": "Sometimes I wonder, isn't it like the people in this village only ever eat fish......"
+    },
+    {
+        "message": "　　Go outside　　"
+    }
+]

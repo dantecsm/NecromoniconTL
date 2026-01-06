@@ -1,0 +1,332 @@
+[
+    {
+        "message": "I entered the living room."
+    },
+    {
+        "message": "In front, there's a room that looks like Dollie's study."
+    },
+    {
+        "message": "If you use the key that was tucked between the pages of the Necronomicon, you can probably get inside the study."
+    },
+    {
+        "name": "Gardner",
+        "message": "So this is the room where something more important than saving Cordelia is waiting, huh."
+    },
+    {
+        "name": "Gardner",
+        "message": "It's exactly the same as the last time I came here, isn't it?"
+    },
+    {
+        "message": "　　　　　　　　It's a waste of time to be in a place like this."
+    },
+    {
+        "name": "Gardner",
+        "message": "Maybe you should just give up already, huh？"
+    },
+    {
+        "message": "　　　　　　　　少なくともこの屋敷の中には君の求めている物はない　　　　　　　　ようじゃないか。"
+    },
+    {
+        "message": "Gardner said that and shook his head from side to side."
+    },
+    {
+        "message": "It seems like you don't believe a word I said."
+    },
+    {
+        "message": "I entered the living room of the Dunwich Mansion."
+    },
+    {
+        "message": "In one corner of the room, there's a door leading to the next room, a portrait hanging on the wall, and a photo frame sitting on the small desk meant for writing a little something."
+    },
+    {
+        "message": "If we're talking about places where the Necronomicon might be hidden, it's probably only the small Closet built into the wall."
+    },
+    {
+        "message": "But if I remember right, by then someone had already completely cleaned that place out, and there was nothing left..."
+    },
+    {
+        "message": "It still looks like it could hold up just fine for use even now."
+    },
+    {
+        "message": "If it's like this, it looks like I could sell it for a good price as antique furniture."
+    },
+    {
+        "message": "It's not a good habit to appraise everything you see right away."
+    },
+    {
+        "message": "Maybe I've picked up Thomas's habit..."
+    },
+    {
+        "message": "It's a small desk for a bit of writing. On top, there's a photo of the Dunwich family."
+    },
+    {
+        "name": "Gardner",
+        "message": "It's finally time."
+    },
+    {
+        "message": "　　　　　　　　Do you know what's in Dollie's study？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, I don't."
+    },
+    {
+        "message": "　　　　　　　　But there's no doubt that Marsh, the old man, discovered Dollie's secret in this room."
+    },
+    {
+        "name": "Gardner",
+        "message": "Whatever it is, it's definitely somewhere in this room."
+    },
+    {
+        "message": "　　　　　　　　The problem is whether we can understand what it means."
+    },
+    {
+        "message": "This is the door leading to Dollie's study."
+    },
+    {
+        "message": "If you use the key that was tucked between the pages of the Necronomicon, you should be able to open this door."
+    },
+    {
+        "name": "Gardner",
+        "message": "Did it open？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah..."
+    },
+    {
+        "name": "Gardner",
+        "message": "The fact that the key hidden in the Necronomicon opened this door proves that the owner of this book was Dollie."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't know what the man I saw in the monastery in my dream has to do with Dollie, but the incident there and the fact that he massacred his whole family are connected."
+    },
+    {
+        "name": "Gardner",
+        "message": "That's probably the case."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Well, whatever. Let's drop the investigation for now."
+    },
+    {
+        "message": "　　　　　　　　You'll understand once you go inside the room."
+    },
+    {
+        "message": "Looks like a door that leads to the next room."
+    },
+    {
+        "message": "客間か、ドルリイの書斎だろうか‥‥‥‥‥‥‥‥‥"
+    },
+    {
+        "message": "The door is locked, so you can't get inside."
+    },
+    {
+        "message": "This must be the room Marsh was talking about, the one without a key."
+    },
+    {
+        "message": "Dollie pointed a gun at her own head in this room."
+    },
+    {
+        "message": "I wonder what it looks like inside."
+    },
+    {
+        "message": "He asked his best friend Marsh to lock up after his death, and even wrote that he wanted him to throw away the key."
+    },
+    {
+        "message": "I wonder what's being depicted in this room."
+    },
+    {
+        "message": "I can't imagine sealing off a room for no reason at all."
+    },
+    {
+        "message": "There must be some important meaning hidden here......"
+    },
+    {
+        "message": "I can't understand what Dollie is thinking."
+    },
+    {
+        "message": "Slaughtering his own family and then ending himself with a gun is far from normal—maybe what I asked Marsh to do was just a reckless whim dreamed up by a crazy mind."
+    },
+    {
+        "message": "Anyway, we have to find the key to get into this room."
+    },
+    {
+        "message": "Marsh said that Dollie might have hidden the key somewhere."
+    },
+    {
+        "message": "If anywhere, it's probably somewhere in this Mansion, or maybe the dean's office at Misscatonic University."
+    },
+    {
+        "name": "Cordelia",
+        "message": "So, beyond this door is the room where Dollie killed herself, huh.　　　　　　　　I wonder what the room looks like inside."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Marsh locked up the room right after the investigation was finished and sealed it off."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Most likely, it's just as it was back when the incident happened."
+    },
+    {
+        "message": "　　　　　　　　That’s exactly why, maybe I can figure out why Dollie did what she did and caused the incident."
+    },
+    {
+        "name": "Cordelia",
+        "message": "This is the only room in the mansion I've never entered. If the Necronomicon is somewhere in the mansion, isn't this room the most likely place for it？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "だとすると、ドルリイがネクロノミコンの所有者とい　　　　　　　　う事になる。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Is there a reason why Dollie has that？"
+    },
+    {
+        "message": "　　　　　　　　Is that the key to unraveling the truth behind the Dunwich incident?"
+    },
+    {
+        "message": "It's probably a portrait of the head of the Dunwich family."
+    },
+    {
+        "message": "Is it Dollie, her father Philip, or maybe an even earlier head of the family I don't know about..."
+    },
+    {
+        "message": "Photographs already existed in the era when Dollie was alive, so I can't imagine he was such a self-absorbed guy that he'd bother to have a portrait painted."
+    },
+    {
+        "message": "逆にずっと以前の当主の物だとしたら、一枚だけというのは解せない。歴代の当主の画が並んでいるはずだ。"
+    },
+    {
+        "message": "If you think that Dollie put up these paintings here to get a sense of the father who disappeared before she was born, that makes the most sense."
+    },
+    {
+        "message": "This painting is probably Philip Dunwich's."
+    },
+    {
+        "message": "It's a portrait of Philip Dunwich."
+    },
+    {
+        "message": "It's probably him in his mid-thirties. For the portrait of a man who succeeded as a merchant and made an enormous fortune, he looks surprisingly young."
+    },
+    {
+        "message": "鋭く高い鷲鼻とがん頑丈そうな顎は、フィリップの勝ち気で我の強い性格を物語り、細長の眼光鋭い目は彼が危険な世界の住人である事を裏付けているようだ。"
+    },
+    {
+        "message": "If you're always boarding ships as a trader, it's never simple—you've got to play psychological games with trading partners and keep rough sailors in line and so on."
+    },
+    {
+        "message": "So, it's only natural if his gaze gets sharp and his will gets strong, right?"
+    },
+    {
+        "message": "You can't just judge someone as selfish at a glance."
+    },
+    {
+        "message": "It's a photo of the Dunwich family's family."
+    },
+    {
+        "message": "The background is mountains and sky, looks like it was taken when we went on a picnic or something."
+    },
+    {
+        "message": "The one on the left side of the back row is Dollie, and next to her is probably my wife Jean."
+    },
+    {
+        "message": "The two girls in the front row, the old woman in the middle, is that Philip's wife Eva?"
+    },
+    {
+        "message": "I don't know when this photo was taken, but just from looking at it, there's no way I can believe these people would be involved in that horrible incident a few years later."
+    },
+    {
+        "message": "They just look like an ordinary, happy family..."
+    },
+    {
+        "message": "If this family did have some kind of problem, maybe the cause was someone not in this photo—maybe Philip?"
+    },
+    {
+        "message": "Maybe something that could instantly drag a happy, loving family straight into the abyss..."
+    },
+    {
+        "message": "Philip disappeared before Dollie was born, but the faces of the two are shockingly similar."
+    },
+    {
+        "message": "No one would ever deny that these two are parent and child."
+    },
+    {
+        "message": "And..."
+    },
+    {
+        "message": "And when I saw my face in the mirror this morning, I really did look a lot like Philip in the portrait."
+    },
+    {
+        "message": "No wonder Marsh wants to call my face an 'Innsmouth face' when he sees it."
+    },
+    {
+        "message": "Is it just a coincidence, or am I actually connected to the Dunwich family somehow?"
+    },
+    {
+        "message": "I wonder if this is a view of Arkham; looking at it like this, it looks like such a peaceful, idyllic place."
+    },
+    {
+        "message": "If Arkham has become an accursed land, there's no doubt the reason lies not in the climate, but in the villagers themselves."
+    },
+    {
+        "message": "I wonder if this is a view of Arkham. Looking at it like this, it seems idyllic and like a truly peaceful, nice place."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Does it look like there's anything？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, it's no good, there's nothing inside."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I guess somebody really did take it."
+    },
+    {
+        "message": "　　　　　　　　That's a terrible thing to do."
+    },
+    {
+        "message": "There's nothing inside."
+    },
+    {
+        "message": "It looks like someone got rid of whatever was in here."
+    },
+    {
+        "message": "There's nothing inside."
+    },
+    {
+        "message": "It looks like someone got rid of what was in here."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Find anything？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Nope, there's nothing inside."
+    },
+    {
+        "name": "Cordelia",
+        "message": "So I guess someone really did take it."
+    },
+    {
+        "message": "　　　　　　　　That's awful."
+    },
+    {
+        "message": "There's nothing inside."
+    },
+    {
+        "message": "It looks like someone got rid of what was in here."
+    },
+    {
+        "message": "Entrance hall"
+    },
+    {
+        "message": "　　　Study　　　"
+    }
+]

@@ -1,0 +1,363 @@
+[
+    {
+        "message": "Looks like nobody's here."
+    },
+    {
+        "message": "I wonder where all the villagers have gone."
+    },
+    {
+        "name": "Young man",
+        "message": "You guys aren't from the village, are you？"
+    },
+    {
+        "message": "　　　　　　What the hell did you come here for?"
+    },
+    {
+        "message": "The villagers who had been hanging around the plaza snapped at us the moment they saw us. Since coming to the village, this was the first time I'd seen so many people gathered together, except for that time at the Pub."
+    },
+    {
+        "message": "But what's up with those guys who were hanging around in the pub, getting all pissy whenever they see us?"
+    },
+    {
+        "name": "Old man",
+        "message": "I know."
+    },
+    {
+        "message": "　　　　　You guys are the ones staying at the Fish Scale Inn, right？"
+    },
+    {
+        "name": "Young man",
+        "message": "Are you the guys snooping around the village?！"
+    },
+    {
+        "message": "　　　　　　どういうつもりだか知らねえが、余計な事しやがるとただ　　　　　　じゃおかねえぞ。"
+    },
+    {
+        "message": "This is the starting point of Main Street that passes in front of the Fish Scale Inn."
+    },
+    {
+        "message": "Even though it's kept so beautiful, not a single tourist stops to look at it. The villagers don't seem to care much either."
+    },
+    {
+        "message": "It used to be the gateway to the village that connected to Arkham's Main Street, so this area is pretty nicely paved."
+    },
+    {
+        "message": "Cars and carriages probably rarely traveled here, so even after decades, the paving stones show no damage and look just like they did back then."
+    },
+    {
+        "message": "The abandoned house's windows look just like the empty eye sockets of a corpse."
+    },
+    {
+        "message": "Isn't there anyone who wants to do something about this？"
+    },
+    {
+        "message": "Most of the buildings around here don't seem to be in use anymore."
+    },
+    {
+        "message": "There’s nobody to use it, and it seems like there’s no one who wants to tear it down or remodel it either, so it’s pretty much just been left alone and abandoned."
+    },
+    {
+        "message": "Fish Scale Inn is our only haven in Arkham."
+    },
+    {
+        "message": "Even in a sketchy-looking inn like that, being indoors somehow makes me feel strangely safe."
+    },
+    {
+        "message": "It's an old building, about as old as the ones around it, but while most of them are abandoned and practically in ruins, this is the only one that still looks like someone could actually live there."
+    },
+    {
+        "message": "Looking at the outside, it seems pretty spacious, but I wonder how many guest rooms there are besides the ones we're using."
+    },
+    {
+        "message": "Looks like they're open for business today too."
+    },
+    {
+        "message": "How are you restocking goods when contact with the outside is cut off？"
+    },
+    {
+        "message": "It's the only shop still open in the village."
+    },
+    {
+        "message": "A friendly young shopkeeper runs it all by himself."
+    },
+    {
+        "message": "The Fish Scale Inn, the general store, and Gilman House—all the shops in this village that serve customers are run by people from outside the village. Is there some reason for that？"
+    },
+    {
+        "message": "他の村人達と違って、私たちの姿を見てもたいして気に留めた様子さえない。何を糧に生きているのか見当もつかない男だ。"
+    },
+    {
+        "message": "Seeing his filthy appearance and totally lethargic way of walking, he doesn't seem all that different from a homeless bum without a job."
+    },
+    {
+        "message": "What the stationmaster in Salem said wasn't exactly a lie, it seems."
+    },
+    {
+        "message": "It seems like most of the villagers here have lost the will to live."
+    },
+    {
+        "message": "Looks like they're totally wasted from drinking, but it's probably better not to let your guard down."
+    },
+    {
+        "message": "A lot of people like this wouldn't even hesitate to kill someone for half a crown."
+    },
+    {
+        "message": "The two guys are whispering about something while checking us out."
+    },
+    {
+        "message": "The guy on the left is holding a wine bottle. Looks like he’s feeling pretty good already, even though it’s still daytime."
+    },
+    {
+        "message": "He definitely has the developed muscles typical of a fisherman and a red face that's been exposed to sea breezes for a long time, but seeing him guzzling booze in the middle of the day, it doesn't really seem like he's much of a hard worker."
+    },
+    {
+        "name": "Young man",
+        "message": "急いだ方がいいぜ、ひょっとすると今夜にでも襲いに行く　　　　　　かもしれんからなァ！"
+    },
+    {
+        "name": "Young man",
+        "message": "とにかく、早く出ていくこったな！"
+    },
+    {
+        "message": "　　　　　　It's nothing for me to kill you guys."
+    },
+    {
+        "name": "Young man",
+        "message": "If you tie weights to the legs and sink them into the sea, the corpse will never surface. After that, the fish will clean it up nicely."
+    },
+    {
+        "name": "Old man",
+        "message": "誰もあんたらの事なんざぁ探そうとしねえだろうさ。"
+    },
+    {
+        "message": "　　　　　After all, this is Arkham."
+    },
+    {
+        "name": "Young man",
+        "message": "There's no way a cop would come investigating for some idiot who just wandered in here. There's absolutely no way we'd ever get caught."
+    },
+    {
+        "name": "Thomas",
+        "message": "So you think you're threatening me with that？"
+    },
+    {
+        "message": "　　　　　　下町あたりのチンピラでも、もう少しましな口を聞くって　　　　　　もんだぜ。"
+    },
+    {
+        "name": "Gardner",
+        "message": "Don't go out of your way to say stuff that'll get on the villagers' nerves！　　　　　　　　We didn't come to Arkham to pick fights with them,　　　　　　　　you know."
+    },
+    {
+        "name": "Young man",
+        "message": "Anyway, you better get out of here quick！"
+    },
+    {
+        "message": "　　　　　　お前らをぶっ殺すぐらいは訳ねえんだからな。"
+    },
+    {
+        "name": "Old man",
+        "message": "I'm telling you, you'd better just get out of here quick."
+    },
+    {
+        "message": "　　　　　This village is packed with hot-blooded youngsters, you know."
+    },
+    {
+        "name": "Old man",
+        "message": "While I’m holding it down somehow, you go pack up the stuff."
+    },
+    {
+        "name": "Young man",
+        "message": "Tch, acting all high and mighty！"
+    },
+    {
+        "message": "　　　　　　What the hell can an old man do? You really think you can do anything to us, huh?"
+    },
+    {
+        "name": "Old man",
+        "message": "You idiot, shut the hell up！"
+    },
+    {
+        "message": "　　　　　お前は駆け引きってもんを知らねえのか。"
+    },
+    {
+        "name": "Young man",
+        "message": "What’s up, old fart, you trying to give me advice？"
+    },
+    {
+        "message": "　　　　　　And yet here you are, still living in the village at your age."
+    },
+    {
+        "name": "Young man",
+        "message": "You're not even one of the 'chosen ones'！"
+    },
+    {
+        "message": "　　　　　　Even though I gotta spend my whole life living on land."
+    },
+    {
+        "message": "『The Chosen One』？"
+    },
+    {
+        "message": "What the heck is that supposed to mean?"
+    },
+    {
+        "message": "『The Chosen One』？"
+    },
+    {
+        "message": "What the heck is that supposed to mean?"
+    },
+    {
+        "message": "Could it have something to do with the words 'the last one left' that the female believer was muttering at the Church of Dagon？"
+    },
+    {
+        "name": "Old man",
+        "message": "Shut up！"
+    },
+    {
+        "message": "　　　　　Can you guarantee that you're not like that?"
+    },
+    {
+        "message": "Living on land for my whole life......"
+    },
+    {
+        "message": "この村に老人の姿が見えないのと関係があるのだろうか。"
+    },
+    {
+        "message": "Was Old man Marsh also one of those who couldn't become a 'Chosen One'？"
+    },
+    {
+        "name": "Young man",
+        "message": "Just think of it as a threat at best."
+    },
+    {
+        "message": "　　　　　　Even if you realize we're dead serious, by then it'll already be too late."
+    },
+    {
+        "name": "Young man",
+        "message": "Oh yeah? So you guys are......"
+    },
+    {
+        "message": "　　　　　　If you do something unnecessary, you won't leave this village alive."
+    },
+    {
+        "name": "Thomas",
+        "message": "So you think you're threatening me with that, huh？"
+    },
+    {
+        "message": "　　　　　　Even a kid wouldn't be surprised by that kind of thing."
+    },
+    {
+        "name": "Young man",
+        "message": "This bastard......"
+    },
+    {
+        "message": "　　　　　　You　think　it's　just　an　empty　threat！"
+    },
+    {
+        "name": "Thomas",
+        "message": "If you want, I don't mind if you come at me."
+    },
+    {
+        "message": "　　　　　　If you've got the guts to take me down, then bring it on！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Stop it, Thomas."
+    },
+    {
+        "message": "　　　　　　　　There's nothing to gain from starting trouble in a place like this."
+    },
+    {
+        "name": "Thomas",
+        "message": "Is that so？"
+    },
+    {
+        "message": "　　　　　　Maybe we should teach these guys a lesson, let 'em know it's smarter not to mess with us."
+    },
+    {
+        "name": "Young man",
+        "message": "I'll never forgive you for this！"
+    },
+    {
+        "message": "　　　　　　I'm not letting a single one of you bastards get out of here alive."
+    },
+    {
+        "name": "Old man",
+        "message": "You guys can't find out a damn thing."
+    },
+    {
+        "name": "Old man",
+        "message": "What did you guys come here for？"
+    },
+    {
+        "message": "　　　　　There's no point in looking into stuff about this kind of village."
+    },
+    {
+        "name": "Gardner",
+        "message": "We’re not particularly interested in your village or anything.　　　　　　　　We’re just investigating those ruins on the outskirts of the village."
+    },
+    {
+        "name": "Old man",
+        "message": "Even if you look into it, you won't figure out a damn thing."
+    },
+    {
+        "message": "　　　　　That thing's been there forever, hasn't it? So let's just leave it at that, okay?"
+    },
+    {
+        "name": "Gardner",
+        "message": "No way I'm letting that happen！"
+    },
+    {
+        "message": "　　　　　　　　Do you guys really not get how valuable that thing is?"
+    },
+    {
+        "name": "Old man",
+        "message": "Even if that's the case, it ain't got nothin' to do with you guys."
+    },
+    {
+        "message": "　　　　　That belongs to us folks from the village."
+    },
+    {
+        "name": "Gardner",
+        "message": "That's a globally important cultural heritage site！"
+    },
+    {
+        "message": "　　　　　　　　It's so valuable that you can't say it 'belongs to anyone'."
+    },
+    {
+        "name": "Old man",
+        "message": "There ain't anyone who's gonna teach you guys anything."
+    },
+    {
+        "message": "　　　　　We’re not just gonna sit back and let a guy like that do what he wants."
+    },
+    {
+        "message": "Saying that, the old man shot a glance at Cordelia, who was standing hidden behind my back."
+    },
+    {
+        "message": "So now Cordelia has become the target of the villagers' hostility just like us. It's way too dangerous to leave her alone at the Gilman House."
+    },
+    {
+        "message": "魚鱗亭"
+    },
+    {
+        "message": "General store"
+    },
+    {
+        "message": "　　　Ruins　　　"
+    },
+    {
+        "message": "ギルマンハウス"
+    },
+    {
+        "message": "　Church　of　Dagon　"
+    },
+    {
+        "message": "Port"
+    },
+    {
+        "message": "Archives"
+    },
+    {
+        "message": "　　　地図　　　"
+    }
+]

@@ -1,0 +1,385 @@
+[
+    {
+        "name": "Voice",
+        "message": "Jonathan Swift."
+    },
+    {
+        "name": "Voice",
+        "message": "Your tricks to use women..."
+    },
+    {
+        "name": "Voice",
+        "message": "Fine. Watch closely,"
+    },
+    {
+        "message": "I was standing in the falling snow."
+    },
+    {
+        "message": "The one walking in front of me seems to be a woman, judging by her build. From head to toe, she's wrapped tightly in a shabby cloak, not even a puff of white breath escaping. Next to her, someone with the height of a girl is following along like a servant."
+    },
+    {
+        "message": "A thin layer of snow had piled up on the donkey's load, which was surprisingly light. Even so, the beast's gait was unsteady. But the woman didn't mind at all and kept pulling the reins straight ahead."
+    },
+    {
+        "message": "On top of the hills ahead, there was a pretty large stone building, and these two were probably heading there."
+    },
+    {
+        "message": "They're way too unnatural to be parent and child. The older woman glances back at the girl following her from time to time, but she doesn't seem to have any intention of matching her pace to the girl struggling through the deep snow."
+    },
+    {
+        "message": "If the girl had reins attached to her nose, I feel like I'd pull her along without hesitation. That phrase that just popped into my head—'like a servant'—might have accidentally hit the nail on the head."
+    },
+    {
+        "name": "Maria",
+        "message": "Yeah, I did see the letter from the Cardinal."
+    },
+    {
+        "message": "　　　　　　Seems like we don't have any reason to turn you two away."
+    },
+    {
+        "message": "It looks like I'm inside the huge stone building I saw earlier in the snow. Through the window behind the woman, I can still see the snow falling."
+    },
+    {
+        "message": "The woman is dressed as a nun. If that's the case, then this must be the Monastery."
+    },
+    {
+        "name": "Maria",
+        "message": "Even so......"
+    },
+    {
+        "name": "Maria",
+        "message": "Lushion, how many years has it been since I last saw you？"
+    },
+    {
+        "message": "　　　　　　When we first met, you were just about the same age as that girl."
+    },
+    {
+        "name": "Lushion",
+        "message": "That's right, Sister Maria."
+    },
+    {
+        "message": "　　　　　　　　To be the head of the Monastery at such a young age, that's really impressive."
+    },
+    {
+        "name": "Maria",
+        "message": "Was that supposed to be sarcasm？"
+    },
+    {
+        "message": "　　　　　　It's true, I didn't have the qualities of an academic seeker."
+    },
+    {
+        "name": "Maria",
+        "message": "But maybe that was just right for me."
+    },
+    {
+        "message": "　　　　　　I'm satisfied with my current position."
+    },
+    {
+        "name": "Lushion",
+        "message": "I didn't mean to be sarcastic."
+    },
+    {
+        "message": "　　　　　　　　If　that's　how　it　came　across,　then　I　apologize."
+    },
+    {
+        "name": "Maria",
+        "message": "That's enough already."
+    },
+    {
+        "message": "　　　　　　More importantly, what business do you have at this Monastery..."
+    },
+    {
+        "name": "Lushion",
+        "message": "『What do you want?'—what does that mean?"
+    },
+    {
+        "message": "　　　　　　　　Everything is left up to you."
+    },
+    {
+        "message": "　　　　　　　　You must be thinking that we should devote ourselves to faith in this institution."
+    },
+    {
+        "name": "Maria",
+        "message": "Stop playing dumb."
+    },
+    {
+        "message": "　　　　　　Do you really think I don't know what kind of work you do under the Cardinal？"
+    },
+    {
+        "name": "Maria",
+        "message": "I'm aware that you're working as a spy for the Cardinal. As the spearhead of the internal audit, you'll investigate the immoral acts happening in the institution and report the facts."
+    },
+    {
+        "name": "Maria",
+        "message": "But, there's no such thing at this monastery at all."
+    },
+    {
+        "message": "　　　　　　Why did you set your sights on the Miskatonic Monastery?"
+    },
+    {
+        "name": "Lushion",
+        "message": "It seems like you might be misunderstanding something."
+    },
+    {
+        "message": "　　　　　　　　We're　just　humble　nuns　who　serve　God,　nothing　more."
+    },
+    {
+        "name": "Maria",
+        "message": "You still hate me, don't you......"
+    },
+    {
+        "name": "Maria",
+        "message": "That might be only natural."
+    },
+    {
+        "message": "　　　　　　If only I had closed my eyes back then......"
+    },
+    {
+        "name": "Maria",
+        "message": "You wouldn't have just ended up as an ordinary nun, would you?"
+    },
+    {
+        "message": "　　　　　　You were even expected to become the first female cardinal, after all."
+    },
+    {
+        "name": "Maria",
+        "message": "But I couldn't just overlook your mistake."
+    },
+    {
+        "message": "　　　　　　貴女の将来を台無しにしてしまった。"
+    },
+    {
+        "name": "Maria",
+        "message": "Back then, you......"
+    },
+    {
+        "name": "Lushion",
+        "message": "シスター・マリア！"
+    },
+    {
+        "name": "Maria",
+        "message": "I'm sorry........."
+    },
+    {
+        "name": "Lushion",
+        "message": "This girl is Sarah, for whom I am the guardian."
+    },
+    {
+        "message": "　　　　　　　　She's a smart kid for her age, and I brought her along because I want to show her around here and there while she's still young."
+    },
+    {
+        "name": "Maria",
+        "message": "I see........."
+    },
+    {
+        "name": "Lushion",
+        "message": "Well then, we'll be in your care for a while."
+    },
+    {
+        "name": "Maria",
+        "message": "Life here might be hard for you, you know, in this institution......"
+    },
+    {
+        "name": "Angelica",
+        "message": "相変わらず心配性ね、マリア。"
+    },
+    {
+        "message": "　　　　　　　　　What do you expect me to do now, after all this time?"
+    },
+    {
+        "name": "Maria",
+        "message": "Angelica......"
+    },
+    {
+        "message": "　　　　　　I'm　talking　to　you　two　right　now."
+    },
+    {
+        "name": "Angelica",
+        "message": "久しぶりねリュション、もう何年ぶりかしら？"
+    },
+    {
+        "name": "Lushion",
+        "message": "‥‥‥‥‥‥‥"
+    },
+    {
+        "name": "Maria",
+        "message": "Angelica, please, I'm begging you, stop it..."
+    },
+    {
+        "name": "Angelica",
+        "message": "Shut up, I'm not gonna do anything to you or anything."
+    },
+    {
+        "message": "　　　　　　　　　It's just, I was feeling a bit nostalgic."
+    },
+    {
+        "name": "Angelica",
+        "message": "What's wrong？"
+    },
+    {
+        "message": "　　　　　　　　　You say you don't even want to look at my face."
+    },
+    {
+        "name": "Lushion",
+        "message": "‥‥‥‥‥‥‥"
+    },
+    {
+        "name": "Angelica",
+        "message": "Well, whatever."
+    },
+    {
+        "name": "Angelica",
+        "message": "We'll get to see each other every day from now on, right?"
+    },
+    {
+        "message": "　　　　　　　　　It's nice to have some change in the boring life at the monastery."
+    },
+    {
+        "name": "Lushion",
+        "message": "Nice to meet you, Sister Angelica."
+    },
+    {
+        "name": "Maria",
+        "message": "Angelica, do you understand what kind of position these two people have？"
+    },
+    {
+        "name": "Maria",
+        "message": "These two are the Cardinal's‥‥‥‥"
+    },
+    {
+        "name": "Angelica",
+        "message": "Oh my, did you really say that yourself？"
+    },
+    {
+        "message": "　　　　　　　　　No, that's not it."
+    },
+    {
+        "name": "Lushion",
+        "message": "Yeah, that's a misunderstanding on Sister Maria's part."
+    },
+    {
+        "name": "Angelica",
+        "message": "I thought so."
+    },
+    {
+        "name": "Maria",
+        "message": "That's enough, I've had more than enough of this..."
+    },
+    {
+        "name": "Maria",
+        "message": "I'll have someone show you to your room."
+    },
+    {
+        "message": "　　　　　　You're　probably　tired　today,　so　there's　no　need　for　you　to　attend　mass."
+    },
+    {
+        "name": "Angelica",
+        "message": "See you, Lushion."
+    },
+    {
+        "message": "　　　　　　　　　Let's meet again tomorrow, okay?"
+    },
+    {
+        "message": "It's a shabby stone-built room. The faint light of a candle softly illuminates the interior."
+    },
+    {
+        "message": "Sitting on the bed and talking are Lushion and Sarah from earlier. Since they've taken off their hoods, they look a bit more human."
+    },
+    {
+        "name": "Sarah",
+        "message": "Do you really think something is happening in this monastery？"
+    },
+    {
+        "message": "　　　　　It really doesn't look that way to me."
+    },
+    {
+        "name": "Lushion",
+        "message": "We haven't seen anything yet."
+    },
+    {
+        "message": "　　　　　　　　Stop trying to jump to conclusions so quickly."
+    },
+    {
+        "name": "Sarah",
+        "message": "Yes, Lushion-sama."
+    },
+    {
+        "name": "Lushion",
+        "message": "Even so..."
+    },
+    {
+        "message": "　　　　　　　　I　can't　believe　Angelica　is　at　the　Miskatonic　Monastery."
+    },
+    {
+        "name": "Sarah",
+        "message": "Do you know her？"
+    },
+    {
+        "message": "　　　　　It seemed like she really hated you, Lushion-sama..."
+    },
+    {
+        "name": "Lushion",
+        "message": "Yeah, I suppose so."
+    },
+    {
+        "message": "　　　　　　　　From her perspective, I can't really blame her."
+    },
+    {
+        "name": "Sarah",
+        "message": "Did... something happen？"
+    },
+    {
+        "name": "Lushion",
+        "message": "Sarah, stop asking foolish questions."
+    },
+    {
+        "name": "Sarah",
+        "message": "Yes... I'm sorry."
+    },
+    {
+        "name": "Lushion",
+        "message": "Anyway, there's no doubt that something is happening in this convent."
+    },
+    {
+        "name": "Lushion",
+        "message": "Dozens of nuns have disappeared in just a single year, and it seems like the convent doesn't want that to be made public..."
+    },
+    {
+        "name": "Lushion",
+        "message": "Sarah, you should go to sleep now."
+    },
+    {
+        "message": "　　　　　　　　You've had a long day, right？"
+    },
+    {
+        "name": "Sarah",
+        "message": "Yes... but... I..."
+    },
+    {
+        "name": "Lushion",
+        "message": "...Yeah, well then, let's offer our evening prayers,"
+    },
+    {
+        "message": "　　　　　　　　and have a good rest tonight."
+    },
+    {
+        "name": "Lushion",
+        "message": "I really doubt anything will happen on the very night we arrived."
+    },
+    {
+        "name": "Sarah",
+        "message": "...Our Father, who art in heaven..."
+    },
+    {
+        "name": "Sarah",
+        "message": "...Lead us not into temptation..."
+    },
+    {
+        "name": "Sarah",
+        "message": "...But deliver us from evil..."
+    },
+    {
+        "name": "Lushion",
+        "message": "(…Just what on earth is going on…)"
+    }
+]

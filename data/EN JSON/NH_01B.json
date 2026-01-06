@@ -1,0 +1,380 @@
+[
+    {
+        "message": "It's a room that looks like an office."
+    },
+    {
+        "message": "The safe is just like it was when I found that armlet."
+    },
+    {
+        "message": "The floor was messed up with countless footprints, and it's impossible to tell how many people came into the room."
+    },
+    {
+        "message": "You can totally tell how nervous and panicked we were."
+    },
+    {
+        "message": "It can't be helped since I'm not used to doing things like a thief..."
+    },
+    {
+        "message": "精錬所の隣の部屋はかつて事務所のように使われていたらしく、室内にあるのは古い無骨な金庫と、これも機能一点張りの事務机、書類などを収めておくキャビネットだけだ。"
+    },
+    {
+        "message": "On the wall, there's a painting that's way too out of place for this room."
+    },
+    {
+        "message": "The whole room looks way too new for something that was supposedly built at least back in the 19th century."
+    },
+    {
+        "message": "It must be something that was added on after Philip Dunwich's death."
+    },
+    {
+        "message": "Even though the walls of the Refinery are just boards put together, the walls in this room are properly coated with plaster."
+    },
+    {
+        "message": "I didn't expect the gold armlet to still be here, even though it was left unguarded for decades."
+    },
+    {
+        "message": "Even if someone snuck into this room before us, they probably weren't able to find the key to the Safe."
+    },
+    {
+        "message": "It's locked."
+    },
+    {
+        "message": "Judging by the shiny new plating, it looks like the combination hasn't been changed."
+    },
+    {
+        "message": "It's a really old and rugged Safe."
+    },
+    {
+        "message": "It wasn't a modern one with multiple sheets of metal layered together, but seemed to be made by pouring molten iron into a mold, so it must be pretty heavy too."
+    },
+    {
+        "message": "With this, not only is it hard to take it anywhere, but even breaking the door and grabbing what's inside would be tough."
+    },
+    {
+        "message": "It looks like a type of safe that won't open unless you match the number and stick in the key, but judging by the fresh look of the plating, it doesn't seem like the number part has ever been used."
+    },
+    {
+        "message": "If only I had the key, I could look inside..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "これは‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "腕輪だ。"
+    },
+    {
+        "message": "　　　　　　　　I　can't　believe　something　like　this　was　left　behind......"
+    },
+    {
+        "name": "Thomas",
+        "message": "Hey, let me get a better look at that."
+    },
+    {
+        "message": "The armlet gives off a dull sheen like gold."
+    },
+    {
+        "message": "On the surface, there's a pattern inspired by vines that looks like arabesque, and a figure of a creature that reminds you of a mermaid is carved into it."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Professor, this pattern..."
+    },
+    {
+        "name": "Gardner",
+        "message": "No doubt about it, it's clearly carved by someone from the same culture and customs as the murals in the ruins."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Is this gold？"
+    },
+    {
+        "message": "　　　　　　　　But　it　feels　a　bit　too　light　for　that."
+    },
+    {
+        "name": "Gardner",
+        "message": "That explains the large-scale equipment at the refinery."
+    },
+    {
+        "message": "　　　　　　　　That armlet seems to be made of a metal very similar to gold, but it's not real gold."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Did Philip know how to turn that metal into real gold?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's like he's some kind of medieval alchemist."
+    },
+    {
+        "name": "Gardner",
+        "message": "I don't know where he got them from, but he must have hauled in a ton of ornaments like this armlet, melted them down in the furnace, and processed them into gold bars."
+    },
+    {
+        "name": "Thomas",
+        "message": "Who cares about that kind of story, anyway?"
+    },
+    {
+        "message": "　　　　　　So,　how　much　is　that　thing　worth？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "If we keep going like this, it probably won't be worth a damn."
+    },
+    {
+        "message": "　　　　　　　　After all, this isn't real pure gold."
+    },
+    {
+        "name": "Gardner",
+        "message": "どんな民族が作った物かも解らんようでは、学術的な　　　　　　　　価値も無いに等しい。"
+    },
+    {
+        "name": "Thomas",
+        "message": "What did you say？"
+    },
+    {
+        "message": "　　　　　　So it's just a piece of junk, huh."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Philip knew how to turn that junk into expensive gold."
+    },
+    {
+        "name": "Gardner",
+        "message": "That doesn't matter at all."
+    },
+    {
+        "message": "　　　　　　　　More importantly, the pattern engraved on the surface of the Armlet is the problem."
+    },
+    {
+        "name": "Gardner",
+        "message": "With this, there's no doubt anymore that Philip is the very guy who brought over those Ruins."
+    },
+    {
+        "name": "Jonathan",
+        "message": "The question is, why did they bring the ruins here?　　　　　　　　Could it have something to do with the gold armlet?"
+    },
+    {
+        "name": "Gardner",
+        "message": "One thing I can say is that the people who worshipped those Ruins definitely made this Armlet."
+    },
+    {
+        "name": "Gardner",
+        "message": "It's the same with the gold massively exported from Arkham."
+    },
+    {
+        "message": "　　　　　　　　Philip found an unbelievable cash cow, huh."
+    },
+    {
+        "message": "Looks like the refinery's ledger."
+    },
+    {
+        "message": "It hasn't been moved in decades."
+    },
+    {
+        "message": "Looks like it's a ledger."
+    },
+    {
+        "message": "It's neatly organized, but there's no sign it's been touched in decades."
+    },
+    {
+        "message": "Since it doesn't look all that old, it seems like keeping these ledgers didn't start all that long ago."
+    },
+    {
+        "message": "I'm sure it's just some sloppy crap to dodge taxes anyway."
+    },
+    {
+        "message": "After all, nobody but the people themselves could ever check how much gold actually got brought into the Refinery."
+    },
+    {
+        "message": "It's completely yellowed from the humidity and dust."
+    },
+    {
+        "message": "This must have been written by the person who used this office, but it's ironic that their scribbled memo outlived them."
+    },
+    {
+        "message": "It's stuck onto the plaster wall all haphazardly."
+    },
+    {
+        "message": "Since it's from when this refinery was in use, that means this memo is from decades ago."
+    },
+    {
+        "message": "The paper is yellowed and wrinkled from dust and moisture."
+    },
+    {
+        "message": "The contents don't seem to be important enough to be preserved for decades."
+    },
+    {
+        "message": "It's a not-so-old filing cabinet."
+    },
+    {
+        "message": "It's locked, so I can't see inside."
+    },
+    {
+        "message": "It's locked, so I can't see inside."
+    },
+    {
+        "message": "I wonder what kind of documents are in there, but since there's no key, it looks like there's no way to see inside."
+    },
+    {
+        "message": "The appearance doesn't seem that old, so there's no doubt it was installed a few years before this place was abandoned."
+    },
+    {
+        "message": "That painting looks out of place in a room like an office."
+    },
+    {
+        "message": "Looks like the key isn't hidden anymore."
+    },
+    {
+        "message": "That painting really doesn't fit in this room that looks so much like an office."
+    },
+    {
+        "message": "I don't really know what's drawn here, though........"
+    },
+    {
+        "name": "Thomas",
+        "message": "In novels and stuff, there's usually a key hidden behind a painting like this, you know."
+    },
+    {
+        "name": "Jonathan",
+        "message": "A key, you say？"
+    },
+    {
+        "message": "　　　　　　　　What key are you talking about?"
+    },
+    {
+        "name": "Thomas",
+        "message": "Yeah, doesn't that safe over there smell kinda bad？"
+    },
+    {
+        "message": "　　　　　　Maybe there's a mountain of gold bars inside or something."
+    },
+    {
+        "name": "Jonathan",
+        "message": "『A 'mountain of gold bars' is hard to believe, but the thing about a safe key sounds pretty likely."
+    },
+    {
+        "name": "Thomas",
+        "message": "探してみなよ。"
+    },
+    {
+        "message": "I took the painting off the wall and, getting both my hands covered in dust, felt around the back of the frame."
+    },
+    {
+        "name": "Jonathan",
+        "message": "There it is........."
+    },
+    {
+        "name": "Thomas",
+        "message": "See, didn't I tell you?！"
+    },
+    {
+        "message": "　　　　　　よこしてみろよ、金庫の鍵だぜ、きっと。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "そう焦るなよ。"
+    },
+    {
+        "message": "　　　　　　　　Even if there was a gold bar, it's not like I'd just hog it all to myself, right？"
+    },
+    {
+        "name": "Thomas",
+        "message": "Yeah, sure！"
+    },
+    {
+        "message": "　　　　　　Whatever,　just　hurry　up　and　open　it."
+    },
+    {
+        "message": "It's not the key for this desk."
+    },
+    {
+        "message": "Besides, there's no reason to go out of your way to hide the desk drawer key, right?"
+    },
+    {
+        "message": "There's no way anyone would put important stuff in a desk when there's a safe."
+    },
+    {
+        "message": "I stuck the key into the keyhole of the desk drawer."
+    },
+    {
+        "message": "Nope, it doesn't fit."
+    },
+    {
+        "message": "Looks like it's not the key for this desk."
+    },
+    {
+        "message": "It's not the key for this filing cabinet."
+    },
+    {
+        "message": "If there's anywhere else that's locked..."
+    },
+    {
+        "message": "I stuck the key into the filing cabinet."
+    },
+    {
+        "message": "Guess it's not the key for this either."
+    },
+    {
+        "message": "I'm curious about what kind of documents are in there, but..."
+    },
+    {
+        "message": "I stuck the key I found behind the painting into the safe's keyhole."
+    },
+    {
+        "message": "With a 'click', the lock opens."
+    },
+    {
+        "name": "Thomas",
+        "message": "See, I told you so."
+    },
+    {
+        "message": "　　　　　　Come on, open it already！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Hold on, the numbers might not match."
+    },
+    {
+        "message": "　　　　　　　　Someone might've spun them around as a prank, you know？"
+    },
+    {
+        "name": "Thomas",
+        "message": "There's no sign it's been used at all."
+    },
+    {
+        "message": "　　　　　　Besides, people in this village are seriously careless anyway."
+    },
+    {
+        "name": "Jonathan",
+        "message": "よし、開けてみるぞ‥‥‥‥"
+    },
+    {
+        "message": "The door of the safe creaked on its hinges and opened easily."
+    },
+    {
+        "message": "The inside is split into two levels, and there doesn't seem to be any gold bars inside."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Looks like it was a letdown."
+    },
+    {
+        "message": "　　　　　　　　紙束はどうやら船にかけていた保険の証書みたいだ。　　　　　　　　今じゃ紙屑に等しい値打ちしかない。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "後は‥‥‥‥"
+    },
+    {
+        "message": "　　　　　　　　取引の明細みたいだな。"
+    },
+    {
+        "name": "Thomas",
+        "message": "Wait, that... That ring-looking thing on the upper left..."
+    },
+    {
+        "message": "　　Go outside　　"
+    }
+]

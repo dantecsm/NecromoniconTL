@@ -1,0 +1,191 @@
+[
+    {
+        "message": "At the reception desk of the Archives, there's a woman who isn't very friendly sitting there. She seems pissed off that we broke the rules and barged into the president's office without permission."
+    },
+    {
+        "message": "She wasn't particularly friendly to begin with, but now, just seeing our faces makes her scowl fiercely."
+    },
+    {
+        "name": "Dorothy",
+        "message": "You guys, you're the ones from the other day......"
+    },
+    {
+        "message": "It's the woman at the Archives reception desk."
+    },
+    {
+        "message": "Judging by that terrifying expression, it looks like the fact that we snuck into the president's office has already been found out."
+    },
+    {
+        "name": "Dorothy",
+        "message": "Didn't I tell you not to do that？"
+    },
+    {
+        "message": "　　　　　　　You can't complain if you get sued for trespassing, you know."
+    },
+    {
+        "name": "Gardner",
+        "message": "Hm, I have no clue what you're talking about？"
+    },
+    {
+        "message": "　　　　　　　　Did we end up doing something totally crazy?"
+    },
+    {
+        "name": "Dorothy",
+        "message": "Don't play dumb with me."
+    },
+    {
+        "message": "　　　　　　　What did you do with the Map？"
+    },
+    {
+        "message": "For an archives in a desolate rural backwater, it's a pretty impressive building."
+    },
+    {
+        "message": "The only shame is that the villagers and officials don't seem too enthusiastic about preserving this building."
+    },
+    {
+        "message": "This is the Archives reception desk."
+    },
+    {
+        "message": "The floor is made of marble, but it seems to be quite old and not well cared for, so it’s been a long time since it lost its characteristic shine."
+    },
+    {
+        "message": "The door in the back probably leads to what used to be inside the university."
+    },
+    {
+        "message": "I don't know how much stuff you've collected, but chances are pretty damn low that what's on the inside beats how you look on the outside."
+    },
+    {
+        "message": "Neatly organized index cards are installed all over the wall."
+    },
+    {
+        "message": "If this woman named Dorothy is managing it all by herself, she must be a pretty meticulous woman."
+    },
+    {
+        "message": "Looks like these are index cards made so they can answer questions about the library's collection and other various collected items."
+    },
+    {
+        "message": "But with no tourists visiting the village, and the villagers themselves indifferent to their village's history, it doesn't really seem to have much effect."
+    },
+    {
+        "message": "It wasn't something made out of necessity; it's probably just some bureaucrat who's passionate about streamlining administrative work, obsessed with gathering and categorizing information, setting this up without even thinking about how things work on the ground."
+    },
+    {
+        "message": "In these not-so-busy rural government offices, having one skilled and experienced person is way more useful than any fancy gimmick."
+    },
+    {
+        "message": "Since I’ll just end up with nothing to do anyway, mopping the floor or making tea will probably be my main jobs."
+    },
+    {
+        "message": "The counter is neatly organized, with not a single personal item that shows any of Dorothy's personality."
+    },
+    {
+        "message": "In an archives that hardly even gets any visitors, how does she kill all that boring time?"
+    },
+    {
+        "message": "The Counter that's been used for so long has lost its shine, turned all dark and dull, and has become a completely worthless piece of junk."
+    },
+    {
+        "message": "この建物がまだ大学だった頃には、ここは学生たちが集うただのホールだったはずだから、それほど古い物とは思われない。"
+    },
+    {
+        "message": "They must've been treated really roughly all this time."
+    },
+    {
+        "name": "Dorothy",
+        "message": "You guys should be done with your business already, right？"
+    },
+    {
+        "message": "　　　　　　　From　now　on,　come　when　I'm　not　here."
+    },
+    {
+        "message": "She totally looks like a textbook office worker, like a model you'd see in a training manual for new hires at a government office."
+    },
+    {
+        "message": "That deep navy, almost uniform-like outfit weirdly suits her, and it's hard to even imagine what she'd look like wearing anything else."
+    },
+    {
+        "message": "They're giving us a disapproving look for barging into the president's office without permission, but they don't really seem like the type who's fired up about their work. Maybe it's a show of will to take charge, or maybe they're just extremely afraid of getting involved in trouble."
+    },
+    {
+        "name": "Dorothy",
+        "message": "What do you want？"
+    },
+    {
+        "message": "　　　　　　　If you're trying to get on my good side, don't bother. Just leave before I call the cops."
+    },
+    {
+        "message": "Dorothy's tone sounds more scared than threatening."
+    },
+    {
+        "message": "She seems to be afraid of getting involved with us."
+    },
+    {
+        "name": "Dorothy",
+        "message": "Please leave this Archives right now."
+    },
+    {
+        "message": "　　　　　　　I'll call someone, you know."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I just want to look something up in the stacks for a bit. I won't cause you any trouble or anything."
+    },
+    {
+        "name": "Dorothy",
+        "message": "What more could you possibly want to look up here?"
+    },
+    {
+        "message": "　　　　　　　You guys barged right into a restricted area and messed around all the way to the corners, didn't you？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I can't really argue with that, but I want you to believe me."
+    },
+    {
+        "message": "　　　　　　　　We'll give it back right after we make a copy."
+    },
+    {
+        "name": "Dorothy",
+        "message": "Obviously, right？ If they find out something got stolen,"
+    },
+    {
+        "message": "　　　　　　　I'll get fired."
+    },
+    {
+        "name": "Dorothy",
+        "message": "You guys probably don't get it, but finding a decent job in Arkham isn't your average struggle."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I didn't mean to cause you any trouble."
+    },
+    {
+        "name": "Dorothy",
+        "message": "とにかく、帰っていただきます。"
+    },
+    {
+        "message": "　　　　　　　私には適当でないと思われる人物の資料館の利用を禁止　　　　　　　する権限が与えられています。"
+    },
+    {
+        "name": "Dorothy",
+        "message": "I've never exercised that authority before, but you guys　　　　　　　might just be the first example."
+    },
+    {
+        "message": "It's like there's not even a branch to cling to."
+    },
+    {
+        "message": "It'd be bad to cause trouble in a place like this."
+    },
+    {
+        "message": "It's not like I'll find anything even if I check the archives now anyway......"
+    },
+    {
+        "message": "If Dorothy is working hard at the reception, there's no way I could sneak into the president's office again."
+    },
+    {
+        "message": "ドロシーがいない時を見計らって忍び込むしかなさそうだ。"
+    },
+    {
+        "message": "　　外に出る　　"
+    }
+]

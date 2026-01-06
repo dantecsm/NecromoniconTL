@@ -1,0 +1,242 @@
+[
+    {
+        "message": "Returned to the underground passage."
+    },
+    {
+        "message": "There are doors in front of me leading to five rooms."
+    },
+    {
+        "message": "It's an underground passage."
+    },
+    {
+        "message": "Traces of the fire remain plainly all around."
+    },
+    {
+        "name": "Gardner",
+        "message": "Isn't it useless no matter how many times we come here？"
+    },
+    {
+        "message": "　　　　　　　　Unless we get really lucky, I doubt there's anything left unburnt after such a terrible fire."
+    },
+    {
+        "name": "Gardner",
+        "message": "I feel like it's just a waste of time..."
+    },
+    {
+        "message": "Came to the passage under the Monastery."
+    },
+    {
+        "message": "In front of me there are five doors, each leading to a room."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Now that I think about it, maybe this underground is where I saw that woman being violated by someone in my dream on the first day I came to Arkham."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Does that mean the room with the corpse was used for that kind of thing too?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "The corpse of the woman who had shackles on her arms and legs might have been a nun who died in shame."
+    },
+    {
+        "name": "Cordelia",
+        "message": "That's awful..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "But, why the hell was that kind of thing happening under the Monastery？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't know."
+    },
+    {
+        "message": "　　　　　　　　This guy Pietro seemed to be doing some sort of experiment."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Experiment？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't know that much."
+    },
+    {
+        "message": "　　　　　　　　If we want to know more, we've got no choice but to see another dream."
+    },
+    {
+        "message": "The mortar has changed because of the flames."
+    },
+    {
+        "message": "It's super fragile, and it wouldn't be weird if it collapsed on top of us at any moment."
+    },
+    {
+        "message": "Like a coal miner afraid of a cave-in, I feel an unbearable sense of fear and oppression, and I just want to run away right now."
+    },
+    {
+        "message": "It wouldn't be strange if it collapsed at any moment."
+    },
+    {
+        "message": "事実、天井の一部にはひびが入り、崩れ落ちている場所もある。"
+    },
+    {
+        "message": "Even though it's right after a fire, the floor doesn't look dirty with ash or anything."
+    },
+    {
+        "message": "Come to think of it, the stairs leading down to the basement seem less like they were naturally buried and more like someone deliberately hid them."
+    },
+    {
+        "message": "There's no doubt it had been left alone for a long time, but it also seems to be true that someone snuck into this Basement after the fire."
+    },
+    {
+        "message": "Does that mean there are other people besides us who are interested in the Monastery？"
+    },
+    {
+        "message": "Or maybe, there was something suspicious about this fire, so an investigation was done..."
+    },
+    {
+        "message": "細かい瓦礫が散乱しているが、行き来出来ない程でもない。"
+    },
+    {
+        "message": "You'd think the floor would be dirty with ash after a fire, but there's no sign of that at all."
+    },
+    {
+        "message": "Did someone clean it up, I wonder?"
+    },
+    {
+        "message": "Just like the other doors, it's almost completely charred and looks like it'll crumble apart just by touching it."
+    },
+    {
+        "message": "Things like the handle have melted and fallen off from the heat, so it doesn't even keep its original shape anymore."
+    },
+    {
+        "message": "It's easy to get inside, but with the place in such a terrible state, I doubt there's anything left in here."
+    },
+    {
+        "message": "This is the room Pietro used as his laboratory, huh."
+    },
+    {
+        "message": "While looking at the Necronomicon, he was talking about something with another guy."
+    },
+    {
+        "message": "It seems like they had a plan to mass-produce Deep Ones using the Monastery, but that ambition was thwarted by Sarah, and they must have lost their life in the fire."
+    },
+    {
+        "message": "Or maybe, did Pietro escape the monastery safely and keep going with his plan afterward?"
+    },
+    {
+        "message": "This room is, if I recall, the one where melted shards of glass that still looked like beakers and medicine bottles from the laboratory were lying around."
+    },
+    {
+        "message": "I feel like this was also the room where Pietro and another man were talking about something with the Necronomicon in their hands in my dream."
+    },
+    {
+        "message": "もしも、この修道院の跡に本があるとしたら、もっとも可能性が高いのはこの部屋に間違いない"
+    },
+    {
+        "name": "Cordelia",
+        "message": "この部屋がどうかしたの？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "夢の中でピエトロという男がネクロノミコンを読んで　　　　　　　　いた部屋だ。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Wasn't there some melted glass and stuff like old books that fell in there?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Also, there was a hole in the wall of the room."
+    },
+    {
+        "message": "　　　　　　　　In the next room, there are stairs that go even deeper underground......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "ピエトロは自分が部屋に開けた出入口を塞いだと言っ　　　　　　　　ていたような気がする。"
+    },
+    {
+        "message": "Rubble is covering the door, so you can't get inside."
+    },
+    {
+        "message": "It's possible to enter the next room through the collapsed part of the wall in the Laboratory next door, but it doesn't look like there's anything in this room."
+    },
+    {
+        "message": "There’s an underground passage that cuts across Arkham and goes all the way to the cliffs facing the sea, but I don’t think there’s any real point in actually going there."
+    },
+    {
+        "message": "The door leading to this room is blocked by rubble and can't be gotten through."
+    },
+    {
+        "message": "We have no choice but to slip in through the hole in the wall of the room next door that looks like a laboratory."
+    },
+    {
+        "message": "初めてあの壁を見た時から出入口を漆喰で塞いだ跡のように見えたが、夢の中で聞いたピエトロの言葉を信ずるならば、例の異形の怪物が出す耐えられない匂いの為に自分で入り口を塞いだという。"
+    },
+    {
+        "message": "Unfortunately, I couldn't pick up the smell in my dream, but if I knew what kind of smell it was, I might be able to tell when the monster showed up right next to me."
+    },
+    {
+        "message": "It's the door to the room with two corpses."
+    },
+    {
+        "message": "Judging from the shackles attached to the arms and legs hanging from the wall, and the old bloodstains soaked into the walls and floor, many nuns must have become victims of Pietro."
+    },
+    {
+        "message": "It looks like he was conducting some kind of research, but was it really something so important that it required sacrificing that many nuns?"
+    },
+    {
+        "message": "Is Nai targeting Cordelia because, like Pietro, he wants to use her as an experiment for his own research？"
+    },
+    {
+        "message": "It’s the room with Angelica’s and another corpse whose gender is unknown. Considering what I saw in the dream, it makes sense to think the other one is Lushion or Pietro."
+    },
+    {
+        "message": "But would someone who ordered Sarah not to let a single nun live then try to save herself?"
+    },
+    {
+        "message": "It’s a room where many coffins have been left abandoned."
+    },
+    {
+        "message": "Probably the ones in the coffins are the bodies of nuns with no family, but still, not even a single act of mourning is just too cruel."
+    },
+    {
+        "message": "Shut in shabby coffins and left in the dark basement where no one comes to visit their graves, how do they feel about being treated so horribly?"
+    },
+    {
+        "message": "Apparently, this room was especially badly burned."
+    },
+    {
+        "message": "The entrance door is completely gone, and the walls around it are terribly blackened."
+    },
+    {
+        "message": "It's too dark to see inside, but maybe it was a room where they stored particularly flammable stuff."
+    },
+    {
+        "message": "It's probably because Sarah found a barrel of oil and dumped its contents all over the place."
+    },
+    {
+        "message": "This room has burn marks worse than anywhere else."
+    },
+    {
+        "message": "The oil barrels must've been heavy for a weak girl to carry alone, and to spread oil all over the whole monastery, she would've had to make countless trips between here and the storeroom."
+    },
+    {
+        "message": "Room on the front left"
+    },
+    {
+        "message": "Room on the front right"
+    },
+    {
+        "message": "　Room in the back right　"
+    },
+    {
+        "message": "　　Room in the back　　"
+    },
+    {
+        "message": "　　Go outside　　"
+    }
+]

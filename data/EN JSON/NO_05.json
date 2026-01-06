@@ -1,0 +1,731 @@
+[
+    {
+        "message": "It was inside a void of darkness. Even though my eyes were open, I couldn’t see anything."
+    },
+    {
+        "message": "I remember up to the point where I tried to leave the Archives chasing after Thomas, who had Cordelia with him, but........"
+    },
+    {
+        "name": "Voice",
+        "message": "Finally... all of the pieces are in place."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Who... are you..."
+    },
+    {
+        "name": "Voice",
+        "message": "Are you asking me that？ I can't believe you finally decided to listen to this voice... How pathetic I am！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "You... Every time I lost consciousness, you slipped in. ...And then showed me dreams... bizarre songs..."
+    },
+    {
+        "name": "Voice",
+        "message": "That's right. Did you like the dream I showed you？ Well, everything in it really happened though. It's just that the one who did it was..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Like I'd know！"
+    },
+    {
+        "message": "　　　　　　　　Why　are　you　giving　me　a　dream　like　this...？"
+    },
+    {
+        "message": "　　　　　　　　Whether it's a dream or reality, what the hell does that have to do with me！"
+    },
+    {
+        "name": "Voice",
+        "message": "You'll understand soon enough. You're about to witness the end of the Monastery firsthand."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't want to have dreams like this anymore！ I have to go look for Cordelia."
+    },
+    {
+        "name": "Voice",
+        "message": "Your will is already under the control of my power. There's no way you can escape from this curse."
+    },
+    {
+        "name": "Sarah",
+        "message": "Lushion-sama........"
+    },
+    {
+        "name": "Sarah",
+        "message": "I have to save Lushion no matter what."
+    },
+    {
+        "name": "Sarah",
+        "message": "But... what should I do？"
+    },
+    {
+        "name": "Lushion",
+        "message": "If you think I'm going to give in to you guys, you're dead wrong. Let me go right now and get out of the institute."
+    },
+    {
+        "name": "Lushion",
+        "message": "Otherwise, the Inquisition will be waiting for you. And for you, it's the guillotine."
+    },
+    {
+        "name": "Pietro",
+        "message": "Hah！ She's a tough woman. Even though her hands and feet are shackled, she can still talk like that."
+    },
+    {
+        "name": "Lushion",
+        "message": "If I don't go back, the Cardinal will just send in the next spy."
+    },
+    {
+        "name": "Pietro",
+        "message": "You sure talk a lot for a girl. Are you scared or something？"
+    },
+    {
+        "name": "Angelica",
+        "message": "I can’t believe you’d show yourself in such a pathetic state. It’s honestly hilarious."
+    },
+    {
+        "name": "Pietro",
+        "message": "I heard from Maria, but apparently you're quite a sinful woman. They say you got deeply involved with the priest who's supposed to be your guardian, and even had his kid."
+    },
+    {
+        "name": "Pietro",
+        "message": "Maria snitched about that, and because of it, you had to get an abortion."
+    },
+    {
+        "name": "Pietro",
+        "message": "She's a woman who committed a huge sin no nun should ever commit！ I was waiting for a woman with such deep karma to show up."
+    },
+    {
+        "name": "Lushion",
+        "message": "What are you planning to do......"
+    },
+    {
+        "name": "Pietro",
+        "message": "Nah, it's not that complicated."
+    },
+    {
+        "name": "Pietro",
+        "message": "You just need to deal with the monster over there."
+    },
+    {
+        "name": "Lushion",
+        "message": "Wha‥‥‥‥‥what did you say？"
+    },
+    {
+        "name": "Pietro",
+        "message": "You still don't get it？ I want you to have that monster's semen poured inside your body, and make a half-breed between a monster and a human."
+    },
+    {
+        "name": "Pietro",
+        "message": "最初は苦痛かもしれんが、すぐに慣れるさ。"
+    },
+    {
+        "name": "Pietro",
+        "message": "In fact, a lot of women, after going insane from how horrifying it was, started thrusting their hips and writhed around in ecstasy, tears of joy streaming down their faces."
+    },
+    {
+        "name": "Lushion",
+        "message": "Th-there's absolutely no way I'd ever do something like that！"
+    },
+    {
+        "name": "Pietro",
+        "message": "I'm not asking you, you know？"
+    },
+    {
+        "name": "Lushion",
+        "message": "How can you do something so inhuman? How many innocent nuns have you done that to up until now?"
+    },
+    {
+        "name": "Pietro",
+        "message": "All of them. There are probably women I don't even know myself, since there were times I finished things while they were asleep."
+    },
+    {
+        "name": "Lushion",
+        "message": "That kind of thing..."
+    },
+    {
+        "name": "Angelica",
+        "message": "You're so stubborn, Lushion. Just give up already and let yourself be turned into that monster."
+    },
+    {
+        "name": "Angelica",
+        "message": "Seriously... what a sight！"
+    },
+    {
+        "name": "Pietro",
+        "message": "This monster is a real pain in the ass. It's hard to kill, but in exchange, it grows slowly and is hard to be born in the first place."
+    },
+    {
+        "name": "Pietro",
+        "message": "To summon Cthulhu, you need a ton of bait. With the number we've got now, it's nowhere near enough."
+    },
+    {
+        "name": "Lushion",
+        "message": "Cthulhu, you say？"
+    },
+    {
+        "name": "Pietro",
+        "message": "Looks like you know. It's about a god who has powerful strength and lives in the world of darkness."
+    },
+    {
+        "name": "Lushion",
+        "message": "How do you know about that...? The Necronomicon is supposed to be the only one, locked away in the Vatican's forbidden library."
+    },
+    {
+        "name": "Pietro",
+        "message": "I got my hands on it."
+    },
+    {
+        "message": "　　　　　　　The very last copy of the English translation of the original Arabic manuscript written by Abdul Alhazred."
+    },
+    {
+        "name": "Pietro",
+        "message": "Well, I first learned about that god before I got my hands on the Necronomicon."
+    },
+    {
+        "name": "Pietro",
+        "message": "I saw some natives on an island worshipping it. Most likely, Abdul Alhazred saw the same thing and that's why he wrote the Necronomicon."
+    },
+    {
+        "name": "Pietro",
+        "message": "Those trash had no choice but to fear and worship it, but I'm different."
+    },
+    {
+        "name": "Pietro",
+        "message": "I'll take the angry god into my own hands and obtain that great power called Cthulhu."
+    },
+    {
+        "name": "Lushion",
+        "message": "There's no way I could do something like that......"
+    },
+    {
+        "name": "Pietro",
+        "message": "I learned from reading the Necronomicon that Cthulhu will not awaken unless a massive amount of 'things to be fed'—in other words, Deep Ones—are provided."
+    },
+    {
+        "name": "Pietro",
+        "message": "Like I said earlier, Deep Ones don't increase easily, so that's why I thought about mixing them with humans."
+    },
+    {
+        "name": "Lushion",
+        "message": "How could you... You're a devil."
+    },
+    {
+        "name": "Pietro",
+        "message": "The natives didn't even realize they were being made into 'things to be fed' themselves, so why would it be wrong for me to do the same？"
+    },
+    {
+        "name": "Angelica",
+        "message": "Enough with your speeches already！"
+    },
+    {
+        "name": "Angelica",
+        "message": "It's about time I get to calmly watch your face twist in shame."
+    },
+    {
+        "name": "Angelica",
+        "message": "I'll laugh at you as you revel in getting soaked by a filthy monster's semen！"
+    },
+    {
+        "name": "Pietro",
+        "message": "Not happening. You're going to end up as food for the Deep Ones too, together with this woman."
+    },
+    {
+        "name": "Angelica",
+        "message": "What did you say！"
+    },
+    {
+        "name": "Angelica",
+        "message": "No way, why would I—"
+    },
+    {
+        "name": "Pietro",
+        "message": "You've been a bit too uppity. I don't like it when others butt into my business."
+    },
+    {
+        "name": "Angelica",
+        "message": "Ngh... Let me go！"
+    },
+    {
+        "name": "Pietro",
+        "message": "Weren't you fighting with that woman over the cult leader？ You really shouldn't abandon an old friend like that."
+    },
+    {
+        "name": "Angelica",
+        "message": "N-no way！ Why do I have to be with such a filthy monster..."
+    },
+    {
+        "name": "Pietro",
+        "message": "You're no longer needed. Maria will take your place, so don't worry about it."
+    },
+    {
+        "name": "Angelica",
+        "message": "You awful man！ You were just using me, weren't you?"
+    },
+    {
+        "name": "Pietro",
+        "message": "Nai, chain Angelica to the shackles."
+    },
+    {
+        "name": "Pietro",
+        "message": "That other woman can't even move her numb hands and feet now, she won't be able to run. Just leave her lying on the floor."
+    },
+    {
+        "name": "Nai",
+        "message": "This time it'll work, right？ There's no more room for failure."
+    },
+    {
+        "name": "Pietro",
+        "message": "I tossed the new medicine I made into the soup pot. This time should be fine."
+    },
+    {
+        "name": "Angelica",
+        "message": "W-what did you say？"
+    },
+    {
+        "message": "　　　　　　　　　So I was being set up from the start！"
+    },
+    {
+        "name": "Pietro",
+        "message": "Well then, enjoy yourself—savor the taste of your last pleasure in this world."
+    },
+    {
+        "name": "Angelica",
+        "message": "Ugh... please..."
+    },
+    {
+        "name": "Angelica",
+        "message": "Why are you doing this to me? I've always served you faithfully..."
+    },
+    {
+        "name": "Pietro",
+        "message": "Why, you ask？ How insulting. You girls were chosen as shrine maidens. Offer your bodies to me and my god, become the sacrifice for our covenant."
+    },
+    {
+        "name": "Lushion",
+        "message": "I don't care about your god！ Even if you kill me, I won't do what you want."
+    },
+    {
+        "name": "Pietro",
+        "message": "How long can you keep pretending to be tough... Once tonight is over, you'll become a sacrifice too."
+    },
+    {
+        "name": "Pietro",
+        "message": "Whether you like it or not, you don't really get to choose."
+    },
+    {
+        "name": "Angelica",
+        "message": "I've served you faithfully all this time！　　　　　　　　And yet... and yet..."
+    },
+    {
+        "name": "Pietro",
+        "message": "That means you're no longer needed. The time has come... the time of awakening is near."
+    },
+    {
+        "name": "Pietro",
+        "message": "The women who had the Deep One's seed implanted in their wombs will soon begin to give birth to cursed children."
+    },
+    {
+        "name": "Angelica",
+        "message": "Ah... I don't want that. To end up like those women, writhing and suffering as they gave birth to filthy babies right in front of me..."
+    },
+    {
+        "name": "Pietro",
+        "message": "It's already too late, don't you get it? Do you even know what's happening inside your own belly?"
+    },
+    {
+        "name": "Angelica",
+        "message": "No！ I don't want that abomination... inside me！"
+    },
+    {
+        "name": "Lushion",
+        "message": "Nn...D-Do you really think you can make me submit...with something like this？"
+    },
+    {
+        "name": "Lushion",
+        "message": "Foolish...just how foolish can you be..."
+    },
+    {
+        "name": "Pietro",
+        "message": "Ohhh..."
+    },
+    {
+        "name": "Pietro",
+        "message": "Keep tormenting these accursed ones...More！"
+    },
+    {
+        "name": "Lushion",
+        "message": "Ugh..."
+    },
+    {
+        "name": "Pietro",
+        "message": "Filthy creature！"
+    },
+    {
+        "name": "Pietro",
+        "message": "You started thrusting your hips and came from being with a Deep One."
+    },
+    {
+        "name": "Lushion",
+        "message": "‥‥‥‥‥‥‥"
+    },
+    {
+        "name": "Pietro",
+        "message": "お前達女は、あの化け物どもと少しも変わらん。低能で　　　　　　　恥を知らず、節操がない。"
+    },
+    {
+        "name": "Pietro",
+        "message": "No matter who it is, if you grind your hips and get filled with cum, you'll get pregnant. Go ahead and give birth to that filthy, cursed child！"
+    },
+    {
+        "name": "Pietro",
+        "message": "Soon, this village will be overflowing with Deep Ones.　　　　　　　That's when Cthulhu will break his long silence."
+    },
+    {
+        "name": "Pietro",
+        "message": "You’re going to give birth to the child that’ll be their food. Isn’t that an honor beyond compare？"
+    },
+    {
+        "name": "Lushion",
+        "message": "Damn you, demon... May you be cursed！"
+    },
+    {
+        "name": "Pietro",
+        "message": "I'm not scared of threats like that."
+    },
+    {
+        "name": "Pietro",
+        "message": "Now you see just how powerless that so-called god you worship really is, right? Gods without any power should all just be thrown into the sea together！"
+    },
+    {
+        "name": "Pietro",
+        "message": "They'll be here soon."
+    },
+    {
+        "name": "Pietro",
+        "message": "The god of anger will shatter all your illusions."
+    },
+    {
+        "name": "Lushion",
+        "message": "\"Sarah...... run...... hurry！\""
+    },
+    {
+        "name": "Pietro",
+        "message": "There's no guarantee you'll even survive until then."
+    },
+    {
+        "name": "Lushion",
+        "message": "《来ては駄目！》"
+    },
+    {
+        "name": "Lushion",
+        "message": "Sarah！"
+    },
+    {
+        "name": "Sarah",
+        "message": "Lushion-sama........."
+    },
+    {
+        "name": "Sarah",
+        "message": "Me...... me......"
+    },
+    {
+        "name": "Sarah",
+        "message": "I wanted to help you sooner...... but there was nothing I could do."
+    },
+    {
+        "name": "Sarah",
+        "message": "If only I could have helped sooner‥‥‥‥"
+    },
+    {
+        "name": "Lushion",
+        "message": "It's okay... it's okay now."
+    },
+    {
+        "name": "Sarah",
+        "message": "But！"
+    },
+    {
+        "name": "Lushion",
+        "message": "Just get over here."
+    },
+    {
+        "name": "Lushion",
+        "message": "Sarah, you saw everything that's happened until now, right？"
+    },
+    {
+        "name": "Sarah",
+        "message": "......Yeah."
+    },
+    {
+        "name": "Lushion",
+        "message": "So, you know what's happening in this monastery, and what that monster did to me, right?"
+    },
+    {
+        "name": "Sarah",
+        "message": "I don't know... I don't know anything！"
+    },
+    {
+        "name": "Lushion",
+        "message": "嘘を言っては駄目よ。あなたには何もかも解っている　　　　　　　　でしょう。"
+    },
+    {
+        "name": "Sarah",
+        "message": "Noo... I don't wanna understand！"
+    },
+    {
+        "name": "Lushion",
+        "message": "Sarah！"
+    },
+    {
+        "message": "　　　　　　　　Calm down and listen. This is something only you can do."
+    },
+    {
+        "name": "Sarah",
+        "message": "Yes... Lushion-sama..."
+    },
+    {
+        "name": "Lushion",
+        "message": "この修道院の女達は、全員私のようにあの怪物の精を　　　　　　　　植え付けられていると考えて間違いないでしょう。"
+    },
+    {
+        "name": "Sarah",
+        "message": "......well then......"
+    },
+    {
+        "name": "Lushion",
+        "message": "If a woman who had semen planted inside her gave birth to a half-breed child with that accursed monster‥‥‥‥"
+    },
+    {
+        "name": "Lushion",
+        "message": "Someone else will be driven mad with desire, just like this man, and a tragedy will happen all over again."
+    },
+    {
+        "name": "Sarah",
+        "message": "That can't be‥‥‥No, that's not true！ I don't　　　　　think humans are that evil！"
+    },
+    {
+        "name": "Lushion",
+        "message": "Yeah... but, it's weak."
+    },
+    {
+        "message": "　　　　　　　　Even this guy, if he just hadn't crossed paths with something evil, probably wouldn't have ended up being used for the revival of the evil god."
+    },
+    {
+        "name": "Sarah",
+        "message": "...Lushion-sama...even so..."
+    },
+    {
+        "name": "Lushion",
+        "message": "‥‥‥サラ。"
+    },
+    {
+        "message": "　　　　　　　　If you hadn't saved me back then, I would've drowned in my desires, seeking pleasure, and eventually ended up opening my body to that monster myself."
+    },
+    {
+        "name": "Sarah",
+        "message": "Ah... no way..."
+    },
+    {
+        "name": "Lushion",
+        "message": "‥‥‥ですから‥‥‥いいわね？　この院から一人た　　　　　　　　りとも修道女を外に出すわけにはいかない。"
+    },
+    {
+        "name": "Sarah",
+        "message": "...Yeah..."
+    },
+    {
+        "name": "Lushion",
+        "message": "Set the monastery on fire. Make sure you prepare thoroughly so that no one escapes."
+    },
+    {
+        "name": "Sarah",
+        "message": "But... then Lushion-sama too！"
+    },
+    {
+        "name": "Lushion",
+        "message": "辛いでしょうけど、耐えてちょうだい。あなたにしか　　　　　　　　出来ない事なのよ。"
+    },
+    {
+        "name": "Sarah",
+        "message": "わたしにリュション様を殺すことなんて出来る訳ない‥‥"
+    },
+    {
+        "name": "Sarah",
+        "message": "To part with Lushion... and go on living all by myself..."
+    },
+    {
+        "name": "Sarah",
+        "message": "And also, the women in this monastery..."
+    },
+    {
+        "name": "Sarah",
+        "message": "Innocent women who don't know anything..."
+    },
+    {
+        "name": "Sarah",
+        "message": "I'm trying to burn them to death！"
+    },
+    {
+        "name": "Sarah",
+        "message": "My face is reflected in the oily film on the barrel."
+    },
+    {
+        "name": "Sarah",
+        "message": "...That's the face of a killer..."
+    },
+    {
+        "name": "Sarah",
+        "message": "Ah...! Lushion-sama!"
+    },
+    {
+        "name": "Sarah",
+        "message": "This sin is way too much for me to bear！"
+    },
+    {
+        "name": "Sarah",
+        "message": "With this sin, I can't live alone..."
+    },
+    {
+        "name": "Sarah",
+        "message": "Lushion-sama...... Aren't you cold？"
+    },
+    {
+        "name": "Lushion",
+        "message": "Yeah, I don't feel anything anymore."
+    },
+    {
+        "name": "Sarah",
+        "message": "You can still stop now."
+    },
+    {
+        "message": "　　　　　Why don't you go home and talk it over with the cardinal？"
+    },
+    {
+        "name": "Lushion",
+        "message": "No, we don't have time to be doing that."
+    },
+    {
+        "message": "　　　　　　　　This guy is gonna get away."
+    },
+    {
+        "name": "Sarah",
+        "message": "Lushion-sama.........well, I’ll be off then......"
+    },
+    {
+        "name": "Lushion",
+        "message": "Wait up, Sarah."
+    },
+    {
+        "name": "Sarah",
+        "message": "！"
+    },
+    {
+        "name": "Lushion",
+        "message": "You..."
+    },
+    {
+        "name": "Lushion",
+        "message": "Surely, you're not thinking of doing something stupid, right？"
+    },
+    {
+        "name": "Sarah",
+        "message": "‥‥‥‥‥‥"
+    },
+    {
+        "name": "Lushion",
+        "message": "Sarah... you don't have to suffer, you know."
+    },
+    {
+        "name": "Lushion",
+        "message": "Sarah... It's okay if you hate me."
+    },
+    {
+        "name": "Lushion",
+        "message": "Even though I knew something terrible was happening at this monastery, I still dragged you into it......"
+    },
+    {
+        "name": "Lushion",
+        "message": "Sarah, I probably... have no right to call myself your guardian."
+    },
+    {
+        "name": "Lushion",
+        "message": "But, just one last thing...... Listen to what I have to say."
+    },
+    {
+        "name": "Lushion",
+        "message": "Live...... Sarah."
+    },
+    {
+        "name": "Lushion",
+        "message": "After something like this happened, you probably can't work serving God anymore, and you probably don't feel like it either.　　　　　　　　But that's okay."
+    },
+    {
+        "name": "Lushion",
+        "message": "Sarah... Be happy."
+    },
+    {
+        "name": "Lushion",
+        "message": "Humans are weak, and sinful......"
+    },
+    {
+        "name": "Lushion",
+        "message": "But, that's exactly why you have to seek happiness.　　　　　　　　You understand, right, Sarah………"
+    },
+    {
+        "name": "Lushion",
+        "message": "...You can do it..."
+    },
+    {
+        "name": "Lushion",
+        "message": "......Sarah......"
+    },
+    {
+        "name": "Sarah",
+        "message": "《Lushion-sama......》"
+    },
+    {
+        "name": "Sarah",
+        "message": "《Please, forgive me.》"
+    },
+    {
+        "name": "Sarah",
+        "message": "'Please forgive me for not being able to save you.'"
+    },
+    {
+        "name": "Sarah",
+        "message": "《God, please guide the souls of these people......》"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Are you saying this is what happened at this Monastery？"
+    },
+    {
+        "name": "Voice",
+        "message": "That's right. Everything you saw is the whole, unvarnished truth."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What does what that guy was doing have to do with me?　　　　　　　　It all turned to ashes along with the Monastery, didn't it?"
+    },
+    {
+        "name": "Voice",
+        "message": "Really？ If that's true, then why are you here？"
+    },
+    {
+        "name": "Voice",
+        "message": "Try to really remember what you saw and heard in Arkham."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What the hell！ What are you talking about."
+    },
+    {
+        "name": "Voice",
+        "message": "Before long, you and I will meet again."
+    },
+    {
+        "name": "Voice",
+        "message": "Before you make your final decision. Until then, you might as well suffer as much as you can."
+    }
+]

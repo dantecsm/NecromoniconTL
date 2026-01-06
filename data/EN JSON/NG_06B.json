@@ -1,0 +1,211 @@
+[
+    {
+        "message": "The corpse of the Deep One I should have killed is gone."
+    },
+    {
+        "message": "I can only think that someone came here and cleaned this up..."
+    },
+    {
+        "message": "ナイやダゴンの信者達は何処に行ってしまったのだろうか。"
+    },
+    {
+        "message": "Are you really not going to do anything, even though Cordelia, whom you've cherished and raised with so much love, is about to fall into Thomas's hands？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Looks like there's nobody here......"
+    },
+    {
+        "message": "The inside of the Church is completely empty."
+    },
+    {
+        "message": "Where could Dagon's followers have disappeared to?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "ここにいても仕方がないようですね。"
+    },
+    {
+        "message": "　　　　　　　　There probably aren't any secret passages or hidden rooms either."
+    },
+    {
+        "name": "Gardner",
+        "message": "That's right...... Jonathan！"
+    },
+    {
+        "name": "Gardner",
+        "message": "Behind you！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "There might still be more of them out there......"
+    },
+    {
+        "message": "　　　　　　　　I see monsters more often than people."
+    },
+    {
+        "name": "Gardner",
+        "message": "Let's get out of here quick, my body can't take this."
+    },
+    {
+        "message": "The followers of Dagon seem to have disappeared, but I wonder where they went."
+    },
+    {
+        "message": "I went inside the Church of Dagon."
+    },
+    {
+        "message": "Coming here, I can't help but remember Cordelia's figure from last night, whether I want to or not."
+    },
+    {
+        "message": "Unconscious, Cordelia exposed her naked body at Nai's command. She looked like a beautiful specimen carefully preserved after being killed, and also like an extremely delicately crafted doll."
+    },
+    {
+        "message": "The lust-crazed gazes of the Dagon cultists, ruled by madness, run over her body as if licking it‥‥‥‥‥"
+    },
+    {
+        "message": "Even though they're open, Cordelia's eyes that see nothing look just like glass prosthetic eyes."
+    },
+    {
+        "message": "Her full chest rising and falling with each breath, and her slightly parted lips occasionally moving as if mumbling in her sleep, are some of the few signs that she’s still alive."
+    },
+    {
+        "message": "You can tell at a glance, but Cordelia isn't here."
+    },
+    {
+        "message": "There doesn't seem to be anywhere to hide here, and it doesn't look like there's any hidden passage leading somewhere else, either."
+    },
+    {
+        "message": "Walking around the village without a solid reason is nothing but a waste of time."
+    },
+    {
+        "message": "こんな事をして、時間を浪費するのは無駄のように思うが‥‥‥‥"
+    },
+    {
+        "message": "ただ徒に手当たり次第に村を回ってみてもあまり意味はないのかもしれない、こんな所で時間を浪費するぐらいなら、もっと先に調べなければならない事があるはずだ。"
+    },
+    {
+        "message": "We should probably check out Dollie's study in the Dunwich Mansion first."
+    },
+    {
+        "message": "If we go there, we should be able to figure out everything that's happening in this village."
+    },
+    {
+        "message": "After Dollie's death, the only reason Marsh learned all the secrets when he entered the room was because something had been left behind."
+    },
+    {
+        "message": "The floor of the Church is covered with stone, and the surrounding walls are reinforced with plaster."
+    },
+    {
+        "message": "There's no way I could hide a book in a place like this."
+    },
+    {
+        "message": "Also, if you think about it, aren’t the true owners of the Necronomicon actually Dagon’s followers and Nai?"
+    },
+    {
+        "message": "There's no reason for them to have to hide the Necronomicon."
+    },
+    {
+        "message": "If Nai had it, she’d probably hold up the book in front of her followers with a proud look on her face."
+    },
+    {
+        "message": "I wonder if Nai doesn't have the Necronomicon."
+    },
+    {
+        "message": "If Nai had that, she'd probably proudly hold the book up in front of her followers."
+    },
+    {
+        "message": "Maybe they're also still searching for the Necronomicon, convinced it's hidden somewhere in the village, but still haven't been able to find it."
+    },
+    {
+        "message": "I wonder where Nai, who used to proudly speak with eloquence in front of the believers, has gone."
+    },
+    {
+        "message": "Now that Cordelia has been taken away by Thomas, maybe Nai is searching for them too."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I can't believe something's hidden in a place like this..."
+    },
+    {
+        "message": "　　　　　　　　Basically,　there’s　way　too　little　stuff　in　this　Church."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Is this really the only room in the Church?"
+    },
+    {
+        "message": "　　　　　　　　Where does Nai sleep and stay？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "私がそんな事を知ってる訳ないだろう。"
+    },
+    {
+        "message": "　　　　　　　　Even if there are other rooms, I have no idea where I should go from, and I definitely don't want to run into Nai."
+    },
+    {
+        "name": "Cordelia",
+        "message": "If you keep saying things like that, you'll never find it no matter how long you wait."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Actually, I kinda think Nai might not have the Necronomicon."
+    },
+    {
+        "name": "Cordelia",
+        "message": "But the fish ghost-like thing we saw is moving under Nai's orders, right？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "If you don't have that book called the Necronomicon, you can't control them however you want, right？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Maybe that's not actually the case."
+    },
+    {
+        "message": "　　　　　　　　何度かダゴンのミサを覗き見たが、ナイが本を手にし　　　　　　　　ている姿は目にしていない。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "If they really had such an authoritative book, wouldn't you think it'd be normal to proudly read it out loud in front of their followers？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Now that you mention it, maybe that's true..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I bet Nai doesn't actually have the Necronomicon, but knows it's hidden somewhere in the village and just hasn't been able to find it until now."
+    },
+    {
+        "message": "It's a stained glass, about as tall as a person, skillfully made by fitting together beautiful pieces of colored glass."
+    },
+    {
+        "message": "In this bleak Church, it's the only thing that brings a sense of splendor, but it's so out of place compared to the surroundings that it actually feels completely wrong here."
+    },
+    {
+        "message": "Cordelia's white naked body standing in front of this is overshadowed by the flood of colors behind her, and because thick clouds block out the sunlight, the intricately crafted stained glass looks like a dull black."
+    },
+    {
+        "message": "Cordelia's white naked body, standing before me, was made even more beautiful by the flood of color behind her, possessing an almost head-spinning, majestic atmosphere."
+    },
+    {
+        "message": "Even for the believers who should be used to seeing that sight, her beautiful naked body would become a tool to stir up special feelings."
+    },
+    {
+        "message": "From the patterns on the stained glass, it doesn't look like I can get any information about Dagon, or about where the Necronomicon is hidden, or anything like that."
+    },
+    {
+        "message": "I never would have thought someone could hide in here."
+    },
+    {
+        "message": "蒸気を送るパイプはひどく高温になるはずだし、人が入れるほどのスペースはないだろう。"
+    },
+    {
+        "message": "Inside the organ, all kinds of pipes run through every inch, so there shouldn't be anywhere to hide anything in there."
+    },
+    {
+        "message": "　　Go outside　　"
+    }
+]

@@ -1,0 +1,286 @@
+[
+    {
+        "message": "The store is already closed."
+    },
+    {
+        "message": "There's no sign of anyone in the shop, and the windows are dark."
+    },
+    {
+        "message": "In front of the only general store in the village."
+    },
+    {
+        "message": "No matter when I come, I can never tell if this place is always busy or if it just never gets any customers."
+    },
+    {
+        "message": "In front of the only general store in the village."
+    },
+    {
+        "message": "No matter when I come, I can't tell if it's always bustling or if not a single customer ever shows up."
+    },
+    {
+        "message": "At the very least, it seems like the villagers don't want to reveal to us what kind of food they eat or what kind of luxuries they like to indulge in."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Oh, do you need something at 'Hans's shop'？"
+    },
+    {
+        "message": "　　　　　　　　If there's something you need, I can get it for you."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So the owner here is called Hans, huh."
+    },
+    {
+        "message": "　　　　　　　　That's a name that's just too perfect for the owner of a general store buried in the dust of the countryside."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Unless you absolutely have to, don't shop here.　　　　　　　　The goods aren't good, and the prices aren't any cheaper than other places."
+    },
+    {
+        "name": "Gardner",
+        "message": "しかし、村人達に選択の余地はないだろう？"
+    },
+    {
+        "message": "　　　　　　　　村にはここ一件しか店がないんだから。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "You guys aren't villagers, are you？"
+    },
+    {
+        "message": "　　　　　　　　Besides, it's not like I really mind going all the way to Salem town myself."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That guy, he looks like a nice person, but is he making a living by taking advantage of people's weaknesses?"
+    },
+    {
+        "name": "Gardner",
+        "message": "Saying you don't want to leave the village is just way too selfish and spoiled. You can't just blame Hans for everything, can you？"
+    },
+    {
+        "message": "Tiny grains of sand carried by the wind have piled up, making small hills."
+    },
+    {
+        "message": "Even this former Main Street looks like it'll vanish without a trace, buried under sand before long."
+    },
+    {
+        "message": "Even though this area has pretty much turned into a bunch of abandoned houses, since there are still remnants of homes and shops around, the wind feels a bit weaker here."
+    },
+    {
+        "message": "Even so, fine grains of sand that couldn’t be completely cleared away have piled up along the roadside. It could be partly because the shop owner, Hans, isn’t all that passionate about keeping the store going, but at this rate, won’t it end up getting buried in sand eventually?"
+    },
+    {
+        "message": "There doesn't seem to be anyone inside."
+    },
+    {
+        "message": "No matter how much you call out, no one's gonna come."
+    },
+    {
+        "message": "The entrance to the general store is tightly locked, and there's no sign of anyone inside."
+    },
+    {
+        "message": "It's not surprising at this hour, but it looks like if I want to shop, I'll have to wait till tomorrow."
+    },
+    {
+        "message": "I wonder if the villagers here don’t feel inconvenienced, since they can’t get what they need even if something suddenly comes up in the middle of the night."
+    },
+    {
+        "message": "The entrance to the shop remains firmly shut."
+    },
+    {
+        "message": "The shopkeeper doesn't seem to be very enthusiastic about business."
+    },
+    {
+        "message": "Because of the yellowed window glass, I can't see what's going on inside the store."
+    },
+    {
+        "message": "I just hope we don't run into any villagers openly showing hostility toward us the moment we walk into the shop."
+    },
+    {
+        "message": "There's nothing especially interesting on display."
+    },
+    {
+        "message": "With this, no one would even think of going to the trouble of breaking the glass just to steal it."
+    },
+    {
+        "message": "Old-fashioned, worthless goods that you hardly ever see anymore are carelessly displayed here."
+    },
+    {
+        "message": "With this, let alone me, it's hard to even make the villagers want to buy anything."
+    },
+    {
+        "message": "It doesn't seem like they're particularly eager to do business."
+    },
+    {
+        "message": "There's not a single item here that really makes you want to buy it."
+    },
+    {
+        "message": "Like Cordelia said, if there's something I really need, it’s probably best to ask her to get it for me."
+    },
+    {
+        "message": "Everything displayed inside the Show window looks like merchandise that’s centuries old."
+    },
+    {
+        "message": "I can’t believe they have the nerve to boldly show off such old-fashioned stuff."
+    },
+    {
+        "name": "Thomas",
+        "message": "I think it’s pointless to be loitering around here. That guy’s just a plain old cowardly softie, he won’t say a damn thing."
+    },
+    {
+        "name": "Thomas",
+        "message": "What are you planning to do coming to a place like this？"
+    },
+    {
+        "message": "　　　　　　No way, you’re not thinking of looking for souvenirs for your friends before you’ve even figured out how to slip out of the village, are you?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's not it."
+    },
+    {
+        "message": "　　　　　　　　The owner here doesn't seem to be as hostile toward us as the villagers, at least."
+    },
+    {
+        "name": "Thomas",
+        "message": "So what？"
+    },
+    {
+        "message": "　　　　　　You think he's just gonna spill all the stuff the villagers are keeping secret from us?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's possible, isn't it?"
+    },
+    {
+        "message": "　　　　　　　　Hans the owner isn't from this village. There's no reason it would cause him any trouble to talk."
+    },
+    {
+        "name": "Thomas",
+        "message": "It might not cause him trouble, but it won't do him any good either."
+    },
+    {
+        "message": "　　　　　　Humans, you know, they just don't like doing things that don't benefit themselves, right？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Well, go ahead and try."
+    },
+    {
+        "name": "Gardner",
+        "message": "I gave up long ago on expecting anything out of the people living here."
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, if it were just us, sure, but Cordelia's with us too, so maybe we'll get a different reaction than before."
+    },
+    {
+        "name": "Gardner",
+        "message": "I wouldn't count on it."
+    },
+    {
+        "message": "Gardner seems to have gotten pretty pessimistic."
+    },
+    {
+        "message": "There's nothing I can do about this."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Anyway, let's just go and see？"
+    },
+    {
+        "message": "　　　　　　　　Nothing's gonna happen if I just stay here."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Cordelia, you're acquainted with the shop owner Hans here, right？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Well, yeah, but........."
+    },
+    {
+        "message": "　　　　　　　　It's not like I'm a regular at this place or anything."
+    },
+    {
+        "name": "Cordelia",
+        "message": "He comes to my shop a lot, you know."
+    },
+    {
+        "name": "Jonathan",
+        "message": "それでも我々よりはいくらかましだろう。"
+    },
+    {
+        "message": "　　　　　　　　It seems like Hans is hiding something, is there any way we could get it out of him？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Well, I wonder about that."
+    },
+    {
+        "message": "　　　　　　　　ハンスがわたしよりも村の事情に詳しいとは思えない　　　　　　　　のだけれど‥‥‥"
+    },
+    {
+        "message": "Fish Scale Inn"
+    },
+    {
+        "message": "　　　Plaza　　　"
+    },
+    {
+        "message": "　　　遺跡　　　"
+    },
+    {
+        "message": "Gilman House"
+    },
+    {
+        "message": "港"
+    },
+    {
+        "message": "　ダゴンの教会　"
+    },
+    {
+        "message": "資料館"
+    },
+    {
+        "message": "　　Ruins of the Monastery　　"
+    },
+    {
+        "message": "　　　graveyard　　　"
+    },
+    {
+        "message": "ダニッジ邸"
+    },
+    {
+        "message": "魚鱗亭"
+    },
+    {
+        "message": "　　　Plaza　　　"
+    },
+    {
+        "message": "　　　Ruins　　　"
+    },
+    {
+        "message": "ギルマンハウス"
+    },
+    {
+        "message": "　ダゴンの教会　"
+    },
+    {
+        "message": "Harbor"
+    },
+    {
+        "message": "Archives"
+    },
+    {
+        "message": "　　Go inside　　"
+    },
+    {
+        "message": "　　　Map　　　"
+    },
+    {
+        "message": "　　Go inside　　"
+    }
+]

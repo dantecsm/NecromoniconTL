@@ -1,0 +1,197 @@
+[
+    {
+        "message": "Looks like they're open for business. From the back of the reception desk, a delicious smell of food tickles my nose. Seems like I can expect a good meal, too."
+    },
+    {
+        "message": "I shook the raindrops off my hat and coat and set my light travel bag, which only had a change of clothes and toiletries, down on the carpet."
+    },
+    {
+        "message": "Even though I called out two or three times toward the back while I did that, there was no sign of anyone coming out from behind the counter."
+    },
+    {
+        "message": "Even though a warm room and food were just around the corner, somehow I found it pretty ridiculous that I was being kept waiting in a place like this."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Is anybody... there？"
+    },
+    {
+        "message": "Just as I was getting fed up and thinking about heading into the back myself, the curtain behind the counter slid open to the sides."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "I'm so sorry for keeping you waiting..."
+    },
+    {
+        "message": "　　　　　　　　　Aren't you soaked？"
+    },
+    {
+        "message": "She's a really friendly person. Is this Mrs. Hudson the station worker mentioned？ She doesn't really seem like someone who'd be running a not-so-busy inn in a rundown village like this..."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Um... you are...?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Jonathan Swift."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Mr. Swift. Since you're here, that means the bridge is still connected, right？ I'm glad."
+    },
+    {
+        "message": "The room is dark. Years of dust and grease have soaked in, giving it a sense of deep history. The interior probably hasn't changed since the days when lamps were the only source of light."
+    },
+    {
+        "message": "Compared to the seriously weathered exterior, battered by salty wind and rain, the inside has a pleasantly aged feel. Maybe it doesn't feel lonely because of Mrs. Hudson's personality as the hostess."
+    },
+    {
+        "message": "Maybe that old station attendant was attracted to that kind of place, too. Thinking about it that way, perhaps the old man who was so worried about me coming to Arkham has also visited the Fish Scale Inn a few times."
+    },
+    {
+        "message": "It seems the lady isn't someone born and raised in Arkham. I wonder how she met her late husband？"
+    },
+    {
+        "message": "It's pretty rude and pushy to ask something like that right after meeting her. Maybe I'll ask if I get the chance..."
+    },
+    {
+        "message": "If anything, she's got a striking appearance. Her thin eyebrows stretch long to each side, her eyes are sunken, and her lips are thin, looking like someone who doesn't talk much but always seems to smile."
+    },
+    {
+        "message": "Even in a cotton dress that's far from fancy, she wouldn't just be ignored in the corner of a room."
+    },
+    {
+        "message": "Maybe it's because she's naturally modest, but even though she doesn't look like she's even thirty yet, she has this weird calm to her and isn't annoying to be around."
+    },
+    {
+        "message": "I thought only women with high education and a wealth of life experience could develop qualities like this, but I guess I need to rethink that."
+    },
+    {
+        "message": "She's looking at me with a sincere smile. She totally looks like the perfect picture of a virtuous widow, but she's actually got quite a voluptuous body."
+    },
+    {
+        "message": "It kinda feels like a shame for her to just be the mistress of a cheap inn. I wonder how she ended up in a place like this."
+    },
+    {
+        "message": "Do the residents of Arkham not feel anything seeing such a young and beautiful widow? Or did Mrs. Hudson decide to live a lonely life, ignoring any men who come on to her?"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Now, shall we go quickly？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah... right."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Your room is the very first one on the second floor. There are two other gentlemen staying here right now, but they're both perfectly respectable so there won't be any problems."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's fine. Are they both from London？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "That's what it says in the register. Dinner will be ready soon, so you'll meet them in the dining room."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What kind of person are they？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "One of them is Mr. Gardner. I hear he teaches ethnology at the university."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "The other is Mr. Thomas. He only just arrived this morning, so I don't know him very well."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Also, my room is at the back of the first floor, so please come to me anytime if you need anything."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Thank you, that's very kind of you."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Well then, see you in the dining room."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "You haven't had dinner yet, have you？"
+    },
+    {
+        "message": "　　　　　　　　　I'll get it ready right away. Unfortunately, we only have fish... I hope it suits your taste."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Are you running this inn all by yourself？"
+    },
+    {
+        "message": "　　　　　　　　Even making the beds and preparing the meals？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "During the day, someone comes to help me. Of course, we don't really have many overnight guests. Most people just come for the food."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Isn't it unsafe at night？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Oh, Swift-san. This isn't London, you know."
+    },
+    {
+        "message": "It seems different from the old station worker's story... I can't really tell whose story is true. Is that old man just a worrywart like a lot of old folks, or is Mrs. Hudson just unusually thick-skinned..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "But, a woman like you living alone, even if it's not me, don't you think people would naturally take some interest?"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Oh my... Swift-san."
+    },
+    {
+        "message": "　　　　　　　　　You're quite the flatterer."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "But, dealing with an old woman like me isn't any fun at all, you know."
+    },
+    {
+        "message": "I wonder if Mrs. Hudson actually believes that. If this wasn't some backwater place like Arkham, if it were a London salon, there's no doubt dozens of men would be lining up in no time..."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Is something the matter？ Swift-san."
+    },
+    {
+        "message": "　　　　　　　　　Shouldn't you change out of those wet clothes and warm up by the fireplace soon？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Are you staying the night？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I'm planning to stay two or three days, do you have a room？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Yes, I have vacancies. You don't seem to be from around here, where did you come from？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "From London. You're not going to tell me you don't let strangers stay, are you？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Not at all. If I said something like that, I couldn't run an inn. It's just, today there were, unusually, a lot of people who came from out of town..."
+    }
+]

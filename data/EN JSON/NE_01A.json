@@ -1,0 +1,305 @@
+[
+    {
+        "message": "In front of the Archives."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What will you do？"
+    },
+    {
+        "message": "　　　　　　　　Wanna try using the Map right away?"
+    },
+    {
+        "name": "Gardner",
+        "message": "No, more importantly, we should see Old man Marsh first."
+    },
+    {
+        "message": "　　　　　　　　Even if we head to Dunwitch Mansion like this, we won't be able to get inside unless the door's unlocked."
+    },
+    {
+        "name": "Gardner",
+        "message": "First, I need to ask Old man Marsh how I can get into the Dunwitch Mansion."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Alright, shall we go?"
+    },
+    {
+        "message": "We headed to the harbor where Marsh's derelict ships float."
+    },
+    {
+        "name": "Thomas",
+        "message": "I've had enough of this gloomy-ass place."
+    },
+    {
+        "message": "　　　　　　The chick here who looks like an office worker isn't my type anyway."
+    },
+    {
+        "message": "With Cordelia leading us, we arrived at the Archives, which used to be called Miskatonic University."
+    },
+    {
+        "message": "It's true, this building looks way too elaborate to just be called the archives of a small village. It seems relatively new, and as architecture it's worthless—there's really nothing worth looking at right now."
+    },
+    {
+        "name": "Gardner",
+        "message": "Isn't this quite an impressive building?"
+    },
+    {
+        "message": "　　　　　　　　It's got wear and tear here and there, but it doesn't seem like something you'd just throw away."
+    },
+    {
+        "name": "Cordelia",
+        "message": "こんな小さな村には不釣り合いなくらいね。"
+    },
+    {
+        "message": "　　　　　　　　It's so huge that most of it doesn't seem to be used."
+    },
+    {
+        "name": "Gardner",
+        "message": "当然だろうな。"
+    },
+    {
+        "message": "　　　　　　　　With a lot this big, you could toss in every public facility in the village and still have space left over."
+    },
+    {
+        "message": "When I look at the gloomy, overcast sky, it makes me feel gloomy too."
+    },
+    {
+        "message": "Maybe I shouldn't worry about it too much."
+    },
+    {
+        "message": "The sky is still covered with thick, gloomy clouds as always."
+    },
+    {
+        "message": "今にも一雨降り出しそうな具合だ。"
+    },
+    {
+        "message": "If this bad weather keeps up, who knows when we'll actually be able to leave Arkham."
+    },
+    {
+        "message": "The exposed brick walls, their dark brown color fading and starting to turn a pale pink, are right there. The window set with big panes of glass is rusting too, and there's no telling how much longer it'll be able to hold up all that weight."
+    },
+    {
+        "message": "It probably won't even take another hundred years before these school ruins collapse."
+    },
+    {
+        "message": "I kind of feel like it's a bit of a waste, but it's not like this place is worth anything just sitting here."
+    },
+    {
+        "message": "It's a relatively new building."
+    },
+    {
+        "message": "Judging by the architectural style, it looks like it's only been a few decades since it was built, but it's already pretty run-down."
+    },
+    {
+        "message": "Seems like it hasn't really had any proper maintenance since the university shut down."
+    },
+    {
+        "message": "In a depopulated village, it might just be impossible to maintain a closed-down university building."
+    },
+    {
+        "message": "かつては威圧的な雄姿を誇っていたのだろうが、所々スレートの剥がれ落ちた様子からは、当時の威厳など全く感じられない。"
+    },
+    {
+        "message": "The sharply rising roof brings to mind either the Church's bell tower or a watchtower surrounded by a moat. Either way, it feels way too out of place to be a university building..."
+    },
+    {
+        "message": "What was the architect who designed this building hoping to achieve at this university, I wonder."
+    },
+    {
+        "message": "Maybe it's about time I head inside."
+    },
+    {
+        "message": "When I go through the door that's been left wide open, it looks like there's a grassy yard inside."
+    },
+    {
+        "message": "Judging from the outside of the building, it's not hard to imagine just how ruined the garden must be too."
+    },
+    {
+        "name": "Thomas",
+        "message": "If we just do something about the appearance, won't we be able to get away with it somehow？"
+    },
+    {
+        "message": "　　　　　　Maybe, this might actually be quite a find."
+    },
+    {
+        "name": "Thomas",
+        "message": "You sure are acting high and mighty..."
+    },
+    {
+        "message": "　　　　　　A fancy college like that doesn't belong in a dumpy village like this."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I guess that just means it was really thriving back then."
+    },
+    {
+        "message": "　　　　　　　　Now, there's not even a shadow of what it used to be."
+    },
+    {
+        "name": "Thomas",
+        "message": "If they had the money to make something like this, shouldn't they have used it for something more useful？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "There's no point in talking about it."
+    },
+    {
+        "name": "Thomas",
+        "message": "Should I just buy this whole thing and sell it off to some rich bastard with weird tastes?"
+    },
+    {
+        "name": "Gardner",
+        "message": "『The corpse reanimator' Herbert West..."
+    },
+    {
+        "message": "　　　　　　　　Isn't he just the kind of guy who fits right into Arkham?"
+    },
+    {
+        "name": "Gardner",
+        "message": "I don't know who came up with it, but if they thought of turning the university into a money-making scheme, they're way off the mark."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Don't universities make money？"
+    },
+    {
+        "name": "Gardner",
+        "message": "やり方次第だがね‥‥‥‥"
+    },
+    {
+        "message": "　　　　　　　　I　don't　think　we　need　such　a　fancy　dish."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Professor, haven't you heard anything about Miskatonic University？"
+    },
+    {
+        "name": "Gardner",
+        "message": "It was already closed down before I took this job... Yeah, I think they once produced a famous medical doctor or something."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Are you a medical doctor?"
+    },
+    {
+        "name": "Gardner",
+        "message": "I'm sure he said his name was Herbert West."
+    },
+    {
+        "message": "　　　　　　　　But I don’t remember how I ended up becoming famous."
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, I feel like I've heard that name somewhere before."
+    },
+    {
+        "name": "Gardner",
+        "message": "う〜ん‥‥‥"
+    },
+    {
+        "message": "　　　　　　　　What kind of person was he......"
+    },
+    {
+        "name": "Thomas",
+        "message": "Isn't it about the 'corpse reanimator' Herbert West？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah, that's it！"
+    },
+    {
+        "message": "　　　　　　　　I feel like I saw that article in a newspaper clipping in the company's library room."
+    },
+    {
+        "name": "Gardner",
+        "message": "It's all coming back to me little by little..."
+    },
+    {
+        "message": "　　　　　　　　Wasn't it the story of the guy who got expelled from the academic society because he got too obsessed with researching how to bring the dead back to life？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Thomas, how do you know stuff like that？"
+    },
+    {
+        "message": "　　　　　　　　Isn't　that　something　from　before　we　were　even　born?"
+    },
+    {
+        "name": "Thomas",
+        "message": "さてね、どっかで記事を見たんじゃねえかな。"
+    },
+    {
+        "message": "　　　　　　ショッキングな話だったんで覚えてたんだろ。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "No matter how many times I come here, this place is so gloomy."
+    },
+    {
+        "message": "　　　　　　　　Even though they say we're maintaining this with our taxes, I wonder if we really need such a huge, fancy building like this."
+    },
+    {
+        "name": "Cordelia",
+        "message": "なんだか嫌な雰囲気じゃない？"
+    },
+    {
+        "message": "　　　　　　　　I want to get things done before the sun sets."
+    },
+    {
+        "name": "Jonathan",
+        "message": "誰もいないな。"
+    },
+    {
+        "message": "　　　　　　　　I　guess　it's　still　running　as　the　Archives,　right？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Even though there's a nice Archives here, it seems like hardly anyone in the village actually uses it."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Even I, this is my first time going inside, you know."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I wonder if people in this village just aren't interested in their own village's past. Or maybe, the things they really want to know aren't inside this building..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "We won't know unless we check it out, right？"
+    },
+    {
+        "message": "　　　　　　　　This is the only way for us, so even if we don't like it, we've got no choice but to try."
+    },
+    {
+        "message": "Fish Scale Inn"
+    },
+    {
+        "message": "　　　Plaza　　　"
+    },
+    {
+        "message": "General store"
+    },
+    {
+        "message": "　　　Ruins　　　"
+    },
+    {
+        "message": "Gilman House"
+    },
+    {
+        "message": "Harbor"
+    },
+    {
+        "message": "　Church　of　Dagon　"
+    },
+    {
+        "message": "　　Go inside　　"
+    },
+    {
+        "message": "　　　Map　　　"
+    },
+    {
+        "message": "　　Go inside　　"
+    }
+]

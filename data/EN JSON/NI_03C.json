@@ -1,0 +1,185 @@
+[
+    {
+        "message": "It's a room that reminds you of experimental equipment, with melted glass bottles lying around."
+    },
+    {
+        "message": "At some point, an entrance to the next room had opened up in the right wall, and pieces of plaster and wall material were scattered across the floor."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Look at that, the wall's broken."
+    },
+    {
+        "message": "On the wall in the direction Cordelia pointed, an entrance to the adjacent room gaped open, as if it had always been there."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Did it just collapse by accident？"
+    },
+    {
+        "message": "　　　　　　　　But　for　that,　the　shape　looks　way　too　neat."
+    },
+    {
+        "name": "Gardner",
+        "message": "Someone probably sealed up the entrance that originally connected to the next room with plaster."
+    },
+    {
+        "message": "Sure, that does seem like the reasonable way to think about it."
+    },
+    {
+        "message": "The plaster, which had become fragile due to the heat of the fire, must have peeled off for some reason, exposing the original entrance."
+    },
+    {
+        "message": "With this, it looks like I can get into the next room that had its entrance blocked."
+    },
+    {
+        "message": "I wonder what's hidden in the room next door."
+    },
+    {
+        "message": "壁に穿たれた穴は、私ぐらいなら首を曲げなくても十分通り抜けられるほど大きく、元々が出入口だったとすればかなり長身な人間にあわせて造られた物に違いない。"
+    },
+    {
+        "message": "It's obvious that the hole in the wall was made and then blocked up before the fire."
+    },
+    {
+        "message": "I have no idea who did it or what their goal was."
+    },
+    {
+        "message": "Even though there's a door to the room right nearby, I wonder why they have to go out of their way to make a hole in the wall."
+    },
+    {
+        "message": "Maybe they had a reason for not wanting to use the hallway outside too much, so they tried to move from this room, which is even closer than the neighboring room, to the room across the hall."
+    },
+    {
+        "message": "Even if that's the case, what's the reason for going out of your way to block the passage you made？"
+    },
+    {
+        "message": "There's a big crack in the wall."
+    },
+    {
+        "message": "It looks like the mortar wall is about to give out under the weight of the ceiling."
+    },
+    {
+        "message": "Judging by the direction, behind this wall is dirt—it's hard to imagine there'd be some kind of hidden room up ahead."
+    },
+    {
+        "message": "There's a big crack in the wall."
+    },
+    {
+        "message": "I really hope it doesn't collapse while I'm in the room."
+    },
+    {
+        "message": "Just thinking that there's a heavy stone-covered ground above this ceiling sends chills down my spine."
+    },
+    {
+        "message": "Since it’s been left abandoned for over 100 years since the fire, it wouldn’t be surprising if it collapsed at any moment."
+    },
+    {
+        "message": "The crack in the ceiling feels ominous."
+    },
+    {
+        "message": "Feels like I've become a miner scared of a cave-in......"
+    },
+    {
+        "message": "Fragments of plaster are piled up on the floor."
+    },
+    {
+        "message": "It's probably something that peeled off from the cracked part of the wall; the white fragments remind me of broken ceramics shards."
+    },
+    {
+        "message": "The entrance to the room next door was blocked off by piles of rubble, so we shouldn’t have been able to get inside. If only this wall broke, we could get into the room..."
+    },
+    {
+        "message": "Plaster that has peeled off the wall is piled up on the floor."
+    },
+    {
+        "message": "Looks like it came off naturally."
+    },
+    {
+        "message": "It's a pretty old book."
+    },
+    {
+        "message": "To think it survived such a terrible fire..."
+    },
+    {
+        "message": "I picked up the book that was lying on the floor."
+    },
+    {
+        "message": "The leather cover, tanned and then dyed, is charred in spots, making even the title unreadable."
+    },
+    {
+        "message": "It looks like it's from a time when printing technology wasn't common yet and books were expensive, and inside it's a handwritten manuscript, probably something a devoted Nun carefully copied by hand."
+    },
+    {
+        "message": "It looks like it's written in Latin, but there are so many burn marks and smudges that I can barely read any of it."
+    },
+    {
+        "message": "If only I'd thrown myself into language studies more enthusiastically back in my student days......"
+    },
+    {
+        "message": "Since it's in the monastery, it's probably a Bible or something, but it's weird that only this one book just happened to survive the fire."
+    },
+    {
+        "message": "I don't really think it's worth much."
+    },
+    {
+        "message": "I put the book back on the floor."
+    },
+    {
+        "message": "It's a handwritten old manuscript that survived the fire."
+    },
+    {
+        "message": "あまり価値がありそうにも思えない、ここに置いて行こう。"
+    },
+    {
+        "message": "It's a melted glass bottle."
+    },
+    {
+        "message": "It's shaped like a Beaker used in science experiments."
+    },
+    {
+        "message": "Why is something like this under the Monastery？"
+    },
+    {
+        "message": "I picked up the glass bottle, which had melted and only the bottom part was left."
+    },
+    {
+        "message": "The glass, melted by heat and then solidified again, had deformed into a strange, formless shape, like water spilled on the floor."
+    },
+    {
+        "message": "Who used something like this, I wonder."
+    },
+    {
+        "message": "A nun secretly facing experimental equipment in a basement where no one can see... that's beyond the scope of my imagination."
+    },
+    {
+        "message": "Looking at the floor, there's a ton of melted glass that doesn't look anything like its original shape."
+    },
+    {
+        "message": "Weren't there also a lot of other glass instruments?"
+    },
+    {
+        "message": "So this room was the laboratory？"
+    },
+    {
+        "message": "Why is there a room like that in the basement of the Monastery......"
+    },
+    {
+        "message": "I have no idea what's going on."
+    },
+    {
+        "message": "I wonder what other kinds of rooms there are."
+    },
+    {
+        "message": "Looks like some melted glass experimental equipment."
+    },
+    {
+        "message": "I have no idea why something like this is lying around in the Monastery basement."
+    },
+    {
+        "message": "　　Go outside　　"
+    },
+    {
+        "message": "　　The room next door　　"
+    }
+]

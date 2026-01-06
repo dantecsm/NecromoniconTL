@@ -1,0 +1,267 @@
+[
+    {
+        "name": "Thomas",
+        "message": "Damn, still not a single customer as usual."
+    },
+    {
+        "message": "　　　　　　Wouldn't　it　be　better　to　switch　to　a　more　profitable　business　or　something？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Cut it out, the shopkeeper will hear us."
+    },
+    {
+        "message": "　　　　　　　　Do you really want to make it so hard for yourself to stay in this village？"
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "Oh, it's you again. Still wandering around here, huh？ I don't know what's so fun about it, but you're pretty eccentric."
+    },
+    {
+        "message": "I pushed open the squeaky, unoiled door and walked into the shop."
+    },
+    {
+        "message": "The store was filled with a unique smell mixing various foods and floor wax, and the stove kept it nicely warm."
+    },
+    {
+        "message": "The built-in shelves behind the Counter are packed with all sorts of goods. The Sacks on the floor are filled with coarsely ground wheat, Corn, beans, and the like, waiting to be scooped up with rough shovel-like tools and weighed."
+    },
+    {
+        "message": "Just as if he’d been waiting for me to finish thoroughly checking out the store, the young shop owner appeared."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "Welcome. Looking for something？"
+    },
+    {
+        "message": "For his age, he's a pretty humble guy. There's a slight accent in his speech, but I can't tell where it's from. At the very least, it doesn't seem local to this area."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "Customers keep coming one after another this morning. And they're all people I've never seen before."
+    },
+    {
+        "message": "The man spoke with interest and traced the chipped mahogany Counter with his fingertip."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Did a tall, kinda flippant-looking guy and an old man with a short temper, a bit smaller than him, show up here a little while ago?"
+    },
+    {
+        "message": "I asked with gestures. The shopkeeper nodded with a knowing look at my spot-on question, then realized I wasn't going to buy anything and looked bored."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "Ah, then you must be Jonathan, right?"
+    },
+    {
+        "message": "　　　　　You're the one staying at the Fish Scale Inn, aren't you？"
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "If you're not gonna buy it, don't touch it. There are plenty of other customers, you know."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "Do you need anything? I've got pretty much anything you need, even if it's not on display."
+    },
+    {
+        "message": "That’s not a very enthusiastic way of recommending it. Doesn’t seem like they’re all that passionate about business, either."
+    },
+    {
+        "message": "There's nothing here that's particularly interesting..."
+    },
+    {
+        "message": "Maybe it’s better to at least act like I might buy something, so the shopkeeper gets a good impression of me."
+    },
+    {
+        "message": "The shop is overflowing with an unexpectedly large variety of products. Cans of beans and Soup, cosmetics, and so on are lined up in a cluttered way."
+    },
+    {
+        "message": "Most of it is ordinary cheap stuff you can find anywhere, and since it doesn't look particularly dusty, I guess the products turn over pretty well."
+    },
+    {
+        "message": "The shopkeeper has been giving me a shady, suspicious look for a while now."
+    },
+    {
+        "message": "Maybe they think I'm scheming to break the window and steal this register in the middle of the night or something."
+    },
+    {
+        "message": "It's an old cash register I haven't seen in about ten years. I guess it's not really inconvenient, but the owner of this place doesn't seem like the type who's eager to invest in equipment."
+    },
+    {
+        "message": "But still, the old machine somehow fits the vibe of the shop. Something this big and heavy would be a real pain to steal, too."
+    },
+    {
+        "message": "As usual, they don't seem too happy about us checking out the Ruins, but maybe because they're basically a good person, they just can't totally ignore us."
+    },
+    {
+        "message": "男は私たちが遺跡に興味を示していると解ってから、急に表情を曇らせた。まるで私たちが触れてはいけない村の秘密に首を突っ込んでいると言わんばかりに。"
+    },
+    {
+        "message": "When I look at his plain, unfashionable clothes and his defenseless, carefree expression as he looks at me, I can't help but wonder if he's acting like a village bumpkin from the countryside. He's just that much of a textbook, stereotypical guy."
+    },
+    {
+        "message": "He's still a young man. From his thin, pale face, it's easy to imagine that he wasn't born and raised in a fishing village. That strange accent and all—he probably drifted in from somewhere and settled down in Arkham."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "Anyway, that's how I ended up settling down in this village."
+    },
+    {
+        "message": "　　　　　Now that I live here, it's actually not such a bad place."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "Looks like you guys managed to meet up safely."
+    },
+    {
+        "message": "Maybe the shopkeeper's just a nice guy, but he seemed worried about us."
+    },
+    {
+        "message": "Well, in a shop with so few customers like this, maybe there's nothing else that really needs paying attention to."
+    },
+    {
+        "name": "Thomas",
+        "message": "Looks like things are going well for you too! That's great, huh!"
+    },
+    {
+        "message": "　　　　　　I've never seen any other customers in this place, you know."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "Sorry, but you don't gotta worry about that."
+    },
+    {
+        "message": "　　　　　Unlike some gentleman out there, I live a modest life, y'know, so I don't really need that much money."
+    },
+    {
+        "name": "Gardner",
+        "message": "You sure talk big. You don't seem to be from this village, so why are you living here？"
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "I'm definitely not from this village."
+    },
+    {
+        "message": "　　　　　I’m originally from Kent, my family ran an orchard."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why did that happen in this village？"
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "I'd rather you not ask for the reason. I did some reckless things when I was young, and it got kinda hard to stick around. Luckily, someone here in the village offered to let me run a shop."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That was pretty lucky for you."
+    },
+    {
+        "message": "　　　　　　　　You don't get offers like 'why not try running a shop?' all that often."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "Well, people in this village don't really want to go out much, so they probably needed someone who could connect to the outside for stocking up and stuff."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "Fishermen are rough, you know. You might wanna be careful too."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "By the way, what did you guys come to a boring village like this for, anyway？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "The old man I've been talking to is a university professor of ethnology. There's some unusual ruins on the edge of this village."
+    },
+    {
+        "message": "The friendly shopkeeper's face suddenly clouded over. Did I say something I shouldn't have?"
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "So, that means he's the one who's been poking around that area lately, huh?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Is there something wrong about that？"
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "Never mind if it's dangerous... What's the point of investigating something like that anyway."
+    },
+    {
+        "message": "　　　　　The people here make sure not to go near that place."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You guys don't seriously believe something bad happens if you go near the Ruins, right? Is there some superstition like that?"
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "......Well. I'm not from around here either. But, there's no doubt the villagers don't think highly of it. Forcing it through anyway doesn't sit right with me."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "Those two you mentioned earlier, they definitely came in. Yeah, I think it was about 10 minutes ago. The tall one wanted to wait for someone to show up, but the older guy was super impatient."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So he said let's just head out. That’s pretty professor-like, I guess…"
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "You're pretty cold-hearted, huh. Well, it's a pain for me too if you just hang around in the shop forever."
+    },
+    {
+        "message": "Looks like there's no way I'll catch up to those two at this rate."
+    },
+    {
+        "message": "Doesn't look like there's any point in rushing."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "So, the old man said this. If a guy named Jonathan shows up, tell him I've gone ahead, so come as soon as you can."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't even have time to eat breakfast at a decent pace. Looking after a fussy, impatient old man isn't easy."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "Those folks seemed pretty full, but they asked if we had booze, like they wanted a drink. We don't have any alcohol here, so I told them where the pub is."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So you don't deal in alcohol here? Even at the Fish Scale Inn, they didn't have anything stronger than wine, but can you really make a living off of that?"
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "Well, this is a small village after all. It’s all about helping each other out around here, so if you want food, go there, if you want booze, come here. We make sure our businesses don’t get in each other’s way."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Where abouts is that pub? Maybe I ended up heading straight there or something."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "If you go towards the sea down the road in front, and turn right onto a small path along the way, you'll end up on a backstreet off the main road. Back in the day, it sounds like there used to be a lot of foot traffic over there, but now there’s none at all."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "So, at the end of that back alley, there's a place called 'Gilman House.'　　　　　In this village, that's the only pub that serves alcohol."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I wonder if I can go by myself..."
+    },
+    {
+        "name": "Shopkeeper",
+        "message": "It's just a little alley-like street, so you might miss it.　　　　　Seems like that old guy understood though."
+    },
+    {
+        "message": "　　Go outside　　"
+    }
+]

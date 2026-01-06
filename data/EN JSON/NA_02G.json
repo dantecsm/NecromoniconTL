@@ -1,0 +1,178 @@
+[
+    {
+        "message": "When I knocked on the door, I peeked into Thomas's room."
+    },
+    {
+        "message": "The door isn't locked, but there's nobody inside."
+    },
+    {
+        "message": "Looks like Thomas went out somewhere. Just as you'd expect from someone who calls himself a Londoner, he apparently can't sit still in one place."
+    },
+    {
+        "message": "Thomas isn't here. He said something about going to the bathroom......"
+    },
+    {
+        "message": "Mrs. Hudson had gone off somewhere too, so maybe the two of them went out together somewhere."
+    },
+    {
+        "message": "I feel kind of bad judging just by looks, but honestly, the madam and Thomas don’t suit each other at all. It makes more sense to think Thomas dragged her out by force."
+    },
+    {
+        "message": "I knocked on the door and peeked into Thomas's room."
+    },
+    {
+        "message": "The door isn't locked, but no one's inside."
+    },
+    {
+        "message": "Looks like Thomas went out somewhere."
+    },
+    {
+        "message": "He said he was going to the bathroom or something, but who knows if that's true."
+    },
+    {
+        "message": "Just as I was about to touch Thomas's room door, it opened and Thomas appeared."
+    },
+    {
+        "name": "Thomas",
+        "message": "Oh, it's Jonathan."
+    },
+    {
+        "message": "　　　　　　Were you about to come into my room or something？"
+    },
+    {
+        "message": "Looks like Thomas was about to go out somewhere, all dressed and just about to leave the room."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Where are you going at this hour？"
+    },
+    {
+        "name": "Thomas",
+        "message": "I'm not going anywhere, geez."
+    },
+    {
+        "message": "　　　　　　I was just about to step out to the bathroom."
+    },
+    {
+        "message": "Guess I'll stop messing up the room after all."
+    },
+    {
+        "message": "There'll be another chance sooner or later."
+    },
+    {
+        "message": "Thomas is out, so......"
+    },
+    {
+        "message": "If I check his room, I might find out something about that mysterious guy."
+    },
+    {
+        "message": "Nah, but going that far makes me feel kinda guilty."
+    },
+    {
+        "message": "Sure, Thomas is the kind of guy you can't tell what he's up to behind the scenes, but there's still no definite proof he's actually doing anything......"
+    },
+    {
+        "message": "For Thomas, who likes to act like an English gentleman, staying in this old, simple room must be pretty unsatisfying. Maybe Thomas even said something about it in front of Mrs. Hudson and ended up making her upset？"
+    },
+    {
+        "message": "Compared to my room and Gardner's room, which face the main street, Thomas's room looks like it doesn't get much sunlight and has a damp atmosphere. The furnishings aren't much different from ours."
+    },
+    {
+        "message": "Since Mrs. Hudson couldn't have known that I would be coming to this inn today, maybe there was some special reason Thomas was shown to this room."
+    },
+    {
+        "message": "She looks like she's freaking out."
+    },
+    {
+        "message": "I guess she's waiting for someone and worrying she'll be late for their meeting..."
+    },
+    {
+        "message": "She's rocking back and forth, totally restless. It's obvious she's bored out of her mind and wants to ditch this conversation with me ASAP."
+    },
+    {
+        "message": "It doesn't look like she was thrilled that I showed up right when she was about to head out."
+    },
+    {
+        "message": "He denies it, but it’s not like he just heads out for no reason or to wander around—he’s totally got a purpose and is heading somewhere for sure."
+    },
+    {
+        "name": "Thomas",
+        "message": "It’s about time. I don’t wanna piss myself at my age and embarrass myself, so move aside."
+    },
+    {
+        "message": "Looks like this guy’s still a step ahead of me."
+    },
+    {
+        "message": "No matter what I ask now, he’ll probably just keep playing dumb."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Alright, let me ask—what did you do to Mrs. Hudson？"
+    },
+    {
+        "message": "Thomas looks at me with a comically surprised expression, as if I'd asked something totally unexpected, staring back at me sharply."
+    },
+    {
+        "name": "Thomas",
+        "message": "『Did what,' you say? What are you talking about?"
+    },
+    {
+        "message": "　　　　　　Are you saying I attacked her or something?"
+    },
+    {
+        "message": "This guy doesn't seem like he'll go down easily. He's probably way more used to situations like this than I am. Even when things almost got dicey with the villagers at the Tavern, he stayed weirdly calm. He feels like someone who's been through a lot of close calls."
+    },
+    {
+        "name": "Jonathan",
+        "message": "When we got back from the Tavern, you were giving the lady a meaningful look, weren’t you?"
+    },
+    {
+        "name": "Thomas",
+        "message": "Give me a break, even I’m not going around pawing at every girl like some dog in heat, you know？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's not what I meant."
+    },
+    {
+        "message": "　　　　　　　　Back then, the lady looked like she was scared of you."
+    },
+    {
+        "name": "Thomas",
+        "message": "I don't know. I don't care who decides to be scared of me on their own. Besides, maybe you're just mistaken, right？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't think so. I'm a journalist too, you know—I'm pretty good at telling what someone is thinking just by their expression."
+    },
+    {
+        "name": "Jonathan",
+        "message": "There's no doubt that lady's expression was the face of someone overwhelmed with fear or terror."
+    },
+    {
+        "name": "Thomas",
+        "message": "..........Well, sure, I've done some things a bit more dangerous than most folks out there, and I've crossed some risky bridges too. But I don't see why I need to be blamed for that."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So you're saying you didn't lay a single finger on the lady？"
+    },
+    {
+        "name": "Thomas",
+        "message": "Nope. More importantly, why do you care so much about the lady? Are you into older women like that?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "You were about to go out somewhere, weren't you？"
+    },
+    {
+        "message": "　　　　　　　　I'll　pass　for　now,　so　don't　hesitate　to　go."
+    },
+    {
+        "name": "Thomas",
+        "message": "Don't worry about it. I was just about to go to the bathroom, so if you have something to say, make it quick. Try to finish before my bladder bursts."
+    },
+    {
+        "message": "My room"
+    }
+]

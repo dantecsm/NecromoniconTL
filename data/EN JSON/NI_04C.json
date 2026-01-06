@@ -1,0 +1,203 @@
+[
+    {
+        "message": "It's a room like the laboratory where Pietro was reading the Necronomicon."
+    },
+    {
+        "message": "隣の部屋の、海に続く地下道を上ってきた『深きもの』が壁に開いた出入口を通って部屋にやってきていたのだろう。"
+    },
+    {
+        "message": "It's a room scattered with melted glass bottles that look like experimental equipment."
+    },
+    {
+        "message": "At some point, an entrance to the next room had opened up in the right wall, and fragments of plaster and wall material were scattered across the floor."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Hey, look, there's a book over there！"
+    },
+    {
+        "message": "　　　　　　　　Hey Jonathan, hurry up and come over here."
+    },
+    {
+        "name": "Jonathan",
+        "message": "あの本は‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Haven't you seen this before too？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "だって、ジョナサンが夢で見た部屋って、ここなんで　　　　　　　　しょう？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's true, but......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Just check it out already！"
+    },
+    {
+        "message": "The hole bored into the wall was big enough that someone my size could easily get through without even bending their neck, and if it was originally meant as an entrance, it must have been made for some pretty tall people."
+    },
+    {
+        "message": "It's obvious that the hole in the wall was both made and sealed up before the fire."
+    },
+    {
+        "message": "I have no idea who did it or for what purpose."
+    },
+    {
+        "message": "Even though there's a door to the room right nearby, I wonder why we have to go out of our way to make a hole in the wall."
+    },
+    {
+        "message": "Maybe there was a reason they really didn't want to walk through the outdoor hallway, so they tried to move from this room that's even closer than the one next door to the room directly across the hallway."
+    },
+    {
+        "message": "Even if that's the case, why did you go out of your way to block a path you specifically cleared？"
+    },
+    {
+        "message": "隣の部屋と行き来のためにわざわざ空けた穴を、『深きもの』が出す匂いの為にやむを得ず埋めてしまったと言っていた。"
+    },
+    {
+        "message": "Is that fishy smell, like when fish rot, what I felt when I first went into the room next door?"
+    },
+    {
+        "message": "Besides here, I remember smelling the same kind of scent all over the village."
+    },
+    {
+        "message": "Does that mean the Deep Ones were wandering around the village before I even noticed?"
+    },
+    {
+        "message": "There's a big crack in the wall."
+    },
+    {
+        "message": "The mortar wall seems like it's about to give out under the weight of the ceiling."
+    },
+    {
+        "message": "Judging by the direction, the other side of this wall is underground, so it's hard to imagine there's some kind of hidden room beyond here."
+    },
+    {
+        "message": "There's a big crack in the wall."
+    },
+    {
+        "message": "I just hope it won't collapse while I'm in the room."
+    },
+    {
+        "message": "Just thinking about the heavy stone-laid ground above this ceiling gives me chills down my spine."
+    },
+    {
+        "message": "After being left untouched for over a hundred years since the fire, it's no surprise it could collapse at any moment."
+    },
+    {
+        "message": "The cracks in the ceiling feel ominous."
+    },
+    {
+        "message": "I feel like a miner afraid of a cave-in......"
+    },
+    {
+        "message": "The remains of the collapsed wall pile up in heaps on the floor."
+    },
+    {
+        "message": "The white fragments look like pieces of broken ceramics."
+    },
+    {
+        "message": "It's a pretty old book."
+    },
+    {
+        "message": "To think it survived such a terrible fire..."
+    },
+    {
+        "message": "I picked up the book lying on the floor."
+    },
+    {
+        "message": "The leather cover, tanned and then dyed, is scorched here and there, to the point even the title can't be read."
+    },
+    {
+        "message": "It looks like something from when printing wasn't common and books were expensive—the inside's a handwritten copy, probably painstakingly transcribed by a dedicated nun."
+    },
+    {
+        "message": "It seems to be written in Latin, but it's so burned and smudged you can barely read any of it."
+    },
+    {
+        "message": "If only I had devoted myself to languages more back in my student days..."
+    },
+    {
+        "message": "Since it's in the monastery, it's probably a Bible or something, but it's strange that just this one book happened to survive the fire."
+    },
+    {
+        "message": "I don't really think it's worth much."
+    },
+    {
+        "message": "I put the book back on the floor."
+    },
+    {
+        "message": "It's an old handwritten manuscript that survived the fire."
+    },
+    {
+        "message": "Doesn't seem all that valuable, let's just leave it here."
+    },
+    {
+        "name": "Jonathan",
+        "message": "This book doesn't seem to be the Necronomicon."
+    },
+    {
+        "message": "　　　　　　　　If it's not here, then checking the other rooms would probably be pointless too."
+    },
+    {
+        "name": "Cordelia",
+        "message": "So, Jonathan."
+    },
+    {
+        "message": "　　　　　　　　その本がネクロノミコンなんでしょう？"
+    },
+    {
+        "message": "I picked up an old book, blackened with ash and burned in places."
+    },
+    {
+        "message": "It's pretty old and worn, so I can't tell for sure, but it looks way too different from the Necronomicon I saw in my dream."
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, this doesn't seem right."
+    },
+    {
+        "message": "　　　　　　　　The pattern that was on the cover is gone, and the book itself seems way too small, too."
+    },
+    {
+        "name": "Cordelia",
+        "message": "This isn't it......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "残念だがこれは違う。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Guess there's no helping it."
+    },
+    {
+        "message": "　　　　　　　　ここになければ他の部屋にもある訳ないでしょうね。　　　　　　　　他の場所をあたってみましょうか。"
+    },
+    {
+        "message": "It's a melted glass bottle."
+    },
+    {
+        "message": "It’s shaped like a Beaker used in science experiments."
+    },
+    {
+        "message": "This melted glass bottle seems to confirm that this room is the same place where Pietro, who appeared in my dream, was looking at a book."
+    },
+    {
+        "message": "Even though it's rare to find experimental equipment lying around inside the Monastery, I can't possibly believe this match is just a coincidence."
+    },
+    {
+        "message": "Looks like experimental equipment made of melted glass."
+    },
+    {
+        "message": "This melted glass bottle proves that the room is the same one where Pietro, who appeared in my dream, was reading a book."
+    },
+    {
+        "message": "　　Go outside　　"
+    }
+]

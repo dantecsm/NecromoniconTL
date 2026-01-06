@@ -1,0 +1,502 @@
+[
+    {
+        "name": "Marsh",
+        "message": "What is it, this late at night."
+    },
+    {
+        "message": "　　　　　　　酒場の娘は一緒ではないようだが？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I just tried calling out to you a moment ago, but you didn't wake up."
+    },
+    {
+        "name": "Marsh",
+        "message": "If you're a normal person, you'd obviously be asleep at this hour."
+    },
+    {
+        "message": "　　　　　　　Don’t you think it’s pretty rude to come asking at this hour？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "ひどくうなされていたようですが？"
+    },
+    {
+        "message": "　　　　　　　　Is something bothering you?"
+    },
+    {
+        "message": "It's inside an abandoned ship."
+    },
+    {
+        "message": "マーシュは相変わらず寝たままのようだ。"
+    },
+    {
+        "message": "He seems to be totally wasted and doesn't wake up even when I call out to him."
+    },
+    {
+        "message": "Is it pointless to stay here……?"
+    },
+    {
+        "message": "This is Marsh's derelict ship's cabin."
+    },
+    {
+        "message": "There's nothing out of the ordinary, and wine bottles and stuff are scattered around."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Marsh......"
+    },
+    {
+        "message": "The old man is sound asleep."
+    },
+    {
+        "message": "私が肩を揺すっても一向に目を覚ます気配はない。"
+    },
+    {
+        "message": "The old man's breath reeks of alcohol, and he seems pretty plastered."
+    },
+    {
+        "message": "There's no way we can have a proper conversation like this."
+    },
+    {
+        "message": "部屋の中にはここが船の中だという事を証明するような物は一切ない。左右の壁が上下に丸みを帯びているのは、ここが船倉であるからで、板一枚隔てた向こうは水の中だ。"
+    },
+    {
+        "message": "マーシュはよくもこんな所で眠れるものだ。"
+    },
+    {
+        "message": "Judging by the way the boat looks, it wouldn't be weird at all if water started leaking in any second. There doesn't seem to be a bathroom or toilet either, so I wonder where Marsh goes to take a leak."
+    },
+    {
+        "message": "Because of the flimsy planks of the ship's hull, the room feels strangely oppressive. How can Marsh even live in a place like this?"
+    },
+    {
+        "message": "It looks like the sheet hasn't been changed in years."
+    },
+    {
+        "message": "The white linen is grimy and blackened, covered with stains from all kinds of food and other things."
+    },
+    {
+        "message": "刑務所に拘留されている囚人でさえもう少し清潔な生活を送っているだろう。トマスでなくても目を背けたくなるような光景だ。"
+    },
+    {
+        "message": "When it gets this dirty, no matter how hard you wash it, there's no way to bring it back. If I were the owner of this room, I'd just toss it out the window and get rid of it right away."
+    },
+    {
+        "message": "Doesn't look like they've even cleaned up properly. The floor is cluttered with weird, ragged-looking cloths and empty bottles of cheap liquor everywhere."
+    },
+    {
+        "message": "この部屋からは、住人がどんなにすさんだ心をしているかが手に取るように解る。マーシュは何が原因かは解らないが、もはや生きている事に何の執着をも持ってはいまい。"
+    },
+    {
+        "message": "トマスではないがこんな所に長居をすれば、不潔な病気になってしまいそうだ。"
+    },
+    {
+        "name": "Marsh",
+        "message": "How long are you planning to stick around?"
+    },
+    {
+        "message": "　　　　　　　I'm not senile enough yet that I need someone taking care of me."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Do you know a priest named Nai at the village church？"
+    },
+    {
+        "message": "　　　　　　　　He's a pretty tall black guy."
+    },
+    {
+        "name": "Marsh",
+        "message": "So what if you knew?"
+    },
+    {
+        "message": "　　　　　　　I've got nothing to do with it."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Really？"
+    },
+    {
+        "name": "Marsh",
+        "message": "Seems like you’re spreading some shady religion around the village, huh？"
+    },
+    {
+        "message": "　　　　　　　Why　do　you　care　so　much　about　Nai?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Then, how about the phrase 'Lost key'?"
+    },
+    {
+        "message": "　　　　　　　　Do you have any idea?"
+    },
+    {
+        "name": "Marsh",
+        "message": "No idea."
+    },
+    {
+        "message": "　　　　　　　I've never even heard those words before."
+    },
+    {
+        "message": "Looks like you really don't know."
+    },
+    {
+        "message": "Looks like we'll just have to ask Thomas directly."
+    },
+    {
+        "name": "Jonathan",
+        "message": "ところで、ここにコーデリアが来ませんでしたか？"
+    },
+    {
+        "message": "　　　　　　　　I've been looking for you this whole time......"
+    },
+    {
+        "name": "Marsh",
+        "message": "ああ、酒場の娘か。"
+    },
+    {
+        "message": "　　　　　　　I haven’t come here, you know."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Wonder where you’re wandering around in the middle of the night."
+    },
+    {
+        "message": "　　　　　　　　何か面倒に巻き込まれなければいいのですが。"
+    },
+    {
+        "name": "Marsh",
+        "message": "You don't need to worry about that."
+    },
+    {
+        "message": "　　　　　　　That girl is in a way safer position than you or the two who were with you."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What do you mean?"
+    },
+    {
+        "message": "　　　　　　　　Are you saying that Cordelia's presence holds significant meaning for this village?"
+    },
+    {
+        "name": "Marsh",
+        "message": "‥‥‥‥‥"
+    },
+    {
+        "name": "Marsh",
+        "message": "If that girl isn't around, who the hell are we supposed to buy booze from?"
+    },
+    {
+        "name": "Marsh",
+        "message": "If you don't need anything, you should just go home already."
+    },
+    {
+        "message": "　　　　　　　Nothing　good　will　come　from　hanging　around　with　an　old　geezer　like　me,　you　know."
+    },
+    {
+        "message": "I can't think of anything else I should ask the old man Marsh."
+    },
+    {
+        "message": "Looks like we have no choice but to check out the Dunwich family refinery."
+    },
+    {
+        "message": "Cordelia might know where the Refinery is."
+    },
+    {
+        "name": "Marsh",
+        "message": "What the hell are you here for?"
+    },
+    {
+        "message": "　　　　　　　If you've got something to do, you might as well get it over with quickly."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I thought maybe you still know something..."
+    },
+    {
+        "name": "Marsh",
+        "message": "Did you check the Dunwich house？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Not yet."
+    },
+    {
+        "message": "　　　　　　　　Did you find where Dollie's study key is？"
+    },
+    {
+        "name": "Marsh",
+        "message": "Only Dollie herself would know that."
+    },
+    {
+        "message": "　　　　　　　Maybe it's somewhere in the mansion."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So people from Dunwich have been living in the mansion for generations, right？　　　　　　　　Then, that means Dollie's father, Philip, too..."
+    },
+    {
+        "name": "Marsh",
+        "message": "Don't say that name！"
+    },
+    {
+        "message": "What's wrong？"
+    },
+    {
+        "message": "The moment I said Philip's name, they got really mad."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What's going on, tell me."
+    },
+    {
+        "name": "Marsh",
+        "message": "It's all that man's fault this village ended up like this！ If only that guy wasn't here......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I heard he was a trader, but he went missing, right?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "According to the records I saw at the Archives, it looked like Dollie wasn't actually Philip's real child."
+    },
+    {
+        "name": "Marsh",
+        "message": "ドルリイはフィリップの息子に違いない。"
+    },
+    {
+        "message": "　　　　　　　Otherwise, there's no way they'd have an Innsmouth face."
+    },
+    {
+        "name": "Jonathan",
+        "message": "But Philip disappeared seven years before Dollie was even born."
+    },
+    {
+        "name": "Marsh",
+        "message": "For that guy, setting up an act like that is no big deal."
+    },
+    {
+        "message": "　　　　　　　He　was　a　real　outrageous　guy,　after　all."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Earlier, you said that the village ended up like this because of him, but what do you mean by that?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Philip got a huge load of gold from somewhere he trades with, and thanks to that, our village got prosperous, right？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "So the gold frenzy in Arkham is because of that."
+    },
+    {
+        "message": "　　　　　　　　If that's the case, isn't Arkham's prosperity all thanks to him?"
+    },
+    {
+        "name": "Marsh",
+        "message": "Dunno."
+    },
+    {
+        "message": "　　　　　　　Just talking about a guy like that pisses me off."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Well, I'll look it up myself."
+    },
+    {
+        "message": "　　　　　　　　Where is Philip's Refinery?"
+    },
+    {
+        "name": "Marsh",
+        "message": "We're close to the sea."
+    },
+    {
+        "message": "　　　　　　　It's on the way to the ruins from here, but......"
+    },
+    {
+        "name": "Marsh",
+        "message": "It's not in use now."
+    },
+    {
+        "name": "Marsh",
+        "message": "After Philip's ship was wrecked in the storm, for a while, the surviving crew brought over the gold they had hidden."
+    },
+    {
+        "name": "Marsh",
+        "message": "But even they can't do anything without Philip."
+    },
+    {
+        "message": "　　　　　　　Once the stash ran out, that was the end of it."
+    },
+    {
+        "name": "Marsh",
+        "message": "Ever since then, not a single pound of gold has come into the village, so the refinery is completely useless."
+    },
+    {
+        "name": "Jonathan",
+        "message": "If it's been abandoned like that ever since, then it must have been left alone for a pretty long time."
+    },
+    {
+        "name": "Marsh",
+        "message": "That was back when I was a kid......"
+    },
+    {
+        "message": "　　　　　　　Not sure if you can still get in safely now."
+    },
+    {
+        "message": "The Dunwich family's refinery, huh."
+    },
+    {
+        "message": "If Philip is really the one who brought the ruins to Arkham, there might be a clue there about why he did it."
+    },
+    {
+        "message": "Looks like we need to check it out."
+    },
+    {
+        "message": "If it's Cordelia, she might know where the refinery is."
+    },
+    {
+        "name": "Jonathan",
+        "message": "She looked like she was having a pretty bad nightmare just now."
+    },
+    {
+        "message": "　　　　　　　　Saying　stuff　like　'I　didn't　say　anything'　and　'betray'......"
+    },
+    {
+        "name": "Marsh",
+        "message": "I don't want to hear about that！"
+    },
+    {
+        "message": "　　　　　　　What were you doing sneaking into someone's room without a word?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I didn't do anything......"
+    },
+    {
+        "name": "Marsh",
+        "message": "Don't lie to me！"
+    },
+    {
+        "message": "　　　　　　　You were keeping an eye on me too, weren't you."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Please, calm down."
+    },
+    {
+        "message": "　　　　　　　　What　do　I　gain　from　doing　something　like　that?"
+    },
+    {
+        "name": "Marsh",
+        "message": "‥‥‥‥‥‥‥"
+    },
+    {
+        "name": "Marsh",
+        "message": "わしは何も知らん。"
+    },
+    {
+        "message": "　　　　　　　It's useless no matter what you ask."
+    },
+    {
+        "message": "Sleeping with an anguished expression on their face."
+    },
+    {
+        "message": "It looks like it wasn't completely wrong to say she always seemed scared of something."
+    },
+    {
+        "message": "Marsh doesn't show any sign of waking up at all."
+    },
+    {
+        "message": "They're really having a bad nightmare, but I can't even imagine what kind of nightmare it is."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Marsh... please wake up."
+    },
+    {
+        "message": "　　　　　　　　Don't you recognize me？"
+    },
+    {
+        "name": "Marsh",
+        "message": "Don't come over here... Leave me alone！"
+    },
+    {
+        "message": "Marsh just keeps repeating nonsensical babble."
+    },
+    {
+        "message": "From the bits and pieces of information coming through, it seems like Marsh is being targeted by someone."
+    },
+    {
+        "message": "『I haven't said anything\"—does that mean they haven't told us anything as we're investigating the village?"
+    },
+    {
+        "message": "What does it mean to say \"I haven't betrayed you\"?"
+    },
+    {
+        "message": "Does siding with us count as a serious betrayal？"
+    },
+    {
+        "name": "Marsh",
+        "message": "It's useless to hide... I know you're there！"
+    },
+    {
+        "name": "Marsh",
+        "message": "What are you going to do to me......... Are you going to kill me......"
+    },
+    {
+        "message": "Maybe it wasn't completely wrong to say Marsh was always scared of something."
+    },
+    {
+        "message": "This old man has either been watched by someone for a long time, or he's just been paranoid about it."
+    },
+    {
+        "message": "But seriously, what would anyone get out of keeping tabs on such a helpless old man？"
+    },
+    {
+        "message": "Why do I have to pay attention to Marsh?"
+    },
+    {
+        "message": "Is it because Marsh was Dollie's friend?"
+    },
+    {
+        "message": "He seems pretty wasted and didn’t even notice me coming into the room."
+    },
+    {
+        "message": "Maybe it's the booze, but even though it's freezing cold in the hold, he’s sweating."
+    },
+    {
+        "name": "Marsh",
+        "message": "Ugh......"
+    },
+    {
+        "name": "Marsh",
+        "message": "Stop... don't come..."
+    },
+    {
+        "message": "A desperate, almost screaming mutter escapes from Marsh's mouth. What kind of nightmare is tormenting him?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Marsh, what's wrong？"
+    },
+    {
+        "message": "　　　　　　　　It's me, Jonathan."
+    },
+    {
+        "message": "I kind of feel like a volunteer at an old folks’ home, but I can’t just leave Marsh alone when he looks like he could fall apart any second."
+    },
+    {
+        "name": "Marsh",
+        "message": "I... I haven't said anything..."
+    },
+    {
+        "name": "Marsh",
+        "message": "I haven't betrayed anyone..."
+    },
+    {
+        "message": "　　Go outside　　"
+    }
+]

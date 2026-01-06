@@ -1,0 +1,221 @@
+[
+    {
+        "message": "ダニッジ邸の玄関ホールだ。"
+    },
+    {
+        "message": "Maybe it's because I've been here so many times, but being in this haunted mansion-style Mansion is starting to bother me less and less."
+    },
+    {
+        "message": "I still can't get it out of my head that this is the place where that horrible murder happened, but when I look at the family photos that are there now, it almost feels like even that is just a bad joke."
+    },
+    {
+        "message": "ダニッジ邸の中だ。"
+    },
+    {
+        "message": "Maybe because I've been here so many times and know the place, I don't feel scared anymore even being inside this rundown building."
+    },
+    {
+        "message": "But still, I couldn't shake the feeling that stepping into the Mansion was disrespecting the women who were killed here for no reason."
+    },
+    {
+        "message": "It's got a creepy vibe."
+    },
+    {
+        "message": "Inside the empty mansion, it's as silent as if water had been poured everywhere."
+    },
+    {
+        "message": "Thanks to wandering around all afternoon, I’ve gotten pretty used to the vibe of the mansion, but being all alone in an abandoned-looking mansion is depressing."
+    },
+    {
+        "name": "Thomas",
+        "message": "What a filthy mansion..."
+    },
+    {
+        "message": "　　　　　　This ain't gonna sell like this."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Even if it’s an old story, I doubt any rich eccentric would want to buy a mansion where several people were killed."
+    },
+    {
+        "name": "Thomas",
+        "message": "But it's not really like that."
+    },
+    {
+        "message": "　　　　　　There are actually weirdos out there who like that kind of stuff."
+    },
+    {
+        "name": "Cordelia",
+        "message": "That's just messed up."
+    },
+    {
+        "message": "　　　　　　　　You're the kind of person who'd be happy to have a ghost show up in their own room."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't want to run into any ghosts, so let's check out the mansion before the sun goes down."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Can you move out of the way？"
+    },
+    {
+        "message": "　　　　　　　　Gotta think about which door to try first."
+    },
+    {
+        "message": "We can't find anything besides our own footprints."
+    },
+    {
+        "message": "Either way, there probably isn’t anyone else who’d willingly walk into this mansion."
+    },
+    {
+        "message": "A thick layer of dust has piled up on the floor."
+    },
+    {
+        "message": "Except for our footprints, it looks like nobody's walked through the halls here for at least a few decades."
+    },
+    {
+        "message": "There aren't any traces of blood here, but as I make my way around the mansion, I'll have to go into the room where that gruesome incident happened, whether I like it or not."
+    },
+    {
+        "message": "This is the only staircase leading to the second floor."
+    },
+    {
+        "message": "他の方法が無い以上、この階段を使うしかなさそうだな。"
+    },
+    {
+        "message": "It's the stairs that lead up to the second floor."
+    },
+    {
+        "message": "It's hard to call it an elegant design when the staircase leads straight up from the entrance and is practically in the middle of the hall."
+    },
+    {
+        "message": "Even for an old house, you could say this design is just way too thoughtless."
+    },
+    {
+        "message": "以降のダニッジの当主達がこの構造を変えようとしなかったのは、古い物を大切にする習慣のせいか、単に無頓着だったのか‥‥‥‥"
+    },
+    {
+        "message": "The stairs seem pretty solidly built, but after being left alone for decades, I'm not sure if I can make it to the upper floor safely."
+    },
+    {
+        "message": "Still, since there's no other way, I have to go up whether I like it or not."
+    },
+    {
+        "message": "It doesn't seem like it's that humid inside the mansion, so it should be fine."
+    },
+    {
+        "message": "Looks like that door doesn't have a key."
+    },
+    {
+        "message": "If I just go up the stairs, I should be able to slip right into the back of the mansion without any trouble."
+    },
+    {
+        "message": "Right at the top of the stairs, there's a door."
+    },
+    {
+        "message": "ここからではよく見えないが、扉には鍵がついていないようだ。"
+    },
+    {
+        "message": "It looks like the area back there isn’t a room, but rather a hallway that connects all the rooms."
+    },
+    {
+        "message": "Looks like I have no choice but to go and see for myself."
+    },
+    {
+        "message": "The lock's already open."
+    },
+    {
+        "message": "There probably isn't anyone else crazy enough to try sneaking into the Dunwich Mansion."
+    },
+    {
+        "message": "Doesn't look like there's any need to bother locking it."
+    },
+    {
+        "message": "I'm in front of the door on the right."
+    },
+    {
+        "message": "If I unlock the lock with this key Marsh gave me......"
+    },
+    {
+        "message": "The lock opened."
+    },
+    {
+        "message": "Now I can get inside the room."
+    },
+    {
+        "message": "The door is locked."
+    },
+    {
+        "message": "The door of the old mansion was made of a thick solid wooden slab, and there's no way someone like me could possibly break it down."
+    },
+    {
+        "message": "That said, if you use the key you got from Marsh, you don’t have to worry about any of that…."
+    },
+    {
+        "message": "Is the living room on the other side of the door？"
+    },
+    {
+        "message": "The doorknob's paint is peeled off and rust is coming through, showing just how often it's been opened and closed."
+    },
+    {
+        "message": "Looks like nobody's snuck in after Marsh locked the door."
+    },
+    {
+        "message": "Let's wrap up the observing and head inside soon."
+    },
+    {
+        "message": "The door to the Basement is left unlocked."
+    },
+    {
+        "message": "The wind leaking through the gaps is cold, carrying a raw, foul stench."
+    },
+    {
+        "message": "The moment I go down to the basement, coming face-to-face with a decaying corpse is the last thing I want...but it's been quite a while since the incident, so something like that probably won't happen."
+    },
+    {
+        "message": "It's a door that probably leads to the Basement."
+    },
+    {
+        "message": "A strong stench of blood and rotten meat wafts out from the crack in the door."
+    },
+    {
+        "message": "When I open the door, the stench gets even worse."
+    },
+    {
+        "message": "The staircase leading to the lower floor stretches into the darkness, looking as if it's inviting me into the nightmare Basement where Dollie's wife's corpse was found."
+    },
+    {
+        "message": "Even if it was a long time ago, going down into the room where that corpse was found with its head brutally blown apart... it’s not exactly a pleasant thought..."
+    },
+    {
+        "message": "ドアの隙間から異様なほど冷たい風が吹いてくる。"
+    },
+    {
+        "message": "It seems like the wind carries the smell of blood mixed with some kind of foul stench."
+    },
+    {
+        "message": "そう言えば、資料館で見たアーカムの判例集には、ドルリイの妻が屋敷の地下室で頭を打ち抜かれて死んでいたと書いてあった。"
+    },
+    {
+        "message": "Maybe, beyond this door, there might be a staircase leading to the Basement."
+    },
+    {
+        "message": "If the head was blown off at point-blank range with a shotgun, the area must've been in an unimaginably gruesome state with blood and chunks of flesh everywhere."
+    },
+    {
+        "message": "　　2nd floor hallway　　"
+    },
+    {
+        "message": "　　The　room　on　the　right　　"
+    },
+    {
+        "message": "　　　Living room　　　"
+    },
+    {
+        "message": "Basement"
+    },
+    {
+        "message": "　　Go outside　　"
+    }
+]

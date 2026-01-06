@@ -1,0 +1,435 @@
+[
+    {
+        "message": "There's no one in the dining room."
+    },
+    {
+        "message": "The room, where the fire in the fireplace had almost died out, was filled with the smell of smoldering logs, and had gotten completely cold from the chill seeping in from outside."
+    },
+    {
+        "name": "Gardner",
+        "message": "Morning, Jonathan！"
+    },
+    {
+        "message": "The one who greeted me was Gardner, who was in a great mood."
+    },
+    {
+        "message": "He looked just like a general who'd slept well, had a fancy breakfast, and was waiting for his new recruit to return with good news. Couldn't care less that the recruit had tripped through muddy roads and run all night long."
+    },
+    {
+        "name": "Gardner",
+        "message": "Judging by the hour you've come back, it seems things went well. Are you alone？"
+    },
+    {
+        "name": "Thomas",
+        "message": "Hey, where'd you go？"
+    },
+    {
+        "message": "　　　　　　Just　go　ahead　and　come　clean,　man."
+    },
+    {
+        "name": "Gardner",
+        "message": "No need for your unnecessary comments！"
+    },
+    {
+        "message": "　　　　　　　　Now, Jonathan, have a seat here. How about some coffee?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, I'm good."
+    },
+    {
+        "message": "　　　　　　　　I've got her waiting at the entrance. How about we head out right away？"
+    },
+    {
+        "message": "Even after coming to the village, it feels like I'm living just as busy a life as I did in London."
+    },
+    {
+        "message": "At this rate, I don't even know what this vacation is supposed to be for."
+    },
+    {
+        "message": "Looks like I won't be able to sit back and enjoy a meal in this dining room for quite a while yet."
+    },
+    {
+        "message": "部屋の窓は水蒸気で白く濁り、壁にもうっすらと結露している。"
+    },
+    {
+        "message": "The fire in the fireplace has burned down to about half, and now only weak embers are left, but I guess it's still a lot warmer here than outside."
+    },
+    {
+        "message": "Before I knew it, Gardner had become the reasonable old man, and I was the short-tempered brat—incredibly annoying."
+    },
+    {
+        "message": "Even though I've been running around without even getting any sleep, it's annoying to see them act all high and mighty."
+    },
+    {
+        "message": "Someday, I'm gonna one-up this old man."
+    },
+    {
+        "message": "Gardner is staring at me with eyes sparkling with anticipation."
+    },
+    {
+        "message": "人を使い走りの小僧のようにこき使っておいて、自分はゆっくりと朝食をたのしんでいたなんて、とんでもない老人だ。"
+    },
+    {
+        "message": "With an oddly knowing look, as if she fully understands where and what I was doing last night, but rather than a critical expression, it feels like she's pleased that her proud nephew has become a grown man."
+    },
+    {
+        "message": "どっちにしてもあまりいい気持ちではない。"
+    },
+    {
+        "message": "I'm not Gardner's nephew, and there's nothing more boring and annoying than getting lectured by a smug old man."
+    },
+    {
+        "message": "Thomas has a sly grin stuck on his lips, staring at me with eyes full of nasty curiosity."
+    },
+    {
+        "message": "I don't know what kind of misunderstanding he's having, but he seems to be having fun imagining what kind of nasty stuff I did to Cordelia. Normally, I'd want to wipe that smug grin off his face with a punch, but......"
+    },
+    {
+        "message": "Looks like I'm at a bit of a disadvantage with this guy."
+    },
+    {
+        "message": "我慢するしかないな。"
+    },
+    {
+        "message": "Trying to read anything from this man's expression is a lost cause."
+    },
+    {
+        "message": "He's a totally elusive, shady bastard."
+    },
+    {
+        "message": "You're still making that clueless face as always."
+    },
+    {
+        "message": "I'm worried about how you were weirdly flustered last night and seemed like you were about to go somewhere."
+    },
+    {
+        "message": "You never know what this guy is up to behind the scenes."
+    },
+    {
+        "message": "I’ll have to find out what they’re thinking deep down, and what they’re scheming."
+    },
+    {
+        "name": "Gardner",
+        "message": "First, let's head to the port."
+    },
+    {
+        "name": "Gardner",
+        "message": "Do you know where the Archives are？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Cordelia says she'll show us around."
+    },
+    {
+        "message": "　　　　　　　　There shouldn't be any problem with her coming along, right？"
+    },
+    {
+        "name": "Gardner",
+        "message": "So her name's Cordelia, huh."
+    },
+    {
+        "message": "　　　　　　　　Of course, if you’re okay with it, I’d appreciate that. For me, it'd be great to have a guide come along."
+    },
+    {
+        "name": "Jonathan",
+        "message": "She has a pretty unusual background herself. She was adopted by foster parents when she was little, and apparently she has no memories from before that."
+    },
+    {
+        "name": "Gardner",
+        "message": "There are a lot of strange things in this place called Arkham. Alright, if I can help, I'll look into that matter too."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Also, I met a strange man last night."
+    },
+    {
+        "message": "　　　　　　　　I ended up wandering into a church-like building on the edge of the main street..."
+    },
+    {
+        "name": "Gardner",
+        "message": "A church, huh？"
+    },
+    {
+        "message": "　　　　　　　　Did something like that exist in Arkham?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's what's weird about it. It was way too bare to be called a church, and I really don't think it was part of the Church of England."
+    },
+    {
+        "name": "Gardner",
+        "message": "What about the strange man？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "He was a huge Black guy, you had to look up at him, and he claimed to own the church. And he talked like he knew me, and told me, 'Awaken.'"
+    },
+    {
+        "name": "Gardner",
+        "message": "I have no idea what that's about, but along with the case of that old man Marsh, it feels like you and Arkham are connected by some invisible thread."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I feel kind of weird too..."
+    },
+    {
+        "message": "　　　　　　　　I guess I'll have to look into all that eventually."
+    },
+    {
+        "name": "Gardner",
+        "message": "Let's go meet that old man Marsh first."
+    },
+    {
+        "message": "　　　　　　　　If I learn about the connection between the Ruins and Innsmouth, I'll probably also figure out what I should check at the Archives."
+    },
+    {
+        "name": "Jonathan",
+        "message": "And also......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Ever since I came here, I've been having weird dreams."
+    },
+    {
+        "message": "　　　　　　　　In some dimly lit room, the women are doing terrible things..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I have no idea what this even means."
+    },
+    {
+        "message": "　　　　　　　　And on top of that, it feels like it has some kind of important meaning or something."
+    },
+    {
+        "name": "Gardner",
+        "message": "生憎だが、君の見た夢の話までは面倒見られんよ。"
+    },
+    {
+        "message": "　　　　　　　　Handle that yourself."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Something‥‥‥what am I supposed to do？"
+    },
+    {
+        "name": "Gardner",
+        "message": "There's no way I'd know something like that！"
+    },
+    {
+        "message": "　　　　　　　　I'm not a psychiatrist, you know？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Alright, let's get straight to the point."
+    },
+    {
+        "message": "　　　　　　　　Were you able to hear that story about the old man from her？"
+    },
+    {
+        "name": "Thomas",
+        "message": "Girlfriend？"
+    },
+    {
+        "message": "　　　　　　Who are you talking about?"
+    },
+    {
+        "name": "Gardner",
+        "message": "I told you not to butt in with your unnecessary comments！"
+    },
+    {
+        "message": "　　　　　　　　What I want to hear isn't some sleazy war story or anything like that."
+    },
+    {
+        "name": "Thomas",
+        "message": "Tch, are you already dried up at your age？"
+    },
+    {
+        "message": "　　　　　　I see... Got it, you're the pub girl！"
+    },
+    {
+        "name": "Gardner",
+        "message": "That's enough, just please shut up."
+    },
+    {
+        "message": "　　　　　　　　Come on, Jonathan, hurry up and tell me."
+    },
+    {
+        "name": "Jonathan",
+        "message": "例の老人は『マーシュ』という引退した船乗りです。　　　　　　　　港の廃船を住処にして、世捨て人同然の生活を送って　　　　　　　　いるという事です。"
+    },
+    {
+        "name": "Gardner",
+        "message": "The port, huh..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "And one more thing."
+    },
+    {
+        "message": "　　　　　　　　Professor, did you know there used to be a university in this village？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Yeah, I've heard a bit about that."
+    },
+    {
+        "message": "　　　　　　　　You said 'Miskatonic University', right? I thought it was already shut down though?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I heard the ruins of that university have been turned into the village Archives."
+    },
+    {
+        "message": "　　　　　　　　Maybe you'll even figure out what the word 'Innsmouth' means."
+    },
+    {
+        "name": "Gardner",
+        "message": "The villagers' reaction wasn't normal."
+    },
+    {
+        "name": "Jonathan",
+        "message": "遺跡にしてもインスマウスという単語にしても、村人　　　　　　　　に過剰な反応を起こさせる理由があるはずです。"
+    },
+    {
+        "name": "Gardner",
+        "message": "There might be some kind of connection between the two."
+    },
+    {
+        "message": "　　　　　　　　Seems like it's worth checking out."
+    },
+    {
+        "name": "Thomas",
+        "message": "Don't look so scary. It's just a bit of curiosity, right? No way you were actually taking her seriously, were you?"
+    },
+    {
+        "name": "Thomas",
+        "message": "Not bad, considering how you look."
+    },
+    {
+        "message": "　　　　　　That woman, she's Oriental, right？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "So what？"
+    },
+    {
+        "name": "Thomas",
+        "message": "どうだったんだよ、あっちの方はさ。東洋人の女は床上手　　　　　　だって聞いた事があるぜ。肌が滑らかで柔らかくて、一度　　　　　　相手にしたら白人女なんて二度と抱けなくなるってな。"
+    },
+    {
+        "name": "Thomas",
+        "message": "I've heard that it splits sideways over there too..."
+    },
+    {
+        "name": "Thomas",
+        "message": "Hey, you can tell me, right？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "How should I know."
+    },
+    {
+        "message": "　　　　　　　　More importantly, if you talk to Cordelia with such filthy words, I won't let you get away with it！"
+    },
+    {
+        "name": "Thomas",
+        "message": "Don't make such a scary face. It's just a bit of curiosity, isn't it? No way you actually meant it seriously with her, right?"
+    },
+    {
+        "name": "Thomas",
+        "message": "Just wait and see, I'll show you around sometime."
+    },
+    {
+        "name": "Thomas",
+        "message": "Where were you last night？"
+    },
+    {
+        "message": "　　　　　　She was pissed off because you skipped breakfast again."
+    },
+    {
+        "message": "I absolutely don't want to get any advice about Mrs. Hudson from this guy."
+    },
+    {
+        "message": "He's the one—who knows what he's doing with Mrs. Hudson."
+    },
+    {
+        "name": "Thomas",
+        "message": "So, where'd you really go？"
+    },
+    {
+        "message": "　　　　　　In this village, the only fun place... is that spot, right?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "What are you talking about？"
+    },
+    {
+        "message": "　　　　　　　　Speaking of which, I think I was about to go out somewhere myself, but it looked like you were having fun too."
+    },
+    {
+        "name": "Thomas",
+        "message": "Hmmm..... Well, yeah."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So, where did you go?"
+    },
+    {
+        "message": "　　　　　　　　If there's someplace that fun, you could've told me about it too."
+    },
+    {
+        "name": "Thomas",
+        "message": "What, you didn't know about that place？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I didn't know."
+    },
+    {
+        "message": "　　　　　　　　Where did you think I went?"
+    },
+    {
+        "name": "Thomas",
+        "message": "If you get the chance, I'll show you around."
+    },
+    {
+        "message": "　　　　　　But then again, for a rich kid like you, it might not suit your tastes."
+    },
+    {
+        "message": "Another fish dish tonight, huh..."
+    },
+    {
+        "message": "It's not bad, but having it every day is starting to get on my nerves."
+    },
+    {
+        "message": "The thick linen cloth has been washed so many times that the surface of the fabric is worn out."
+    },
+    {
+        "message": "There are countless scratches on the Table."
+    },
+    {
+        "message": "I don't mind the worn edges, but the sharp blade-made scratch that's obvious even through the cloth is pretty disturbing."
+    },
+    {
+        "message": "雑な造りだが、どっしりしたテーブルの上には、食事の名残りさえ見つけだす事が出来ない。"
+    },
+    {
+        "message": "The traces of the meal have been tidied up so nicely that it's hard to even find a single fragment now. Now that I think about it, I have absolutely no memory of sitting at this Table and leisurely enjoying a meal."
+    },
+    {
+        "message": "Wouldn't it be nice if we could occasionally open a bottle of fine port and savor Mrs. Hudson's cooking for a change?"
+    },
+    {
+        "message": "Entrance hall"
+    },
+    {
+        "message": "Entrance hall"
+    },
+    {
+        "message": "Lady's room"
+    },
+    {
+        "message": "My room"
+    }
+]

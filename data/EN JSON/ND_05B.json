@@ -1,0 +1,526 @@
+[
+    {
+        "message": "Came back to the pub."
+    },
+    {
+        "message": "Gardner and Thomas seem to be getting drunk as usual."
+    },
+    {
+        "message": "I don't think this is the time to be hanging around and whining in a place like this..."
+    },
+    {
+        "message": "このふたりは、すでに何かをする目的を失ってしまったのだろうか。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Sorry for the wait."
+    },
+    {
+        "message": "Cordelia changes into the bartender’s outfit she always wears inside the pub, and there’s booze for us on the tray in her left hand."
+    },
+    {
+        "name": "Thomas",
+        "message": "Yo, you're pretty damn late, aren't ya."
+    },
+    {
+        "message": "　　　　　　Just because you're young doesn't mean you should push yourself too hard."
+    },
+    {
+        "name": "Gardner",
+        "message": "I don't really mind, but wouldn't it be smarter to be back at the Fish Scale Inn by breakfast time?"
+    },
+    {
+        "name": "Gardner",
+        "message": "Wouldn't it be kinda rude to Mrs. Hudson, who went through all the trouble of preparing a meal for us?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I'm sorry........."
+    },
+    {
+        "name": "Thomas",
+        "message": "Don't be so uptight."
+    },
+    {
+        "message": "　　　　　　These two aren't old folks like you, you know."
+    },
+    {
+        "name": "Thomas",
+        "message": "It means I'm not at an age where I can hold myself back anymore."
+    },
+    {
+        "name": "Jonathan",
+        "message": "‥‥‥‥‥‥"
+    },
+    {
+        "message": "It's his usual clueless look."
+    },
+    {
+        "message": "He doesn't really seem particularly flustered or anything......"
+    },
+    {
+        "name": "Thomas",
+        "message": "What's wrong？"
+    },
+    {
+        "message": "　　　　　　You've been staring at my face for a while now."
+    },
+    {
+        "name": "Jonathan",
+        "message": "『The “good spot,』 where exactly is that supposed to be？"
+    },
+    {
+        "name": "Thomas",
+        "message": "そいつぁ行ってみてのお楽しみってやつだ。"
+    },
+    {
+        "message": "　　　　　　You're not a kid, so hold it in until night."
+    },
+    {
+        "message": "私にナイといる所を見られたのがショックだったのだろうか、少しうろたえたように見える。"
+    },
+    {
+        "name": "Thomas",
+        "message": "Why the hell‥‥‥‥"
+    },
+    {
+        "message": "　　　　　　Those suspicious eyes, you know."
+    },
+    {
+        "name": "Jonathan",
+        "message": "別に君を疑わなければならない理由などないがね。"
+    },
+    {
+        "message": "　　　　　　　　どうしてナイと知り合いである事を私たちに隠してい　　　　　　　　たんだ？"
+    },
+    {
+        "name": "Thomas",
+        "message": "I told you, I don’t know anyone like that！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "So then, what were you doing last night?"
+    },
+    {
+        "message": "　　　　　　　　まさかあの教会に金目の物でもないかと、盗みに入っ　　　　　　　　た訳でもないだろう。"
+    },
+    {
+        "name": "Thomas",
+        "message": "Who would go to a shabby church like that."
+    },
+    {
+        "message": "　　　　　　たまたまだよ、あの野郎のいる前を通っただけだ。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Whoa......"
+    },
+    {
+        "message": "　　　　　　　　あんな夜更けに外を出歩く用事とは何だったんだ。"
+    },
+    {
+        "name": "Thomas",
+        "message": "That's none of your damn business."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Then, it's no wonder people would think I went to the Church to see Nai."
+    },
+    {
+        "name": "Thomas",
+        "message": "Tch...... Fine, I get it."
+    },
+    {
+        "message": "　　　　　　Tonight, I'll take you along too."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Where to?"
+    },
+    {
+        "name": "Thomas",
+        "message": "This is a nice place."
+    },
+    {
+        "message": "　　　　　　That's　all　I　can　say　for　now."
+    },
+    {
+        "message": "He still doesn't drop that clueless look."
+    },
+    {
+        "message": "Last night, it's like that furious look I had toward Nai in front of the Church was just a lie."
+    },
+    {
+        "message": "Even though it's still pretty early, I'm downing my Glass like I don't give a damn."
+    },
+    {
+        "message": "This guy doesn't seem to feel any guilt about getting drunk in the middle of the day."
+    },
+    {
+        "message": "He keeps glancing at me with a smug grin—probably fantasizing about me and Cordelia."
+    },
+    {
+        "message": "Even he seems to be a little shaken this time."
+    },
+    {
+        "message": "He might be used to seeing half-mummified corpses in graves, but it's probably the first time he's laid eyes on such a fresh, murdered body."
+    },
+    {
+        "message": "It's not like we don't feel any guilt at all that Marsh was killed because we were obsessively snooping around that old man."
+    },
+    {
+        "message": "You don't seem to have much energy."
+    },
+    {
+        "message": "She is older than me, so maybe all the exhaustion from the past few days is piling up on her."
+    },
+    {
+        "message": "Because yesterday's investigation revealed that the ruins weren't originally in Arkham but were actually fakes brought in by someone, they don't seem very energetic."
+    },
+    {
+        "message": "It seems they've lost the motivation to keep researching Arkham, but since we still don't know where those ruins came from or what they mean, I don't think the investigation is completely over yet......"
+    },
+    {
+        "message": "No wonder you look so pale."
+    },
+    {
+        "message": "Sure, I get how you feel after witnessing such a brutal murder right in front of you."
+    },
+    {
+        "message": "But I can't leave you alone in the Gilman House either."
+    },
+    {
+        "message": "もしマーシュが殺された原因が私たちに協力していたからだとしたら、ひとりでいるのは危険すぎる。"
+    },
+    {
+        "message": "Even if it's a stretch, it's safer to stay with us."
+    },
+    {
+        "message": "If I can help her relax, even just a little‥‥‥‥"
+    },
+    {
+        "message": "She's not looking annoyed or anything, and she's carrying our drinks in her bartender outfit. The seductive body that was writhing beneath me last night is now hidden under that stoic uniform."
+    },
+    {
+        "message": "Looks like she's embarrassed to face Gardner and the others after our night together, as expected."
+    },
+    {
+        "message": "Even though there's a smile on their face, the expression is awkward."
+    },
+    {
+        "message": "I don't really think there's any need to worry, but it seems like it's hard to stay calm when you're being stared at curiously by two guys."
+    },
+    {
+        "name": "Thomas",
+        "message": "‥‥‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "By the way, where did you go last night？"
+    },
+    {
+        "name": "Thomas",
+        "message": "Where, you ask？"
+    },
+    {
+        "message": "　　　　　　I didn't really go anywhere."
+    },
+    {
+        "name": "Jonathan",
+        "message": "But when I peeked into your room, you seemed to be out."
+    },
+    {
+        "message": "　　　　　　　　Why would you have any reason to leave your room that late at night?"
+    },
+    {
+        "name": "Thomas",
+        "message": "Well then......"
+    },
+    {
+        "message": "　　　　　　He probably just went to the bathroom or something."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Oh..."
+    },
+    {
+        "name": "Thomas",
+        "message": "What the hell, you've been acting all suspicious of me for a while now."
+    },
+    {
+        "message": "　　　　　　Are you saying you can't believe what I'm telling you?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Well, that's right."
+    },
+    {
+        "message": "　　　　　　　　Because I saw you last night."
+    },
+    {
+        "name": "Thomas",
+        "message": "What did you say？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "In front of the church, you were talking to that black priest, Nai, right?"
+    },
+    {
+        "name": "Thomas",
+        "message": "......You saw that？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I definitely saw it."
+    },
+    {
+        "message": "　　　　　　　　Just because it was dark, there's no way I mistook what I saw."
+    },
+    {
+        "name": "Thomas",
+        "message": "So, what was I doing then?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Well, I was pretty far from you from where I was."
+    },
+    {
+        "message": "　　　　　　　　All I could tell was that you two were talking about something."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Were you and Nai acquaintances？"
+    },
+    {
+        "message": "　　　　　　　　If that's the case, why did you keep it from us?"
+    },
+    {
+        "name": "Thomas",
+        "message": "It's not like we really know each other or anything."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Then, why were you meeting so late at night?"
+    },
+    {
+        "message": "　　　　　　　　You must be hiding something shady from us！"
+    },
+    {
+        "name": "Thomas",
+        "message": "That's not true."
+    },
+    {
+        "message": "　　　　　　I'm not hiding anything."
+    },
+    {
+        "name": "Gardner",
+        "message": "So now, we've lost any villagers willing to cooperate with us."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You mean the old man Marsh?"
+    },
+    {
+        "name": "Gardner",
+        "message": "How could anyone do such a terrible thing."
+    },
+    {
+        "message": "　　　　　　　　I can't believe someone in their right mind would do that."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Criminals tend to have abnormal minds to some degree, you know."
+    },
+    {
+        "name": "Gardner",
+        "message": "Did you see the old man's body？"
+    },
+    {
+        "message": "　　　　　　　　It's like it got ripped apart by a shark or something, isn't it?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "It’s not like I actually got eaten or anything."
+    },
+    {
+        "message": "　　　　　　　　That's just way too abnormal."
+    },
+    {
+        "name": "Gardner",
+        "message": "I'd like to think so."
+    },
+    {
+        "message": "　　　　　　　　I think it's a message from the culprit meaning, 'I'll eat you guys too.'"
+    },
+    {
+        "name": "Jonathan",
+        "message": "All I can do is hope that someone will give the old man's corpse a proper offering."
+    },
+    {
+        "name": "Gardner",
+        "message": "Personally, I'm starting to want to leave this village as soon as possible. There's nothing to gain by staying here."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Professor, even knowing that the ruins are fake, will you still help me？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Yeah, I've been thinking about it too."
+    },
+    {
+        "message": "　　　　　　　　I have no business in this village, but unfortunately, I don't have the guts to cross that suspension bridge."
+    },
+    {
+        "name": "Gardner",
+        "message": "Doesn't look like anyone's coming to pick us up from outside..."
+    },
+    {
+        "message": "　　　　　　　　In the end, I still can't leave this village for a while."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah, that's right."
+    },
+    {
+        "message": "　　　　　　　　I completely forgot."
+    },
+    {
+        "name": "Gardner",
+        "message": "Just sitting around at the Fish Scale Inn is only going to make my body sluggish. Until we can figure out a way to leave the village, I'll help out too."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Are you okay？"
+    },
+    {
+        "message": "　　　　　　　　Your face is totally pale."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I'm sorry......"
+    },
+    {
+        "message": "　　　　　　　　I'm fine, don't worry about me."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You shouldn't push yourself."
+    },
+    {
+        "message": "　　　　　　　　No one could possibly feel good after seeing something like that."
+    },
+    {
+        "name": "Cordelia",
+        "message": "ええ‥‥‥‥‥‥‥"
+    },
+    {
+        "message": "　　　　　　　　But why did Marsh end up like that？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "No way, is it because we went around asking so many questions？"
+    },
+    {
+        "message": "　　　　　　　　Did you seal Marsh's mouth so she wouldn't say anything unnecessary?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "If that's the case, then Marsh-san was killed because of us."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Marsh blurted it out himself."
+    },
+    {
+        "message": "　　　　　　　　I might not be able to see it through to the end."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Maybe he already knew his time was up."
+    },
+    {
+        "message": "　　　　　　　　You knew that, and you still helped us."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Why would you do something so awful......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Don't push yourself too hard, okay?"
+    },
+    {
+        "message": "　　　　　　　　ジョナサンが倒れでもしたら、わたしのせいじゃない　　　　　　　　かと心配するわ。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "What's wrong？"
+    },
+    {
+        "message": "　　　　　　　　You look kinda sick though........"
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's not true, it's okay."
+    },
+    {
+        "message": "　　　　　　　　I'm just a little tired, that's all."
+    },
+    {
+        "name": "Gardner",
+        "message": "It's not good for a young guy to be like that."
+    },
+    {
+        "message": "　　　　　　　　Save the whining about being tired for when you're way older."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Are you really okay？"
+    },
+    {
+        "message": "　　　　　　　　If you're not feeling well, you can rest upstairs if you want."
+    },
+    {
+        "name": "Jonathan",
+        "message": "いや、結構だ。"
+    },
+    {
+        "message": "　　　　　　　　I have a lot of places I gotta go today."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan, you remember the promise you made to me, right？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Promise？"
+    },
+    {
+        "message": "　　　　　　　　What was it again."
+    },
+    {
+        "name": "Cordelia",
+        "message": "わたしがどうしてアーカムに連れてこられたのか調べ　　　　　　　　てくれるって約束したじゃないの。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "そうだった、すっかり忘れてたよ。"
+    },
+    {
+        "message": "　　　　　　　　Let's check that out today too."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Who are you planning to ask？"
+    },
+    {
+        "message": "　　　　　　　　I wonder if there's anyone who knows stuff like that."
+    },
+    {
+        "message": "　　Go outside　　"
+    },
+    {
+        "message": "Go upstairs"
+    }
+]

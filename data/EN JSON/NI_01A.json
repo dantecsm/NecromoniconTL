@@ -1,0 +1,205 @@
+[
+    {
+        "message": "As expected, this place is nothing but ruins—formerly a monastery—and at night an even creepier atmosphere hangs over it."
+    },
+    {
+        "message": "Judging by the obvious traces of fire, you can only wonder how many nuns were choked by smoke or burned alive in the flames."
+    },
+    {
+        "message": "Standing here like this, it feels like you could almost hear the voices of those nuns who met such tragic deaths."
+    },
+    {
+        "message": "It’s a monastery that was caught in a fire over a hundred years ago, and has been abandoned ever since."
+    },
+    {
+        "message": "A place like this must be even more unrelated to the villagers than the ruins on the cape—there’s absolutely no sign of anything moving."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What the hell is this..."
+    },
+    {
+        "message": "I couldn’t help but let out a gasp of amazement."
+    },
+    {
+        "message": "Since it’s called the ruins of a monastery, I thought there’d at least be an unused cathedral and maybe some other buildings where the monks used to stay, but..."
+    },
+    {
+        "message": "All that’s spread out before me are a few remaining stone walls, and logs so completely charred you can’t even tell what they were, lying around."
+    },
+    {
+        "message": "Weeds grow wild everywhere, and most of the stonework that once made up the monastery has already been hauled away as building material for new constructions."
+    },
+    {
+        "message": "Normally, seeing such rich greenery would make me feel at ease, but here, the fear that something non-human might be watching us from between the trees comes first, so there's no way I can relax."
+    },
+    {
+        "message": "Old trees over a hundred years old are densely packed together."
+    },
+    {
+        "message": "It must have been there since back then, having escaped some fire that happened at the Monastery."
+    },
+    {
+        "message": "Unlike the center of Arkham, which has surprisingly little greenery for a rural town, here the greenery is so thick that people can't easily get in."
+    },
+    {
+        "message": "The stone-tiled floor, neatly lined up, still barely hints at when the Monastery was still standing."
+    },
+    {
+        "message": "All around, there's scattered everywhere pieces of charred wood telling the story of a fire, and fragments of broken stone."
+    },
+    {
+        "message": "Even so, for being what made up the Monastery’s buildings, there’s an oddly small number of stones and columns."
+    },
+    {
+        "message": "Most of it was probably taken by someone as materials for building something new, but still, this is basically just an empty lot now."
+    },
+    {
+        "message": "If even a little trace of its former days remained, it probably would've become quite the sightseeing spot, but like this, there's no way to know what was here unless you ask someone."
+    },
+    {
+        "message": "ほんのわずかに残った建物の一部は、おそらく礼拝堂などのある大きな建物に並んで建てられた、小さな別棟の名のこりなのだろう。"
+    },
+    {
+        "message": "Judging from the scale of the arch-shaped structure bordered with stones that seems to be the remains of an entrance, it can be speculated that it was a storage-like building for keeping food and other necessities."
+    },
+    {
+        "message": "Even though the most important part of the Monastery has vanished without a trace, it's so ironic that an insignificant annex ends up being the only thing left to remind us of it."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Looks like there's nobody here......"
+    },
+    {
+        "message": "　　　　　　　　With nothing here at all, it doesn't seem like anyone could be hiding anywhere either."
+    },
+    {
+        "name": "Cordelia",
+        "message": "So this is the remains of the Monastery？"
+    },
+    {
+        "message": "　　　　　　　　There's not a single building left, is there."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Seeing something that looks like a carbonized pillar, it seems there was a pretty nasty fire here."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Still, with everything gone like this, it's only natural that I wouldn't know what used to be here, right?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "True, there's probably no place more meaningless to the villagers than this."
+    },
+    {
+        "name": "Cordelia",
+        "message": "内緒の逢い引きなんかにはもってこいかもしれない。　　　　　　　　ここなら人目を気にしなくてすむものね。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "こんな気味の悪い所じゃ、気分が乗らないね。"
+    },
+    {
+        "message": "　　　　　　　　少なくとも屋根ぐらいはあってくれないと。"
+    },
+    {
+        "name": "Thomas",
+        "message": "Let's try looking a bit harder."
+    },
+    {
+        "message": "　　　　　　There might be something valuable lying around, you know."
+    },
+    {
+        "name": "Thomas",
+        "message": "So this is the Monastery, huh."
+    },
+    {
+        "message": "　　　　　　That's impressive, there's not a single thing left, totally cleaned out."
+    },
+    {
+        "name": "Jonathan",
+        "message": "This was a monastery a hundred years ago."
+    },
+    {
+        "message": "　　　　　　　　Even if something does happen, the sharp-eyed villagers would probably just snatch it up and take it away quick."
+    },
+    {
+        "name": "Thomas",
+        "message": "This really is a junkyard that's good for nothing."
+    },
+    {
+        "message": "　　　　　　If it's like this, that shady Ruins is still better."
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's true that from a historical perspective, there's nothing important I can see..."
+    },
+    {
+        "message": "　　　　　　　　If　I　search　more　carefully,　I　might　find　something."
+    },
+    {
+        "name": "Thomas",
+        "message": "Personally, I'd go for something like a silver Cross, or maybe a candlestick."
+    },
+    {
+        "message": "　　　　　　Stuff　like　that　actually　gets　mistaken　for　junk　and　thrown　away　pretty　often."
+    },
+    {
+        "name": "Gardner",
+        "message": "Looks like Old Man Marsh isn't here."
+    },
+    {
+        "name": "Gardner",
+        "message": "Looks like old man Marsh isn't here."
+    },
+    {
+        "message": "　　　　　　　　On the contrary, there's absolutely nothing moving."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Even so, this really is a horrible situation."
+    },
+    {
+        "message": "　　　　　　　　There's no way to tell at all what the original monastery was like, is there?"
+    },
+    {
+        "name": "Gardner",
+        "message": "So, is this the place you said you once saw in your dreams？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Alright......"
+    },
+    {
+        "message": "　　　　　　　　What I saw was just a single room in the Monastery, so I have no idea what the scenery outside looked like."
+    },
+    {
+        "name": "Gardner",
+        "message": "Doesn't look like there's much to gain here."
+    },
+    {
+        "message": "　　　　　　　　Wouldn't it be better to try somewhere else？"
+    },
+    {
+        "message": "The wood that's completely charred crumbles to pieces even if I so much as touch it."
+    },
+    {
+        "message": "Just how bad was the fire that struck this monastery, I wonder."
+    },
+    {
+        "message": "When I touched the charred wood lying on the floor, it just fell apart so easily."
+    },
+    {
+        "message": "Would a normal fire really burn this badly？"
+    },
+    {
+        "message": "Even though it's an old building, for a fire to be big enough to bring down a mostly stone-built Monastery, it must've been pretty massive, don't you think?"
+    },
+    {
+        "message": "It's like someone poured oil and then set it on fire."
+    },
+    {
+        "message": "　　　Map　　　"
+    }
+]

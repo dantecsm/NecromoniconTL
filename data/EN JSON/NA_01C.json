@@ -1,0 +1,416 @@
+[
+    {
+        "name": "Gardner",
+        "message": "Hey, kid. In this weather, no one's gonna come all the way out just to eat, right? This isn't the only open table, is it? Why don't you move somewhere else?"
+    },
+    {
+        "message": "Gardner is talking to the tall, sturdy man sitting next to the table. But the vibe doesn't feel very friendly—in fact, it seems kinda hostile."
+    },
+    {
+        "message": "Tonight, the only ones staying at the Fish Scale Inn are me, Gardner, and a guy named Thomas. So this must be Thomas."
+    },
+    {
+        "name": "Thomas",
+        "message": "Don't be so uptight. Eating all alone in silence isn't any good, is it? I just want to enjoy my meal, that's all."
+    },
+    {
+        "name": "Gardner",
+        "message": "Well, for me, eating at the same table as you won't make my meal taste any better, that's for sure."
+    },
+    {
+        "name": "Thomas",
+        "message": "Hmph, you're a grumpy old man, aren't you."
+    },
+    {
+        "message": "　　　　　　With that attitude, no wonder you're an outcast in the academic society. Though, to be fair, ethnology's probably on the decline from here on out anyway！"
+    },
+    {
+        "name": "Thomas",
+        "message": "From now on it's the age of science. Ever since the Industrial Revolution, it's science that's keeping the world turning."
+    },
+    {
+        "name": "Gardner",
+        "message": "And what the hell would you know about that, huh？"
+    },
+    {
+        "message": "　　　　　　　　You're probably just parroting whatever some idiot around here told you."
+    },
+    {
+        "message": "It looks like I should step in before things get any more tense."
+    },
+    {
+        "message": "Mediating a fight as soon as I arrive in Arkham, huh......"
+    },
+    {
+        "message": "The room with the fireplace burning is warm, and when I'm surrounded by these sturdy walls, even the sound of the wind raging outside feels like a hollow fabrication."
+    },
+    {
+        "message": "Maybe it's just the fatigue from the long journey, but even though I'm hungry, just sitting here makes me start to nod off."
+    },
+    {
+        "message": "The room isn't exactly spacious, but it's kind of lonely to have only three of us in a dining hall that could fit twenty people."
+    },
+    {
+        "message": "I bet Mrs. Hudson doesn't find much motivation just making meals for us, either."
+    },
+    {
+        "message": "Gardner clearly isn't happy that Thomas is coming along too."
+    },
+    {
+        "message": "But, just like Thomas said, if the ruins become famous, Gardner is sure to benefit from that at least a little."
+    },
+    {
+        "message": "Even as a scholar, it seems he's not entirely without desires."
+    },
+    {
+        "message": "I always thought university professors were the cold, logical type who never get flustered by anything, but that description definitely doesn't fit Gardner."
+    },
+    {
+        "message": "Gardner isn't pleased about having Thomas sitting next to him."
+    },
+    {
+        "message": "He keeps a permanent scowl and pokes intently at the food on the table."
+    },
+    {
+        "message": "Sure, Thomas seems like a shameless and self-centered guy, but there's no reason to hate him this much. Did something happen between the two?"
+    },
+    {
+        "message": "When the topic of the ruins came up, Thomas's attitude seemed to change completely."
+    },
+    {
+        "message": "According to Gardner, this guy is barely a step away from being a conman, but he's apparently valuable to scholars. So why would someone like him be interested in some old ruins that probably aren't even profitable？"
+    },
+    {
+        "message": "Every time my gaze drifts to the ring, Thomas starts fidgeting nervously. There's gotta be a story behind it."
+    },
+    {
+        "message": "He really looks like a shady dude. Mrs. Hudson says he's a businessman with farms and factories, but to me he just looks like a scam artist."
+    },
+    {
+        "message": "Is this just proof that you can't judge a book by its cover, or is there something tasty about Arkham for him...?"
+    },
+    {
+        "message": "Maybe it's related to the talk about money the old stationmaster mentioned."
+    },
+    {
+        "message": "Anyway, it seems like it'd be best not to trust this guy."
+    },
+    {
+        "message": "Thomas seems to be quite the big eater, just like he looks. He's tackling the fish on his plate with hands that can't really be called elegant."
+    },
+    {
+        "message": "Does this guy not care at all about the grumpiness of Gardner sitting next to him? He doesn't bother turning his way or trying to start a conversation. Looks like that tense mood from earlier didn't faze him one bit."
+    },
+    {
+        "message": "Where the gem should be set in the ring, there's some sort of design engraved. It's small and worn down, so I can't really tell what it is......"
+    },
+    {
+        "message": "Seems like it's modeled after some kind of tool or something."
+    },
+    {
+        "message": "Have I seen something like this before somewhere？"
+    },
+    {
+        "message": "A pretty chunky ring is shining on the ring finger of Thomas's left hand."
+    },
+    {
+        "message": "From the looks of it, there's no rare metals or fancy gems on it at all. In other words, it's not really an expensive piece."
+    },
+    {
+        "message": "For someone like him—the kind you'd imagine wants to show off his status and current financial situation to others—to wear such a worthless piece of jewelry, there must be some kind of serious reason behind it."
+    },
+    {
+        "message": "When Thomas noticed that I had quickly spotted his ring, he curled his fingers to hide it. When I subtly glanced over at Gardner, he nodded knowingly."
+    },
+    {
+        "message": "Gardner knows something about the ring. And I feel like part of the reason he dislikes Thomas is hidden in that ring."
+    },
+    {
+        "name": "Gardner",
+        "message": "Well, not bad, wouldn't you say？"
+    },
+    {
+        "message": "I put a half-cooled piece of fish in my mouth. Gardner and Thomas had pretty much finished their meals already."
+    },
+    {
+        "name": "Gardner",
+        "message": "I think I'll be heading out soon. They don't serve anything stronger than wine at this inn, so I can't have a proper after-dinner drink."
+    },
+    {
+        "name": "Thomas",
+        "message": "Alright, guess I'll head back to my room too. Oh yeah, my room's right across from yours, so come by anytime if you need me."
+    },
+    {
+        "message": "　　　　　　See ya, Jonathan."
+    },
+    {
+        "message": "Gardner and Thomas each went back to their rooms."
+    },
+    {
+        "message": "Even though I wasn't finished eating yet. Can't really call either of them well-mannered guests."
+    },
+    {
+        "message": "Still, the atmosphere's getting tense."
+    },
+    {
+        "message": "Who knows what'll happen tomorrow..."
+    },
+    {
+        "name": "Gardner",
+        "message": "Hey, is there something wrong with that fish？"
+    },
+    {
+        "message": "Gardner looks suspiciously at me for not making any move to touch my food. From my perspective, I was just trying not to focus on eating in the middle of his story. University professors really are such thoughtless types."
+    },
+    {
+        "name": "Gardner",
+        "message": "It doesn't look great, but it doesn't taste bad. I've totally become hooked on the food here. If you're not going to eat, pass that plate over to me."
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, I'll eat... Thanks for being so thoughtful."
+    },
+    {
+        "message": "It's been steaming deliciously right in front of me for a while now."
+    },
+    {
+        "message": "It's been over 12 hours since I had a light meal before getting on the train this morning. I'm starving."
+    },
+    {
+        "message": "But before I start eating, I need to ask about the ruins of Arkham that I heard about in the room earlier."
+    },
+    {
+        "message": "It looks pretty well-cooked. Apparently, Mrs. Hudson is really exceptional at cooking."
+    },
+    {
+        "message": "I wonder if the fish was caught in the coastal waters near Arkham. It seems to be a kind I've never seen before."
+    },
+    {
+        "name": "Gardner",
+        "message": "Jonathan, you're not actually believing what a typical ignorant fellow like that is saying, are you？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Like I said earlier, right now we have absolutely no clue what era or what kind of culture the people who left this stuff belonged to."
+    },
+    {
+        "message": "　　　　　　　　If we could figure that out, the academic world would go nuts."
+    },
+    {
+        "name": "Thomas",
+        "message": "Ruins? What are you talking about? Is there something like that here?"
+    },
+    {
+        "name": "Gardner",
+        "message": "Think about it carefully. If it turns out this stuff belonged to the native peoples..."
+    },
+    {
+        "name": "Thomas",
+        "message": "Native peoples？ Like, Indians or something？"
+    },
+    {
+        "name": "Gardner",
+        "message": "You'll be shocked when you see it yourself. To find traces of megalithic civilization here in England！ It's a massive discovery."
+    },
+    {
+        "name": "Thomas",
+        "message": "What are you talking about？"
+    },
+    {
+        "name": "Gardner",
+        "message": "You just keep quiet！"
+    },
+    {
+        "message": "　　　　　　　　I'm telling you now, it's not worth any money. You can't really put a price on that thing. If you're looking for treasure hunting, you'd be better off going to Egypt or something."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What exactly have you found there？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Several structures, murals that suggest idol worship, and some undeciphered written characters. Looks like they had an advanced culture with their own language."
+    },
+    {
+        "name": "Gardner",
+        "message": "If it were the Incas or Aztecs, that'd be one thing, but finding this on Great Britain is a big deal."
+    },
+    {
+        "name": "Jonathan",
+        "message": "When you say 'megalithic civilization'..."
+    },
+    {
+        "name": "Gardner",
+        "message": "You probably wouldn’t understand if I started talking academically. To put it simply, it's a general term for ruins built with stone structures that show off advanced architectural techniques—stuff that would’ve been totally impossible with the technology back then."
+    },
+    {
+        "name": "Thomas",
+        "message": "Sounds like an interesting story... Maybe I’ll check it out too."
+    },
+    {
+        "name": "Gardner",
+        "message": "What do you say, Jonathan? Want to go check it out tomorrow? If that gets turned into an article, I bet it'll stir up quite the commotion."
+    },
+    {
+        "name": "Jonathan",
+        "message": "If the Professor would show us around, I’d be glad to."
+    },
+    {
+        "name": "Gardner",
+        "message": "Of course. I’d be happy to guide you."
+    },
+    {
+        "name": "Thomas",
+        "message": "I’m coming along too."
+    },
+    {
+        "name": "Gardner",
+        "message": "Why the hell are you coming?！"
+    },
+    {
+        "message": "　　　　　　　　I'm saying I'm going to show Jonathan around."
+    },
+    {
+        "name": "Thomas",
+        "message": "What's the problem? Having one more person isn’t gonna make a big difference, right?"
+    },
+    {
+        "name": "Gardner",
+        "message": "I don’t know what your motives are, but believe me, there’s pretty much no chance you’ll get anything out of it."
+    },
+    {
+        "name": "Thomas",
+        "message": "I've been listening, and you’ve been calling me a grave robber and whatever you want. Isn’t your real goal just to have Jonathan write an article about the ruins anyway?"
+    },
+    {
+        "name": "Gardner",
+        "message": "...What was that？"
+    },
+    {
+        "name": "Thomas",
+        "message": "Now that the ruins are getting attention, the academic community can't just ignore it, you know. You get to make a name for yourself as the discoverer, and you can also score some funding."
+    },
+    {
+        "name": "Gardner",
+        "message": "I'm a scholar. I'm not doing this for the money！"
+    },
+    {
+        "name": "Thomas",
+        "message": "Well... who really knows what the truth is."
+    },
+    {
+        "message": "　　　　　　Aren't you and I pretty much the same in the end？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Does it really matter either way? There's no point in arguing in a place like this. Let's all just go together tomorrow."
+    },
+    {
+        "name": "Gardner",
+        "message": "Still, it's strange. For a rundown inn like this to have three guests in one night. I've been staying here for a whole week, and this is the first time this has happened."
+    },
+    {
+        "name": "Jonathan",
+        "message": "A whole week？ That means those ruins must be quite the valuable research material."
+    },
+    {
+        "name": "Gardner",
+        "message": "Exactly. They have great academic significance."
+    },
+    {
+        "name": "Thomas",
+        "message": "I was just getting bored, anyway. Sometimes sightseeing at ruins sounds like a good idea. Who knows, maybe we'll even find some old gold coins or something."
+    },
+    {
+        "name": "Thomas",
+        "message": "But this weather's a real pain. If it's like this just when I arrived, who knows what it'll be like going forward."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So, why did you come to Arkham？"
+    },
+    {
+        "message": "　　　　　　　　Is there really a way to make money in a place like this?"
+    },
+    {
+        "name": "Thomas",
+        "message": "Nah... It's just a vacation."
+    },
+    {
+        "name": "Gardner",
+        "message": "A vacation in a chilly fishing village like this, huh..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I asked a station attendant in Salem, and he said they used to find gold in Arkham. He said it was when he was a boy, so that was probably fifty years ago or something."
+    },
+    {
+        "message": "The only reason I can think of for this guy to visit such a totally out-of-place village is that. I don't know where he heard about the gold, but that must be what he's after."
+    },
+    {
+        "name": "Gardner",
+        "message": "I can't believe there's a gold vein running through a place like this. I've never even seen any signs of it."
+    },
+    {
+        "message": "After saying that, Gardner glanced sideways at Thomas."
+    },
+    {
+        "message": "Looks like, just like me, he's suspecting this guy's after gold and the rights that come with it."
+    },
+    {
+        "name": "Thomas",
+        "message": "......So what about you, then? What'd you come here for?"
+    },
+    {
+        "message": "　　　　　　You look like some rich boy, but what business could you possibly have in a place like this?"
+    },
+    {
+        "name": "Gardner",
+        "message": "This guy Jonathan's a magazine reporter. Not some shady character like you."
+    },
+    {
+        "name": "Thomas",
+        "message": "You telling me there's a scoop lying around in this village？"
+    },
+    {
+        "name": "Thomas",
+        "message": "Oh right, I haven't introduced myself yet. I'm Thomas Paine.　　　　　　You came from London too, right? So did I."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Jonathan Swift."
+    },
+    {
+        "name": "Thomas",
+        "message": "London's a great city. Still, because of work I'm flying all over　　　　　　the place, so there are months I barely get to spend any days back　　　　　　at my own flat."
+    },
+    {
+        "name": "Gardner",
+        "message": "Hmph, a fool revealing his own true colors. Real rich people don't　　　　　　　　set themselves up with a room in London. They usually live in a　　　　　　　　house out in the suburbs, only coming into the city when they　　　　　　　　need to."
+    },
+    {
+        "name": "Thomas",
+        "message": "What was that‥‥‥‥? You trying to diss the way I live?"
+    },
+    {
+        "message": "　　　　　　Where I live is none of your business."
+    },
+    {
+        "name": "Gardner",
+        "message": "I'm just speaking in general. It's just that your attitude is so　　　　　　　　ridiculous, I just wanted to give you some advice."
+    },
+    {
+        "name": "Thomas",
+        "message": "What do you mean by that?！"
+    },
+    {
+        "name": "Gardner",
+        "message": "You come off just like some scammer desperate to worm his way　　　　　　　　into high society."
+    },
+    {
+        "message": "And here we go again, the mood’s getting tense‥‥‥"
+    },
+    {
+        "message": "These two really just don't get along."
+    }
+]

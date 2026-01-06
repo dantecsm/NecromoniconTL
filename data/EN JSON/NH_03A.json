@@ -1,0 +1,184 @@
+[
+    {
+        "message": "I came to the ruins of the Dunwich Refinery."
+    },
+    {
+        "message": "Thomas and Cordelia aren't here."
+    },
+    {
+        "message": "It's the remains of the Dunwich refinery."
+    },
+    {
+        "message": "Now it's fallen into such ruin that it's unrecognizable, but back then, this place was churning out such enormous wealth that it could decide the fate of Arkham."
+    },
+    {
+        "message": "This is the remains of the gold refinery built by Philip Dunwich."
+    },
+    {
+        "message": "Though now it's a shadow of its former self, back then this place was creating enough wealth to completely change Arkham's future."
+    },
+    {
+        "message": "Along with the ruins on the mysterious cape, the prospector who got his hands on a metal that looked a lot like gold ended up controlling the whole village, then disappeared without a trace."
+    },
+    {
+        "message": "The fact that the Dagon Cult worships the Ruins shows that Nai and Philip aren't unrelated."
+    },
+    {
+        "message": "I have no idea how this thing works."
+    },
+    {
+        "message": "What was Philip doing with this device, I wonder."
+    },
+    {
+        "message": "If all you want is to refine gold, you can just melt gold with impurities and get rid of the impurities, that's all."
+    },
+    {
+        "message": "これらの機械はそんな単純な行程をこなすだけの為に造られた物とも思えない。"
+    },
+    {
+        "message": "The room on the second floor of the Dunwich Mansion that looked like a scientist’s laboratory might have been a place where Philip was researching how to turn the gold-like metal he obtained into real gold."
+    },
+    {
+        "message": "These machines, which I have no idea what they're for, are probably specially made just for that purpose."
+    },
+    {
+        "message": "It looks like a pot used for distilling moonshine."
+    },
+    {
+        "message": "It's probably a device used to refine impure gold, but I've never seen anything shaped so weird before."
+    },
+    {
+        "message": "Come to think of it, Marsh said that what Philip brought back from his trade destination was something like gold."
+    },
+    {
+        "message": "Are these devices for turning that 'gold-like stuff' into real gold？"
+    },
+    {
+        "message": "If it was just for purification, there shouldn't be any need for such an elaborate setup."
+    },
+    {
+        "message": "Covered in soot and rusted, the machine at least looks like it could still run if you just did some basic maintenance on the surface."
+    },
+    {
+        "message": "It's a device like a giant boiler."
+    },
+    {
+        "message": "It's not clear how the mechanism works, but if it's just to increase gold purity, there shouldn't be a need for anything this elaborate."
+    },
+    {
+        "message": "Because the door has been broken, there's not just dust on the floor, but also fine sand and dried plant leaves that have piled up."
+    },
+    {
+        "message": "Even if someone was once interested in this Hut, it's probably been a really long time since anyone actually came inside."
+    },
+    {
+        "message": "So that means there's nothing valuable left here anymore......"
+    },
+    {
+        "message": "Even if Philip Dunwich left something behind, it would have been taken away long ago."
+    },
+    {
+        "message": "Besides dust, fine sand and dried plants and stuff are piling up on the floor."
+    },
+    {
+        "message": "随分長い間誰も小屋に入っていない事は明白だ。"
+    },
+    {
+        "message": "It's an entrance that leads to a room like the office next door."
+    },
+    {
+        "message": "When I came here before, Thomas, blinded by greed, broke it open by force, so of course it's not locked."
+    },
+    {
+        "message": "That said, I've already pretty much searched the whole room, so I don't think I'll find anything special even if I go now."
+    },
+    {
+        "message": "Might as well check out the Laboratory in the Dunwitch Mansion while we're at it."
+    },
+    {
+        "message": "棚の中にあった薬品類のサンプルでも収集しようか‥‥‥‥‥‥"
+    },
+    {
+        "message": "It's a door that leads to a room like the office next door."
+    },
+    {
+        "message": "Since Thomas broke the lock, obviously it isn't locked."
+    },
+    {
+        "message": "There's a door leading to a room like the office next door."
+    },
+    {
+        "message": "鍵は以前に私とトマスとで壊してしまったので、誰でも自由に出入りが可能になってしまった。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Looks like there's nothing in this room."
+    },
+    {
+        "message": "　　　　　　　　I wonder about the next one. Maybe we've got a better chance there."
+    },
+    {
+        "name": "Jonathan",
+        "message": "But we've already opened up the safe and checked it, and I tried every drawer and spot on the desk that looked like it could open."
+    },
+    {
+        "name": "Cordelia",
+        "message": "There wasn't anything that really fit, was there..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Unless that ledger on top of the desk could be called 'something that fits.'"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Where could it be..."
+    },
+    {
+        "message": "There's a door that leads to the next room—it looks kind of like an office."
+    },
+    {
+        "message": "Thomas and I broke the lock before, so now anyone can come and go as they please."
+    },
+    {
+        "message": "A lightbulb with a metal shade hangs from the ceiling."
+    },
+    {
+        "message": "Back when Philip Dunwich built this refinery, there probably weren't even electric lights yet."
+    },
+    {
+        "message": "So that means someone installed it later..."
+    },
+    {
+        "message": "By then, I get the feeling their funds were already running dry."
+    },
+    {
+        "message": "Even so, the fact they still wanted to use this hut... maybe that means they had some reason to think they could get more money from somewhere."
+    },
+    {
+        "message": "Dollie was a scholar type—not the kind to have a gambler’s cunning—so maybe it wasn't anyone from the Dunwich family, but someone else entirely who did it."
+    },
+    {
+        "message": "There's a dust-covered light bulb hanging here that barely looks usable. Seems like someone other than the Dunwich family tried to use this Refinery."
+    },
+    {
+        "message": "It looks like it was cheaply thrown together out of scrap materials."
+    },
+    {
+        "message": "This shady vibe is just like the bootleg distilleries that were common back when alcohol was hit with huge taxes."
+    },
+    {
+        "message": "It's hard to believe that so much wealth was being generated from a place like this—enough to completely change an entire village."
+    },
+    {
+        "message": "It's all thanks to that swindler Philip Dunwich, but the current villagers' attitude toward the Dunwich family is way too unreasonable."
+    },
+    {
+        "message": "It's such a cheap-looking building that it's hard to believe this is the place that generated the huge wealth that even built things like railroads and a university in Arkham."
+    },
+    {
+        "message": "　　　Map　　　"
+    },
+    {
+        "message": "　　Next room　　"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Gardner",
+        "message": "What's up, do you still have something left to do？"
+    },
+    {
+        "message": "Gardner already looks exhausted, like he just wants to get back to the Fish Scale Inn as soon as possible. He's shooting a reproachful look at me for stopping off at a place like this."
+    },
+    {
+        "name": "Thomas",
+        "message": "Why the hell did we come to a place like this?"
+    },
+    {
+        "message": "　　　　　　Weren't we on our way to get a drink？"
+    },
+    {
+        "message": "Thomas looks like a baby who's had his pacifier taken away, desperate to get his hands on some booze as soon as possible."
+    },
+    {
+        "message": "We're in front of the only general store in the village."
+    },
+    {
+        "message": "As usual, there aren't any customers, and it doesn't look like business is booming. If you can run a shop like this and still make it, that's a pretty easy living."
+    },
+    {
+        "message": "Well, it's not like there's any other shop in the village to compete with this one, so the villagers have to shop here whether they like it or not."
+    },
+    {
+        "message": "So this is the general store the lady was talking about."
+    },
+    {
+        "message": "The storefront is humble, nothing special, the kind you'd find anywhere in the downtown areas of London."
+    },
+    {
+        "message": "But considering this is a remote fishing village, you could almost say it looks pretty decent from the outside."
+    },
+    {
+        "message": "Compared to the Fish Scale Inn, this building looks pretty new. Maybe this was Arkham's Main Street back when the area was at its peak. If this shop was built around then, we're talking at most about fifty years ago."
+    },
+    {
+        "message": "The shop doesn't seem very busy, and I don't see any customers."
+    },
+    {
+        "message": "The rundown look, together with the dull, gloomy sky, gives off a sort of postcard-like, sentimental vibe."
+    },
+    {
+        "message": "There's nothing at all to prove that the shop is actually open for business."
+    },
+    {
+        "message": "Is it really even operating?"
+    },
+    {
+        "message": "The oak door, with all its paint peeled off, looks pretty worn on the surface, but still does its job just fine. The glass windows haven't been cleaned in ages and are pretty filthy."
+    },
+    {
+        "message": "The doorknob, firmly fixed on the door, is made of brass and totally plain, all about function. It's well-used and has a dull, metallic shine."
+    },
+    {
+        "message": "With shops like this, sometimes you can find some seriously rare hidden treasures. But it doesn't look like there's anything here I could actually use right now."
+    },
+    {
+        "message": "I've got no hobby of collecting soup can labels or admiring laundry starch ad posters."
+    },
+    {
+        "message": "The items in the show window look pretty old. It seems like they gave up trying to make the store look nice a long time ago."
+    },
+    {
+        "message": "埃が積もり黄色く変色しはじめたガラスは、最後に掃除されたのがいつの事なのか判別出来ないほど汚れている。"
+    },
+    {
+        "message": "Fish Scale Inn"
+    },
+    {
+        "message": "　　　Plaza　　　"
+    },
+    {
+        "message": "　　　Ruins　　　"
+    },
+    {
+        "message": "Gilman House"
+    },
+    {
+        "message": "　　Go inside　　"
+    }
+]

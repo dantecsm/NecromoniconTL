@@ -1,0 +1,188 @@
+[
+    {
+        "message": "This is the basement where Dollie's wife, Jean, was killed."
+    },
+    {
+        "message": "階段を降りる前から漂っていた血と腐肉を混ぜ合わせたような匂いは、ここでは一層強くなり、立っているだけで眩暈がする。"
+    },
+    {
+        "name": "Thomas",
+        "message": "Ugh........."
+    },
+    {
+        "name": "Thomas",
+        "message": "What the hell is this smell！"
+    },
+    {
+        "message": "　　　　　　冗談じゃねえぜ、こんな所にいたら死んじまうぜ。"
+    },
+    {
+        "message": "ドルリイの妻ジーンが殺された地下室だ。"
+    },
+    {
+        "message": "The stench of blood mixed with rotting flesh that had been lingering even before I went down the stairs was even stronger here, making me dizzy just from standing."
+    },
+    {
+        "message": "It's only natural to worry that there might be bacteria living indoors that could cause harm, even if it's not Thomas."
+    },
+    {
+        "message": "But there’s nothing around here that looks like it could be causing the bad smell."
+    },
+    {
+        "message": "考えられるのは‥‥‥‥‥‥‥‥"
+    },
+    {
+        "message": "A steel chain extends from a metal fitting fixed into the mortar wall."
+    },
+    {
+        "message": "If it's built this sturdy, there's no way a person chained up could ever break free from these restraints."
+    },
+    {
+        "message": "This is clearly a device designed to restrain a person’s arms and legs, like for torture or something."
+    },
+    {
+        "message": "Why is something like this inside the mansion？"
+    },
+    {
+        "message": "Even if you can trace it back to the Tudor era, that doesn't mean you've inherited the habit of torturing innocent people you captured."
+    },
+    {
+        "message": "Was there someone among the heads of the Dunwich family who had perverted tastes, or was it something meant to restrain a person whose mind had gone mad..."
+    },
+    {
+        "message": "I remember there was something similar in the basement of the old Monastery."
+    },
+    {
+        "message": "This has got to be some kind of device, just like the handcuffs over there, to take away a person's freedom to move their hands and feet."
+    },
+    {
+        "message": "If it were a monastery, you might be able to come up with some excuse about keeping a nun tied up for breaking the rules to make her reflect, but this is just a rich guy's mansion."
+    },
+    {
+        "message": "There's no excuse for locking someone up or torturing them."
+    },
+    {
+        "message": "Even if you can trace things back to the Tudor era, that doesn't mean you've inherited the habit of torturing innocent people they've captured, right?"
+    },
+    {
+        "message": "Why is something like this in the Dunwitch Mansion？"
+    },
+    {
+        "message": "I wonder if the same scene I saw in the underground room of the Monastery was happening here in the Mansion too."
+    },
+    {
+        "message": "This is the room where Dollie's wife Jean got her head blown off with a shotgun."
+    },
+    {
+        "message": "Most likely, these traces of blood definitely belong to her."
+    },
+    {
+        "message": "Looks like old bloodstains."
+    },
+    {
+        "message": "This basement is where Dollie's wife Jean had her head blown off with a shotgun, and judging by the location of the blood, there's a high chance Jean was killed after she'd already been restrained."
+    },
+    {
+        "message": "It's awful, but I wonder if Jean went down into the basement of his own accord."
+    },
+    {
+        "message": "いくら夫の命令とはいえ、猟銃を抱えた男とこの密室にやって来るとは普通の神経では考えられない。"
+    },
+    {
+        "message": "Didn't Jean come to the basement after her husband, fully aware of what was waiting for her here?"
+    },
+    {
+        "message": "このまま放置しておけば、ダニッジ邸が倒壊するのはそう先の事でもないだろう。"
+    },
+    {
+        "message": "As you'd expect from an old building, there are cracks all over the walls around the basement."
+    },
+    {
+        "message": "If we leave it like this, it won't be long before the Dunwitch Mansion collapses."
+    },
+    {
+        "message": "There's a hole extending underground."
+    },
+    {
+        "message": "There's a hole just big enough for my body, with some rusty iron footholds attached, but I'm not exactly sure if they'll really hold my weight."
+    },
+    {
+        "message": "If the foothold breaks and I fall, I'll plunge headfirst to the bottom of a hole so deep I have no idea how far down it goes."
+    },
+    {
+        "message": "Looks like the source of that nasty stench—kind of like a mix of blood and rotten flesh—floating all through the basement is under this lid."
+    },
+    {
+        "message": "I don't think the construction technology back then was advanced enough to make rooms even further below the basement, so maybe what's under this lid is a sewer or something."
+    },
+    {
+        "message": "I wonder if it's okay to open it..."
+    },
+    {
+        "message": "I sure hope I don't suddenly come face to face with a rotten corpse or anything..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "What the hell is this awful smell......"
+    },
+    {
+        "message": "コーデリアは穴から顔を背け、必至に吐き気を耐えるように口と鼻を手で押さえている。"
+    },
+    {
+        "name": "Thomas",
+        "message": "Maybe there's even a corpse or something..."
+    },
+    {
+        "message": "　　　　　　This smell, it's not normal."
+    },
+    {
+        "name": "Jonathan",
+        "message": "これじゃあ下に降りるのは無理だな。"
+    },
+    {
+        "name": "Thomas",
+        "message": "No fucking way！"
+    },
+    {
+        "name": "Thomas",
+        "message": "If you’re getting off, go by yourself."
+    },
+    {
+        "name": "Gardner",
+        "message": "I'll pass too."
+    },
+    {
+        "message": "　　　　　　　　Ever since I got trapped in an abandoned mine near my house as a kid, I've kinda had a thing about small spaces."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Can't be helped, let's stop here."
+    },
+    {
+        "message": "　　　　　　　　It's probably just the sewer or something down there anyway......"
+    },
+    {
+        "message": "When I lift the heavy iron lid, the stench that was hanging in the room gets even stronger. There are rusted, crumbling iron footholds attached to the narrow hole, just big enough for my body to squeeze through."
+    },
+    {
+        "message": "Should we try going down？"
+    },
+    {
+        "message": "But the tunnel stretching underground shows no sign of ending, and darkness blocks the way ahead."
+    },
+    {
+        "message": "The strange stench has gotten so bad it's almost unbearable, and if I keep staring down into the hole, I feel like I'm going to get dizzy and fall in."
+    },
+    {
+        "message": "I don't know what's past this narrow hole, but unless I really have to, I don't feel like going down there."
+    },
+    {
+        "message": "There should still be a lot of other things I have to do."
+    },
+    {
+        "message": "We can probably come back here later without any problems."
+    },
+    {
+        "message": "Entrance hall"
+    }
+]

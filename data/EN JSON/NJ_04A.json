@@ -1,0 +1,624 @@
+[
+    {
+        "message": "The graveyard, which is quiet with not even a single visitor during the day, becomes even colder at night, with not even the gravedigger who manages everything here in sight."
+    },
+    {
+        "message": "Looks like the wind's getting strong again, and the black rain clouds drifting across the sky are passing by overhead as if they're flying."
+    },
+    {
+        "message": "木々のざわめきが、墓地の中でただひとり生きて呼吸している私を面白くなく思っている死人達の棺の蓋を引っかく音のように感じる。"
+    },
+    {
+        "message": "There's no sign of the gravekeeper."
+    },
+    {
+        "message": "It's stuck with me how he said, 'Just like Marsh...' but there's no way he actually died for real, right?"
+    },
+    {
+        "message": "There's no doubt that Marsh was killed by the monster controlled by Nai. I hope the gravekeeper didn't meet the same fate."
+    },
+    {
+        "message": "When I think about the horrible rituals Cordelia had to endure at the Church of Dagon, shouldn't I be waiting for her return at Gilman House as soon as possible?"
+    },
+    {
+        "message": "Nai said that Cordelia is an 'important woman to offer to our Lord.'"
+    },
+    {
+        "message": "I have no way of knowing what kind of doctrine they hold or why they became followers of Dagon, but they must be practitioners of some kind of black magic cult worship, no doubt about it."
+    },
+    {
+        "message": "If I trust Nai's words to the followers, 'Do not lay a hand on this woman,' then Cordelia probably won't be killed right away. I have to use this grace period to escape from the village as soon as I can."
+    },
+    {
+        "message": "The cemetery, quiet and deserted even during the day with hardly any visitors, feels even colder at night, and not even the sole gravedigger who manages the entire place is around."
+    },
+    {
+        "message": "Looks like the wind's picking up again, and the black rain clouds racing across the sky are passing by overhead as if they're flying."
+    },
+    {
+        "message": "The rustling of the trees feels like the dead, annoyed at me being the only living, breathing person in the graveyard, are scratching at the lids of their coffins."
+    },
+    {
+        "message": "The gravedigger's gone now."
+    },
+    {
+        "message": "It's stuck in my mind how he said, 'Guess I'll go just like Marsh...' but I really hope he didn't actually die for real."
+    },
+    {
+        "message": "No one would have any reason to kill that harmless gravedigger, who seemed interested in nothing but keeping this cemetery he managed in perfect shape."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "So, what do you say, feeling like digging up the Dunwich family grave yet？"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "I just don't want to see the graveyard I've taken care of get messed up, y'know, so if you really wanna dig up graves, do it when I'm not lookin'."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "What did you come here for this time？"
+    },
+    {
+        "message": "　　　　　This cemetery isn’t exactly the kind of place to get you guys all interested or anything."
+    },
+    {
+        "message": "I guess it should be fine to talk to this gravekeeper about Marsh."
+    },
+    {
+        "message": "At the very least, he doesn't seem hostile towards us, and since he's in the job of a gravekeeper, he could probably bury Marsh's body without anyone noticing."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "What's up, what are you so lost in thought about?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Marsh has... been killed."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "What？"
+    },
+    {
+        "message": "　　　　　Out of the blue, what are you suddenly saying..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's not a lie, when we asked about the ship, it had already passed away."
+    },
+    {
+        "name": "Jonathan",
+        "message": "It was like half his body had been bitten off by a shark, and there was a harpoon stuck in his mouth."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "No doubt about it, someone killed him."
+    },
+    {
+        "message": "　　　　　But I guess it can't be helped."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What's going on？"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "That old man always used to say."
+    },
+    {
+        "message": "　　　　　Someday, I’m gonna get killed..."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Oh, it's you guys again. Do you need something from me?"
+    },
+    {
+        "message": "　　　　　Like I said before, I can’t help Marsh.　　　　　But still."
+    },
+    {
+        "message": "The gravekeeper said that without much interest, then stared intently at the winter-withered lawn with a look like he was cherishing it."
+    },
+    {
+        "name": "Jonathan",
+        "message": "あなたは、どうしてマーシュが殺されたのか知ってい　　　　　　　　るんでしょう？"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "You wanna know why Marsh got killed？"
+    },
+    {
+        "message": "　　　　　Aren't you guys the ones who know more about that?"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Didn't you say before that Marsh got killed because we kept following him around?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's not what I meant."
+    },
+    {
+        "message": "　　　　　　　　あなたは、マーシュが何かに拘っていたと言っていた　　　　　　　　じゃありませんか。"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Now then, how did it go........."
+    },
+    {
+        "message": "Through the gaps in the trees, I can see a sky thick with heavy clouds."
+    },
+    {
+        "message": "The hills visible in the distance, with dark clouds looming behind them, look just like an exceptionally ominous landscape painting."
+    },
+    {
+        "message": "It's definitely fitting for a graveyard, but even so, this place still has a relatively comfortable and refreshing image, even within Arkham."
+    },
+    {
+        "message": "Thick, ominous clouds are hanging low in the sky."
+    },
+    {
+        "message": "Even the wind shaking the branches of the trees doesn't seem to be any help in sweeping away the rain clouds above."
+    },
+    {
+        "message": "Through the gaps in the trees, I can see a sky thick with hanging clouds."
+    },
+    {
+        "message": "The hills visible in the distance, with dark clouds looming behind them, look just like a strikingly ominous landscape painting."
+    },
+    {
+        "message": "You could say it’s definitely fitting for a graveyard, but even so, this place still has a relatively comfortable and refreshing vibe compared to the rest of Arkham."
+    },
+    {
+        "message": "Dark, heavy clouds hanging low in the sky look ominous."
+    },
+    {
+        "message": "Even the wind shaking the branches of the trees doesn't seem to do any good in blowing away the rain clouds overhead."
+    },
+    {
+        "message": "Last night, I was able to see the moon shining blue through the breaks in the clouds, but tonight the entire sky is covered in rain clouds and I can't even see that."
+    },
+    {
+        "message": "With the loss of the moonlight that purifies this unclean land, all sorts of monsters and spirits are flooding into Arkham."
+    },
+    {
+        "message": "I can't help but have that kind of fantasy; it feels like tonight's sky is filled with an unsettling air."
+    },
+    {
+        "message": "Ominous-looking black clouds are hanging low in the sky."
+    },
+    {
+        "message": "Even the wind rustling through the tree branches doesn't seem to be able to blow away the rain clouds above."
+    },
+    {
+        "message": "Through the gaps in the trees, I can see a sky thick with heavy clouds."
+    },
+    {
+        "message": "The hills visible in the distance, backed by dark clouds, look just like an especially ominous landscape painting."
+    },
+    {
+        "message": "You could say it's fitting for a cemetery, but even so, this place still keeps its relatively pleasant and refreshing image within Arkham."
+    },
+    {
+        "message": "Heavy, uneasy-looking clouds hang thick in the sky."
+    },
+    {
+        "message": "It seems that even the wind shaking the tree branches can't do anything to blow away the rain clouds up above."
+    },
+    {
+        "message": "Maybe because it doesn’t get hit by strong sea winds, all the tall trees in the graveyard stretch straight up."
+    },
+    {
+        "message": "If this were summer, they'd make the perfect shade, and you'd probably want to take a break under them, but in this bone-chilling season, nobody even bothers to notice those trees."
+    },
+    {
+        "message": "あまり緑豊かとはいえないアーカムの中で、唯一やすらぎを感じさせてくれる木々だ。"
+    },
+    {
+        "message": "In the winter-withered grass, gravestones are neatly lined up in orderly rows."
+    },
+    {
+        "message": "There's probably no other cemetery in Arkham besides this one, but there really aren't that many gravestones lined up here."
+    },
+    {
+        "message": "I just hope the villagers here aren't still keeping up those old savage customs. If it turns out the local fish are feeding on the bodies of villagers washed out to sea, I probably wouldn't ever want to eat fish again."
+    },
+    {
+        "message": "With grass neatly laid out and the area surrounded by trees, this spot feels so fresh it's hard to believe it's part of Arkham, but knowing it's a graveyard, I don't really feel like hanging around for too long."
+    },
+    {
+        "message": "The grass is neatly trimmed, and there's not a single fallen leaf in sight."
+    },
+    {
+        "message": "Even though apparently no one comes to visit the graves, the caretaker seems to do a meticulous job."
+    },
+    {
+        "message": "Maybe they're made from stone quarried around here, but all the grave markers, made of a darker stone than regular gravestones, are lined up in almost identical shapes as if measured out."
+    },
+    {
+        "message": "It seems there are barely any people in Arkham who can afford to spend money on their own gravestone."
+    },
+    {
+        "message": "Ancient ones that have stood for hundreds of years, alongside brand new markers that look like they were placed just recently, are lined up in perfect order."
+    },
+    {
+        "message": "He looks dejected, probably because he's lost one of his oldest, now-rare friends."
+    },
+    {
+        "message": "無精ひげでおおわれた顔には表情がなく、前屈みになって足下の芝を見つめている様子からは、急に老け込んでしまったような印象を受ける。"
+    },
+    {
+        "message": "I always thought that anyone who chose a job like gravekeeper must have some kind of different vibe or look compared to regular people, and this gravekeeper seems like the textbook example of that."
+    },
+    {
+        "message": "His clothing was more like that of a plainclothes police officer from the Yard than a \"gravedigger,\" and his unshaven, slovenly face was a trait not often seen in gardeners or people doing similar work that required neatness."
+    },
+    {
+        "message": "People from Arkham are mostly expressionless and hard to read, but the gravedigger probably isn't from this village."
+    },
+    {
+        "message": "長い間村の人間と一緒にいたせいで、同じような性質が植え付けられてしまったのだろうか。"
+    },
+    {
+        "message": "The look of pain on the old gravekeeper's face—is it because he's blaming himself for saying something he shouldn't have?"
+    },
+    {
+        "message": "From the face twisted like he just swallowed a bitter bug, you can clearly feel the anger towards us and the dead Marsh."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "If it's found out that I told you guys something like this, I might end up just like Marsh......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why aren’t there any graves for the Dunwich family？"
+    },
+    {
+        "message": "　　　　　　　　I　can　only　find　a　grave　for　the　daughter."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "This was before I became the gravedigger......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Have you heard the talk about the circuit judge digging up graves？"
+    },
+    {
+        "message": "　　　　　　　　I heard the judge hasn't been able to stand in court since then."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Ah......... that story........."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Yeah, I heard something about that judge, like, all the other Dunwich family members' coffins got burned up."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why would you do something like that？"
+    },
+    {
+        "message": "　　　　　　　　Just　because　you're　a　judge　doesn't　mean　you　have　the　right　to　do　something　like　that...　right?"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "So, this is just something I heard too, so I don't know if it's true or not......　　　　They say when the judge opened Dunwich's coffin lid, the corpse inside grabbed the judge's throat......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "There's no way that's possible."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "That's why I said it's just a rumor."
+    },
+    {
+        "message": "　　　　　If you want to make sure, dig up the Dunwich family grave yourself！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No way, did Marsh actually believe that story？"
+    },
+    {
+        "message": "　　　　　　　　Your eyes were dead serious when you talked to me about the judge."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Well then."
+    },
+    {
+        "message": "　　　　　But, Marsh saw it in the room where Dollie killed herself‥‥‥"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "We were talking about something like a diary, weren't we."
+    },
+    {
+        "message": "　　　　　Ever since Marsh read that, it seems like he became convinced that Dollie was actually sane."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "He didn't say what was written, but ever since then, strange accidents started happening around Marsh."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "まるで誰かがマーシュの命を狙っているようにな。"
+    },
+    {
+        "message": "　　　　　I told him many times to stop getting involved with the Dunwich family, but that guy just wouldn't listen."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Talking about Dollie in front of other people and stuff."
+    },
+    {
+        "name": "Jonathan",
+        "message": "どうしてドルリイが一族の者を惨殺したのかは言って　　　　　　　　いなかったか？"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "They said the Dunwich family bloodline had to be wiped out... I never heard why it had to be done."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "I don't remember anything else."
+    },
+    {
+        "message": "　　　　　Anything else？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah‥‥‥‥‥‥"
+    },
+    {
+        "message": "　　　　　　　　Why　aren't　there　that　many　graves　in　this　cemetery？"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "村人が死なないからさ。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No way! That's bullshit!"
+    },
+    {
+        "message": "　　　　　　　　Is this village a land of immortality and eternal youth？"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Nah, for some reason, when people in this village get old, they just up and disappear somewhere."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Sure, I've heard that Cordelia's foster parents and the former owner of the general store have disappeared somewhere..."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "I'm not from this village, so I don't really know."
+    },
+    {
+        "message": "　　　　　Seems like just sitting still in this village until you die is considered embarrassing."
+    },
+    {
+        "name": "Jonathan",
+        "message": "妙な習慣だ‥‥‥‥"
+    },
+    {
+        "message": "　　　　　　　　Right, what happened to the nuns who died in the monastery fire?　　　　　　　　Where are their graves?"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Well, that's probably something from before I was even born, right？"
+    },
+    {
+        "message": "　　　　　I don't know that much."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "But from what I've heard, not that many people have died, apparently."
+    },
+    {
+        "message": "　　　　　The nuns who lost their homes in the fire married men from the village, and it seems most of them stayed in the village."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "It's kind of a crude story, but you know, the guys who married nuns—they figured, since these women are nuns who'd never had anything to do with men, they must be super strict and proper… but then……"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "それから半年もしないうちに、尼さん達が月足らずの赤ん坊　　　　　を産みはじめたそうだ、それもひとりやふたりではなく、ほ　　　　　とんど全員の尼さんがな。"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "There was this rumor going around that some guy was sneaking into the Monastery up to no good......... Well, it's kinda a joke more than anything."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "What do you wanna know?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah, first‥‥‥‥‥"
+    },
+    {
+        "message": "　　　　　　　　Do you know who killed Marsh？"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "I don't know who it is."
+    },
+    {
+        "message": "　　　　　But there's no doubt they're a follower of Dagon."
+    },
+    {
+        "name": "Jonathan",
+        "message": "The Dagon Cult's？"
+    },
+    {
+        "message": "　　　　　　　　Why do they have to kill Marsh."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Don't rush, most of the villagers are followers of Dagon."
+    },
+    {
+        "message": "　　　　　ダゴン教団の連中は特に村によそ者が来るのを嫌う。"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "It's not good for outsiders to go around asking about the village."
+    },
+    {
+        "message": "　　　　　They're secretly plotting something."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What are they trying to do?"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "I'm not a follower, so there's no way I'd know something like that."
+    },
+    {
+        "message": "　　　　　Those guys aren't right in the head."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "The reason that kind of thing got popular in this village, if you ask me, is all because of those Ruins."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Ruins？"
+    },
+    {
+        "message": "　　　　　　　　Was　that　something　brought　here　by　the　Dagon　Cult?"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "No, it's the Dagon Cult that followed along with the Ruins."
+    },
+    {
+        "message": "　　　　　It was Philip Dunwich who brought the Ruins here."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Originally, the sea around here wasn't all that rich."
+    },
+    {
+        "message": "　　　　　You know the village prospered thanks to money, right？"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "After Philip disappeared, that Nai guy showed up.　　　　　When we couldn't get money anymore and had to go back to being a poor fishing village　　　　　Nai appeared and spread the Dagon Cult."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why did the villagers go along with Nai's story？"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Well, it's because we can actually catch fish now."
+    },
+    {
+        "message": "　　　　　He was a naive country boy to begin with. I don't know what tricks were used, but everyone totally bought into it."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "That's why the villagers never go against what Nai says."
+    },
+    {
+        "message": "　　　　　Anything　else　you　want　to　ask？"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Listen, kid, what I'm interested in is whether the grass and trees in this cemetery are growing well, or if some brat's sneaking in and messing around with the gravestones, that kind of thing."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "It's true, Marsh is a very old friend of mine."
+    },
+    {
+        "message": "　　　　　These days, there's hardly anyone like that left, and now‥‥‥‥ I'm the only one from those days still around‥‥‥‥"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "I can't live like Marsh."
+    },
+    {
+        "message": "　　　　　So, I decided to just close my eyes, cover my ears, and focus only on things happening in this graveyard."
+    },
+    {
+        "message": "As I thought, the gravedigger knows something."
+    },
+    {
+        "message": "Did Marsh tell them something, or is it something that every villager except us already knows?"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "So just go home already."
+    },
+    {
+        "message": "　　　　　Could you stop following me around anymore？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I can't let that happen."
+    },
+    {
+        "message": "　　　　　　　　You really do know something too, don't you？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Marsh just told me to investigate the Dunwich family and then died on me. I tried doing what he said, but the more I dig, the less I understand."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Is it fun to torment an old man?"
+    },
+    {
+        "message": "　　　　　Why are you following me......"
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Anyway, why did Marsh even bother helping someone like you?"
+    },
+    {
+        "message": "　　　　　Even though their own life is in danger."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Because I'm a descendant of the Dunwich family."
+    },
+    {
+        "message": "　　　　　　　　When I first met Marsh, he said I had an Innsmouth look."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "Unbelievable, the only ones left with Dunwich blood should have been just Dollie and her family. Unless Dollie had some secret child or something."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Apparently, my ancestor was from this Arkham."
+    },
+    {
+        "message": "　　　　　　　　And, I have an Innsmouth face."
+    },
+    {
+        "name": "Gravedigger",
+        "message": "But something like that is just..."
+    },
+    {
+        "message": "　　　Map　　　"
+    },
+    {
+        "message": "　　Go inside　　"
+    },
+    {
+        "message": "　　　Map　　　"
+    },
+    {
+        "message": "　　Go inside　　"
+    }
+]

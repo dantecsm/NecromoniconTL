@@ -1,0 +1,163 @@
+[
+    {
+        "message": "In front of the Church of Dagon."
+    },
+    {
+        "message": "The area is wrapped in silence, and neither the sound of the pipe organ nor the voices of the believers’ prayers can be heard from the Church."
+    },
+    {
+        "message": "You can vaguely see something like a light in the window of the Church, but it's so quiet it doesn't seem like anyone's inside."
+    },
+    {
+        "message": "In front of the Church of Dagon."
+    },
+    {
+        "message": "Cordelia seems to get uncomfortable when she comes here, and she's staring at the ground with a frown on her face."
+    },
+    {
+        "name": "Cordelia",
+        "message": "It's here again......"
+    },
+    {
+        "message": "　　　　　　　　Whenever I come to this Church, I just get this really awful feeling."
+    },
+    {
+        "message": "Cordelia is grimacing, staring at the ground."
+    },
+    {
+        "message": "Even though you shouldn't have even known the location of the Church very well until you came with us, I can't figure out why you seem to hate this place so much."
+    },
+    {
+        "message": "Maybe I've come to the Church without even realizing it myself."
+    },
+    {
+        "message": "Maybe I got taken to a mass by my foster parents before."
+    },
+    {
+        "name": "Cordelia",
+        "message": "If you're going inside, I'll wait here."
+    },
+    {
+        "message": "　　　　　　　　Jonathan, is that okay？"
+    },
+    {
+        "message": "With such a creepy atmosphere, no painter would ever want to pick up their brush."
+    },
+    {
+        "message": "Tall trees stand as if they're about to reach the dull, overcast sky."
+    },
+    {
+        "message": "All the trees, like firs and beeches, are twisted in weird ways from being battered by the strong wind, casting an unpleasant shadow over the landscape that looks like something out of a painting."
+    },
+    {
+        "message": "教会はそのあたりを占めていた木立を切り倒した中に割って入るように建てられたようで、伐採を免れた木々はその復讐をするかのように敷地の中まで進入しようとしている。"
+    },
+    {
+        "message": "I'm just amazed by its insatiable vitality, but because it looks hunchbacked, it only makes it creepier."
+    },
+    {
+        "message": "傴僂のようにひねて妙な形に成長した木々は、昼間でも不気味な印象が強い。"
+    },
+    {
+        "message": "At night it was even worse—every single tree looked like a huge, monstrous creature, and my feet, which had been heading toward the Church, stopped on their own."
+    },
+    {
+        "message": "The trees, twisted and grown into strange shapes like hunchbacks, give off a creepy vibe even during the daytime."
+    },
+    {
+        "message": "At night, it was even worse, with every single tree looking like some huge, monstrous beast, making my feet naturally stop as I was headed for the Church."
+    },
+    {
+        "message": "The way the trees, bursting with greedy vitality, slowly encroach even on the grounds of the Church looks like malignant cancer cells eating away at a human body, and seems to symbolize human helplessness.."
+    },
+    {
+        "message": "It looks like a pretty old building, but it's not exactly some valuable piece of architecture or anything."
+    },
+    {
+        "message": "More than that, the atmosphere of the building brings up a certain sense of hostility. There's not even a trace of the grand impression the Church is supposed to have."
+    },
+    {
+        "message": "They were talking about the 'Dagon Cult' or something, but I've never heard of any group like that."
+    },
+    {
+        "message": "It's probably just some shady new cult or something, but I can't figure out why they'd base themselves out in the sticks like this."
+    },
+    {
+        "message": "ダゴン教団なる団体の教会だと言うが‥‥‥‥‥ナイはっきりと『わたしの教会』と言っていたが、私の慣れ親しんだ教会とは趣を異にするように思われる。"
+    },
+    {
+        "message": "何よりまず奇異な所は、この建物には十字架をはじめとする教会につきものの装飾が一切施されていないところだ。"
+    },
+    {
+        "message": "Thomas, who had been talking with Nai in front of the Church, proved that he only happened to be called out by Nai, and that there was no connection between Nai and himself."
+    },
+    {
+        "message": "What exactly is this 'Lost key' that Nai kept bringing up..."
+    },
+    {
+        "message": "Thomas also sounded like he knew a lot about that."
+    },
+    {
+        "message": "You can see a faint light in the windows of the Church, but you can't hear the melody of the Organ or the prayers of the worshippers."
+    },
+    {
+        "message": "とても教会とは思えない変わった様式の建物は、中身を失った抜け殻のように、空虚な静寂につつまれている。"
+    },
+    {
+        "message": "It's the Relief displayed above the entrance."
+    },
+    {
+        "message": "Gardner said that this relief, which matches the pattern on Thomas's ring, is the emblem of the secret society."
+    },
+    {
+        "name": "Cordelia",
+        "message": "悪いけど、教会の中に入るなら、わたしは外で待って　　　　　　　　待っているわ。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "I wonder why, I've never been to this place before, yet just seeing it once makes me feel this awful."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That might also be connected to a part of the memories you've lost."
+    },
+    {
+        "name": "Jonathan",
+        "message": "自分では全く覚えていないが、実は何度もこの教会に　　　　　　　　来た事があるのかもしれない。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "I'm not some follower of Dagon."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's right, so what was the whole point behind forming this 'Dagon' group in the first place?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "It looks like a lot of villagers have become followers, but I'd never even heard that name until I came to Arkham."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I don't really know either."
+    },
+    {
+        "message": "　　　　　　　　But, I feel like there was never a Christianity Church in this village ever since I was a kid."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So the only likely relic is at that monastery, huh?"
+    },
+    {
+        "message": "　　　　　　　　No way, it wasn’t Dagon’s followers who set fire to the hospital, was it?"
+    },
+    {
+        "message": "　　　Map　　　"
+    },
+    {
+        "message": "　　Go inside　　"
+    },
+    {
+        "message": "　　　Map　　　"
+    }
+]

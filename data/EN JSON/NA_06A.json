@@ -1,0 +1,396 @@
+[
+    {
+        "message": "I'm in front of the Fish Scale Inn."
+    },
+    {
+        "message": "I came back in front of the Fish Scale Inn."
+    },
+    {
+        "message": "There's no sign of people around, and it feels like everyone inside the pavilion has completely fallen asleep..."
+    },
+    {
+        "message": "Are Thomas and Mr. Hudson still in the middle of 'that'?"
+    },
+    {
+        "message": "I'm surprised that you two had that kind of relationship..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Is it already over for today？"
+    },
+    {
+        "message": "　　　　　　　　Then I'm going back to the Pub."
+    },
+    {
+        "message": "Cordelia seems pretty offended."
+    },
+    {
+        "message": "She's naturally strong-willed, so once she's like this, there's really nothing I can do."
+    },
+    {
+        "message": "I guess it really was a bad idea to go into the Brothel right in front of Cordelia..."
+    },
+    {
+        "message": "I have to find some way to cheer her up."
+    },
+    {
+        "name": "Cordelia",
+        "message": " Hey, Jonathan..."
+    },
+    {
+        "name": "Cordelia",
+        "message": " About earlier..."
+    },
+    {
+        "message": "　　　　　　　　I　wonder　if　I　really　have　some　terrible　illness."
+    },
+    {
+        "name": "Jonathan",
+        "message": "今まで何もなかったのなら、それほど重病ではないの　　　　　　　　かもしれない。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Maybe I was just tired last night and don't remember where I went, that's all."
+    },
+    {
+        "name": "Cordelia",
+        "message": "But........."
+    },
+    {
+        "name": "Cordelia",
+        "message": "There have been a few strange things before, too."
+    },
+    {
+        "message": "　　　　　　　　Like, I woke up in the morning and the soles of my feet were covered in mud, or the Underwear I swear I put on was gone‥‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's probably just my imagination."
+    },
+    {
+        "message": "　　　　　　　　Not wearing any underwear, you weren’t actually sleeping completely naked, were you?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Yeah, but......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Please, tonight, watch me in my room and make sure I don't go off somewhere."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't mind that, though."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Please, Jonathan."
+    },
+    {
+        "message": "This is in front of the Fish Scale Inn."
+    },
+    {
+        "message": "Even though it's daytime, the door is shut tight."
+    },
+    {
+        "message": "Mrs. Hudson doesn't seem to have expected any guests at all."
+    },
+    {
+        "message": "There's no way business could ever go well like this."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Hey, Jonathan......"
+    },
+    {
+        "message": "Cordelia is looking at me with a really anxious expression."
+    },
+    {
+        "message": "That story about sleepwalking earlier must’ve really gotten to him."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I wonder if I'm really sick......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "What should I do if that's the case."
+    },
+    {
+        "message": "　　　　　　　　I can't believe I was wandering around aimlessly without even realizing it."
+    },
+    {
+        "message": "I don't know how I should put it."
+    },
+    {
+        "message": "It's an undeniable fact that Cordelia wasn't at the pub last night, and if we believe what she says, it's pretty weird that she has no memory of that time at all."
+    },
+    {
+        "message": "The Fish Scale Inn is dead silent..."
+    },
+    {
+        "message": "I wonder if Thomas and Mrs. Hudson are still getting cozy together in her room."
+    },
+    {
+        "message": "Sue"
+    },
+    {
+        "message": "Mabel"
+    },
+    {
+        "message": "had just decided Thomas was impotent."
+    },
+    {
+        "message": "But after seeing him with Mrs. Hudson, there's no doubt that's just wrong."
+    },
+    {
+        "message": "It's the only inn in the whole village, the Fish Scale Inn."
+    },
+    {
+        "message": "The old building practically tells the story itself—it's kept operating for generations without anyone fixing it up."
+    },
+    {
+        "message": "Running an inn in this village, where tourists pretty much never come, must be rough. I just hope it doesn't go under while we're staying here."
+    },
+    {
+        "message": "It's all up to Mrs. Hudson, but I'd rather she didn't suddenly disappear like her husband did."
+    },
+    {
+        "message": "Maybe the reason no one comes to the Fish Scale Inn is actually us."
+    },
+    {
+        "message": "The villagers, who totally hate outsiders like us, would never eat in front of us or anything."
+    },
+    {
+        "message": "After seeing Mrs. Hudson and Thomas doing that, I’m hesitating to go back to the Fish Scale Inn for a while."
+    },
+    {
+        "message": "Speaking of which, Thomas was whispering something in Mrs. Hudson’s ear."
+    },
+    {
+        "message": "I think he was saying something about her missing husband or child..."
+    },
+    {
+        "message": "Maybe Mrs. Hudson is being blackmailed by Thomas, forced into doing things by him."
+    },
+    {
+        "message": "No, but if that’s the case, Mrs. Hudson didn’t seem like she was really refusing him at all. Maybe Mrs. Hudson and Thomas are actually just having fun with their affair..."
+    },
+    {
+        "message": "From the completely silent building, I can’t even sense that there’s anyone inside. I mean, I’m starting to doubt if anyone even lives here at all."
+    },
+    {
+        "message": "I can’t imagine Mrs. Hudson would ever do something like locking out her guests, but with the way I’ve been annoying her lately, she might not even hesitate to do just that."
+    },
+    {
+        "message": "I’m starting to get worried about whether the door is actually unlocked or not."
+    },
+    {
+        "message": "All I can do is hope that Mrs. Hudson won’t lock me out."
+    },
+    {
+        "message": "Cordelia is looking at me with contempt in her eyes."
+    },
+    {
+        "message": "Even though she has her own sense of self, she just can't bring herself to allow a guy who comes and goes from a filthy place like a brothel right in front of her eyes."
+    },
+    {
+        "message": "Even if it was to expose Thomas's lies, maybe it wasn't a great idea to go buy a prostitute right in front of Cordelia."
+    },
+    {
+        "message": "They have an anxious look on their face."
+    },
+    {
+        "message": "Even though I still don't know if I've been brought to Arkham, I'd be shocked to find out that on top of that, I'm a sleepwalker."
+    },
+    {
+        "message": "昨晩ハドスン夫人に聞いた、コーデリアがダゴンの教会で育てられていたという事がどうにも気にかかる。"
+    },
+    {
+        "message": "The fact that I've completely lost my memories from around that time, and the fact that I have no idea what I was doing last night—could it be that being raised in the Church of Dagon is somehow affecting me?"
+    },
+    {
+        "message": "He looks really anxious."
+    },
+    {
+        "message": "They're probably worrying about that conversation during the earlier sleepwalking~."
+    },
+    {
+        "message": "If you really have no idea where you went last night, that's an even bigger problem than I thought......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Even if you come to the Pub tonight, the door's locked, you know！"
+    },
+    {
+        "message": "　　　　　　　　I never would have guessed they were the kind of person to do something like that."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Do you need something？"
+    },
+    {
+        "message": "　　　　　　　　Don't talk to me so casually."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why are you so mad?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Isn't that obvious？"
+    },
+    {
+        "message": "　　　　　　　　Why　do　you　go　to　such　a　filthy　place?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Got a problem with me or something？"
+    },
+    {
+        "message": "　　　　　　　　You don't have to go while we're together, you know."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's not it, that was......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "I don't wanna hear it."
+    },
+    {
+        "message": "　　　　　　　　If you were sneaking around to go, that would still be kind of cute..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "How about listening to what I have to say, too?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "If they're being that brazen about it, there's no way I can't see it as picking a fight with me！"
+    },
+    {
+        "message": "No good."
+    },
+    {
+        "message": "Seems like there's no way they have the time to listen to me right now."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Anyway, let's save the details for later."
+    },
+    {
+        "message": "　　　　　　　　I　want　to　talk,　just　the　two　of　us."
+    },
+    {
+        "name": "Cordelia",
+        "message": "No matter what the reason is, it doesn't change the fact that Jonathan hurt me."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Like I said, that wasn't what I really meant."
+    },
+    {
+        "message": "　　　　　　　　Come on, forgive me already."
+    },
+    {
+        "name": "Cordelia",
+        "message": ".........So, how was it?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "What？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "After all, they’re a pro, right? It must've felt really, really good, huh."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What are you suddenly talking about?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Be honest with me！"
+    },
+    {
+        "message": "　　　　　　　　What did that person do to Jonathan?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Even if you ask me what kind of thing..."
+    },
+    {
+        "message": "　　　　　　　　Anyway, it was such a bizarre experience that my head was all foggy."
+    },
+    {
+        "name": "Cordelia",
+        "message": "See, it did feel good after all."
+    },
+    {
+        "message": "　　　　　　　　What, even if you sound all high and mighty with your so-called good reasons, you just ended up having fun anyway, didn't you."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Please, keep an eye on me in my room tonight and make sure I don't go somewhere and disappear."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Hey Jonathan........."
+    },
+    {
+        "name": "Cordelia",
+        "message": "About what happened earlier..."
+    },
+    {
+        "message": "　　　　　　　　I　wonder　if　I　really　have　a　bad　illness."
+    },
+    {
+        "name": "Jonathan",
+        "message": "If nothing's happened up till now, maybe it's not that serious of an illness."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Maybe I was just tired last night and just don't remember where I went, you know?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "But............"
+    },
+    {
+        "name": "Cordelia",
+        "message": "There have been a few weird things before, too."
+    },
+    {
+        "message": "　　　　　　　　朝起きたら足の裏が泥だらけだったとか、着けたはず　　　　　　　　の下着を着ていなかったとか‥‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's probably just my imagination."
+    },
+    {
+        "message": "　　　　　　　　Not wearing underwear, you weren't seriously sleeping stark naked or anything, right?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "That's right, but......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "お願い、今晩わたしの部屋でわたしが何処かに行って　　　　　　　　しまわないか見張っていて。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't mind that."
+    },
+    {
+        "name": "Cordelia",
+        "message": "お願いよ、ジョナサン。"
+    },
+    {
+        "message": "　　　Map　　　"
+    },
+    {
+        "message": "　　Go inside　　"
+    }
+]

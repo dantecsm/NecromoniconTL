@@ -1,0 +1,264 @@
+[
+    {
+        "message": "Looks like Cordelia isn't here."
+    },
+    {
+        "message": "I thought she might have come to Fish Scale Inn to check on me because I was late, but if that's the case, she might be up in my room."
+    },
+    {
+        "message": "I'm in front of Fish Scale Inn."
+    },
+    {
+        "message": "Now that the sun has completely set, the only thing lighting up the area is the faint glow from the street lamps."
+    },
+    {
+        "message": "Rain clouds that warn of an approaching storm still linger overhead, but maybe because of those clouds, the air out here—despite the strong wind and being away from the sea—doesn't feel cold."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Done with your errand already？"
+    },
+    {
+        "message": "　　　　　　　　That was pretty quick though......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah, I just had a little chat with Mrs. Hudson.　　　　　　　　I apologized for missing breakfast."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I see......"
+    },
+    {
+        "message": "I'm in front of Fish Scale Inn."
+    },
+    {
+        "message": "Even though it's the middle of the day, the door is shut tight."
+    },
+    {
+        "message": "Mrs. Hudson doesn't seem to expect any guests at all."
+    },
+    {
+        "message": "No way her business would ever do well like this."
+    },
+    {
+        "message": "I'm in front of Fish Scale Inn."
+    },
+    {
+        "message": "Since I haven't been back since last night, it feels like it's been ages since I returned."
+    },
+    {
+        "message": "According to Gardner, Mrs. Hudson seems to be upset about me and Cordelia, so maybe it’s better if I apologize to her once."
+    },
+    {
+        "message": "The reason people don’t come to the Fish Scale Inn might actually be because of us."
+    },
+    {
+        "message": "The villagers who dislike outsiders like us would never do something like eat in front of us."
+    },
+    {
+        "message": "It’s the only inn in the village, the Fish Scale Inn."
+    },
+    {
+        "message": "The old building tells the story of having continued business for generations without anyone ever making renovations."
+    },
+    {
+        "message": "It must be tough running an inn in a village with basically no tourists, but I really hope it doesn’t go out of business at least while we’re staying here."
+    },
+    {
+        "message": "Of course, it all depends on Mrs. Hudson, but I hope she doesn't suddenly disappear like her husband did."
+    },
+    {
+        "message": "Now I’m starting to worry about whether the door is actually unlocked."
+    },
+    {
+        "message": "All I can do is hope she doesn’t lock me out."
+    },
+    {
+        "message": "From the silent building, I can’t even sense if anyone’s inside. Honestly, I’m not even sure if anyone really lives here."
+    },
+    {
+        "message": "I can't imagine Mrs. Hudson would do something like locking out her guests, but considering I've been getting on her nerves lately, maybe she'd do something like that to me."
+    },
+    {
+        "message": "It almost feels like she's become Cordelia's mother, but since Cordelia doesn't have parents, maybe she just can't leave her alone, like a daughter, to Mrs. Hudson."
+    },
+    {
+        "message": "She suddenly looks exhausted, like all her spirit's gone."
+    },
+    {
+        "message": "Guess seeing Marsh's horrible corpse really shook her up."
+    },
+    {
+        "message": "She's bravely following along with us, but maybe it'd be better to send her back to Gilman House if she's like this."
+    },
+    {
+        "message": "She really doesn't look like she wants to be in front of Fish Scale Inn."
+    },
+    {
+        "message": "She's probably worried about the talk of Mrs. Hudson being mad at me."
+    },
+    {
+        "message": "When she sees me show up in front of Fish Scale Inn, she gives me a weird look."
+    },
+    {
+        "message": "Maybe she's thinking about what Gardner said, about Mrs. Hudson being angry at me."
+    },
+    {
+        "message": "It was Cordelia's idea in the first place for me to stay at Gilman House."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Are you okay？"
+    },
+    {
+        "message": "　　　　　　　　You look pretty awful."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Sorry, it's just... I was kind of shocked."
+    },
+    {
+        "message": "　　　　　　　　I think I'll be fine after a bit of rest."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You can rest up at Fish Scale Inn if you want."
+    },
+    {
+        "message": "　　　　　　　　The lady will bring us some hot tea."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I don't want to go in here."
+    },
+    {
+        "message": "　　　　　　　　Then let's go to Gilman House？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why don't you want to go to the Fish Scale Inn?"
+    },
+    {
+        "message": "　　　　　　　　Is　it　awkward　for　you　to　see　Mrs.　Hudson？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Because......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "I really don't want to go into the Fish Scale Inn."
+    },
+    {
+        "message": "　　　　　　　　If you've got business, just let Jonathan go by himself."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Are you worried about what Gardner said？"
+    },
+    {
+        "message": "　　　　　　　　It's that Hudson is mad about us."
+    },
+    {
+        "name": "Jonathan",
+        "message": "The lady's worried about you."
+    },
+    {
+        "message": "　　　　　　　　For a young girl to be meeting a guy every night, that's something the madam just can't forgive."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Why？"
+    },
+    {
+        "message": "　　　　　　　　It's got nothing to do with you, Hudson."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You'd worry about it even if you weren't my wife."
+    },
+    {
+        "message": "　　　　　　　　I'm a stranger who just showed up out of nowhere......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "That doesn't matter."
+    },
+    {
+        "message": "　　　　　　　　Jonathan, don't worry about that."
+    },
+    {
+        "name": "Jonathan",
+        "message": "夫人の事を悪く思うのは止めた方がいい。"
+    },
+    {
+        "message": "　　　　　　　　They really are thinking about you."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Why do you always take Hudson's side？"
+    },
+    {
+        "message": "　　　　　　　　That person isn't my mother or anything."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You shouldn't talk like that."
+    },
+    {
+        "message": "　　　　　　　　Isn't　that　like　biting　the　hand　that　feeds　you?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "But......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "What's up? Did you need something?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Nah, it's nothing important."
+    },
+    {
+        "message": "　　　　　　　　I just thought I'd take a little break."
+    },
+    {
+        "name": "Cordelia",
+        "message": "We haven't even walked enough to get tired, have we？"
+    },
+    {
+        "message": "　　　　　　　　Guess it's because you didn't sleep last night........."
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, that's not it."
+    },
+    {
+        "message": "　　　　　　　　I'm just a little thirsty, that's all."
+    },
+    {
+        "name": "Cordelia",
+        "message": "In that case, let's go to my Pub."
+    },
+    {
+        "message": "　　　　　　　　Drinks are on the house."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah, that might be better."
+    },
+    {
+        "message": "　　　Map　　　"
+    },
+    {
+        "message": "　　Enter　　"
+    },
+    {
+        "message": "　　　Map　　　"
+    },
+    {
+        "message": "　　Enter　　"
+    }
+]

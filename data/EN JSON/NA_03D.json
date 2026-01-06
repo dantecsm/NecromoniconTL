@@ -1,0 +1,400 @@
+[
+    {
+        "message": "I'm in front of Mrs. Hudson's room."
+    },
+    {
+        "message": "The door is half open, as if it was expecting me, and light and warm air are spilling out."
+    },
+    {
+        "message": "Looks like Mrs. Hudson is still awake."
+    },
+    {
+        "message": "I gave the half-open door a light knock."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Who is it?"
+    },
+    {
+        "message": "　　　　　　　　　Is that you, Mr. Swift？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yes, it's me."
+    },
+    {
+        "message": "　　　　　　　　May I come in?"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Please, come in."
+    },
+    {
+        "message": "It's in front of the lady's room."
+    },
+    {
+        "message": "The door is half open, but there's no sign of anyone inside."
+    },
+    {
+        "message": "I knocked on the door to the lady's room."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Mr. Hudson, are you here？"
+    },
+    {
+        "message": "No answer."
+    },
+    {
+        "message": "Looks like the lady has gone out somewhere."
+    },
+    {
+        "message": "私は夫人の部屋の前から玄関ホールに行く事にした。"
+    },
+    {
+        "message": "This is Mrs. Hudson's room."
+    },
+    {
+        "message": "It's on the side of the Fish Scale Inn that doesn't get much sunlight and doesn't face the main street."
+    },
+    {
+        "message": "The wine bottle on the table—maybe it's one Mrs. Hudson likes to drink?"
+    },
+    {
+        "message": "I've never heard that she drinks, though......"
+    },
+    {
+        "message": "And looking at the label, it seems like it's some pretty expensive brandy, too."
+    },
+    {
+        "message": "Even if she does drink a little, would a lady really drink that kind of booze?"
+    },
+    {
+        "message": "Usually it's just sherry or maybe some wine."
+    },
+    {
+        "message": "すると、誰かこの部屋で酒を飲んだ男がいるという事なのか？"
+    },
+    {
+        "message": "つい最近栓が開けられた物のようで、ボトルには半分以上中身が残っている。"
+    },
+    {
+        "message": "The room is as nondescript as ever, with nothing that gives any sense of Mrs. Hudson’s personality."
+    },
+    {
+        "message": "Judging by the fireplace being loaded up with plenty of firewood, it looks like the lady isn't planning to head to bed anytime soon."
+    },
+    {
+        "message": "Could it be that you were waiting here all along, expecting me to come to your room?"
+    },
+    {
+        "message": "夫人はじっと私の事を見ている。"
+    },
+    {
+        "message": "I feel like a husband who cheated or a kid who did something bad."
+    },
+    {
+        "message": "She's got a demure dress befitting a widow, and her attitude is so distant it's almost cold-hearted."
+    },
+    {
+        "message": "Whether it's because she doesn't like what Cordelia and I are doing, her expression is stiff and it's obvious she's not happy about a late-night visit."
+    },
+    {
+        "message": "What on earth can I do to get madam back in a good mood?"
+    },
+    {
+        "message": "Honestly, I don't think there's any reason I have to placate Mrs. Hudson at all......"
+    },
+    {
+        "message": "She doesn't look like she's having much fun, and she's just staring at me."
+    },
+    {
+        "message": "Looks like she's still in a bad mood."
+    },
+    {
+        "message": "Even though she's changed into her loungewear, the atmosphere isn't relaxed like usual, and tonight she seems even more distant than ever."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Cordelia's waiting, isn't she？"
+    },
+    {
+        "message": "　　　　　　　　　そろそろ行かないと、あの娘が寂しがるわ。"
+    },
+    {
+        "message": "Guess the conversation got a bit too serious."
+    },
+    {
+        "message": "We should probably change the subject."
+    },
+    {
+        "name": "Jonathan",
+        "message": "コーデリアの事より、あなた自身はどうなんです？"
+    },
+    {
+        "message": "　　　　　　　　How　long　are　you　planning　to　stay　in　Arkham?"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Even if you ask me how long..."
+    },
+    {
+        "message": "　　　　　　　　　わたくしにはここから連れ出してくれるような人は　　　　　　　　　いませんもの。"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "ここに骨を埋めるしかないでしょう。"
+    },
+    {
+        "message": "　　　　　　　　　There's nothing that can be done."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's not true."
+    },
+    {
+        "message": "　　　　　　　　If you really wanted to, Hudson, couldn't you just go somewhere else anytime？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "No."
+    },
+    {
+        "message": "　　　　　　　　　I just can't do that......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I heard from Cordelia."
+    },
+    {
+        "message": "　　　　　　　　I heard your husband went missing."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "So there's still someone who remembers that, huh."
+    },
+    {
+        "message": "　　　　　　　　　That's already old news."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Was your husband from Arkham？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Yes, that's right."
+    },
+    {
+        "message": "　　　　　　　　　I was the last person from the family that had run this Fish Scale Inn for generations."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You probably don't want to talk about this..."
+    },
+    {
+        "message": "　　　　　　　　Why did your husband disappear?"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Isn't that something only the person themselves would know?"
+    },
+    {
+        "message": "　　　　　　　　　Now that we don't even know whether that person is alive or dead, there's no way for anyone to look into it anymore."
+    },
+    {
+        "name": "Jonathan",
+        "message": "This might be unnecessary, but you look like you're tired."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "That's not true at all."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You really should leave Arkham no matter what."
+    },
+    {
+        "message": "　　　　　　　　This village is just too lonely a place for someone like you to live alone in."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I also heard the shopkeeper in front of the general store went missing too."
+    },
+    {
+        "message": "　　　　　　　　Cordelia's foster parents, too."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "‥‥‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Even just from what I've heard, this many villagers have gone missing."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "It certainly is a strange story."
+    },
+    {
+        "message": "　　　　　　　　　But, what about it?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Isn't it weird?"
+    },
+    {
+        "message": "　　　　　　　　There must be some cause."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Really? I don't see it that way."
+    },
+    {
+        "message": "　　　　　　　　　I don't know why, but there are just places like that."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "ある場所では、みんな長生きだったり、またある所　　　　　　　　　ではどういう訳か自殺する人が多かったり。"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "No one might be able to explain it, but there's definitely a place like that, for sure."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Do you really think that's all there is to it？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "How else do you expect me to explain it？"
+    },
+    {
+        "message": "　　　　　　　　　わたくしはこういう人間ですから、あるがままを受　　　　　　　　　け入れるしかありませんわ。"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Swift, are you still bothered by what we talked about earlier？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "What are you talking about?"
+    },
+    {
+        "message": "　　　　　　　　I won't understand unless you say it clearly."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "You're heading out late at night."
+    },
+    {
+        "message": "　　　　　　　　　Even if I'm pretty dense, I can at least tell where you're planning to go."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So, are you saying you're criticizing me for going to Cordelia's place late at night？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "......I don't really think it's very favorable."
+    },
+    {
+        "name": "Jonathan",
+        "message": "But even for tonight, or before that, it was Cordelia who said she wanted me to come to her, you know？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "I can accept that you two ended up in that kind of relationship, but every night..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's not like I asked you to do that."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Even if that's true, it's because Cordelia has always been all alone."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "She was lonely because there wasn't anyone there to stay by her side."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You think I took advantage of that and forced something like that on you, don't you？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "......I wouldn't say that, though."
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, Hudson-san thinks that way."
+    },
+    {
+        "message": "　　　　　　　　You think I'm the kind of person who would do something like that."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Well, let me ask you then, what are you planning to do about Cordelia？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "まさか、自分がアーカムを出ていけばそれきりとで　　　　　　　　　も思っているんじゃないでしょうね。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I never said anything like that."
+    },
+    {
+        "message": "　　　　　　　　I'm thinking about it properly too, you know."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "So,　you're　planning　to　take　Cordelia　with　you　to　London."
+    },
+    {
+        "message": "Somehow, this has turned into a much more serious conversation than I expected."
+    },
+    {
+        "message": "I never thought I'd hear something like that straight from her mouth."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "I'm glad."
+    },
+    {
+        "message": "　　　　　　　　　That was what I was worried about."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "If there's someone who can take her out of Arkham, that would be good for that girl."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Please, just stop already."
+    },
+    {
+        "message": "　　　　　　　　　You should go home."
+    },
+    {
+        "message": "I put my hand on the lady’s hands, which were folded on the Table."
+    },
+    {
+        "message": "The lady's hands are bony, and in contrast to her face and slender body, they look just like the hands of a working woman."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "What are you doing？"
+    },
+    {
+        "message": "　　　　　　　　　Didn't Swift love Cordelia？"
+    },
+    {
+        "message": "Entrance hall"
+    },
+    {
+        "message": "　　　Cafeteria　　　"
+    },
+    {
+        "message": "My room"
+    }
+]

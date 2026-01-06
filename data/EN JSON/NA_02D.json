@@ -1,0 +1,412 @@
+[
+    {
+        "message": "I knocked on the lady's room, where the door was left half open."
+    },
+    {
+        "message": "I waited for a while, but there was no sign of the lady coming out."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Mr. Hudson, are you here？"
+    },
+    {
+        "message": "I called out toward the slightly open door."
+    },
+    {
+        "message": "But there's no answer. Mrs. Hudson seems to be out."
+    },
+    {
+        "message": "Come to think of it, Thomas wasn't in his room either......"
+    },
+    {
+        "message": "When I came back from outside, there was this weirdly unpleasant mood between Thomas and Madam, and then, with both of them disappearing together, I can't help but wonder if something's going on that I don't know about."
+    },
+    {
+        "message": "Entrance hall"
+    },
+    {
+        "message": "　　　Cafeteria　　　"
+    },
+    {
+        "message": "My own room"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Mr. Hudson, are you here？"
+    },
+    {
+        "message": "I called out toward the slightly open door."
+    },
+    {
+        "message": "But even after waiting for a while, no answer came back."
+    },
+    {
+        "message": "The door's open, so it's probably not like they fell asleep...."
+    },
+    {
+        "message": "I wonder if there's still some work left to do."
+    },
+    {
+        "message": "Entrance hall"
+    },
+    {
+        "message": "　　　Dining room　　　"
+    },
+    {
+        "message": "My room"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Hudson, are you here？"
+    },
+    {
+        "message": "I called out toward the slightly open door."
+    },
+    {
+        "message": "But even after waiting a while, there was no reply."
+    },
+    {
+        "message": "Looks like Madam is still working."
+    },
+    {
+        "message": "The door isn't even locked, so getting inside would be easy, but I can't just sneak in while the lady's out without saying anything."
+    },
+    {
+        "message": "Well, it can't be helped. Guess I'll just come back later."
+    },
+    {
+        "message": "Entrance hall"
+    },
+    {
+        "message": "　　　Cafeteria　　　"
+    },
+    {
+        "message": "My room"
+    },
+    {
+        "message": "I knocked on the door of the lady's room, which was half open."
+    },
+    {
+        "message": "After a short pause, I got a response."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Who.........Who is it？"
+    },
+    {
+        "message": "The lady's voice sounded flustered, kind of scared, with a bit of a complicated tone."
+    },
+    {
+        "message": "It’s not like they were waiting for someone, but maybe there was someone they expected could show up, and they were actually scared of that person coming？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's me, Jonathan."
+    },
+    {
+        "message": "No way, I'm not the uninvited guest here... am I?"
+    },
+    {
+        "message": "No, but why do you say that madam has any reason to be afraid of me？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Please, come on in."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Swift, that was you."
+    },
+    {
+        "message": "　　　　　　　　　It was so sudden, it really surprised me."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Sorry for dropping by all of a sudden."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "No, please don't worry about it at all."
+    },
+    {
+        "message": "　　　　　　　　　I'm the one who said if you ever have any trouble, you can come to me anytime."
+    },
+    {
+        "message": "I wonder if the lady used to live here with her late husband."
+    },
+    {
+        "message": "As far as I can see, there's nothing left that gives any hint of their past life together."
+    },
+    {
+        "message": "The lady's room seems a bit more comfortable compared to the other rooms in the Fish Scale Inn, but there's nothing at all that shows the resident's personality. Even though she's a widow, if she were a woman with any taste or sense of beauty, you'd expect at least a potted flower or a painting, but..."
+    },
+    {
+        "message": "She must have thrown away every single thing that would remind her of her late husband, but does that mean she's been living all alone in this bleak room ever since?"
+    },
+    {
+        "message": "The look on the lady’s face is that of the exhausted old woman I saw last night."
+    },
+    {
+        "message": "Isn't there anything I can do for them?"
+    },
+    {
+        "message": "Mrs. Hudson has shed the somewhat distant expression she wore as the inn's landlady, and now gives off a friendly vibe, as if I'm her younger brother or husband."
+    },
+    {
+        "message": "She leans forward over the table, hugging her chest with both arms, which makes her ample bust stand out clearly."
+    },
+    {
+        "message": "The lady seems to have finished her day's work and changed into loungewear. Even though she should be relaxing alone in her own room in comfortable clothes, she doesn't seem relaxed at all."
+    },
+    {
+        "message": "This extremely plain room, not reflecting the will of its resident at all, and the somewhat tense look on Mrs. Hudson's face, it's like she's being forced to stay locked up here by someone......"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Now, you should probably head back soon."
+    },
+    {
+        "message": "　　　　　　　　　Don't forget what I told you. Sometimes it's necessary to choose the easier path and walk it, too."
+    },
+    {
+        "message": "I had no idea the bartender at Gilman House had a past like that."
+    },
+    {
+        "message": "It's already strange enough for there to be an Oriental in a dump like this, but to think she was a woman with that kind of background."
+    },
+    {
+        "message": "Alright, now there's just that thing left."
+    },
+    {
+        "message": "It's a hard thing to ask, but if the madam is being blackmailed or threatened by Thomas for some reason, I might be able to help her."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Hudson-san."
+    },
+    {
+        "message": "　　　　　　　　I　hope　you　don't　take　this　the　wrong　way..."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "What's this all of a sudden?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Has Thomas been doing something awful to you?"
+    },
+    {
+        "message": "Mrs. Hudson gasped in surprise."
+    },
+    {
+        "message": "Her expression stiffened, and she looked down a little, avoiding my gaze."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Why would you think something like that？"
+    },
+    {
+        "message": "　　　　　　　　　Did I... do something weird?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I knew from the start that you didn't like that guy. You went out of your way to stick him in a crappy room facing the back alley and even if it wasn't obvious, you were still giving him the cold shoulder."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "‥‥‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Today, when we came back from outside, Thomas blurted out some thoughtless crap, but your expression at that moment, I think it looked less like you were angry and more like you were scared."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "So, now that you know I'm afraid of Thomas, what are you going to do about it？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "If you’re in any kind of trouble, please talk to me. I really want to help you however I can！"
+    },
+    {
+        "message": "The wife's face has a complicated expression, like she's crying and laughing at the same time."
+    },
+    {
+        "message": "It looks like Thomas is definitely doing something to them, but they seem to have completely given up."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Mr. Hudson！"
+    },
+    {
+        "message": "　　　　　　　　Please tell me, I'll do whatever I can."
+    },
+    {
+        "message": "The lady shook her head from side to side, like she was refusing."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "That's just your misunderstanding. I don't have any weaknesses that someone could use to threaten me, and besides, what could Thomas, who only just arrived in this village yesterday, possibly understand？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "But still！"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Even if, say, I had some secret I couldn't tell anyone, and someone was blackmailing me because of it, there's probably nobody who could help me, huh."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Are you saying I'm not good enough for the job？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "I don't wish for anyone else to go through the same pain as I did. Swift, you're still young. Don't go recklessly throwing yourself into trouble."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "What is it this time, Swift？"
+    },
+    {
+        "message": "　　　　　　　　　Did something troubling happen again?"
+    },
+    {
+        "message": "The lady spoke up in the same relaxed tone as last night."
+    },
+    {
+        "message": "However, there seems to be a slight trace of fatigue on his face."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You look tired, your complexion doesn't look so good, you know？"
+    },
+    {
+        "message": "　　　　　　　　Looks like I'd better come back later."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Oh, don't worry about me. I was just a bit busy with work, that's all."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Are you really okay? You shouldn't push yourself..."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Thank you, but really, I'm fine."
+    },
+    {
+        "message": "　　　　　　　　　Swift-san, you're really kind, huh."
+    },
+    {
+        "message": "Alright, let's get to the main topic soon."
+    },
+    {
+        "message": "What should I ask? For now, the thing I have to ask about is that weird exchange between Thomas and the lady at the entrance of the Fish Scale Inn..."
+    },
+    {
+        "message": "Judging from the general store owner's talk about 'locals helping each other' and all that, the people doing business in this village probably get along pretty well, so the lady should be close to the bartender at Gilman House too. Maybe I should ask her about the woman before I head out."
+    },
+    {
+        "message": "Which one should I ask about first? I feel like the thing about the pub girl is probably safer and less awkward."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "What's the matter？"
+    },
+    {
+        "message": "　　　　　　　　　I've just been totally silent for a while now."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Ah, no. It's nothing."
+    },
+    {
+        "message": "　　　　　　　　By the way, Hudson, do you know about the woman staying at the Gilman House？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Are you talking about Cordelia？"
+    },
+    {
+        "message": "　　　　　　　　　I don't know much about her, but she's that hardworking girl who runs the Pub all by herself."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Is that bartender called Cordelia?"
+    },
+    {
+        "message": "　　　　　　　　It's　pretty　rare　to　see　such　a　young　woman　running　a　pub　all　by　herself,　isn't　it?"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "That girl is my adopted daughter, of course."
+    },
+    {
+        "message": "　　　　　　　　　I heard that when she was still just a kid, she was taken in by the pub's original owners, but that couple has also passed away..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So that means you had to run that shop all by yourself, right?"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "It's really such a sad thing, isn't it."
+    },
+    {
+        "message": "　　　　　　　　　But she's a strong girl, so she'll probably manage somehow."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You've got quite a complicated past, huh."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Are you interested in that girl？"
+    },
+    {
+        "message": "Mrs. Hudson spoke with a gentle smile on her lips."
+    },
+    {
+        "message": "It's not like they're teasing me or anything, but I can't say I'm feeling too great about it."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's not what I meant！"
+    },
+    {
+        "message": "　　　　　　　　It's just that I was just a little bit curious, that's all......"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Alright then, let's leave it at that."
+    },
+    {
+        "message": "I gently touched Mrs. Hudson's cold arm."
+    },
+    {
+        "message": "She didn’t even deny it, and just let me do whatever I wanted."
+    },
+    {
+        "message": "However, it wasn't like she was enjoying the feeling of Yoshito's fingers; rather, it felt more like she was simply tolerating a selfish child's misbehavior."
+    },
+    {
+        "message": "I gently touched Mrs. Hudson's arm, which was placed on the table."
+    },
+    {
+        "message": "From under the cloth, the sensation of skin as cold as a corpse comes through."
+    },
+    {
+        "message": "The lady gently, but with a firm sense of refusal, pulled her arm away as if to avoid my fingers."
+    },
+    {
+        "message": "Entrance hall"
+    },
+    {
+        "message": "　　　cafeteria　　　"
+    },
+    {
+        "message": "My own room"
+    }
+]

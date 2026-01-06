@@ -1,0 +1,396 @@
+[
+    {
+        "message": "In the end, nothing was gained from the second floor."
+    },
+    {
+        "message": "何処かで鍵を手に入れないと駄目らしい。"
+    },
+    {
+        "message": "It's a creepy vibe."
+    },
+    {
+        "message": "Inside the empty Mansion, it's as quiet as if water's been poured over everything."
+    },
+    {
+        "message": "This isn't really a place I'd want to come to alone at night."
+    },
+    {
+        "message": "Maybe we should all just come back tomorrow."
+    },
+    {
+        "message": "This is the entrance hall of the Dunwitch Mansion."
+    },
+    {
+        "message": "On the floor, the footprints we left the last time we came here are still there."
+    },
+    {
+        "message": "It looks like it's been pretty trampled, but it seems like no one except us has entered the mansion."
+    },
+    {
+        "message": "We stepped carefully into the entrance hall of the Dunwitch Mansion."
+    },
+    {
+        "message": "Dust was thickly piled up on the floor, clearly showing that no one had set foot inside the mansion for a long time."
+    },
+    {
+        "message": "Because of the sunlight streaming in from the skylight, it's not so dark that I can't see anything, but it still demands that I step forward cautiously."
+    },
+    {
+        "name": "Gardner",
+        "message": "This is awful."
+    },
+    {
+        "message": "　　　　　　　　Seeing such a grand Mansion just left like this, it kinda feels like a waste."
+    },
+    {
+        "name": "Cordelia",
+        "message": "No way, I'm not joking."
+    },
+    {
+        "message": "　　　　　　　　If it were me, I couldn't live in a mansion like this."
+    },
+    {
+        "name": "Cordelia",
+        "message": "一時間と持たないわよ。"
+    },
+    {
+        "message": "Sure, even I don't have the guts to spend the night in this mansion."
+    },
+    {
+        "message": "It's got an atmosphere where I wouldn't be surprised if anything showed up."
+    },
+    {
+        "message": "We can't find anything besides our own footprints."
+    },
+    {
+        "message": "Either way, there probably isn't anyone else who would willingly come into this mansion."
+    },
+    {
+        "message": "There's a thick layer of dust piled up on the floor."
+    },
+    {
+        "message": "Other than our footprints, it looks like nobody's walked through the hall for at least a few decades."
+    },
+    {
+        "message": "ここには血の跡は見られないが、邸内を回っていくうちに、陰惨な事件のあった部屋にも嫌でも入らなければならない訳だ。"
+    },
+    {
+        "message": "It's the only staircase leading to the second floor."
+    },
+    {
+        "message": "Since there's no other way, looks like we've got no choice but to use these stairs."
+    },
+    {
+        "message": "Looks like stairs leading to the second floor."
+    },
+    {
+        "message": "It looks pretty sturdy, but after being left alone for decades, I'm not sure if I'll be able to make it safely to the upper floors."
+    },
+    {
+        "message": "But since there's no other way, I have no choice but to go up, even if I don't like it."
+    },
+    {
+        "message": "It doesn't seem all that damp inside the mansion, so it should probably be fine."
+    },
+    {
+        "message": "It looks like that door doesn't have a lock."
+    },
+    {
+        "message": "As long as I go up the stairs, I should be able to slip into the back of the mansion without any trouble."
+    },
+    {
+        "message": "階段を上がった真正面に、扉がある。"
+    },
+    {
+        "message": "I can't see well from here, but it looks like the door doesn't have a lock."
+    },
+    {
+        "message": "あの奥は部屋ではなく、各部屋をつなぐ通路になっているらしい。"
+    },
+    {
+        "message": "Looks like I've got no choice but to go check it out."
+    },
+    {
+        "message": "Looks like there's a door leading deeper into the Mansion."
+    },
+    {
+        "message": "Let's go."
+    },
+    {
+        "message": "It's locked."
+    },
+    {
+        "message": "There's no doubt that there's a room deeper in here..."
+    },
+    {
+        "message": "But the fact that it's purposely locked means this mansion hasn't been completely abandoned."
+    },
+    {
+        "message": "Someone must have the key, like a caretaker of this mansion."
+    },
+    {
+        "message": "If I can get the key from that person..."
+    },
+    {
+        "message": "It's a door leading to the back room of the Dunwich Mansion."
+    },
+    {
+        "message": "Sure, if I use one of the keys I have, I could probably get inside here..."
+    },
+    {
+        "message": "No way... I'm not gonna open the door and find walls and carpet all covered in blood, am I？"
+    },
+    {
+        "message": "Didn't the case law book I saw at the Archives say that the blood-soaked axe, the murder weapon that killed the two daughters, was found in the living room on the first floor?"
+    },
+    {
+        "message": "そうすると‥‥‥‥‥"
+    },
+    {
+        "message": "I guess I'll stop after all."
+    },
+    {
+        "message": "Let's all come here tomorrow and take our time investigating."
+    },
+    {
+        "message": "I forcefully turned the doorknob."
+    },
+    {
+        "message": "The old door creaks and groans as it moves slightly, but shows no sign of opening."
+    },
+    {
+        "message": "It seems to be locked."
+    },
+    {
+        "message": "The wind blowing in through the gap in the door is cold, mixed with a foul, fishy stench."
+    },
+    {
+        "message": "This door doesn't lead to a normal room—it seems to go somewhere else."
+    },
+    {
+        "message": "I wonder what's on the other side of the door."
+    },
+    {
+        "message": "I brought the key ring Marsh handed me closer to the door's keyhole."
+    },
+    {
+        "message": "At that moment, an unnaturally cold wind blows through the crack in the door."
+    },
+    {
+        "message": "The wind carries the stench of blood and something fishy and rotten."
+    },
+    {
+        "message": "Come to think of it, the Arkham case law book I saw in the archives said Dollie's wife was found dead in the mansion's basement with her head blown off."
+    },
+    {
+        "message": "Maybe, just maybe, there's a staircase behind this door that leads down to the basement."
+    },
+    {
+        "message": "If her head was blown off at close range with a shotgun, the place must have been absolutely horrific—blood and flesh everywhere."
+    },
+    {
+        "message": "I'll check this place tomorrow, after the sun comes up."
+    },
+    {
+        "message": "Doesn't seem like I want to stay inside the mansion for too long."
+    },
+    {
+        "message": "They're looking at me with worried eyes, almost like they're begging me."
+    },
+    {
+        "message": "Well, it's only natural since we're inside this creepy mansion, but looking uneasy, it seems like they want to get out of here as soon as possible."
+    },
+    {
+        "message": "With their eyes wide open, carefully watching their surroundings, it looks like they expect someone or something to attack them at any moment."
+    },
+    {
+        "message": "I don't know what they're looking for, but they're restlessly glancing around inside the mansion."
+    },
+    {
+        "message": "That expression was unusually serious for this guy, and you could really tell he was desperately trying not to miss a thing."
+    },
+    {
+        "message": "Looking around the mansion with a tense expression."
+    },
+    {
+        "message": "Though in the case of this guy, rather than being afraid of something, it just looked like he was greedily scoping the place for anything that might catch his interest."
+    },
+    {
+        "message": "As far as I can see, there doesn't seem to be anything of even a little value in this entrance hall."
+    },
+    {
+        "message": "She doesn't seem particularly scared."
+    },
+    {
+        "message": "If you're investigating ancient Ruins, things like digging up graves or exploring Temples where sacrifices were offered are probably just part of your daily routine."
+    },
+    {
+        "message": "Gardner isn't particularly scared; he's looking around the hall with curiosity."
+    },
+    {
+        "message": "This old man probably has no reason to be afraid of the scene where the murder happened."
+    },
+    {
+        "message": "古代の遺跡を調べていれば、墓を暴いたり生けにえの捧げられた神殿を探索するなど、日常茶飯事のはずだ。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "I'm scared......"
+    },
+    {
+        "message": "　　　　　　　　Jonathan, let's get out of here quick."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I'm kinda scared......"
+    },
+    {
+        "message": "　　　　　　　　Did a murder really happen here？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "If we trust the case law book, then nobody should have died in this hall."
+    },
+    {
+        "name": "Cordelia",
+        "message": "But, in a room separated by just one door......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "You shouldn't think about it too much."
+    },
+    {
+        "message": "　　　　　　　　Because it happened over 60 years ago."
+    },
+    {
+        "name": "Cordelia",
+        "message": "But........."
+    },
+    {
+        "name": "Thomas",
+        "message": "Let's hurry up and check out the other rooms too."
+    },
+    {
+        "name": "Thomas",
+        "message": "ここには、特に珍しい物はないようだな。"
+    },
+    {
+        "message": "　　　　　　Usually, there's some unusual sculpture or at least a painting hanging in an entryway like this."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Looks like it was a letdown, huh."
+    },
+    {
+        "message": "　　　　　　　　If it's just up to this entrance hall, even a normal person could probably make it in here if they worked up the courage."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Even if something did happen, it would've already been taken out a long time ago."
+    },
+    {
+        "name": "Thomas",
+        "message": "Tch..."
+    },
+    {
+        "message": "　　　　　　Let's hurry up and check out the other rooms too."
+    },
+    {
+        "name": "Gardner",
+        "message": "There doesn't seem to be anything unusual about this mansion."
+    },
+    {
+        "name": "Gardner",
+        "message": "I don't think this mansion is particularly strange."
+    },
+    {
+        "message": "　　　　　　　　It’s definitely a pretty old building, though……"
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's true."
+    },
+    {
+        "message": "　　　　　　　　After　all,　it’s　not　like　a　mansion　kills　people."
+    },
+    {
+        "name": "Gardner",
+        "message": "Generally, that's true."
+    },
+    {
+        "message": "　　　　　　　　But, I once heard an unusual story."
+    },
+    {
+        "name": "Gardner",
+        "message": "If I remember right, it was an actual case that happened somewhere around Spain...... The owner of the mansion was known as a really nice guy, gentle and honest."
+    },
+    {
+        "name": "Gardner",
+        "message": "But then, one day, he suddenly caused a crazy incident."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What kind of incident？"
+    },
+    {
+        "name": "Gardner",
+        "message": "He killed his whole family in the mansion with an axe, then died himself."
+    },
+    {
+        "message": "　　　　　　　　Isn't that just like 'the Dunwich Incident'?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Sure, the Dunwich Incident must be a weird, special case in a small village like this, but I think stories like that probably happen all the time around the world, right？"
+    },
+    {
+        "name": "Gardner",
+        "message": "The unusual part of this case was something they figured out when they checked the mansion afterward."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What was it？"
+    },
+    {
+        "name": "Gardner",
+        "message": "The walls of the mansion were just slightly warped."
+    },
+    {
+        "message": "　　　　　　　　It was such a tiny bit that you couldn’t even tell by eye……"
+    },
+    {
+        "name": "Jonathan",
+        "message": "And？"
+    },
+    {
+        "message": "　　　　　　　　How’s　that　got　anything　to　do　with　the　incident？"
+    },
+    {
+        "name": "Gardner",
+        "message": "People who stayed in that mansion for a long time started to show a certain specific change."
+    },
+    {
+        "name": "Gardner",
+        "message": "Getting strangely irritated, lashing out at others...　　　　　　　　In other words, it means aggressive impulses get stronger."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So you're saying the cause is the distortion in the mansion？"
+    },
+    {
+        "message": "　　　　　　　　Are you saying you made a gentle, honest person commit murder?"
+    },
+    {
+        "name": "Gardner",
+        "message": "That's right."
+    },
+    {
+        "message": "　　　　　　　　When I heard about Dollie's case, that incident popped into my head too......"
+    },
+    {
+        "message": "　　Go outside　　"
+    },
+    {
+        "message": "Go to the second floor"
+    }
+]

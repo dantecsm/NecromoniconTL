@@ -1,0 +1,146 @@
+[
+    {
+        "message": "Gardner isn't here."
+    },
+    {
+        "message": "Looks like they went to get something to eat."
+    },
+    {
+        "message": "The moment I put my hand on the door, Gardner burst out of the room as if he'd been kicked from inside. True to this impatient man, it's like he can't stand to waste even a second."
+    },
+    {
+        "name": "Gardner",
+        "message": "Oh, isn't that Jonathan."
+    },
+    {
+        "message": "　　　　　　　　It's dangerous to stand around in a place like that."
+    },
+    {
+        "message": "Gardner tries to push me aside and leave the room."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Wait a minute, I’ve got something to talk to you about."
+    },
+    {
+        "message": "　　　　　　　　If possible, before we go out to eat."
+    },
+    {
+        "name": "Gardner",
+        "message": "What, can't it wait till later？"
+    },
+    {
+        "message": "　　　　　　　　I hate messing up my daily routine. I always make sure to have my meals at the same set time."
+    },
+    {
+        "message": "If this were a bit more upscale hotel, you'd probably have a guest of honor's bedroom and a cloakroom for its occupant. Fish Scale Inn isn't built to meet those sorts of travelers' needs."
+    },
+    {
+        "message": "It looks like this room was designed as the counterpart to mine. From the location of the Bed to the shape of the window, everything is exactly the same. Maybe, originally it was just one room that got split into two with a partition door."
+    },
+    {
+        "message": "Gardner seems pretty pissed off."
+    },
+    {
+        "message": "If we take too much time, we might get struck by lightning sooner or later."
+    },
+    {
+        "message": "Gardner was on his way to get something to eat when I stopped him, and he looked pretty annoyed, puffing away on the pipe clenched between his teeth."
+    },
+    {
+        "message": "Just looking at his attitude of wanting to protect his own daily routine at all costs, you could say it's a sign of a strictly disciplined personality, almost like a priest. But in this guy's case, it kinda feels like the other parts—like his short temper and stubbornness—are flavored a bit too heavily with the vibe of an ordinary guy."
+    },
+    {
+        "name": "Gardner",
+        "message": "Alright, out of the way！"
+    },
+    {
+        "name": "Gardner",
+        "message": "Alright, if you have nothing to say, then move out of the way！"
+    },
+    {
+        "message": "　　　　　　　　I'm in a real hurry."
+    },
+    {
+        "message": "I'm really starting to get sick of this old man's arrogance."
+    },
+    {
+        "message": "I was thinking of telling you about your secret date with the Pub girl, but maybe I’ll let you stew a little longer."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I wonder about that. Do you really think that old man is holding the secret behind the ruins, or what the people of this village seem to be hiding？"
+    },
+    {
+        "name": "Gardner",
+        "message": "That's not really something you need to go out of your way to say！"
+    },
+    {
+        "message": "　　　　　　　　Of course I know, absolutely."
+    },
+    {
+        "name": "Jonathan",
+        "message": "How can you be so sure?"
+    },
+    {
+        "name": "Gardner",
+        "message": "Did you come here to pick a fight with me？"
+    },
+    {
+        "message": "　　　　　　　　We can talk about that after the meal."
+    },
+    {
+        "name": "Jonathan",
+        "message": "But I can’t help but think, like Thomas said, that maybe that old man was just a little bit out of his mind‥‥‥‥‥"
+    },
+    {
+        "name": "Gardner",
+        "message": "Ugh, what a hopeless student."
+    },
+    {
+        "message": "　　　　　　　　Stop bothering me with that forever, we'll deal with it after　　　　　　the meal！"
+    },
+    {
+        "name": "Gardner",
+        "message": "What's the matter? I'm in a hurry."
+    },
+    {
+        "message": "　　　　　　　　Please keep it brief."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Actually, it's about that old man..."
+    },
+    {
+        "name": "Gardner",
+        "message": "What. Did you track down that old man's place？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, not that far yet."
+    },
+    {
+        "name": "Gardner",
+        "message": "What, you got my hopes up for nothing！"
+    },
+    {
+        "message": "The comfort doesn’t seem much different from the bed in my own room. For old Gardner, it might be a little tough. Or maybe, with a body trained by fieldwork, he doesn’t feel a thing？"
+    },
+    {
+        "name": "Gardner",
+        "message": "If you're sleepy, go back to your room and get in bed."
+    },
+    {
+        "message": "　　　　　　　　I can't give up my bed, you know. For these old bones, the sofa or that cold floor would really take a toll."
+    },
+    {
+        "name": "Gardner",
+        "message": "If anything happens, just knock on that door."
+    },
+    {
+        "message": "The door is securely locked. The keyhole has been smashed shut, and it’s been modified so that the lock can be engaged from both my room and Gardner’s room."
+    },
+    {
+        "message": "My room"
+    }
+]

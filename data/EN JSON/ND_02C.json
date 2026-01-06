@@ -1,0 +1,347 @@
+[
+    {
+        "name": "Cordelia",
+        "message": "Go ahead."
+    },
+    {
+        "message": "　　　　　　　　Don't be shy, come in."
+    },
+    {
+        "message": "I followed after Cordelia into the room."
+    },
+    {
+        "message": "The room was surprisingly plain, with only the bare necessities of life inside."
+    },
+    {
+        "message": "Thinking that this was everything Cordelia had saved up in all the years she'd been alive made me feel inexplicably lonely."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Sorry... there's nothing here."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I don't really have a hobby of pouring money into my own room......"
+    },
+    {
+        "message": "Cordelia said that, as if making excuses."
+    },
+    {
+        "message": "No matter what kind of person the other was, if someone else had ever entered this room, I might've thought about offering her some of my own unnecessary furniture..."
+    },
+    {
+        "message": "If I ended up sleeping in this Bed with Cordelia, my whole body would probably be sore the next morning."
+    },
+    {
+        "message": "The hard-looking Bed is so small you could call it a kid's, and it doesn't look all that comfy, either."
+    },
+    {
+        "message": "It might be something Cordelia has been using since she was a child."
+    },
+    {
+        "message": "If you try to get new furniture in this village, it's not gonna be your average amount of trouble."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I'm glad I made the bed properly."
+    },
+    {
+        "message": "　　　　　　　　I don't want people to think I'm a sloppy woman."
+    },
+    {
+        "message": "That's a pretty suggestive thing to say."
+    },
+    {
+        "message": "I wonder if Cordelia is still drunk, or maybe..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't think that's it."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I'll admit it, after I promised you earlier today, I hurriedly cleaned up."
+    },
+    {
+        "name": "Cordelia",
+        "message": "It's the first time in my life I've let a man into my room, so I didn't know what to do and got all flustered."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Does that mean, back then, you'd already decided it was okay to let me into your room？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Eh..."
+    },
+    {
+        "message": "Cordelia blushed and looked away from me."
+    },
+    {
+        "message": "I felt a bit baffled by the gap between her boldness in letting a total stranger into her room and her innocent attitude."
+    },
+    {
+        "message": "It's just as old as the pub downstairs, but thanks to being polished with wax over and over, it hasn't lost its shine yet."
+    },
+    {
+        "message": "Cordelia doesn't seem to care much about decorating the room, but she's clearly not stingy about making sure the place looks presentable."
+    },
+    {
+        "message": "It faces a back alley paved with bricks that runs in front of the pub."
+    },
+    {
+        "message": "It's not very big, and doesn't look like it gets good airflow, but it's still healthier than nothing at all."
+    },
+    {
+        "message": "It seems to be the only ornament in the room."
+    },
+    {
+        "message": "It doesn't look like a replica, so it's probably something some no-name artist painted for fun in exchange for a drink or something."
+    },
+    {
+        "message": "It's all neatly put away."
+    },
+    {
+        "message": "I can't tell from here what kind of makeup Cordelia uses."
+    },
+    {
+        "message": "It's the only thing in the room that feels feminine—a dresser."
+    },
+    {
+        "message": "The top is tidy, and it looks like the makeup and brushes are stored away in the drawers."
+    },
+    {
+        "message": "It looks pretty old itself, so Cordelia probably didn't bring it in; she's probably just using the one her foster mother used."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Don't look so much, it's embarrassing."
+    },
+    {
+        "message": "　　　　　　　　I'm really not good at makeup and stuff."
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's nothing to be embarrassed about."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan, do you not like girls who don't wear makeup？"
+    },
+    {
+        "message": "You invited me into your room this late at night, so..."
+    },
+    {
+        "message": "Does that mean you're ready for... that?"
+    },
+    {
+        "message": "The bartender outfit, which really shows off her curves, is pretty racy—even to me, who's used to the habits of modern London."
+    },
+    {
+        "message": "From the gap in her messy shirt, I could see the sweaty cleavage of her chest, and the sweat running down her chest trickling into that abyss really stirs up my desire."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Maybe I should get going soon."
+    },
+    {
+        "name": "Cordelia",
+        "message": "You're leaving？"
+    },
+    {
+        "message": "　　　　　　　　Why? Can't you stay a little longer?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "But it's already pretty late at night."
+    },
+    {
+        "message": "　　　　　　　　Wouldn't it be a bother if we stayed too long？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "No, that's not true."
+    },
+    {
+        "message": "　　　　　　　　Me......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "What's up？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "It's not like I'm saying this because I'm drunk or anything..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I don't want you to go home."
+    },
+    {
+        "name": "Cordelia",
+        "message": "You get what this means, right？"
+    },
+    {
+        "message": "So, does that mean you're okay with us getting into that kind of relationship？"
+    },
+    {
+        "message": "Even though we just met today, isn't that way too bold?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Hey, Jonathan！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, that's not okay."
+    },
+    {
+        "message": "　　　　　　　　It's　not　like　I　dislike　you　or　anything,　but..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "But？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Isn't this way too sudden？"
+    },
+    {
+        "message": "　　　　　　　　I mean, we only just met for the first time today."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Don't you want to... with me？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's not it."
+    },
+    {
+        "message": "　　　　　　　　I　mean,　even　I,　with　a　girl　like　you..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Then it's fine, right? I mean, I'm the girl here and I'm saying it's okay."
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, even if you say that."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Geez, you're so frustrating！"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Hey, you'll stay with me all night tonight, right？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "People in this village, not a single one tries to hit on me.　　　　　　　　Am I really that unattractive?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't think that's true, but I kinda get　　　　　　　　how they feel."
+    },
+    {
+        "name": "Cordelia",
+        "message": "What do you mean？"
+    },
+    {
+        "message": "　　　　　　　　Are you saying nobody wants anything to do with me？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, that's not it. If anything, it's the opposite."
+    },
+    {
+        "message": "　　　　　　　　It's actually harder to talk to a cool beauty like you, you know."
+    },
+    {
+        "name": "Cordelia",
+        "message": "You're smooth."
+    },
+    {
+        "message": "　　　　　　　　But if that's really the case........"
+    },
+    {
+        "name": "Jonathan",
+        "message": "So what if I do？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "If only there'd been someone brave enough."
+    },
+    {
+        "message": "　　　　　　　　If there was someone like that, I wouldn't have had to feel this lonely."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So it could've been anyone, huh？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "No, that's not it！"
+    },
+    {
+        "name": "Cordelia",
+        "message": "You know, Jonathan, you're the first one who's ever made me feel like this."
+    },
+    {
+        "name": "Jonathan",
+        "message": "‥‥‥‥‥‥‥‥"
+    },
+    {
+        "name": "Cordelia",
+        "message": "This room's got nothing in it, right？"
+    },
+    {
+        "message": "　　　　　　　　I can't even offer you tea, but please forgive me."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I'm not worried about that kind of thing."
+    },
+    {
+        "message": "　　　　　　　　But,　are　you　really　living　alone　in　this　room？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Yeah, that's right."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Ever since my adoptive parents suddenly disappeared, I've been all alone this whole time."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Aren't you lonely？"
+    },
+    {
+        "message": "　　　　　　　　Why did you decide to stay in Arkham?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "It'd be a lie to say I'm not lonely, but......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "I'm a coward, so I never thought about leaving this life behind and setting out for somewhere else."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You'd do just fine even if you went somewhere else."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Maybe someone will take me with them."
+    },
+    {
+        "message": "　　　　　　　　If someone just pulled me along by force......"
+    }
+]

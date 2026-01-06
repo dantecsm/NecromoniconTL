@@ -1,0 +1,500 @@
+[
+    {
+        "message": "As expected from it being past midnight, there's nobody in the hall."
+    },
+    {
+        "message": "The room, already dark even during the day, feels even eerier at this hour, with a strange loneliness adding to the mood."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Welcome back."
+    },
+    {
+        "name": "Thomas",
+        "message": "I'm beat today too."
+    },
+    {
+        "message": "　　　　　　Thinking about how busy I've been lately, it kind of feels like I've turned into a seriously hard-working person."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "You look really tired."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah, seriously........"
+    },
+    {
+        "name": "Thomas",
+        "message": "Still, wasn't 'that' pretty bad？"
+    },
+    {
+        "message": "　　　　　　There's no way any woman wouldn't get pissed off."
+    },
+    {
+        "message": "This guy has no idea what kind of things I heard at the brothel."
+    },
+    {
+        "message": "He handed over money to the prostitute to shut her up, so what was he doing during that time..."
+    },
+    {
+        "message": "Why did I have to go out of my way to make an alibi?"
+    },
+    {
+        "message": "I wonder what Thomas is scheming."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "What happened？"
+    },
+    {
+        "name": "Thomas",
+        "message": "Well, it's fine, just give him plenty of service tonight.　　　　　　Women are simple creatures at heart, you'll manage somehow."
+    },
+    {
+        "name": "Thomas",
+        "message": "But when push comes to shove, women are actually pretty damn useful."
+    },
+    {
+        "message": "　　　　　　Just do your best, both of us, huh........"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Mr. Swift？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "What's the matter, coming back at this hour?"
+    },
+    {
+        "message": "　　　　　　　　　Did you need something from me or what？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "ジョナサン。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Morning, where were you last night？"
+    },
+    {
+        "message": "　　　　　　　　I dropped by Gilman House, but it looks like nobody was home."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Me？"
+    },
+    {
+        "message": "　　　　　　　　What are you talking about? You're the one who never came over at all."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What did you say？"
+    },
+    {
+        "message": "　　　　　　　　If you're gonna make excuses, at least come up with a better reason."
+    },
+    {
+        "name": "Cordelia",
+        "message": "What do you mean by that！"
+    },
+    {
+        "message": "　　　　　　　　Are you saying I'm lying？"
+    },
+    {
+        "message": "コーデリアはひどく憤慨しているようだ。"
+    },
+    {
+        "message": "I wonder why. When I definitely went to the Gilman House last night, she wasn't there."
+    },
+    {
+        "message": "しかし、コーデリアは私が来なかったのだと言い張る‥‥‥‥"
+    },
+    {
+        "message": "さっぱり訳が解らない。"
+    },
+    {
+        "message": "The room is dark."
+    },
+    {
+        "message": "長年の埃と脂が染み着いて大層な歴史を感じさせる。"
+    },
+    {
+        "message": "Nowadays, Gas lamps are installed and give off a soft glow, but before that, there were only Lamps burning oil or candles."
+    },
+    {
+        "message": "I kinda get why the room is weirdly smoky, too."
+    },
+    {
+        "message": "大して客の入りがよくない魚鱗亭には、内外装を手直しするほどの蓄えはないだろう。"
+    },
+    {
+        "message": "カウンターの上には宿帳があり、壁には一日の宿泊料と『今日のおすすめ料理』というのが記されている。今晩は白身魚のムニエルかラム肉のローストがおすすめだそうだ。"
+    },
+    {
+        "message": "昨晩私の前で見せた、清楚で貞淑な普段の様子とは全く違う妖艶で男を誘うような態度は何だったのだろう。"
+    },
+    {
+        "message": "Just like Thomas said, are you gonna say that, true to the usual gossip of fishermen, the lady’s just another widow hungry for a man...?"
+    },
+    {
+        "message": "Until then, she had never acted like that in front of me, but maybe she was just waiting for the right opportunity all along."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Swift-san？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "What were you thinking？"
+    },
+    {
+        "message": "　　　　　　　　　Did I, um, do something bad?"
+    },
+    {
+        "message": "When I think about last night, there's no way I can look the lady in the face."
+    },
+    {
+        "message": "I just can't believe that Mrs. Hudson of all people would do something like that..."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Aren't you all waiting outside？"
+    },
+    {
+        "message": "　　　　　　　　　Be sure to come back by dinner time, okay?"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "It seems I did something rude last night...　　　　　　　　　It's been bothering me all this time."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I'm not really bothered by it."
+    },
+    {
+        "message": "　　　　　　　　Anyone can suddenly feel weak sometimes."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "I'm glad you're such a tolerant person."
+    },
+    {
+        "message": "　　　　　　　　　I was really out of it last night."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You really don't have to worry about it."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Thank you."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Swift..."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Did something happen？"
+    },
+    {
+        "message": "　　　　　　　　　You're staring intently at my face, aren't you？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Ah, no..."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "If that's the case, then it's fine."
+    },
+    {
+        "message": "　　　　　　　　　If you need anything, just let me know anytime."
+    },
+    {
+        "message": "On the other side of the Counter, there's a room like a reception office for dealing with customers when they arrive."
+    },
+    {
+        "message": "It seems that the busy Mrs. Hudson can't always be in this room, but since there aren't that many guests, it still works out."
+    },
+    {
+        "message": "On the faded wallpaper, something like someone's photo or a picture is displayed."
+    },
+    {
+        "message": "Mrs. Hudson isn't the type to care about interior decoration, so it's either something that's been here for ages, or it's something really important......"
+    },
+    {
+        "message": "When I was a kid, I used to get scared being alone in an old room like this."
+    },
+    {
+        "message": "Even now, I sometimes get this baseless fear that maybe someone’s staring at me from the corner of the room…"
+    },
+    {
+        "message": "Cordelia seems to be extremely indignant."
+    },
+    {
+        "message": "I wonder why—sure enough, when I went to the Gilman House last night, she wasn't there."
+    },
+    {
+        "message": "But Cordelia insists that I never came......"
+    },
+    {
+        "message": "I have no idea what's going on."
+    },
+    {
+        "name": "Thomas",
+        "message": "Let's go again."
+    },
+    {
+        "message": "　　　　　　This time, you"
+    },
+    {
+        "message": "Sue"
+    },
+    {
+        "message": "Mabel"
+    },
+    {
+        "message": "pick one."
+    },
+    {
+        "name": "Thomas",
+        "message": "How was last night？"
+    },
+    {
+        "message": "　　　　　　What　I　said　wasn't　wrong,　was　it?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's true, there was no lie in the words 'nice place'."
+    },
+    {
+        "message": "　　　　　　　　When did you come back?"
+    },
+    {
+        "name": "Thomas",
+        "message": "I was having fun all the way until morning."
+    },
+    {
+        "message": "Come to think of it......"
+    },
+    {
+        "message": "Mabel"
+    },
+    {
+        "message": "Sue"
+    },
+    {
+        "message": "was saying something weird..."
+    },
+    {
+        "message": "Thomas was giving the prostitute a tip that could be considered excessive."
+    },
+    {
+        "message": "It's hard to believe that this stingy guy would do something so generous..."
+    },
+    {
+        "message": "Pretty much"
+    },
+    {
+        "message": "Mabel"
+    },
+    {
+        "message": "Sue"
+    },
+    {
+        "message": "Did you take a liking to it？"
+    },
+    {
+        "message": "Or maybe, was there a reason I had to hand over the money?"
+    },
+    {
+        "name": "Gardner",
+        "message": "Anyway, let's just go out."
+    },
+    {
+        "name": "Gardner",
+        "message": "What are we doing today？"
+    },
+    {
+        "message": "　　　　　　　　After　all　the　chaos　yesterday,　I’ve　honestly　lost　track　of　what　I’m　even　supposed　to　do　anymore."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah, that's right......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Shall we start by checking around Marsh first?"
+    },
+    {
+        "message": "　　　　　　　　There must've been a deep reason for them to be killed in such a horrible way."
+    },
+    {
+        "name": "Gardner",
+        "message": "If we're talking about someone close to Marsh, it's that gravekeeper, huh."
+    },
+    {
+        "name": "Jonathan",
+        "message": "And besides, I'll have to keep investigating the monastery's basement, which got interrupted partway through."
+    },
+    {
+        "name": "Gardner",
+        "message": "Just hope you don't go collapsing again."
+    },
+    {
+        "message": "　　　　　　　　No, maybe if that happens, I might be able to get that mysterious inspiration, like the dream from before."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I wonder if the monastery that appears in my dreams and the remains of that monastery are really the same thing."
+    },
+    {
+        "name": "Gardner",
+        "message": "そうとしか思えんな。"
+    },
+    {
+        "message": "　　　　　　　　So then, that corpse is........."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I wonder if I'm really sick."
+    },
+    {
+        "name": "Cordelia",
+        "message": "You're not seriously trying to make excuses for not coming to the Pub last night, are you？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, I definitely went to the Pub."
+    },
+    {
+        "message": "　　　　　　　　Do you really not remember where you went out to last night？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "I don't know！"
+    },
+    {
+        "message": "　　　　　　　　Could it be that this sort of thing has happened before‥‥‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I can't really say‥‥‥‥"
+    },
+    {
+        "name": "Gardner",
+        "message": "Well then, shall we get going soon."
+    },
+    {
+        "name": "Thomas",
+        "message": "Hey Jonathan, skipping breakfast again this morning？"
+    },
+    {
+        "message": "　　　　　　Don't tell me it's 'cause you worked too hard last night."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Last night？"
+    },
+    {
+        "message": "　　　　　　　　Jonathan, what happened?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's nothing serious."
+    },
+    {
+        "message": "　　　　　　　　I went out with Thomas before going to the Pub."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Where did you go？"
+    },
+    {
+        "name": "Thomas",
+        "message": "Well, well, don't be so nosy."
+    },
+    {
+        "message": "　　　　　　Y'know, if guys don't get a bit of free time now and then, they just fall apart."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Tell me properly."
+    },
+    {
+        "message": "　　　　　　　　Why didn't you come last night？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "What do you mean, I wasn't home?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Just what I said."
+    },
+    {
+        "message": "　　　　　　　　It's true, I went to Gilman House last night, and you were out."
+    },
+    {
+        "name": "Cordelia",
+        "message": "There's no way that's true."
+    },
+    {
+        "message": "　　　　　　　　Why do I have to go out that late at night?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I thought so too."
+    },
+    {
+        "message": "　　　　　　　　Last night I ended up being a bit late, so I thought maybe you got tired of waiting and went off to some other guy or something."
+    },
+    {
+        "name": "Cordelia",
+        "message": "What do you mean by that！"
+    },
+    {
+        "message": "　　　　　　　　You really think I'd be doing that kind of thing with someone other than Jonathan？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I'm just kidding."
+    },
+    {
+        "message": "　　　　　　　　But it's true that you weren't there."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Oh no........."
+    },
+    {
+        "message": "　　　　　　　　I swear, I really haven't gone anywhere."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I doubt it, but you don't happen to have a sleepwalking problem, do you?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "What the heck is that..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's a condition where you walk or go somewhere unconsciously, without realizing it yourself."
+    },
+    {
+        "name": "Cordelia",
+        "message": "No way, me？"
+    },
+    {
+        "message": "　　Go outside　　"
+    },
+    {
+        "message": "My room"
+    },
+    {
+        "message": "　　Go outside　　"
+    }
+]

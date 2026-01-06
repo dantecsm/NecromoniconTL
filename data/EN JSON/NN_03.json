@@ -1,0 +1,653 @@
+[
+    {
+        "name": "Gardner",
+        "message": "Wait... Jonathan..."
+    },
+    {
+        "name": "Gardner",
+        "message": "Where is this？"
+    },
+    {
+        "message": "　　　　　　　　Isn't this a graveyard? What are you trying to do here?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "It all started at that monastery."
+    },
+    {
+        "message": "　　　　　　　　Those awful experiments that were being done in that basement..."
+    },
+    {
+        "name": "Gardner",
+        "message": "I get that loud and clear."
+    },
+    {
+        "message": "　　　　　　　　But, why do we have to come to a graveyard anyway？"
+    },
+    {
+        "name": "Gardner",
+        "message": "If we have time to waste in a place like this, shouldn't we find Thomas, who's probably somewhere in the village trying to summon that accursed god, and stop him first？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I might not even have the right to do something like that, you know, I..."
+    },
+    {
+        "name": "Gardner",
+        "message": "君が何だと言うんだ。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "If I belong to the same blood as Dollie, then my very existence is extremely dangerous."
+    },
+    {
+        "name": "Gardner",
+        "message": "What the hell are you saying...?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I might be someone connected to the 'Covenant-Bearers', just like Dollie."
+    },
+    {
+        "name": "Gardner",
+        "message": "Are you saying you want to check that here？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "We're going to dig up the Dunwich family grave."
+    },
+    {
+        "message": "　　　　　　　　Check what's over there."
+    },
+    {
+        "name": "Gardner",
+        "message": "Got it... I'll help too."
+    },
+    {
+        "name": "Gardner",
+        "message": "No way... I can't believe I'd do something like this..."
+    },
+    {
+        "name": "Gardner",
+        "message": "Can't believe I gotta end up digging up a dead guy's grave..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What are you talking about? Your job is pretty much the same as a grave robber, isn't it?"
+    },
+    {
+        "name": "Gardner",
+        "message": "Well, that's true, but..."
+    },
+    {
+        "message": "Gardner is breathing heavily, moving the shovel."
+    },
+    {
+        "message": "If you’re digging up an ancient tomb, sure, you might’ve done it before, but it’s a whole different story when it’s a grave of someone buried only a few decades ago."
+    },
+    {
+        "name": "Jonathan",
+        "message": "It’s okay, if my guess is right, the thing buried in here is‥‥‥‥‥"
+    },
+    {
+        "message": "My shovel hit something hard with a loud clunk."
+    },
+    {
+        "message": "Must be the lid of the coffin."
+    },
+    {
+        "name": "Gardner",
+        "message": "Is it out?！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "On the plate of the coffin......"
+    },
+    {
+        "message": "　　　　　　　　It says Hannah Dunwich."
+    },
+    {
+        "name": "Gardner",
+        "message": "That's the name of Dollie's second daughter."
+    },
+    {
+        "message": "　　　　　　　　She's the younger sister of Lorina, the girl who was said to have gotten sick in the diary."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Let's... open the lid."
+    },
+    {
+        "name": "Gardner",
+        "message": "W-wait a sec, let me get ready for this..."
+    },
+    {
+        "name": "Gardner",
+        "message": "It's just that I'm not used to seeing such raw corpses face to face."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Ready？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I'm opening it."
+    },
+    {
+        "name": "Gardner",
+        "message": "O-okay...... go ahead."
+    },
+    {
+        "name": "Gardner",
+        "message": "This is......"
+    },
+    {
+        "name": "Gardner",
+        "message": "What on earth is this？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Just as I thought......"
+    },
+    {
+        "name": "Gardner",
+        "message": "What do you mean, 'just as you thought'？"
+    },
+    {
+        "message": "　　　　　　　　Is this really the corpse of a girl?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Dollie's daughter wasn't dead！"
+    },
+    {
+        "name": "Gardner",
+        "message": "What's going on here?"
+    },
+    {
+        "message": "　　　　　　　　Yeah, during the autopsy for sure......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I came back to life."
+    },
+    {
+        "message": "　　　　　　　　Sure enough, after being killed by Dollie's hand, I came back to life while transforming into a Deep One."
+    },
+    {
+        "name": "Gardner",
+        "message": "Something like that..."
+    },
+    {
+        "name": "Gardner",
+        "message": "So then, Dollie's other daughter as well..."
+    },
+    {
+        "message": "　　　　　　　　So this is what being sick means."
+    },
+    {
+        "name": "Jonathan",
+        "message": "ドルリイはこうなる事が解っていて、それで自分の家　　　　　　　　族を全て殺したんだ。"
+    },
+    {
+        "name": "Gardner",
+        "message": "What a terrifying thing......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah... This isn’t the first time I’ve seen this.　　　　　　　　I’ve seen something like this before."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That is..."
+    },
+    {
+        "message": "That was back when I was still a kid."
+    },
+    {
+        "message": "At my mansion in Wales......"
+    },
+    {
+        "message": "My mother was a sickly person."
+    },
+    {
+        "message": "I had no way of knowing what illness it was, since I was just a kid, but my mother was shut away alone in the attic room, and I was forbidden from going near that room."
+    },
+    {
+        "message": "Up until then, I had never seen my mother with my own eyes."
+    },
+    {
+        "message": "And the adults around me avoided talking about my mother."
+    },
+    {
+        "message": "I remember that they treated me like I was something dangerous to touch."
+    },
+    {
+        "message": "And then, I saw it."
+    },
+    {
+        "message": "I think it was the kind of innocent curiosity kids usually have."
+    },
+    {
+        "message": "I snuck into the attic, where I wasn't allowed to go near, and slipped into my mother's bedroom while she was asleep."
+    },
+    {
+        "message": "What did you see there..."
+    },
+    {
+        "message": "For some reason, it feels like I've been avoiding thinking about that until now."
+    },
+    {
+        "message": "私はそこで何をみたのだろう‥‥‥‥‥"
+    },
+    {
+        "message": "Even now at this age, I can never forget it, and yet it's something I don't allow myself to remember..."
+    },
+    {
+        "message": "あれは‥‥‥‥"
+    },
+    {
+        "message": "Yeah......"
+    },
+    {
+        "message": "そうだ、棺の中の少女と同じ‥‥‥"
+    },
+    {
+        "message": "Mom was trying to transform into a Deep One！"
+    },
+    {
+        "name": "Gardner",
+        "message": "What's up, Josanan?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I knew it after all........"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Me too...just like Dollie..."
+    },
+    {
+        "name": "Gardner",
+        "message": "What are you talking about！"
+    },
+    {
+        "message": "　　　　　　　　This is no time to space out in a place like this."
+    },
+    {
+        "name": "Gardner",
+        "message": "Are you just going to abandon Cordelia like this？"
+    },
+    {
+        "message": "　　　　　　　　She's waiting for your help, you know."
+    },
+    {
+        "name": "Jonathan",
+        "message": "But... I..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I'm just like Dollie and this girl, you know？"
+    },
+    {
+        "message": "　　　　　　　　I　might　end　up　like　Mom　someday,　you　know."
+    },
+    {
+        "name": "Nai",
+        "message": "That's right."
+    },
+    {
+        "name": "Gardner",
+        "message": "You... what are you doing here！"
+    },
+    {
+        "name": "Nai",
+        "message": "That's a stupid question."
+    },
+    {
+        "message": "　　　　　I've　always　been　by　Jonathan's　side."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I... is that how it is？"
+    },
+    {
+        "message": "　　　　　　　　Dollie and I are the same kind of human, huh."
+    },
+    {
+        "name": "Nai",
+        "message": "That's right, exactly."
+    },
+    {
+        "message": "　　　　　Didn't you say you came to Arkham looking for a certain woman？"
+    },
+    {
+        "name": "Nai",
+        "message": "What's that woman's name？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "......Sarah."
+    },
+    {
+        "name": "Nai",
+        "message": "That's the name of the girl who set fire to the monastery in your dream, right?"
+    },
+    {
+        "name": "Gardner",
+        "message": "But... Even if Sarah was alive, and she really was Jonathan's ancestor, that still doesn't mean he's destined to turn into a Deep One！"
+    },
+    {
+        "name": "Gardner",
+        "message": "No matter what happened to Sarah at the monastery, she was still just a little girl."
+    },
+    {
+        "name": "Nai",
+        "message": "But that wasn't the case."
+    },
+    {
+        "message": "　　　　　Sarah is pregnant with Pietro—no, Philip Dunwich's child."
+    },
+    {
+        "name": "Nai",
+        "message": "Philip, the 'covenant-holder's' kid, huh."
+    },
+    {
+        "message": "　　　　　I’ve been waiting for Jonathan to come for a whole 100 years."
+    },
+    {
+        "name": "Nai",
+        "message": "Dollie, Philip's biological child, went against my offer and killed herself and her child."
+    },
+    {
+        "name": "Nai",
+        "message": "It looked like the bloodline of the 'Pactmakers' had died out..."
+    },
+    {
+        "message": "　　　　　That wasn't the case."
+    },
+    {
+        "name": "Gardner",
+        "message": "So Jonathan is the last survivor, huh..."
+    },
+    {
+        "name": "Nai",
+        "message": "Covenant Jonathan Swift, now is the time."
+    },
+    {
+        "message": "　　　　　Now that that idiot has caused trouble, this is the only time we can wake up our leader from their slumber."
+    },
+    {
+        "name": "Gardner",
+        "message": "Stop it, Jonathan. You can still make it in time if you quit now."
+    },
+    {
+        "message": "　　　　　　　　Let's　rescue　Cordelia　and　get　out　of　this　village！"
+    },
+    {
+        "name": "Nai",
+        "message": "Someday, you'll turn into a hideous thing, just like that girl in the coffin, or your own mother."
+    },
+    {
+        "name": "Nai",
+        "message": "その時を恐れて、これから一生怯えながら暮らすのか？"
+    },
+    {
+        "message": "　　　　　I think it's smarter to plunge this world into fear and chaos with my leader, and reign as king."
+    },
+    {
+        "name": "Jonathan",
+        "message": "For me... deciding something like that..."
+    },
+    {
+        "name": "Voice",
+        "message": "No, you’re the one who decides."
+    },
+    {
+        "name": "Jonathan",
+        "message": "And you？"
+    },
+    {
+        "name": "Voice",
+        "message": "Jonathan Swift. I am you."
+    },
+    {
+        "message": "　　　　This is your true self, the one you've desperately tried to suppress."
+    },
+    {
+        "name": "Jonathan",
+        "message": "......No way！"
+    },
+    {
+        "name": "Voice",
+        "message": "You... I've been scared this whole time."
+    },
+    {
+        "message": "　　　　I wonder if I'll end up like my mom someday."
+    },
+    {
+        "name": "Voice",
+        "message": "The truth is, you actually wanted it to end up like this."
+    },
+    {
+        "message": "　　　　A　hideous,　greedy,　evil-filled　monster..."
+    },
+    {
+        "message": "　　　　Because that was your true self！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No way... I have no idea what you're talking about."
+    },
+    {
+        "name": "Voice",
+        "message": "The reason you were shown dreams wasn't just to make you remember what happened."
+    },
+    {
+        "name": "Voice",
+        "message": "It's to awaken your true desires！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "True desires？ What are you talking about..."
+    },
+    {
+        "name": "Voice",
+        "message": "You were jealous...of Philip Dunwich."
+    },
+    {
+        "message": "　　　　That man who could do whatever he wanted with the bodies of women, chained up and crying out..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why did I... to such an evil man！"
+    },
+    {
+        "name": "Voice",
+        "message": "That evil blood flows through you."
+    },
+    {
+        "message": "　　　　You're a human just like Philip."
+    },
+    {
+        "name": "Jonathan",
+        "message": "違う！"
+    },
+    {
+        "name": "Voice",
+        "message": "You can't lie to yourself, Jonathan. You were aroused.　　　　　 By the filthy bodies of women violated and writhing in ecstasy by those abominable creatures　　　... And by the sight of Sarah, crying and screaming！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Shut up...... I... What you're saying is bullshit！"
+    },
+    {
+        "name": "Voice",
+        "message": "You should know what it is you really want."
+    },
+    {
+        "name": "Voice",
+        "message": "Just like you wanted... The sacrifice is ready too."
+    },
+    {
+        "name": "Nai",
+        "message": "Jonathan, shoot this guy dead."
+    },
+    {
+        "message": "　　　　　And then, come with me."
+    },
+    {
+        "name": "Voice",
+        "message": "Alright, let's go. They're waiting for me to come."
+    },
+    {
+        "message": "　　　　You have to fulfill the pact."
+    },
+    {
+        "name": "Gardner",
+        "message": "Stop it, Jonathan......"
+    },
+    {
+        "message": "　　　　　　　　Get a grip, everything this guy says is a lie."
+    },
+    {
+        "name": "Nai",
+        "message": "Kneel with me before the lord and swear eternal loyalty！"
+    },
+    {
+        "message": "　　　　　Hurry up and shoot this man dead."
+    },
+    {
+        "name": "Gardner",
+        "message": "Jonathan！"
+    },
+    {
+        "name": "Gardner",
+        "message": "Jonathan......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "You've gotta be kidding me......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No way I'm gonna let bastards like this mess with me."
+    },
+    {
+        "message": "　　　　　　　　I'm not a puppet！"
+    },
+    {
+        "name": "Gardner",
+        "message": "That's how it should be."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Professor..."
+    },
+    {
+        "name": "Gardner",
+        "message": "Let's hurry, we have to save Cordelia."
+    },
+    {
+        "message": "　　　　　　　　Besides, if I don't stop that idiot, things are gonna get real bad."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Let's go."
+    },
+    {
+        "name": "Gardner",
+        "message": "Do you know where the two of them are？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's the basement of the Dunwich Mansion, it's the only place left."
+    },
+    {
+        "name": "Gardner",
+        "message": "That secret passage leading underground, huh."
+    },
+    {
+        "message": "　　　　　　　　フィリップ・ダニッジがこの日のために造っておいた　　　　　　　　のだな。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Let's go, if we don't hurry..."
+    },
+    {
+        "name": "Nai",
+        "message": "That's exactly what makes you worthy of being the last descendant of the covenant."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What should we do now?"
+    },
+    {
+        "name": "Nai",
+        "message": "I have to go to my lord right away."
+    },
+    {
+        "message": "　　　　　Before that wretched fool makes a mistake."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Thomas..."
+    },
+    {
+        "name": "Nai",
+        "message": "That's right, even if we have the Necronomicon, unless there are covenant-bearers, our lord will not awaken from his slumber."
+    },
+    {
+        "name": "Nai",
+        "message": "But with so many villagers already awakened, we can't just stop the ritual halfway."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So you mean you can't afford to waste the 'offerings'."
+    },
+    {
+        "name": "Nai",
+        "message": "It means what Philip Dunwich did ended up working out in an unexpected way."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You've been alive ever since the time when Philip was still around, huh？"
+    },
+    {
+        "name": "Nai",
+        "message": "Why do you think I'm called 'the last one left'？"
+    },
+    {
+        "message": "　　　　　Until the time when my lord awakens from his slumber, I can't even die."
+    },
+    {
+        "name": "Jonathan",
+        "message": "The letter that was in the laboratory at Dunwich Mansion..."
+    },
+    {
+        "name": "Nai",
+        "message": "That was someone who shared the same ideals as Philip."
+    },
+    {
+        "message": "　　　　　He's one of the founders of the organization that Thomas, who's causing us trouble right now, belongs to."
+    },
+    {
+        "name": "Jonathan",
+        "message": "How ironic."
+    },
+    {
+        "name": "Nai",
+        "message": "You can get lost in your feelings later, right now you have to do what needs to be done."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Where are you going？"
+    },
+    {
+        "name": "Nai",
+        "message": "There's a path from the basement of the Dunwich Mansion that leads to that place."
+    },
+    {
+        "message": "　　　　　Let's go to the ritual site Philip made."
+    }
+]

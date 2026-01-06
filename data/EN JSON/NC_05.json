@@ -1,0 +1,385 @@
+[
+    {
+        "message": "岬にある遺跡だ。"
+    },
+    {
+        "message": "There's nobody here, and there's no sign of any shady rituals going on either."
+    },
+    {
+        "message": "岬の突端にある遺跡だ。"
+    },
+    {
+        "message": "マーシュ老人がこの世にない今となっては、この遺跡を訪れる人間も他にいるまい。"
+    },
+    {
+        "message": "A cold wind from the sea blows around the Ruins, and the ancient relics, now unseen by anyone, are quietly heading down the path to ruin."
+    },
+    {
+        "name": "Gardner",
+        "message": "We troublemakers will step out for a bit."
+    },
+    {
+        "message": "　　　　　　　　Call me when it's time to go home."
+    },
+    {
+        "name": "Cordelia",
+        "message": "It's cold......"
+    },
+    {
+        "message": "遺跡にはまるで人を寄せつけるのを拒むかのように、冷たい風が吹き付けている。"
+    },
+    {
+        "message": "There are no obstacles around to block the wind, and the icy wind mercilessly sucks the warmth from my body."
+    },
+    {
+        "name": "Gardner",
+        "message": "I'm gonna go wander around for a bit."
+    },
+    {
+        "message": "　　　　　　　　These days, I'm not really interested in the Ruins anymore."
+    },
+    {
+        "name": "Thomas",
+        "message": "Don't go doing things on your own, it makes me look like I'm in the way."
+    },
+    {
+        "message": "　　　　　　Feels like I'm getting in the way between you two."
+    },
+    {
+        "name": "Gardner",
+        "message": "If that's what you think, why don't you go wander around over there too？"
+    },
+    {
+        "name": "Thomas",
+        "message": "Aren't you overthinking it too much？"
+    },
+    {
+        "message": "　　　　　　These two sleep in the same Bed together every night, after all."
+    },
+    {
+        "name": "Gardner",
+        "message": "Then do whatever you want."
+    },
+    {
+        "name": "Thomas",
+        "message": "Got it."
+    },
+    {
+        "message": "　　　　　　Hurry up, will ya? It's freezing here, I can't stand it."
+    },
+    {
+        "name": "Gardner",
+        "message": "Call me when you're leaving."
+    },
+    {
+        "message": "　　　　　　　　I'm not gonna let you leave me behind."
+    },
+    {
+        "message": "The columns made of a black stone with a slimy gloss surrender themselves to the slow waves of collapse, without anyone questioning them."
+    },
+    {
+        "message": "The stone pillars, with a dark, slimy-looking sheen, seem to resemble the style seen in temples scattered across the islands of Greece."
+    },
+    {
+        "message": "But these Ruins couldn't possibly have been brought over from Greece."
+    },
+    {
+        "message": "Philip was trading with countries in Asia and Africa, so these Ruins must have been brought from there too..."
+    },
+    {
+        "message": "As a layman, I don't have enough knowledge to back up that hypothesis."
+    },
+    {
+        "message": "Even Gardner, the expert, is puzzled, so there's no way I could solve this mystery."
+    },
+    {
+        "message": "I wonder what kind of connection there is between the Ruins and the huge amount of gold Philip obtained. Did the people who worshipped these Ruins give gold to Philip?"
+    },
+    {
+        "message": "It's a structure that seems to be a Temple, with a majestic and somewhat intimidating atmosphere."
+    },
+    {
+        "message": "I wonder if the consciousness of the people who worshipped this building as a key part of their faith is dwelling here—the sight of it even stirs fear in me."
+    },
+    {
+        "message": "Marsh said that by bringing these Ruins to Arkham, Philip made quite a fortune."
+    },
+    {
+        "message": "Sure, bringing something like this here couldn’t have been easy, so I guess they were expecting a decent reward…"
+    },
+    {
+        "message": "Around the Ruins, where the cold wind howls, you can’t even spot a single bird flying in the sky, let alone any people."
+    },
+    {
+        "message": "Around the Ruins where the cold wind blows fiercely, you can't even spot a single bird flying in the sky, let alone any humans."
+    },
+    {
+        "message": "The sound of waves crashing against the cliff just below is such a deafening noise that it seems to make the lonely atmosphere of the cape even more intense."
+    },
+    {
+        "message": "Surrounded by massive Ruins and hearing the terrifying roar of the waves, I'm reminded once again just how small I really am."
+    },
+    {
+        "name": "Thomas",
+        "message": "That was pretty quick, huh."
+    },
+    {
+        "message": "　　　　　　Are you already done with everything？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Did you get to talk at your own pace？"
+    },
+    {
+        "message": "　　　　　　　　You don't have to worry about us, you know. It's okay for you two to spend more time alone together, you know？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Sorry for making you both worry about me."
+    },
+    {
+        "message": "　　　　　　　　You　really　don't　have　to　worry　about　that　anymore."
+    },
+    {
+        "name": "Cordelia",
+        "message": "‥‥‥‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "‥‥‥‥‥‥‥"
+    },
+    {
+        "name": "Cordelia",
+        "message": "The wind's really strong... I feel like I'm gonna get blown away."
+    },
+    {
+        "name": "Jonathan",
+        "message": "‥‥‥‥‥‥‥"
+    },
+    {
+        "name": "Cordelia",
+        "message": "...Even though you went out of your way to be considerate."
+    },
+    {
+        "message": "　　　　　　　　I don't know what I should talk about."
+    },
+    {
+        "name": "Jonathan",
+        "message": "...Not in a place like this."
+    },
+    {
+        "message": "　　　　　　　　I'll go get Thomas and the professor."
+    },
+    {
+        "name": "Cordelia",
+        "message": "It looks like I ended up making Gardner worry about me for no reason."
+    },
+    {
+        "name": "Jonathan",
+        "message": "He did that on his own, so don't worry about it."
+    },
+    {
+        "message": "　　　　　　　　This is the first time we've been alone together like this during the day."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Yeah......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Hey, Jonathan......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Actually, I stopped by the Fish Scale Inn earlier and talked with Mrs. Hudson."
+    },
+    {
+        "name": "Cordelia",
+        "message": "With Hudson-san？"
+    },
+    {
+        "message": "　　　　　　　　Why are you telling me something like that?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I figured Hudson might know some stories about when you were a kid."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I wonder."
+    },
+    {
+        "message": "　　　　　　　　It's not like that person is even from this village, and I don't think it's been that long since they came here."
+    },
+    {
+        "name": "Jonathan",
+        "message": "But we don't have any other ideas."
+    },
+    {
+        "message": "　　　　　　　　If there’s even a little chance, I just gotta give it a shot."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Yeah......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Tonight, after I stop by the lady's place, I'll go to Gilman House. I'll try talking to the lady."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I wonder what Hans meant by what he said."
+    },
+    {
+        "message": "　　　　　　　　I can't believe I'm a 'miko'."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I have no clue either."
+    },
+    {
+        "message": "　　　　　　　　Since they're called shrine maidens, maybe there's some kind of religious meaning behind it..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Are you talking about that Church？"
+    },
+    {
+        "message": "　　　　　　　　I feel really awful whenever I go there."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You don't have any connection at all to Dagon or that priest called Nai, do you？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Yeah, as far as I know."
+    },
+    {
+        "message": "　　　　　　　　I don't know about my foster parents, so maybe they took me along when I was a kid."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Maybe those unpleasant memories from back then are unconsciously making you feel disgusted by that Church."
+    },
+    {
+        "name": "Cordelia",
+        "message": "I wonder if that's even possible."
+    },
+    {
+        "message": "　　　　　　　　Because of memories you don't even know you have, you start hating the Church without even realizing it."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I can't say it's impossible."
+    },
+    {
+        "message": "　　　　　　　　Anyway, this means we've just started to understand a little bit about your past."
+    },
+    {
+        "name": "Cordelia",
+        "message": "What do you think about Marsh？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "What do you mean？"
+    },
+    {
+        "message": "　　　　　　　　何が言いたいんだい。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "I knew it, it's our fault that happened..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "No use regretting it now."
+    },
+    {
+        "message": "　　　　　　　　Besides, Marsh was always scared of something."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I’ve known for a long time that it would end up like this someday."
+    },
+    {
+        "message": "　　　　　　　　More importantly, what kind of secret did she want to keep from us so badly that she’d go that far?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "I'm scared......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "マーシュさんを殺した犯人は誰にも咎められず、村を　　　　　　　　堂々と歩いているのね。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah, that's right."
+    },
+    {
+        "name": "Cordelia",
+        "message": "You know, I think I'm next.　　　　　　　　I mean, right? Marsh got killed because he tried to help Jonathan and the others."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I won't let you do that！"
+    },
+    {
+        "message": "　　　　　　　　Cordelia, from now on, try not to be alone as much as possible."
+    },
+    {
+        "name": "Cordelia",
+        "message": "That's impossible."
+    },
+    {
+        "message": "　　　　　　　　At　night,　I　end　up　all　alone,　you　know."
+    },
+    {
+        "name": "Jonathan",
+        "message": "From now on, let's go to Gilman House every night."
+    },
+    {
+        "message": "　　　　　　　　If you're okay with it."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan, you remember the promise you made to me, right?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Which promise？"
+    },
+    {
+        "message": "　　　　　　　　I　can't　remember　if　I　make　too　many　promises."
+    },
+    {
+        "name": "Cordelia",
+        "message": "You're such a meanie."
+    },
+    {
+        "name": "Cordelia",
+        "message": "You promised to help me find out why I was brought to Arkham, remember？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Ah, that story."
+    },
+    {
+        "name": "Cordelia",
+        "message": "How should I go about investigating this, I wonder."
+    },
+    {
+        "message": "　　　　　　　　The villagers won't even really talk to us."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah, we'll just have to try asking someone who's not from the village......"
+    },
+    {
+        "message": "　　　Map　　　"
+    },
+    {
+        "message": "　　　Map　　　"
+    }
+]

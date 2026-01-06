@@ -1,0 +1,189 @@
+[
+    {
+        "message": "I went back to my room."
+    },
+    {
+        "message": "After finishing my meal, I was finally able to return to my room."
+    },
+    {
+        "message": "Because of the exhaustion from the journey, my head feels hazy, and a fierce sleepiness is hitting me."
+    },
+    {
+        "message": "If I just lie down on the Bed like this, I feel like I could sleep soundly until morning..."
+    },
+    {
+        "message": "Looks like there's a few things I gotta take care of first."
+    },
+    {
+        "message": "For example, why does Gardner hate Thomas so much?"
+    },
+    {
+        "message": "Why did Thomas decide to go to the Ruins with us?"
+    },
+    {
+        "message": "You won't know unless you ask them directly. Lying down comes after that."
+    },
+    {
+        "message": "The old window frame creaks noisily in the wind blowing from the sea."
+    },
+    {
+        "message": "The roofs lined up across the street are only about six feet away. If I wanted to, it wouldn't be impossible to jump across. I just hope no one gets any ideas about attacking me while I sleep..."
+    },
+    {
+        "message": "The delusion that someone might be peeking from the other side of the Curtain still hasn't gone away. I should stop thinking about it—better for my mental health to just go to sleep at times like this."
+    },
+    {
+        "message": "It doesn't seem like I can fight off sleepiness any longer."
+    },
+    {
+        "message": "Looks like it'd be best if I just sleep now."
+    },
+    {
+        "name": "Voice",
+        "message": "Are you still asleep, Jonathan？"
+    },
+    {
+        "name": "Voice",
+        "message": "Even though the time has already come."
+    },
+    {
+        "name": "Voice",
+        "message": "You mean you don't remember？ Me... yourself..."
+    },
+    {
+        "message": "《...Thus we lost the god we should serve, and also lost the god who serves gods...》"
+    },
+    {
+        "name": "Voice",
+        "message": "...Fine. I'll show you everything."
+    },
+    {
+        "message": "《...Seeking the lost honor of my homeland, I just drift and wander aimlessly in the depths...》"
+    },
+    {
+        "name": "Voice",
+        "message": "Either way, it's a fate you can't escape."
+    },
+    {
+        "message": "《...Why do you not return to us, you who have fulfilled the pact that revived the god...》"
+    },
+    {
+        "name": "Voice",
+        "message": "Jonathan... I'll show you what I did."
+    },
+    {
+        "name": "Voice",
+        "message": "Jonathan...I'll show you what you did."
+    },
+    {
+        "name": "Voice",
+        "message": "Jonathan... Jonathan..."
+    },
+    {
+        "name": "Gardner",
+        "message": "Jonathan... Jonathan！"
+    },
+    {
+        "message": "　　　　　　　　Seriously, how long are you young people gonna keep lazing around in bed！"
+    },
+    {
+        "message": "My sleep was disturbed by someone shouting from the hallway."
+    },
+    {
+        "message": "What the hell is going on... Where am I again..."
+    },
+    {
+        "name": "Gardner",
+        "message": "Hey, what are you dawdling around for！"
+    },
+    {
+        "message": "I see, I promised Gardner that we'd go check out those ruins today. Damn... thanks to this hard bed, all my joints ache."
+    },
+    {
+        "name": "Gardner",
+        "message": "I'll be waiting downstairs. It pisses me off, but I'll wake Thomas up for you too！"
+    },
+    {
+        "message": "I wonder what time it is now......"
+    },
+    {
+        "message": "Old men wake up early... I have to get up... or he'll throw a tantrum..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "ああ‥‥お早う。待って下さいよ、今着替えますから　　　　　　　　玄関ホールですね、ええすぐ行きますから‥‥‥"
+    },
+    {
+        "name": "Gardner",
+        "message": "What are you spacing out for? Hurry up, you know, thanks to all these lazy students, I've become the kind of person who loses his temper real easy！"
+    },
+    {
+        "message": "Looks like Gardner's gone now."
+    },
+    {
+        "message": "I need to hurry and get changed. That guy is just like the professor I studied under..."
+    },
+    {
+        "message": "Mrs. Hudson looked tired and drained, almost like an old woman. I wonder what could have made her like that."
+    },
+    {
+        "message": "Come to think of it... I feel like I promised Mrs. Hudson something. Maybe I should visit her room before going to bed."
+    },
+    {
+        "message": "But... I really wouldn't want rumors going around about a young man coming and going from the room of a chaste widow. Apparently, the lady isn't the least bit concerned about things like that."
+    },
+    {
+        "message": "Maybe I should say something to Gardner before I go to bed."
+    },
+    {
+        "message": "Judging from how things were in the cafeteria, it feels like they're pretty on edge."
+    },
+    {
+        "message": "Why does Gardner hate Thomas so openly? Is there some kind of grudge between the two of them?"
+    },
+    {
+        "message": "Maybe I should say something to Gardner before going to bed."
+    },
+    {
+        "message": "I can't help but be bothered by the way he acted like he understood everything when I was staring at Thomas's Ring in the cafeteria."
+    },
+    {
+        "message": "Thomas's quick move to hide the Ring seems pretty suspicious too..."
+    },
+    {
+        "message": "Gardner must know something."
+    },
+    {
+        "message": "I get why Gardner hates Thomas, but I just can't picture that clueless guy being all that dangerous. Maybe Gardner's just got the wrong idea after all？"
+    },
+    {
+        "message": "The door is locked."
+    },
+    {
+        "message": "It's the door that leads to Gardner's room next door. Right now, it's locked from both my side and Gardner's side. No matter that it was built for that purpose, it'd be smarter to just use the hallway if you need something."
+    },
+    {
+        "message": "Man, what a bland room. It's about the same size as my London apartment, but just hanging one picture would make a big difference. I guess Mrs. Hudson isn't into that kind of thing."
+    },
+    {
+        "message": "Still as empty as ever. You have everything you need, but nothing else. Even if it's just for a couple days, isn't this a little too bleak?"
+    },
+    {
+        "message": "Entrance hall"
+    },
+    {
+        "message": "　　　Dining room　　　"
+    },
+    {
+        "message": "Lady's room"
+    },
+    {
+        "message": "Lady's room"
+    },
+    {
+        "message": "Gardner's room"
+    },
+    {
+        "message": "　Thomas's room　"
+    }
+]

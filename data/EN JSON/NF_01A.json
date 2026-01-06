@@ -1,0 +1,230 @@
+[
+    {
+        "message": "In my hand is the key to Dunwitch Mansion that Marsh handed to me."
+    },
+    {
+        "message": "With this, we'll understand why Dollie committed such a gruesome incident."
+    },
+    {
+        "message": "It might be possible to unravel facts that even Marsh didn't know—no, facts that even if he did know, he would've never talked about."
+    },
+    {
+        "name": "Jonathan",
+        "message": "As long as I have this key, I can thoroughly search throughout Dunwitch Mansion."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Let's head out right away！"
+    },
+    {
+        "name": "Thomas",
+        "message": "Hey, hey......"
+    },
+    {
+        "message": "　　　　　　The sun's about to set. You still planning to keep going？"
+    },
+    {
+        "name": "Gardner",
+        "message": "No need to rush, right?"
+    },
+    {
+        "message": "　　　　　　　　I kinda get how you feel too..."
+    },
+    {
+        "name": "Gardner",
+        "message": "Wouldn't it be better to go again tomorrow？"
+    },
+    {
+        "message": "　　　　　　　　They say haste makes waste, don't they?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "But......"
+    },
+    {
+        "name": "Gardner",
+        "message": "The young lady seems pretty tired too, doesn't she?"
+    },
+    {
+        "message": "　　　　　　　　Hey Jonathan, let's do it tomorrow."
+    },
+    {
+        "name": "Jonathan",
+        "message": "‥‥‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Got it."
+    },
+    {
+        "message": "　　　　　　　　Alright, let's go with that."
+    },
+    {
+        "message": "In front of Marsh's abandoned ship at the harbor."
+    },
+    {
+        "message": "As always, that rickety ship that could sink at any moment is swaying side to side on the gentle waves in the bay."
+    },
+    {
+        "name": "Gardner",
+        "message": "Speaking of which, when I came to old man Marsh's boat before, the door wasn't even locked, and the gangplank wasn't raised either."
+    },
+    {
+        "name": "Gardner",
+        "message": "For someone who says you're scared of something, aren't you being way too careless？"
+    },
+    {
+        "message": "Now that you mention it, that's totally true."
+    },
+    {
+        "message": "Isn't it strange that an Old man, who always seems jumpy and scared of something, would leave the door unlocked?"
+    },
+    {
+        "name": "Thomas",
+        "message": "Like I’ve told you a million times already, haven’t I？"
+    },
+    {
+        "message": "　　　　　　That old man, he's got a few screws loose in his head."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Let's leave the questioning for later."
+    },
+    {
+        "message": "　　　　　　　　Anyway, we won't understand anything unless we actually meet Marsh."
+    },
+    {
+        "message": "It's the harbor where the old man Marsh's boat is floating."
+    },
+    {
+        "message": "As always, there are no fishermen busily coming and going, and the decrepit boats, which could sink at any moment, sway their bodies with the faint waves."
+    },
+    {
+        "message": "This is the port where the old man Marsh's boat floats."
+    },
+    {
+        "message": "Even though it's called a port, all the boats around are just worn-out old vessels long past their prime, so you can't really call it lively at all."
+    },
+    {
+        "message": "Actually, calling it a ship graveyard seems like a better way to put it."
+    },
+    {
+        "message": "There's not a soul around, and not even a single gull flying in the sky. It's a scene fit for a graveyard."
+    },
+    {
+        "name": "Thomas",
+        "message": "What a shitty wreck of a ship."
+    },
+    {
+        "message": "　　　　　　You　hardly　ever　see　something　like　this."
+    },
+    {
+        "name": "Gardner",
+        "message": "That old man quit being a fisherman ages ago, so I can't imagine he'd do something reckless like trying to go out fishing on this boat."
+    },
+    {
+        "message": "Just like always, thick, gloomy clouds cover the entire sky."
+    },
+    {
+        "message": "It wouldn't be surprising if it started raining at any moment, but for now it seems okay."
+    },
+    {
+        "message": "The heavy, low-hanging clouds sharply mark the boundary with the sea. The wind that had been blowing from the sea toward the land has suddenly died down, so it doesn't look like the clouds will clear up anytime soon."
+    },
+    {
+        "message": "There isn’t even a single seagull in the sky, and nothing blocks the view."
+    },
+    {
+        "message": "Has Arkham been abandoned not only by the civilization of the outside world, but even by the seagulls?"
+    },
+    {
+        "message": "There’s nothing particularly unusual lying around."
+    },
+    {
+        "message": "The ground is just flattened and packed down, so it really doesn’t look like a proper wharf at all."
+    },
+    {
+        "message": "The stakes for mooring boats are just simple sticks roughly hammered in."
+    },
+    {
+        "message": "It makes you wonder if you can even call this a harbor."
+    },
+    {
+        "message": "There used to be large sailing ships that traveled overseas, so there might've been a more proper harbor somewhere."
+    },
+    {
+        "message": "It's so abnormally murky, and with the wind gone calm, it feels filthy like the stagnant water of a sewer."
+    },
+    {
+        "message": "Maybe it's just my imagination, but there's this fishy, rotten smell drifting around, and if I stay still, I feel like I'm gonna get sick."
+    },
+    {
+        "message": "The wind that had been blowing toward the land suddenly stopped, and now it's what you'd call a calm."
+    },
+    {
+        "message": "Because there's no sunlight, it's like a sea of mud with zero clarity, and you can't see any of the creatures squirming under the surface."
+    },
+    {
+        "message": "There's no point in hesitating forever."
+    },
+    {
+        "message": "There’s no other way to get onto the ship except this plank."
+    },
+    {
+        "message": "そこいらから拾ってきた板切れをかけただけのような、ぞんざいな渡り板だ。私たちの重みに耐えられるかどうか疑わしい。"
+    },
+    {
+        "message": "It looks like something as old as that derelict ship it's hanging on."
+    },
+    {
+        "message": "Is it really going to be okay？"
+    },
+    {
+        "message": "It's barely afloat, but it looks like it's long since lost its original abilities as a ship."
+    },
+    {
+        "message": "It’s barely holding together enough to serve as Marsh the old man’s place to live. Even so, no telling how much longer that’ll last."
+    },
+    {
+        "message": "It's the abandoned ship where Old man Marsh lives."
+    },
+    {
+        "message": "It's probably about as old as Marsh. It doesn't run on steam, but seems to move with just sails."
+    },
+    {
+        "message": "Just looking at the outside, it's so worn out that it wouldn't be surprising if it sank at any moment."
+    },
+    {
+        "message": "Barely afloat, but it doesn't look like it'll survive the rough waves of the open sea."
+    },
+    {
+        "message": "Fish Scale Inn"
+    },
+    {
+        "message": "　　　Plaza　　　"
+    },
+    {
+        "message": "General store"
+    },
+    {
+        "message": "　　　Ruins　　　"
+    },
+    {
+        "message": "Gilman House"
+    },
+    {
+        "message": "　Church　of　Dagon　"
+    },
+    {
+        "message": "Archives"
+    },
+    {
+        "message": "　　Go inside　　"
+    },
+    {
+        "message": "　　　Map　　　"
+    },
+    {
+        "message": "　　Go inside　　"
+    }
+]

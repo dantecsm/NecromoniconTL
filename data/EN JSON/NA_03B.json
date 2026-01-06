@@ -1,0 +1,363 @@
+[
+    {
+        "message": "We dragged our tired bodies back to the Fish Scale Inn."
+    },
+    {
+        "message": "It was a really weird day, but it’s not over yet. I can’t just bail on the promise I made to the pub woman."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "You were out quite late, weren’t you？"
+    },
+    {
+        "message": "　　　　　　　　　You all look absolutely exhausted."
+    },
+    {
+        "name": "Thomas",
+        "message": "I’m totally beat. For all the running around we did, we didn’t really get much out of it！"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "I’ll get dinner ready right away."
+    },
+    {
+        "name": "Thomas",
+        "message": "Guess that’s all we can do."
+    },
+    {
+        "message": "　　　　　　After all, there’s nothing to do at this inn except eat."
+    },
+    {
+        "message": "Thomas shot the lady a chilly glance. There’s something sly about that strange look."
+    },
+    {
+        "message": "The lady looked away from Thomas, her expression twisting into a complicated, bitter face. I wonder if something happened between the two."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Oh my, are you all finished with your business already？"
+    },
+    {
+        "message": "　　　　　　　　　I thought you wouldn’t be back until after sunset."
+    },
+    {
+        "name": "Gardner",
+        "message": "It was freezing today. I can’t stand standing around in that icy wind for so long."
+    },
+    {
+        "name": "Thomas",
+        "message": "Come to think of it, what happened to the plan to grab a drink before heading back？"
+    },
+    {
+        "message": "　　　　　　All they’ve got here are drinks for kids, you know."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Oh, Mr. Swift. You're back quite early, aren't you?　　　　　　　　　And... what happened　　　　　　　　　to Mr. Gardner and Mr. Thomas?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Well, I just forgot something."
+    },
+    {
+        "message": "　　　　　　　　I'll catch up to the two of them right away."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "You'd better hurry, especially since Mr. Gardner is quick-tempered—he's probably fuming by now."
+    },
+    {
+        "message": "The room is dark. Years of dust and grease soaked in, giving off a deep sense of history. The interior probably hasn't changed since the days when the lamp was the only light."
+    },
+    {
+        "message": "Compared to the extremely worn-down exterior battered by salty wind and rain, the inside has a nicely aged character. Maybe it doesn't feel lonely thanks to the personality of the lady of the house."
+    },
+    {
+        "message": "She's as cheerful-looking as ever."
+    },
+    {
+        "message": "Does she really enjoy working that much?"
+    },
+    {
+        "message": "She's wearing that checked one-piece dress I've seen countless times. Apparently, she uses it as her work clothes. It's certainly neat and not flashy, but it feels a little out of place for an innkeeper."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Now, stop acting like a naughty child.　　　　　　　　　If you don't do as I say, I'll mix some beach sand into your dinner！"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Are you going out again tomorrow？"
+    },
+    {
+        "message": "そう言えばまだどうするか決めていなかったな。さて、どうしたものだろう‥‥‥‥"
+    },
+    {
+        "name": "Gardner",
+        "message": "もちろんだよ。あそこにはまだ見るべきものがたくさ　　　　　　　　ん残っているのだからな！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "ひょっとして私もご一緒しなければならないんでしょ　　　　　　　　うか、教授？"
+    },
+    {
+        "name": "Gardner",
+        "message": "Of course. But, there’s something you need to do before that. You know what I’m talking about, right?"
+    },
+    {
+        "message": "You’re forcing me to get information about the old man from the woman at Gilman House. I’m not happy about it—looks like I’ve been completely sucked into the professor’s pace before I knew it..."
+    },
+    {
+        "name": "Gardner",
+        "message": "You were at least a little curious about that old man too, weren't you? Don't you want to know who he mistook you for?"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "I have no idea what you're talking about, but wouldn't it be better to talk it over slowly during a meal？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Mrs. Hudson, is something wrong?"
+    },
+    {
+        "message": "　　　　　　　　You don't look very well."
+    },
+    {
+        "name": "Thomas",
+        "message": "It's nothing... okay？"
+    },
+    {
+        "message": "Thomas acts like he knows all about Mrs. Hudson. Does this guy really think he's her husband or lover or something? Or maybe, are Thomas and Mrs. Hudson actually in that kind of relationship?"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "I'm fine... Sorry to make you worry..."
+    },
+    {
+        "name": "Gardner",
+        "message": "Are you really okay？"
+    },
+    {
+        "message": "　　　　　　　　If something happened to you, our eating habits would become terribly lonely."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Yes, I'm all right. I just felt a little dizzy."
+    },
+    {
+        "message": "　　　　　　　　　If you keep standing around in a place like that, you'll just catch a chill."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Please try not to get too carried away."
+    },
+    {
+        "message": "　　　　　　　　　I'm not very good at dealing with drunk men, you know."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "I'm sorry, but if you'd like to have a drink, you'll have to do it somewhere else. It's not allowed at my place."
+    },
+    {
+        "name": "Thomas",
+        "message": "I really, really want a drink no matter what."
+    },
+    {
+        "message": "　　　　　　I need a pick-me-up at the end of a day this awful！"
+    },
+    {
+        "name": "Gardner",
+        "message": "You're like a baby who's had its pacifier taken away. So noisy, I can't stand it."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Oh well, should we just go along with him then？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Do you know where the Pub is？"
+    },
+    {
+        "message": "　　　　　　　　　Go straight down the street, then turn at the alley halfway　　　　　　　　　. If you make it out to the back street, it's right there."
+    },
+    {
+        "name": "Thomas",
+        "message": "さあ行こう。"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Isn't it about time you went out？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Sorry for hanging around so late last night, I hope I didn't bother you？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Not at all. I had a great time talking with a young person like you for the first time in a while, too."
+    },
+    {
+        "message": "The lady said with a carefree smile."
+    },
+    {
+        "message": "She hadn't seemed to be enjoying herself at all last night, but her face didn’t look like she was being sarcastic."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "If you ever have any trouble, please come by anytime."
+    },
+    {
+        "message": "　　　　　　　　　If it's something I can do, I'll listen to anything you want to talk about."
+    },
+    {
+        "message": "There’s a lot I want to ask, but I really don’t want to piss her off again like I did last night......"
+    },
+    {
+        "message": "But the lady said it's fine, so I guess it wouldn't be rude if I just had a cup of tea."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Mr. Swift......"
+    },
+    {
+        "message": "　　　　　　　　　You　didn't　come　to　my　room　last　night,　did　you?"
+    },
+    {
+        "message": "そう言えば、夫人と約束をしていたのだった。"
+    },
+    {
+        "message": "I totally forgot."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Sorry, I completely crashed out the moment I lay down on the bed..."
+    },
+    {
+        "message": "You can see a hint of mild reproach in the lady's expression."
+    },
+    {
+        "message": "What should I do? Maybe I should just honestly apologize."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "It's really alright, you were tired after such a long trip, weren't you? I was the one who insisted on inviting you, after all."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's not true！"
+    },
+    {
+        "message": "　　　　　　　　Even though you said it out of kindness, I was rude."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "No... It was my lack of consideration."
+    },
+    {
+        "name": "Jonathan",
+        "message": "If it's alright, can I come over tonight？"
+    },
+    {
+        "message": "　　　　　　　　If it's not too much trouble."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Yes, please come by anytime."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Mr. Swift, may I ask you something？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Jonathan is fine. What is it？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "このアーカムに何をしにいらっしゃったの？"
+    },
+    {
+        "message": "　　　　　　　　　I wonder what business a young city person like you has in such a remote village？"
+    },
+    {
+        "message": "Mrs. Hudson, embarrassed by her own rude question, said this in a faint voice."
+    },
+    {
+        "name": "Jonathan",
+        "message": "......The old station master in Salem also kept asking me. Is it really such a problem for someone like me to visit Arkham？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "No, not at all."
+    },
+    {
+        "message": "　　　　　　　　　It's just... I was a little curious, that's all...　　　　　　　　　I'm sorry. That was none of my business, huh."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I just came by to look something up. One of my ancestors grew up here, you see. There was something I was a little curious about regarding that person."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Are you from Arkham？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't know any details. Where I was born or how I was raised. It's just that before I ended up at my house, I was in Arkham. That's the only clue I have."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "I see......"
+    },
+    {
+        "message": "　　　　　　　　　I wish I could be of help to you."
+    },
+    {
+        "message": "The lady was looking down, seeming lost in thought about something."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "If you don't mind, could you tell me a little more about it？ Even someone like me might be able to do something for you."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That would really help me out."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "そうですわね‥‥‥"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Please come to my room tonight."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Are you sure about this, letting someone like me into your room… this late at night?"
+    },
+    {
+        "message": "It seems like the lady just realized what that means for the first time."
+    },
+    {
+        "message": "She blushed and averted her gaze from me."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Ah, no. There's no deep meaning or anything."
+    },
+    {
+        "message": "子供の頃はこういう古びた部屋に一人でいるのが恐かったものだ。"
+    },
+    {
+        "message": "Even now, I sometimes get this baseless fear that maybe someone is staring at me from the corner of the room..."
+    },
+    {
+        "message": "On top of the Counter is a guest register, and on the wall are posted the daily lodging rates and something called 'Today's Recommended Dish.' Tonight's recommendations are white fish meunière or roasted Rum, apparently."
+    },
+    {
+        "message": "　　　Cafeteria　　　"
+    },
+    {
+        "message": "　　Go outside　　"
+    }
+]

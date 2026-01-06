@@ -1,0 +1,186 @@
+[
+    {
+        "message": "We're inside the Church......"
+    },
+    {
+        "message": "The lights are on, but I can't see any of the followers."
+    },
+    {
+        "message": "The lingering scent of incense in the room shows that something was happening here just a moment ago."
+    },
+    {
+        "message": "But there’s not a single follower, and not even a trace of Nai..."
+    },
+    {
+        "message": "It's like everyone all went out somewhere together."
+    },
+    {
+        "message": "It's inside the Church of Dagon."
+    },
+    {
+        "message": "Dozens of villagers sit on the hard benches, fervently offering their prayers."
+    },
+    {
+        "message": "I can't believe that everyone here is all the believers."
+    },
+    {
+        "message": "Even if they're villagers living a totally lazy life, they still have to earn at least enough for daily bread or they can't survive."
+    },
+    {
+        "message": "So then, I wonder just how many followers the Dagon Cult has."
+    },
+    {
+        "message": "If we're talking about most of the villagers, even though Arkham is a small village, that should mean there are several hundred people."
+    },
+    {
+        "message": "表面が粗く、光沢のない石の床に固い気のベンチが並んでいる。"
+    },
+    {
+        "message": "I can't see the believer who should be sitting there, but when I touch it, there's still a faint warmth left."
+    },
+    {
+        "message": "The lingering scent of incense in the room makes it clear that a lot of people were just in this Church until a little while ago."
+    },
+    {
+        "message": "Did everyone go out somewhere all at once, I wonder......"
+    },
+    {
+        "message": "この教会以外にダゴンの信者が集団で集うような場所が、このアーカムにあっただろうか。"
+    },
+    {
+        "message": "Hard wooden benches are lined up."
+    },
+    {
+        "message": "If I could help it, I’d rather not get stuck listening to some boring lecture for hours in a place like this."
+    },
+    {
+        "message": "固い木のベンチが規則正しく並んでいる。"
+    },
+    {
+        "message": "The floor is covered with roughly cut stones, all nicely polished."
+    },
+    {
+        "message": "Both are unique to the Church, but they only make the chilly atmosphere around here feel even worse, so I can't really say I like them."
+    },
+    {
+        "message": "It seems my belief that the Church is a place to build endurance was proven right here, too."
+    },
+    {
+        "message": "There aren't any decorations around the podium, and rather than just being plain, it feels so bare that it's almost a little lonely."
+    },
+    {
+        "message": "It's one step higher than the benches where the other believers sit."
+    },
+    {
+        "message": "If Nai, who's already ridiculously tall, steps up to the podium, it'll probably have an intimidating effect on the surrounding believers."
+    },
+    {
+        "message": "Still, you'd normally expect there to be a baptismal font or a Christ statue around here, but instead, there's just a single, extremely plain desk with no decorations at all, just like a teacher's desk at school."
+    },
+    {
+        "message": "I wonder if this Church isn't very wealthy？"
+    },
+    {
+        "message": "It's a beautiful thing, but it doesn't feel all that old."
+    },
+    {
+        "message": "It seems a bit different from the kind of pictures you usually see in a Church, though....."
+    },
+    {
+        "message": "美しい色ガラスの小片を巧みにはめ込んで造られた、人の背丈ほどもあるステンドグラスだ。"
+    },
+    {
+        "message": "In this bleak Church, it's the only thing that brings a touch of brightness, but it's so out of place compared to the surroundings that it actually feels inappropriate."
+    },
+    {
+        "message": "It's an organ made up of hundreds of pipes of all different sizes."
+    },
+    {
+        "message": "If we're talking about things of value in this Church, it'd probably be the huge stained glass windows fitted on either side, and this pipe organ."
+    },
+    {
+        "message": "It looks like an organ that makes sounds by sending steam into large and small pipes, but judging by its size, it must be a pretty expensive machine."
+    },
+    {
+        "message": "It might seem out of place in such a tiny Church, but......"
+    },
+    {
+        "message": "First, it's questionable whether it's actually being used to play hymns."
+    },
+    {
+        "message": "Without caring about us at all, they keep lecturing."
+    },
+    {
+        "message": "That expressionless face, so typical of black people, where you can't read what they're really thinking, is creepy."
+    },
+    {
+        "message": "Nai glanced at us as we snuck into the Church, but without seeming to care much, continued the sermon."
+    },
+    {
+        "message": "That brazen attitude is really starting to piss me off, but there's no way I can just grab Nai in the middle of a church packed with believers."
+    },
+    {
+        "message": "The people who bother to come all the way to this Church might be those who haven't quite given up on life yet. Could Mrs. Hudson or the general store owner be among them, by any chance？"
+    },
+    {
+        "message": "Are all the people here villagers?"
+    },
+    {
+        "message": "Is it that even people as apathetic as hermits can't throw away their faith？"
+    },
+    {
+        "message": "Even so, everyone sure seems to be praying with all their hearts......"
+    },
+    {
+        "message": "I wonder what kind of god the people here worship."
+    },
+    {
+        "name": "Female believer",
+        "message": "Who are you guys？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Hey, do you know about the 『Lost key』？"
+    },
+    {
+        "name": "Female believer",
+        "message": "What the hell is that？"
+    },
+    {
+        "message": "　　　　　　　I've never heard of it."
+    },
+    {
+        "message": "I tried calling out to a nearby follower."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Um......do you have a minute？"
+    },
+    {
+        "name": "Male believer",
+        "message": "Who are you guys?！"
+    },
+    {
+        "message": "　　　　　　　This is a Church for Dagon's followers."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What kind of religion is 'Dagon'？"
+    },
+    {
+        "name": "Male believer",
+        "message": "Dagon is Dagon."
+    },
+    {
+        "message": "　　　　　　　This　has　nothing　to　do　with　you　guys."
+    },
+    {
+        "message": "I'm completely being ignored."
+    },
+    {
+        "message": "Looks like it'd be better to try someone else."
+    },
+    {
+        "message": "　　Go outside　　"
+    }
+]

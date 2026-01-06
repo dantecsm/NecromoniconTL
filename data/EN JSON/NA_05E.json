@@ -1,0 +1,303 @@
+[
+    {
+        "message": "I came back to the room."
+    },
+    {
+        "message": "Because I've been going to Cordelia's room these past few days, it's been a really long time since I've slept in my own Bed, except for when I passed out and got carried there."
+    },
+    {
+        "message": "I'm worried about where Cordelia has gone, but she's lived in Arkham way longer than I have, so I'm sure she'll be back tomorrow like nothing happened."
+    },
+    {
+        "message": "Looks like I'll finally be able to get a good night's sleep tonight for the first time in a while......"
+    },
+    {
+        "message": "Where the hell is this place......"
+    },
+    {
+        "message": "What's happened to me......"
+    },
+    {
+        "message": "修道院の地下室で、半ばミイラ化した屍体を見て気が遠くなったところまでは覚えているのだが‥‥‥"
+    },
+    {
+        "message": "I wonder if I passed out."
+    },
+    {
+        "message": "So maybe Gardner and Thomas carried me here and laid me down on the bed."
+    },
+    {
+        "message": "とんだ醜態をさらしてしまったな。"
+    },
+    {
+        "message": "Normally, just seeing a corpse would make me faint, which is unthinkable, but for something like that to happen inside the Monastery I see in my dreams every night, it feels like some kind of omen."
+    },
+    {
+        "message": "まだそれほど遅い時間ではないようだが、魚鱗亭はひっそりとしていて誰かが起きている様子でもない。"
+    },
+    {
+        "message": "If I remember right, Thomas promised to show me a 'nice place' or something."
+    },
+    {
+        "message": "私を何処に連れていくつもりなのか知らないが、私たちに何かを隠しているトマスが、その秘密の一端を明かそうと言うのだ。"
+    },
+    {
+        "message": "I can't just abandon you."
+    },
+    {
+        "message": "I wonder if that guy is still waiting for me."
+    },
+    {
+        "message": "Because it’s been washed so many times, a threadbare, wrinkled curtain hangs there. I know this is the second floor, but I still can’t shake the fear that someone might be peeking from the other side of the curtain."
+    },
+    {
+        "message": "I've thought this ever since I first saw it, but the pattern on the old Curtain hanging over the window looks just like long hair tied up."
+    },
+    {
+        "message": "Maybe it's because of that, but I can't help but feel like someone is peeking at me from the other side of the window."
+    },
+    {
+        "message": "I wonder if any guests who stayed in this room before me ever felt anxious thinking about things like that, because I just can't stop worrying about it."
+    },
+    {
+        "message": "This is the Bed I was just sleeping in."
+    },
+    {
+        "message": "I don't really move around much in my sleep; the Sheet stays neat and there’s hardly any need to make the Bed."
+    },
+    {
+        "message": "Doesn't look like I'll get much out of staying up any longer."
+    },
+    {
+        "message": "I haven't really had a proper rest these past few days, so I'll just go to bed now."
+    },
+    {
+        "name": "Voice",
+        "message": "Jonathan, why don't you come back to us？"
+    },
+    {
+        "name": "Voice",
+        "message": "Haven't you seen enough yet？"
+    },
+    {
+        "name": "Voice",
+        "message": "Hurry up, get the last key, and come to me."
+    },
+    {
+        "message": "《‥‥There's a certain book, just waiting for the right person to open it‥‥》"
+    },
+    {
+        "name": "Voice",
+        "message": "We're gathering again tonight, offering up our prayers."
+    },
+    {
+        "message": "《...Just as a key waits for a door, words truly await to be spoken...》"
+    },
+    {
+        "name": "Voice",
+        "message": "贄も既に壇上に供えられ、待ち望んでいる。"
+    },
+    {
+        "message": "《...Sacrifice to the gods, richly bearing fruit, fit to adorn the altar...》"
+    },
+    {
+        "name": "Voice",
+        "message": "Being devoured by you..."
+    },
+    {
+        "message": "《...hot blood, soft flesh, thus worthy to be devoured by God...》"
+    },
+    {
+        "name": "Voice",
+        "message": "We have been lurking in the warm waves, waiting all this time..."
+    },
+    {
+        "name": "Voice",
+        "message": "Don't let us down！"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Oh, Cordelia."
+    },
+    {
+        "message": "　　　　　　　　　Morning, it's rare to see you come to the Fish Scale Inn."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Good morning, Mr. Hudson."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Um........."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "What's wrong？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Is Jonathan..... here？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "If you're looking for Swift, he's still asleep."
+    },
+    {
+        "message": "　　　　　　　　　ご自分の部屋でおやすみになるのは久しぶりみたい　　　　　　　　　だから、寝坊してしまったみたいね。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "‥‥‥‥‥‥‥‥‥"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Oh, I'm sorry."
+    },
+    {
+        "message": "　　　　　　　　　I'm not trying to be sarcastic."
+    },
+    {
+        "name": "Cordelia",
+        "message": "No........"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "もう目を覚ますでしょう、食堂でお茶でもいかが？　　　　　　　　　ガードナーさん達はもう起きてらっしゃるわよ。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "It's fine, I'll wait here."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Yeah？"
+    },
+    {
+        "message": "　　　　　　　　　Well then, do whatever you like."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Swift, how long are you going to stay in bed？"
+    },
+    {
+        "message": "　　　　　　　　　Cordelia is waiting downstairs, so please hurry up and come down."
+    },
+    {
+        "message": "I woke up to Mrs. Hudson's voice."
+    },
+    {
+        "message": "When I sleep in this Bed, it seems like I end up oversleeping."
+    },
+    {
+        "message": "Sleeping in my own bed at the Fish Scale Inn, it's been ages since I did that, except for the time I passed out and got carried here."
+    },
+    {
+        "message": "Looks like I'll be able to sleep soundly tonight."
+    },
+    {
+        "message": "It's an old, battered Table."
+    },
+    {
+        "message": "It seems a little too tall for eating, but on the other hand, it's too short for writing."
+    },
+    {
+        "message": "In other words, it's a Table that's pretty much useless."
+    },
+    {
+        "message": "At best, you could only use it when you're having tea in the afternoon or something."
+    },
+    {
+        "message": "Because it's been used for many years, the surface has lost its shine and is covered with countless scratches. It seems to be a fairly old item, but in this state, it's got no value anymore."
+    },
+    {
+        "message": "But if you put it that way, even if you auctioned off this whole Fish Scale Inn, it's obvious it wouldn't fetch much of a price."
+    },
+    {
+        "message": "Even if Mrs. Hudson tried that, it's completely unrealistic to think she could start a new life with the money from selling the Fish Scale Inn."
+    },
+    {
+        "message": "It's the door that connects to Gardner's room next door."
+    },
+    {
+        "message": "It looks like it's locked from the other room right now."
+    },
+    {
+        "message": "It's the door leading to Gardner's room next door, but it's locked at the moment."
+    },
+    {
+        "message": "It looks like a door that was set up in the days when masters would travel with their old servants, so the master and servant could go back and forth between rooms."
+    },
+    {
+        "message": "When I look at Gardner's room, it doesn't seem all that different from mine, but I'm sure it was originally one big room that's been divided into two with a partition."
+    },
+    {
+        "message": "These days, you hardly see travelers with attendants, and even if you did, attendants nowadays would expect the same treatment as their masters. Even Gardner would have no use for such a spacious room."
+    },
+    {
+        "message": "I don't have to worry about meals, and there aren't any noisy neighbors. It's way more comfortable than a boarding house or something like that."
+    },
+    {
+        "message": "I feel like it's been a really long time since I just slowly looked around my own room."
+    },
+    {
+        "message": "When I first came to the Fish Scale Inn and was shown to this room, I thought it was really plain. I figured it would just be a temporary place to stay for two or three days at most, but now I'm surprised that this room has become the place where I feel most at home."
+    },
+    {
+        "message": "While I'm out every day, Mrs. Hudson probably cleans up for me."
+    },
+    {
+        "message": "Compared to my apartment in London, the room is a lot cleaner."
+    },
+    {
+        "message": "They've probably already gone to the dining hall."
+    },
+    {
+        "message": "Gardner seems to have already gone to bed."
+    },
+    {
+        "message": "If he's tired from carrying me, waking him up in the middle of the night would probably make him really pissed off."
+    },
+    {
+        "message": "It's not like I really have any business with Gardner..."
+    },
+    {
+        "message": "I tried turning the knob of the door that connects to the next room."
+    },
+    {
+        "message": "The door wouldn't budge."
+    },
+    {
+        "message": "It's locked from the other side."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Professor, are you still awake？"
+    },
+    {
+        "message": "I knocked on the door and called Gardner's name."
+    },
+    {
+        "message": "But I couldn't hear any response from the next room."
+    },
+    {
+        "message": "Gardner has probably already fallen asleep."
+    },
+    {
+        "message": "Maybe I just got totally worn out from carrying myself over from the Monastery."
+    },
+    {
+        "message": "I just wanted to say thanks..."
+    },
+    {
+        "message": "It looks like it'd be better to do it tomorrow."
+    },
+    {
+        "message": "Entrance hall"
+    },
+    {
+        "message": "Madam's room"
+    },
+    {
+        "message": "　Thomas's room　"
+    }
+]

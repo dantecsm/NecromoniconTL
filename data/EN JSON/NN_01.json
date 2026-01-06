@@ -1,0 +1,603 @@
+[
+    {
+        "name": "Jonathan",
+        "message": "Cordelia, are you okay？"
+    },
+    {
+        "message": "Cordelia pulls the coat's hood all the way over her head and desperately follows me, even as her feet slip on the rain-slick brick pavement."
+    },
+    {
+        "message": "The rain pours mercilessly onto her frail shoulders, and it looks like the coat's gotten pretty heavy from soaking up all that water."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Y-yeah, I'm okay."
+    },
+    {
+        "message": "　　　　　　　　No one's watching us, right？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't know."
+    },
+    {
+        "message": "　　　　　　　　After all, the whole village worships Dagon......"
+    },
+    {
+        "message": "Cordelia doesn't complain at all, and even though she's out of breath, she doesn't slow down."
+    },
+    {
+        "message": "Just a bit more, barely half a mile to go......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "We're almost at the bridge."
+    },
+    {
+        "message": "　　　　　　　　If we can just get across, we'll figure something out."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Let's hurry."
+    },
+    {
+        "message": "　　　　　　　　We have to get out of the village before someone comes after us..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "The bridge... the bridge is gone..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "What the hell happened！"
+    },
+    {
+        "message": "　　　　　　　　Why does this kind of thing have to happen now..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Damn it......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Ah... this is just too cruel."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Shit... what are we supposed to do now."
+    },
+    {
+        "name": "Cordelia",
+        "message": "It's because of the rain."
+    },
+    {
+        "name": "Cordelia",
+        "message": "The bridge that was already falling apart finally collapsed because of this rain."
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, that's not it."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Look at this."
+    },
+    {
+        "name": "Jonathan",
+        "message": "This cut has to have been made by a sharp blade."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Why would someone do something like that..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "That's terrible... How could something like this..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Damn it！"
+    },
+    {
+        "message": "　　　　　　　　They found out a long time ago..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "They know we’re trying to escape, and they’re toying with us！"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan, calm down."
+    },
+    {
+        "name": "Cordelia",
+        "message": "What should we do... What are we supposed to do..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What else? We just have to find another way out of the village."
+    },
+    {
+        "name": "Cordelia",
+        "message": "How？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "The only way to leave the village is by crossing this bridge."
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, there has to be another way."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Something..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "What about the railway bridge?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "The railway bridge？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "There’s an old bridge the train used to run on."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That’s it."
+    },
+    {
+        "name": "Cordelia",
+        "message": "But it's really old, and it might be dangerous."
+    },
+    {
+        "message": "　　　　　　　　And　with　this　rain,　our　feet　could　slip—it's　risky."
+    },
+    {
+        "name": "Jonathan",
+        "message": "We can’t worry about that now."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Let's hurry！"
+    },
+    {
+        "message": "　　　　　　　　I'm gonna outsmart those guys."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan, is it really okay for you to be here？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah, they're probably relieved after dropping the bridge."
+    },
+    {
+        "message": "　　　　　　　　They　probably　haven't　even　noticed　there's　a　railway　bridge."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Yeah......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "どのみちこの雨では、セイラムまで走り続けるのは無　　　　　　　　理だ、しばらく休んでいこう。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "I wonder if we'll make it there safely."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I'll make it there, no matter what."
+    },
+    {
+        "message": "　　　　　　　　You should get a little sleep, I'll wake you up in a bit."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What's up？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "You're not gonna leave me behind, right......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "当たり前じゃないか。"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Really？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "If I was going to leave you behind, I wouldn't have done any of this from the start, right？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "But......I'm scared."
+    },
+    {
+        "message": "　　　　　　　　I'm scared that I might be left behind by someone important to me again."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You don't have to worry."
+    },
+    {
+        "message": "　　　　　　　　Just go to sleep already. It's not like you can rest for that long anyway."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Yeah......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Nn......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Damn... did I fall asleep?"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "What's wrong......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Looks like I dozed off."
+    },
+    {
+        "message": "　　　　　　　　I was having a dream."
+    },
+    {
+        "name": "Cordelia",
+        "message": "What time is it now？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't know."
+    },
+    {
+        "message": "　　　　　　　　It's still dark outside, so it seems like there's still some time until dawn."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Are we leaving already？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yeah......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "What was that sound？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "What's wrong......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "That is......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "What the heck is that......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "What the hell..."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Wh-what is this..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That monster... Is this a continuation of my dream...？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan, what's that？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "There's no way a creature like that could exist in real life！"
+    },
+    {
+        "message": "　　　　　　　　Those guys... in the dream..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "I was being controlled by a man with a strange book,"
+    },
+    {
+        "message": "　　　　　　　　That's all there is to it."
+    },
+    {
+        "name": "Jonathan",
+        "message": "But......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Did that really happen...？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Over here... come over here."
+    },
+    {
+        "name": "Jonathan",
+        "message": "No way.........."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Even now, somewhere, is that guy controlling them？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "What's wrong？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why, in a place like this... Are they fish？ Or human？ That shape... Yeah, just like those ruins..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That mural, was it depicting those guys?！"
+    },
+    {
+        "message": "　　　　　　　　But... from that long ago... What are they？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "The gravekeeper said the ruins belong to the Dagon Cult."
+    },
+    {
+        "message": "　　　　　　　　The Dagon Cult, the god Dagon... you mean that monster？"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Hey... come on, pull yourself together... Jonathan！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "No way, if it's something that's supposed to be worshipped as a god, then why was it being controlled by a guy like that？ That guy......that book？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "........Necronomicon........！"
+    },
+    {
+        "name": "Cordelia",
+        "message": "Jonathan！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Cordelia......"
+    },
+    {
+        "name": "Cordelia",
+        "message": "What do we do, what's going to happen to us？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Let's go home."
+    },
+    {
+        "name": "Cordelia",
+        "message": "Go home......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "We're going back to Arkham！"
+    },
+    {
+        "name": "Cordelia",
+        "message": "And then what are we supposed to do once we're back?！"
+    },
+    {
+        "message": "　　　　　　　　We're gonna get killed by Dagon's followers."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Like hell I'm gonna let myself get killed."
+    },
+    {
+        "message": "　　　　　　　　It's　okay,　I　know　what　I　need　to　do！"
+    },
+    {
+        "name": "Cordelia",
+        "message": "What are you planning to do？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's after we get home."
+    },
+    {
+        "message": "　　　　　　　　Everything　will　be　after　we　get　back　to　Arkham......"
+    },
+    {
+        "message": "私たちは身体を叩く雨さえ気にならないほど怯えて、必死の思いで魚鱗亭に戻ってきた。"
+    },
+    {
+        "message": "Just before dawn, the fireplace in Gardner's room was blazing brightly, and inside the room was so comfortable it felt like a different world from the icy rain pouring down outside."
+    },
+    {
+        "name": "Gardner",
+        "message": "I see, is that all you've got to say？"
+    },
+    {
+        "message": "ガードナーは私を異常者でも見るような目で凝視している。"
+    },
+    {
+        "message": "Unless you've seen it with your own eyes, there's no way you could understand, but it pisses me off to be so blatantly treated like a lunatic."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You don't believe my story, do you？"
+    },
+    {
+        "name": "Gardner",
+        "message": "You can't deny it was something hard to understand, right？　　　　　　　　Maybe you were just dreaming."
+    },
+    {
+        "name": "Cordelia",
+        "message": "No way... I saw it too, you know."
+    },
+    {
+        "message": "　　　　　　　　That wasn't just a dream！"
+    },
+    {
+        "name": "Gardner",
+        "message": "This is a problem......I'm not an expert in psychology or anything."
+    },
+    {
+        "message": "　　　　　　　　But I think that's just some kind of mass hallucination."
+    },
+    {
+        "name": "Thomas",
+        "message": "For that, isn't the story making a little too much sense？"
+    },
+    {
+        "message": "　　　　　　I just can't think of all that talk about the Ruins and Dagon's bunch as the ramblings of some lunatic."
+    },
+    {
+        "name": "Gardner",
+        "message": "Are you saying that too now?"
+    },
+    {
+        "message": "　　　　　　　　How am I supposed to believe that story！"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Anyway, please give me some time."
+    },
+    {
+        "message": "　　　　　　　　I'll figure everything out right away."
+    },
+    {
+        "name": "Gardner",
+        "message": "What are you planning to do？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I'm going to look for a book."
+    },
+    {
+        "name": "Gardner",
+        "message": "A book? What are you talking about?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "It's a book called the 'Necronomicon' that appeared in my dream. The guy who was controlling those monsters at will was reading that book."
+    },
+    {
+        "name": "Gardner",
+        "message": "Fine."
+    },
+    {
+        "name": "Gardner",
+        "message": "Do as you please."
+    },
+    {
+        "message": "　　　　　　　　The bridge has collapsed anyway, right？"
+    },
+    {
+        "name": "Gardner",
+        "message": "So we really did end up trapped in this village.　　　　　　　　Seriously, I can't believe there’s actually an isolated island in the middle of nowhere like this in this day and age."
+    },
+    {
+        "name": "Jonathan",
+        "message": "If we just have that book, we'll be saved."
+    },
+    {
+        "message": "　　　　　　　　If we can control the monsters, we can escape the village safely."
+    },
+    {
+        "name": "Gardner",
+        "message": "That's enough."
+    },
+    {
+        "message": "　　　　　　　　Anyway, no matter what we do, we gotta wait until dawn."
+    },
+    {
+        "name": "Gardner",
+        "message": "There's a little time to sleep, you two look like you're way too tired."
+    },
+    {
+        "name": "Jonathan",
+        "message": "What about Cordelia？"
+    },
+    {
+        "name": "Gardner",
+        "message": "She can sleep in your Bed."
+    },
+    {
+        "message": "　　　　　　　　We're not at the point where we need to get embarrassed over this, are we？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "If you do that on your own, Mrs. Hudson will get mad."
+    },
+    {
+        "message": "　　　　　　　　I should say something first..."
+    },
+    {
+        "name": "Gardner",
+        "message": "Hudson's already disappeared without a trace."
+    },
+    {
+        "message": "　　　　　　　　That's why I can't even serve you guys a hot cup of tea."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Mr. Hudson？"
+    },
+    {
+        "message": "　　　　　　　　Where on earth did they go?"
+    },
+    {
+        "name": "Gardner",
+        "message": "I don't get anything anymore."
+    },
+    {
+        "message": "　　　　　　　　I'm starting to even doubt my own sanity."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Mrs. Hudson is......"
+    },
+    {
+        "name": "Gardner",
+        "message": "You should take a break now."
+    },
+    {
+        "message": "　　　　　　　　In just a few more hours, the night will be over."
+    }
+]

@@ -1,0 +1,225 @@
+[
+    {
+        "message": "If I come by too often, it might be rude to Mrs. Hudson......"
+    },
+    {
+        "message": "I called out to Mrs. Hudson inside the room."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Hudson, are you still awake？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Jonathan? What's the matter?"
+    },
+    {
+        "message": "　　　　　　　　　Do you need something?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Sorry for disturbing you again. May I come in？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "......Go ahead."
+    },
+    {
+        "message": "I stood in front of Mrs. Hudson's room, tucked away in the back of the Fish Scale Inn. The door was slightly open for when I came to visit."
+    },
+    {
+        "message": "Even though I wasn't here to do anything bad, I couldn't help but feel strangely guilty. I knocked lightly on the open door."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Swift... san？"
+    },
+    {
+        "message": "She said that in a small voice. Looks like she doesn't want anyone to know about this secret meeting either. Should I be hoping for something, or is she just feeling the same baseless guilt I am?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Is it okay if I come in？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Please, come in."
+    },
+    {
+        "message": "I wonder if she used to live here with her late husband."
+    },
+    {
+        "message": "From what I can see, there's nothing left that gives any sense of her past life."
+    },
+    {
+        "message": "Compared to the other rooms in the Fish Scale Inn, the lady's room does seem a bit more comfortable, but there's nothing here that asserts the occupant's personality at all."
+    },
+    {
+        "message": "She must have thrown out every single thing that would remind her of her late husband, but since then, has she really been living all alone in such a dreary room?"
+    },
+    {
+        "message": "There's a sadness, a hint of sorrow, on the lady's face. It's like she's resigned herself to being trapped in this cage that is the Fish Scale Inn, knowing she'll never get out. What in the world could be making her feel that way?"
+    },
+    {
+        "message": "The way Mrs. Hudson speaks sounds just like someone who was beguiled by the nightmare called Arkham before me, now preaching a lesson to the newcomer—me—who showed up after."
+    },
+    {
+        "message": "But still, what does she mean when she says it's better not to reveal that you're related by blood to someone from Arkham？"
+    },
+    {
+        "message": "Mrs. Hudson has shed that somewhat distant look she had back when she was just the innkeeper, and now she's giving off a warm vibe, like I'm her brother or her husband or something."
+    },
+    {
+        "message": "Leaning forward over the table, hugging her chest with both arms, her ample bust stood out clearly."
+    },
+    {
+        "message": "It looked like Mrs. Hudson had finished her day's work and changed into her room clothes. Even though she was wearing something comfortable and should have been relaxing alone in her own room, she didn't seem relaxed at all."
+    },
+    {
+        "message": "This extremely simple room, which doesn't show any sign of the resident's individuality, and Mrs. Hudson's tense expression... it's like she's being forced to stay here against her will..."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Jonathan, I have nothing more to say to you.　　　　　　　　　But...... I think you'll end up wishing you'd listened to my warning sooner or later."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "If I'm not mistaken, you said you came to Arkham looking for traces of your family, didn't you？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Yes, that's right. It's a story from more than 100 years ago, about a woman who was either my great-grandmother or her mother."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "That's quite vague, isn't it?"
+    },
+    {
+        "message": "　　　　　　　　　You look like you come from a very good family though..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's exactly what made me wonder too. Why is it only that woman's information that's unclear? It's like someone tore out a page, that's how it feels to me."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "That might be a reasonable thing to think‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "What is？"
+    },
+    {
+        "message": "　　　　　　　　Do you know something about that woman?"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Me？"
+    },
+    {
+        "message": "　　　　　　　　　I haven't even heard her name, you know."
+    },
+    {
+        "message": "Even so, the lady is hiding something."
+    },
+    {
+        "message": "I can't help but think that way. And if that secret gets revealed, we'll probably learn why the lady is still staying here in Arkham too."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Jonathan‥‥‥you know, you might be better off just going home as you are. Sometimes not knowing is happier in this world‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Hudson."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Do that. And you really shouldn't ever think about coming near Arkham again."
+    },
+    {
+        "name": "Jonathan",
+        "message": "No, Mrs. Hudson. I can't just forget about it like this."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Why？ Why is this so important to you？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I don't know why, but‥‥‥I feel like there's something hidden in these facts, something that's got to do with me—something really important."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Then let me just say one thing."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "In this Arkham... no, no matter where you go, don't ever say that you have any connection to someone from Arkham."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why is that? Why does Arkham have to be hated so much?"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "‥‥‥‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I'm taking you up on your kind offer and dropping by."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "There's no need to be so apologetic. I'm the one who acted nosy on my own."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "And... well, just look at this place, right？"
+    },
+    {
+        "message": "　　　　　　　　　There's nothing else to do anyway."
+    },
+    {
+        "name": "Jonathan",
+        "message": "You're tougher than you look. Running this inn all by yourself, and you don't even seem bothered by it."
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "It's because I can't do anything else. I don't have any talents at all..."
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's not true. A woman like you could find a job anywhere, right？"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "Mr.　Swift...　this　isn't　London.　This　is　Arkham,　you　know."
+    },
+    {
+        "message": "I feel like I've heard the same line from her before. I can't figure out why she's so obsessed with Arkham."
+    },
+    {
+        "name": "Jonathan",
+        "message": "Just Jonathan is fine. By the way, why did you decide to stay here in Arkham? Is it because you have the Fish Scale Inn your husband left you?"
+    },
+    {
+        "name": "Mrs. Hudson",
+        "message": "...You still don't know anything about Arkham.　　　　　　　I can't go anywhere anymore."
+    },
+    {
+        "message": "What does she mean..."
+    },
+    {
+        "message": "Entrance hall"
+    },
+    {
+        "message": "　　　Dining room　　　"
+    },
+    {
+        "message": "My room"
+    },
+    {
+        "message": "I took my leave from Mrs. Hudson and left her room, which was filled with a chilly air."
+    }
+]

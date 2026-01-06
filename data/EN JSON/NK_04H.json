@@ -1,0 +1,380 @@
+[
+    {
+        "message": "私とガードナーは扉を開けて、ドルリイの書斎に入った。"
+    },
+    {
+        "message": "The room isn't as spacious as I thought."
+    },
+    {
+        "message": "Maybe it's the huge desk and bookshelves reaching up to the ceiling that make me feel that way."
+    },
+    {
+        "message": "The old bloodstain on the neatly organized desk brings to mind the scene from back then, making it feel like you can even smell that sour scent of blood in the air of the room."
+    },
+    {
+        "name": "Gardner",
+        "message": "So this is Dollie's room, huh."
+    },
+    {
+        "message": "　　　　　　　　It's actually tidier than I thought."
+    },
+    {
+        "name": "Jonathan",
+        "message": "The cops who came in here probably felt satisfied just carrying out Dollie's corpse."
+    },
+    {
+        "name": "Jonathan",
+        "message": "The incident at Dunwitch Mansion looks, to anyone, like it was wrapped up as just the suicide of a madman."
+    },
+    {
+        "message": "It's probably Dollie Dunwich's collection."
+    },
+    {
+        "message": "These must be custom-made; only books with matching spines are neatly lined up."
+    },
+    {
+        "message": "No matter which book you look at, they're all relatively new, and there isn't a single book collected by the person who used this room before Dollie."
+    },
+    {
+        "message": "For some reason, I probably got rid of all those books."
+    },
+    {
+        "message": "The many lavishly bound books lined up in the Archives' library, likely donated by private collectors, may have once belonged to this very room."
+    },
+    {
+        "message": "Looks like these are things Dollie collected, but almost all of them are academic books, and there isn't a single one that shows off the personality of the deceased."
+    },
+    {
+        "message": "None of them were very worn out, and it's clear they hadn't been picked up very often."
+    },
+    {
+        "message": "It was probably taken out from the bookshelf behind, its binding no different from those books, making it clear that it was specially made to order."
+    },
+    {
+        "message": "しかし、それはあまり珍しい事ではない。"
+    },
+    {
+        "message": "Even if you're not a collector, you want to have your favorite books bound the way you like. Especially in rich families like the Dunwich family, that's probably just normal."
+    },
+    {
+        "message": "ドルリイが死ぬ間際まで読んでいた本は、やはり学術書だったようだ。いかにも学究の徒らしいが、妻や子供を惨たらしい死に至らしめた後で手にするにはこれほど相応しくない本も珍しい。"
+    },
+    {
+        "message": "Was it that he just couldn't shake his attachment to life, or was he really out of his mind, had no intention of dying at all, but ended up pressing the gun to his own head because of some sudden impulse brought on by madness...?"
+    },
+    {
+        "message": "I wonder if this was something Dollie used to love."
+    },
+    {
+        "message": "In the family photo I saw in the living room, she wasn't wearing glasses though..."
+    },
+    {
+        "message": "The bloodstain on the desk and the glasses left beside it seem to vividly tell the story of the suicide."
+    },
+    {
+        "message": "I picked up Dunwich's diary and flipped through the pages."
+    },
+    {
+        "message": "『The day has finally come."
+    },
+    {
+        "message": "　I have to take my life and my family's lives to atone for the grave sins my father committed."
+    },
+    {
+        "message": "This part must have been written right before the incident."
+    },
+    {
+        "message": "Only in this part, Dollie's neat, tidy handwriting is trembling."
+    },
+    {
+        "message": "It's clearly showing inner turmoil, which would mean Dollie wasn't in her right mind."
+    },
+    {
+        "message": "『My wife is pregnant with my child."
+    },
+    {
+        "message": "　If not for that, at least I could've saved Jean."
+    },
+    {
+        "message": "　I can't wait until my wife gives birth, by then..."
+    },
+    {
+        "message": "Let's try reading the previous page some more."
+    },
+    {
+        "message": "『ロリーナの病気はますますひどくなる一方だ。"
+    },
+    {
+        "message": "　Even the doctor they called in from Salem said he didn't know what kind of illness it was, or how to cure it."
+    },
+    {
+        "message": "Dollie's daughter, Lorina, apparently had some kind of disease."
+    },
+    {
+        "message": "You can feel the father's anguish from the passages in the daily record."
+    },
+    {
+        "message": "Seeing Lorina, who had ended up looking completely different, Mom had a really scared look on her face."
+    },
+    {
+        "message": "　It's true, Lorina's body, ravaged by illness, is horribly ugly, but......』"
+    },
+    {
+        "message": "Mom finally confessed everything."
+    },
+    {
+        "message": "　Every time she saw Lorina, it was like her whole body was being torn apart, Mother...』"
+    },
+    {
+        "message": "It was all my father's fault—Philip Dunwich was the source of everything."
+    },
+    {
+        "message": "　父は私が生まれる数年前に貿易先からイギリスに帰る船で遭難したと　言われてた。』"
+    },
+    {
+        "message": "『But actually, that wasn't the truth."
+    },
+    {
+        "message": "　Even after disappearing, he kept on living, and he was hiding here in Arkham. That's when my father plotted some kind of evil scheme.........』"
+    },
+    {
+        "message": "『My father, Philip, found a certain primitive tribe on an island.\""
+    },
+    {
+        "message": "　島の住人達はいくらでも魚が捕れたし、身体中に怪物の彫り物のある　金で作った腕輪などの装身具を身につけていたという。』"
+    },
+    {
+        "message": "『Dad got the locals to tell him where to get that thing."
+    },
+    {
+        "message": "　島民は海に住む魚のような神に若い娘を生けにえにして、その見返り　に様々な恵みを受けていたのだという。』"
+    },
+    {
+        "message": "『The daughters who were sacrificed come back to the island after a while. When the girls returned to the village, they were all said to be pregnant.』"
+    },
+    {
+        "message": "『Because the islanders had been doing that sort of thing for a long time, they must have gradually become close to that monster.』"
+    },
+    {
+        "message": "One day when my father visited the island, the islanders told him, 'We are returning to the sea from now on.' Since then, the villagers never appeared before my father again."
+    },
+    {
+        "message": "　My father brought back the last of the money and some mysterious Ruins to the village."
+    },
+    {
+        "message": "After the islanders who promised us a big profit disappeared, there was no way my dad would've just let that be the end of it."
+    },
+    {
+        "message": "My father, who disappeared without a trace, secretly made a pact with the god the islanders worshipped."
+    },
+    {
+        "message": "　とはいえ、生けにえになるような若い娘を、小さな村の中で確保する　のは容易な事ではなかっただろう。』"
+    },
+    {
+        "message": "『I figured it out right away. My father was targeting the monastery in the village.\""
+    },
+    {
+        "message": "　In a place like that, there's no shortage of young girls, and even if one disappeared, nobody in the village would blame anyone for it."
+    },
+    {
+        "message": "『And then, to fulfill the village's vile pact with the god, Father kept breeding the Nun with that monstrous abomination.』"
+    },
+    {
+        "name": "Gardner",
+        "message": "What the hell..."
+    },
+    {
+        "name": "Gardner",
+        "message": "Then, that monster we saw was a villager！"
+    },
+    {
+        "message": "　　　　　　　　The gravekeeper was talking about the premature baby born by the nun after the fire‥‥‥‥‥"
+    },
+    {
+        "name": "Jonathan",
+        "message": "That's right."
+    },
+    {
+        "message": "　　　　　　　　あの火事は村中に災いを広げる結果になった。"
+    },
+    {
+        "name": "Gardner",
+        "message": "The physical trait of the villagers here, the so-called 'Innsmouth look', was actually proof they were mixed with that monster."
+    },
+    {
+        "message": "I flipped through more pages of the daily record."
+    },
+    {
+        "message": "『And then, finally, Mom talked about the most terrifying thing."
+    },
+    {
+        "message": "　Philip, who had disappeared, snuck into the mansion. I thought he was dead. Filled with joy, his mother makes love with Philip."
+    },
+    {
+        "message": "But actually, Philip's real goal wasn't to see his mother."
+    },
+    {
+        "message": "　That night, Mom was in the basement......』"
+    },
+    {
+        "name": "Eva",
+        "message": "You...... Philip！"
+    },
+    {
+        "name": "Eva",
+        "message": "Ah... Don't do that..."
+    },
+    {
+        "name": "Philip",
+        "message": "What are you scared of？"
+    },
+    {
+        "message": "　　　　　　　　Even though we just got together after such a long time, isn’t that way too cold of you?"
+    },
+    {
+        "name": "Eva",
+        "message": "What the hell is that behind you?"
+    },
+    {
+        "name": "Philip",
+        "message": "That's an important guest who's going to take good care of you from now on."
+    },
+    {
+        "message": "　　　　　　　　If you keep acting like that forever..."
+    },
+    {
+        "name": "Eva",
+        "message": "What are you going to do... What are you planning to do?"
+    },
+    {
+        "name": "Philip",
+        "message": "I'll have to chain you to that restraint."
+    },
+    {
+        "message": "　　　　　　　　Do you really want your husband to do something like that？"
+    },
+    {
+        "name": "Eva",
+        "message": "No way...... I don't want to do something like that！"
+    },
+    {
+        "name": "Philip",
+        "message": "I can't let that happen."
+    },
+    {
+        "message": "　　　　　　　　This is an important first step."
+    },
+    {
+        "name": "Philip",
+        "message": "That god... This is the first step of the contract to summon the one written in the Necronomicon！"
+    },
+    {
+        "name": "Philip",
+        "message": "From now on, you're going to be fucked by this monster."
+    },
+    {
+        "message": "　　　　　　　　Inside the womb, my semen and his mix together, and a new life is conceived in her uterus."
+    },
+    {
+        "name": "Philip",
+        "message": "My successor as the 'Covenantor', you know."
+    },
+    {
+        "message": "『And then my mother conceived me. Me, born from the loathsome monster's seed."
+    },
+    {
+        "message": "　My daughters Lorina and Hannah have the same blood as me, and one day they』ll turn into the same kind of monsters that raped their mother."
+    },
+    {
+        "message": "『And maybe, someday, my time will come too......』"
+    },
+    {
+        "message": "I couldn't think of anything beyond that."
+    },
+    {
+        "message": "　Nothing's gonna come of doing something like this, you know."
+    },
+    {
+        "message": "『But......"
+    },
+    {
+        "message": "　This is all I can do, this is about all I'm capable of."
+    },
+    {
+        "message": "『If someone comes across this journal in the future, I probably won't even be able to give them advice. All I want to say to that person is this.』"
+    },
+    {
+        "message": "『Run away』"
+    },
+    {
+        "message": "You can't do anything."
+    },
+    {
+        "message": "　The opponent has such overwhelming power, and those with that accursed mixed blood will get in your way."
+    },
+    {
+        "message": "『All you can do is either endure it until the time comes, trembling as you wait for your sanity to disappear, or end your life right here and now.』"
+    },
+    {
+        "name": "Jonathan",
+        "message": "So it really was... so that's how it was after all."
+    },
+    {
+        "name": "Gardner",
+        "message": "What's wrong, Jonathan?"
+    },
+    {
+        "message": "　　　　　　　　What　are　you　mumbling　about　as　you　come　in？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I'm a descendant of a 'Pactmaker' just like Dollie."
+    },
+    {
+        "message": "　　　　　　　　He was someone connected to that accursed blood."
+    },
+    {
+        "name": "Gardner",
+        "message": "Calm down, what happened?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "I have to go......"
+    },
+    {
+        "message": "　　　　　　　　If that's the case！"
+    },
+    {
+        "name": "Gardner",
+        "message": "待て、ジョナサン！"
+    },
+    {
+        "message": "　　　　　　　　Where do you think you're going?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "これは‥‥‥‥日録のようだ。"
+    },
+    {
+        "name": "Gardner",
+        "message": "Dollie probably wrote this."
+    },
+    {
+        "message": "　　　　　　　　Marsh read that, huh......"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Why didn't the cops who checked out the mansion after the incident take the daily log with them?"
+    },
+    {
+        "name": "Gardner",
+        "message": "Maybe Marsh was the one hiding it."
+    },
+    {
+        "message": "　　　　　　　　Still, even if a cop did read what's inside, they probably wouldn't be able to really understand it."
+    },
+    {
+        "name": "Jonathan",
+        "message": "いきなり怪物がどうとか、ダゴンの神がどうとか言わ　　　　　　　　れても、狂人の譫言としか思わないでしょうね。"
+    }
+]

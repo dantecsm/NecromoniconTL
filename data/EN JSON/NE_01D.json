@@ -1,0 +1,285 @@
+[
+    {
+        "message": "It's the bookshelf on the left."
+    },
+    {
+        "message": "Which book should I check out？"
+    },
+    {
+        "message": "This book is......"
+    },
+    {
+        "message": "『On the Trends of Fish Catch in the North Strait and Its Surrounding Seas』"
+    },
+    {
+        "message": "It says published in 1850."
+    },
+    {
+        "message": "It's not strange for there to be books like this in a fishing village, but......"
+    },
+    {
+        "message": "I honestly couldn't care less about what kind of fish you can catch around here."
+    },
+    {
+        "message": "Let's take a look at this."
+    },
+    {
+        "message": "『Airshire State, Tourist Guidebook』"
+    },
+    {
+        "message": "Published in 1870"
+    },
+    {
+        "message": "What can you possibly understand by looking at a tourist guide from fifty years ago?"
+    },
+    {
+        "message": "First off, I don't think Arkham is in this book."
+    },
+    {
+        "message": "Some bigwig state official selfishly turned it into a book and went around distributing it to every town and village. What a fucking pain in the ass."
+    },
+    {
+        "message": "『1850–1900 Arkham Village Treasury Records』"
+    },
+    {
+        "message": "Published in 1900"
+    },
+    {
+        "message": "Arkham's financial records, huh? Even a small village like this has a proper government office. Still, it doesn't look like anyone's actually read these at all..."
+    },
+    {
+        "message": "The book is yellowed and full of wormholes, but it’s not torn or creased. It seems like the villagers didn't care much about the administration."
+    },
+    {
+        "message": "I've already read the case law book."
+    },
+    {
+        "message": "No matter how many times I read it over, it doesn't look like I'll find any new facts."
+    },
+    {
+        "message": "『Miskatonic Court Case law book』"
+    },
+    {
+        "message": "Published in 1890"
+    },
+    {
+        "name": "Jonathan",
+        "message": "教授、どうやらこれらしいですよ。"
+    },
+    {
+        "message": "　　　　　　　　It's something from 30 years ago......"
+    },
+    {
+        "name": "Gardner",
+        "message": "I wonder from when to when these records are from......"
+    },
+    {
+        "message": "　　　　　　　　Where the hell is the 'Miskatonic Court' supposed to be？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Well, I can't really say anything..."
+    },
+    {
+        "message": "　　　　　　　　ずっと昔の、この一帯の名称なのかもしれませんね。　　　　　　　　大学の名前も『ミスカトニック』ですから。"
+    },
+    {
+        "name": "Gardner",
+        "message": "Maybe it's the name of some noble's territory or something."
+    },
+    {
+        "message": "　　　　　　　　That kind of thing often ends up sticking around for a long time after."
+    },
+    {
+        "name": "Thomas",
+        "message": "Who gives a shit about that kind of thing?"
+    },
+    {
+        "message": "　　　　　　Hurry up and read, I don't wanna stay in this musty place any longer."
+    },
+    {
+        "message": "Prompted by Thomas, I opened up the case law book full of wormholes."
+    },
+    {
+        "message": "This book, made in the very early days of press printing, is terribly fragile and requires extreme care when turning the pages."
+    },
+    {
+        "name": "Gardner",
+        "message": "Well, is the 'Dunwich Incident' in there？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "......Looks like this is it."
+    },
+    {
+        "message": "As I struggled with the faded print, I picked out the words written in the case law book."
+    },
+    {
+        "message": "November 10, 1862"
+    },
+    {
+        "message": "More importantly, I'll record the trial records of the murder case that occurred exactly one year ago under the jurisdiction of the Miskatonic Court, in Arkham Village."
+    },
+    {
+        "message": "It should be noted that in this trial, neither the plaintiff nor the defendant were alive, making it an exceptional case based solely on the evidence submitted by the prosecution and the testimonies of villagers as witnesses."
+    },
+    {
+        "name": "Jonathan",
+        "message": "So none of the people involved in the case showed up in court at all, right?　　　　　　　　Makes you wonder if a trial like that is even legit."
+    },
+    {
+        "name": "Gardner",
+        "message": "Go on ahead."
+    },
+    {
+        "message": "The incident happened around 1 a.m., November 10, 1861."
+    },
+    {
+        "message": "At Dunwich Mansion, located almost in the center of Arkham Village, villagers reported hearing multiple screams and several gunshots."
+    },
+    {
+        "message": "When a local police officer raided the Mansion, they found the bodies of a man and woman who lived there, and a task force was organized to investigate as a murder case."
+    },
+    {
+        "message": "Five people died. Eva, the wife of the late Philip, previous head of the Dunwich family, Jean, the wife of the current Dunwich family head Dollie, their daughter Lorina, Hannah………"
+    },
+    {
+        "message": "This is Dollie Dunwich, who was charged with the murder of the above four people."
+    },
+    {
+        "message": "The Dunwich family is one of the most prominent families in the village, and the defendant Dollie was a highly respected figure who also served as president of Miskatonic University."
+    },
+    {
+        "name": "Thomas",
+        "message": "That's so damn long......"
+    },
+    {
+        "message": "　　　　　　I'm so bored I feel like I could fall asleep."
+    },
+    {
+        "name": "Gardner",
+        "message": "Skip ahead a bit and read the part about the case."
+    },
+    {
+        "name": "Jonathan",
+        "message": "‥‥‥‥‥‥‥‥‥"
+    },
+    {
+        "message": "Dollie's mother, Eva, was in the kitchen, and his wife, Jean, was in the basement—both of them had their heads blown off at close range with a shotgun. Since burn marks and a lot of gunpowder residue were found on the back of Eva's head and Jean's forehead, it's clear that Dollie shot them both from really close up."
+    },
+    {
+        "message": "The two daughters, Lorina and Hannah, were killed with a heavy, sharp blade. Especially Lorina—after both her arms and legs were cut off, she was given a deep chest wound that seems to be the direct cause of death."
+    },
+    {
+        "message": "Hannah was the only one found more or less intact. Looks like she was attacked while sleeping in the children's room, and probably died from a single blow to the chest."
+    },
+    {
+        "message": "Also, since an axe covered in lots of blood was found in the living room on the first floor of the Dunwich Mansion, it's suspected that this axe was the murder weapon that killed the two daughters."
+    },
+    {
+        "name": "Cordelia",
+        "message": "That's awful.........."
+    },
+    {
+        "message": "　　　　　　　　To even do something like that to his own, real daughters......"
+    },
+    {
+        "name": "Thomas",
+        "message": "Even I get the chills from this."
+    },
+    {
+        "message": "　　　　　　When you live in London, you stop getting surprised by most things, you know."
+    },
+    {
+        "message": "Dollie Dunwich was found dead in the first floor study, her head blown out with a small caliber pistol."
+    },
+    {
+        "message": "A pistol was gripped in the right hand, and ballistic tests confirmed that the bullet extracted from inside Dollie's skull had been fired from the same pistol."
+    },
+    {
+        "message": "From all of the above, it is believed that Dollie, for some reason having suffered a mental breakdown, killed all of her family members inside the mansion, and then shot herself in the head and committed suicide, and this court also concluded as such."
+    },
+    {
+        "message": "被告ドルリイ・ダニッジの行為には当然のごとく極刑に値するが、被告がすでに故人であるために求刑はされず、当法廷は以上４人の殺人が、ドルリイの手によるものであるという事実確認にのみ従事し、以上の結論をもって閉廷された。"
+    },
+    {
+        "name": "Gardner",
+        "message": "What a messed up case this is."
+    },
+    {
+        "message": "　　　　　　　　I finally understood what the old man Marsh was saying."
+    },
+    {
+        "name": "Gardner",
+        "message": "After an incident like this, it's understandable that the word 'Innsmouth' would become taboo."
+    },
+    {
+        "name": "Jonathan",
+        "message": "But...... this case law book doesn't say why Dollie killed her whole family."
+    },
+    {
+        "name": "Thomas",
+        "message": "That’s not true, is it？"
+    },
+    {
+        "message": "　　　　　　Didn't it say he went insane?"
+    },
+    {
+        "name": "Jonathan",
+        "message": "それはどうもいただけない。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Isn’t it way too easy to just brush off his incomprehensible actions as insanity?"
+    },
+    {
+        "name": "Gardner",
+        "message": "That's true, but..."
+    },
+    {
+        "name": "Gardner",
+        "message": "There's probably no way to find out anymore."
+    },
+    {
+        "message": "　　　　　　　　まさかダニッジの墓を掘り返す訳にもいくまい？"
+    },
+    {
+        "name": "Jonathan",
+        "message": "Don’t you think we need to look into Dunwich a little more?"
+    },
+    {
+        "name": "Gardner",
+        "message": "Isn't there something like a gentlemen's directory for the village?"
+    },
+    {
+        "message": "　　　　　　　　ダニッジ家は村で屈指の名家だそうじゃないか。"
+    },
+    {
+        "name": "Jonathan",
+        "message": "きっと何かがあるでしょう。"
+    },
+    {
+        "message": "『Arkham's Industries』"
+    },
+    {
+        "message": "Published in 1890"
+    },
+    {
+        "message": "It kinda sounds like the title of a pamphlet the town hall's PR department would make. Feels more like a book for promoting the village than an actual record."
+    },
+    {
+        "message": "『Records of Public Works from 1850 to 1900』"
+    },
+    {
+        "message": "Published in 1901"
+    },
+    {
+        "message": "Just how many public works have actually been done in this village？"
+    },
+    {
+        "message": "There's never been a book as useless as this."
+    },
+    {
+        "message": "Go back to the archive"
+    }
+]
