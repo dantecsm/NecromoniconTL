@@ -58,6 +58,15 @@ function createTranslationMap(
 }
 
 /**
+ * Escape special characters in RKT string literals
+ * Handles double quotes and backslashes
+ */
+function escapeRktString(text: string): string {
+    // Escape backslashes first, then escape double quotes
+    return text.replace(/\\/g, '\\\\').replace(/"/g, '\\"');
+}
+
+/**
  * Replace Japanese text with English text in RKT content
  * Also changes function name from 'text' to 'str'
  */
@@ -72,12 +81,14 @@ function replaceTextInRkt(
         (match, japaneseText) => {
             const englishText = translationMap.get(japaneseText);
             if (englishText !== undefined) {
+                // Escape special characters in the English text
+                const escapedText = escapeRktString(englishText);
                 // Preserve the 'br if it was in the original
                 // Change function name from 'text' to 'str'
                 if (match.includes("'br")) {
-                    return `(str "${englishText}" 'br)`;
+                    return `(str "${escapedText}" 'br)`;
                 }
-                return `(str "${englishText}")`;
+                return `(str "${escapedText}")`;
             }
             // No translation found, keep original
             return match;
