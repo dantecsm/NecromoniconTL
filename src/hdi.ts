@@ -10,11 +10,6 @@ import path from "path";
 // Note: This is a CommonJS module, requires dynamic import
 let FatImage: any;
 
-async function main() {
-    await importDirectoryToHdi('./data/EN MES/', './Necronomicon(EN).hdi');
-}
-main();
-
 /**
  * Initialize FatImage module
  */
@@ -132,4 +127,12 @@ export async function importDirectoryToHdi(
     if (failCount > 0) {
         throw new Error(`${failCount} files failed to import`);
     }
+}
+
+async function main() {
+    await importDirectoryToHdi('./data/EN MES/', './Necronomicon(EN).hdi');
+}
+// Run if executed directly
+if (import.meta.main) {
+    main();
 }

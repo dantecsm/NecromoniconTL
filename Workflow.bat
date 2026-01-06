@@ -80,7 +80,7 @@ echo ========================================
 echo   Extracting Japanese Text
 echo ========================================
 echo.
-bun start e
+bun src/extract.ts
 echo.
 pause
 goto menu
