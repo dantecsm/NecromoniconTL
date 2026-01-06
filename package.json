@@ -11,5 +11,8 @@
   },
   "dependencies": {
     "iconv-lite": "^0.7.1"
+  },
+  "scripts": {
+    "all": "bun src/insert.ts && bun src/compile.ts && bun src/hdi.ts"
   }
 }

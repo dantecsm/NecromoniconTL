@@ -42,15 +42,7 @@ echo ========================================
 echo   Decompiling Japanese MES Files
 echo ========================================
 echo.
-"%~dp0src\utils\juice.exe" --engine ADV --extraop -df "%~dp0data\JP MES\*.MES"
-REM Move .MES.rkt files from data/JP MES/ to data/JP RKT/ and rename to .rkt
-if not exist "%~dp0data\JP RKT" mkdir "%~dp0data\JP RKT"
-for %%f in ("%~dp0data\JP MES\*.MES.rkt") do (
-    set "filename=%%~nf"
-    set "basename=!filename:~0,-4!"
-    move "%%f" "%~dp0data\JP RKT\!basename!.rkt" >nul
-)
-echo Moved and renamed .MES.rkt files to data/JP RKT/
+bun src/decompile.ts
 echo.
 pause
 goto menu
@@ -61,15 +53,7 @@ echo ========================================
 echo   Compiling English MES Files
 echo ========================================
 echo.
-"%~dp0src\utils\juice.exe" --engine ADV --extraop -cf "%~dp0data\EN RKT\*.rkt"
-REM Move .rkt.mes files from data/EN RKT/ to data/EN MES/ and rename to .MES
-if not exist "%~dp0data\EN MES" mkdir "%~dp0data\EN MES"
-for %%f in ("%~dp0data\EN RKT\*.rkt.mes") do (
-    set "filename=%%~nf"
-    set "basename=!filename:~0,-4!"
-    move "%%f" "%~dp0data\EN MES\!basename!.MES" >nul
-)
-echo Moved and renamed .rkt.mes files to data/EN MES/
+bun src/compile.ts
 echo.
 pause
 goto menu
