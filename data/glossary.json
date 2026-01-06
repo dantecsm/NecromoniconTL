@@ -1,0 +1,882 @@
+[
+  {
+    "src": "ジョナサン",
+    "dst": "Jonathan",
+    "info": "Male name, main protagonist"
+  },
+  {
+    "src": "コーデリア",
+    "dst": "Cordelia",
+    "info": "Female name, main heroine"
+  },
+  {
+    "src": "トマス",
+    "dst": "Thomas",
+    "info": "Male name"
+  },
+  {
+    "src": "ガードナー",
+    "dst": "Gardner",
+    "info": "Surname"
+  },
+  {
+    "src": "ハドスン夫人",
+    "dst": "Mrs. Hudson",
+    "info": "Female name"
+  },
+  {
+    "src": "マーシュ",
+    "dst": "Marsh",
+    "info": "Surname, antagonist"
+  },
+  {
+    "src": "ナイ",
+    "dst": "Nai",
+    "info": "Name"
+  },
+  {
+    "src": "メーベル",
+    "dst": "Mabel",
+    "info": "Female name"
+  },
+  {
+    "src": "リュション",
+    "dst": "Lushion",
+    "info": "Name"
+  },
+  {
+    "src": "ドルリイ",
+    "dst": "Dollie",
+    "info": "Name"
+  },
+  {
+    "src": "スウ",
+    "dst": "Sue",
+    "info": "Female name"
+  },
+  {
+    "src": "サラ",
+    "dst": "Sarah",
+    "info": "Female name"
+  },
+  {
+    "src": "メアリ",
+    "dst": "Mary",
+    "info": "Female name"
+  },
+  {
+    "src": "ハンス",
+    "dst": "Hans",
+    "info": "Male name"
+  },
+  {
+    "src": "マダム",
+    "dst": "Madam",
+    "info": "Title"
+  },
+  {
+    "src": "ピエトロ",
+    "dst": "Pietro",
+    "info": "Male name"
+  },
+  {
+    "src": "フィリップ",
+    "dst": "Philip",
+    "info": "Male name"
+  },
+  {
+    "src": "男の声",
+    "dst": "Male voice",
+    "info": "opening scene"
+  },
+  {
+    "src": "ハドスン",
+    "dst": "Hudson",
+    "info": "Surname"
+  },
+  {
+    "src": "バーテン",
+    "dst": "Bartender",
+    "info": ""
+  },
+  {
+    "src": "ドロシー",
+    "dst": "Dorothy",
+    "info": "Female name"
+  },
+  {
+    "src": "修道女",
+    "dst": "Nun",
+    "info": ""
+  },
+  {
+    "src": "アンジェリカ",
+    "dst": "Angelica",
+    "info": "Female name"
+  },
+  {
+    "src": "マリア",
+    "dst": "Maria",
+    "info": "Female name"
+  },
+  {
+    "src": "スゥイフト",
+    "dst": "Swift",
+    "info": "Surname"
+  },
+  {
+    "src": "若い男",
+    "dst": "Young man",
+    "info": ""
+  },
+  {
+    "src": "女の声",
+    "dst": "Female voice",
+    "info": "opening scene"
+  },
+  {
+    "src": "ハンナ",
+    "dst": "Hannah",
+    "info": "Female name"
+  },
+  {
+    "src": "コティ",
+    "dst": "Koty",
+    "info": "Name"
+  },
+  {
+    "src": "ジーン",
+    "dst": "Jean",
+    "info": "Name"
+  },
+  {
+    "src": "黒人の神父",
+    "dst": "Black priest",
+    "info": ""
+  },
+  {
+    "src": "ロリーナ",
+    "dst": "Lorina",
+    "info": "Female name"
+  },
+  {
+    "src": "エヴァ",
+    "dst": "Eva",
+    "info": "Female name"
+  },
+  {
+    "src": "つながれた女",
+    "dst": "Chained woman",
+    "info": "opening scene"
+  },
+  {
+    "src": "信者の女",
+    "dst": "Female believer",
+    "info": ""
+  },
+  {
+    "src": "ハーバート",
+    "dst": "Herbert",
+    "info": "Male name"
+  },
+  {
+    "src": "ウェスト",
+    "dst": "West",
+    "info": "Surname"
+  },
+  {
+    "src": "漁色家",
+    "dst": "Fisherman",
+    "info": ""
+  },
+  {
+    "src": "ンガイ",
+    "dst": "Ngai",
+    "info": "Name"
+  },
+  {
+    "src": "信者の男",
+    "dst": "Male believer",
+    "info": ""
+  },
+  {
+    "src": "ウエスト",
+    "dst": "West",
+    "info": "Surname"
+  },
+  {
+    "src": "シェイクスピア",
+    "dst": "Shakespeare",
+    "info": "Surname"
+  },
+  {
+    "src": "ジョゼフ",
+    "dst": "Joseph",
+    "info": "Male name"
+  },
+  {
+    "src": "老人",
+    "dst": "Old man",
+    "info": ""
+  },
+  {
+    "src": "ダニッジ",
+    "dst": "Dunwich",
+    "info": "Location/Surname"
+  },
+  {
+    "src": "ダニッジ家",
+    "dst": "Dunwich family",
+    "info": "family surname"
+  },
+  {
+    "src": "ダゴン",
+    "dst": "Dagon",
+    "info": "Deity name"
+  },
+  {
+    "src": "ダゴン教団",
+    "dst": "Dagon Cult",
+    "info": "Organization"
+  },
+  {
+    "src": "ミスカトニック大学",
+    "dst": "Miskatonic University",
+    "info": "Organization"
+  },
+  {
+    "src": "秘密結社",
+    "dst": "Secret society",
+    "info": "Organization"
+  },
+  {
+    "src": "クトゥルー",
+    "dst": "Cthulhu",
+    "info": "Deity name"
+  },
+  {
+    "src": "フリーメイスン",
+    "dst": "Freemason",
+    "info": "Organization"
+  },
+  {
+    "src": "東洋人",
+    "dst": "Oriental",
+    "info": ""
+  },
+  {
+    "src": "ミスカトニック裁判所",
+    "dst": "Miskatonic Court",
+    "info": "Organization"
+  },
+  {
+    "src": "ショゴク",
+    "dst": "Shoggoth",
+    "info": "Creature"
+  },
+  {
+    "src": "キリスト教",
+    "dst": "Christianity",
+    "info": "Religion"
+  },
+  {
+    "src": "英国国教会",
+    "dst": "Church of England",
+    "info": "Organization"
+  },
+  {
+    "src": "英国人",
+    "dst": "British",
+    "info": ""
+  },
+  {
+    "src": "東洋",
+    "dst": "Orient",
+    "info": "Location"
+  },
+  {
+    "src": "インディアン",
+    "dst": "Indian",
+    "info": ""
+  },
+  {
+    "src": "アーカム",
+    "dst": "Arkham",
+    "info": "Location"
+  },
+  {
+    "src": "遺跡",
+    "dst": "Ruins",
+    "info": "Location"
+  },
+  {
+    "src": "魚鱗亭",
+    "dst": "Fish Scale Inn",
+    "info": "Location, Inn"
+  },
+  {
+    "src": "修道院",
+    "dst": "Monastery",
+    "info": "Location"
+  },
+  {
+    "src": "教会",
+    "dst": "Church",
+    "info": "Location"
+  },
+  {
+    "src": "ギルマンハウス",
+    "dst": "Gilman House",
+    "info": "Location"
+  },
+  {
+    "src": "パブ",
+    "dst": "Pub",
+    "info": "Location"
+  },
+  {
+    "src": "屋敷",
+    "dst": "Mansion",
+    "info": "Location"
+  },
+  {
+    "src": "地下室",
+    "dst": "Basement",
+    "info": "Location"
+  },
+  {
+    "src": "ダニッジ邸",
+    "dst": "Dunwitch Mansion",
+    "info": "Location"
+  },
+  {
+    "src": "資料館",
+    "dst": "Archives",
+    "info": "Location"
+  },
+  {
+    "src": "ロンドン",
+    "dst": "London",
+    "info": "Location"
+  },
+  {
+    "src": "インスマウス",
+    "dst": "Innsmouth",
+    "info": "Location"
+  },
+  {
+    "src": "娼館",
+    "dst": "Brothel",
+    "info": "Location"
+  },
+  {
+    "src": "雑貨店",
+    "dst": "General store",
+    "info": "Location"
+  },
+  {
+    "src": "書斎",
+    "dst": "Study",
+    "info": "Location"
+  },
+  {
+    "src": "カウンター",
+    "dst": "Counter",
+    "info": "Location"
+  },
+  {
+    "src": "精錬所",
+    "dst": "Refinery",
+    "info": "Location"
+  },
+  {
+    "src": "実験室",
+    "dst": "Laboratory",
+    "info": "Location"
+  },
+  {
+    "src": "ダゴンの教会",
+    "dst": "Church of Dagon",
+    "info": "Location"
+  },
+  {
+    "src": "吊り橋",
+    "dst": "Suspension bridge",
+    "info": "Location"
+  },
+  {
+    "src": "酒場",
+    "dst": "Tavern",
+    "info": "Location"
+  },
+  {
+    "src": "神殿",
+    "dst": "Temple",
+    "info": "Location"
+  },
+  {
+    "src": "セイラム",
+    "dst": "Salem",
+    "info": "Location"
+  },
+  {
+    "src": "暖炉",
+    "dst": "Fireplace",
+    "info": "Location"
+  },
+  {
+    "src": "ガス灯",
+    "dst": "Gas lamp",
+    "info": "Location"
+  },
+  {
+    "src": "玄関ホール",
+    "dst": "Entrance hall",
+    "info": "Location"
+  },
+  {
+    "src": "英国",
+    "dst": "England",
+    "info": "Location"
+  },
+  {
+    "src": "ミスカトニック修道院",
+    "dst": "Miskatonic Monastery",
+    "info": "Location"
+  },
+  {
+    "src": "メインストリート",
+    "dst": "Main Street",
+    "info": "Location"
+  },
+  {
+    "src": "丘陵",
+    "dst": "Hills",
+    "info": "Location"
+  },
+  {
+    "src": "大聖堂",
+    "dst": "Cathedral",
+    "info": "Location"
+  },
+  {
+    "src": "小屋",
+    "dst": "Hut",
+    "info": "Location"
+  },
+  {
+    "src": "ショーウインドー",
+    "dst": "Show window",
+    "info": "Location"
+  },
+  {
+    "src": "イギリス",
+    "dst": "Britain",
+    "info": "Location"
+  },
+  {
+    "src": "ギリシア",
+    "dst": "Greece",
+    "info": "Location"
+  },
+  {
+    "src": "ファイルキャビネット",
+    "dst": "Filing cabinet",
+    "info": "Location"
+  },
+  {
+    "src": "大ブリテン島",
+    "dst": "Great Britain",
+    "info": "Location"
+  },
+  {
+    "src": "納骨堂",
+    "dst": "Ossuary",
+    "info": "Location"
+  },
+  {
+    "src": "オックスフォード",
+    "dst": "Oxford",
+    "info": "Location"
+  },
+  {
+    "src": "クローゼット",
+    "dst": "Closet",
+    "info": "Location"
+  },
+  {
+    "src": "ウェールズ",
+    "dst": "Wales",
+    "info": "Location"
+  },
+  {
+    "src": "アーカム村",
+    "dst": "Arkham Village",
+    "info": "Location"
+  },
+  {
+    "src": "鐘楼塔",
+    "dst": "Bell tower",
+    "info": "Location"
+  },
+  {
+    "src": "礼拝堂",
+    "dst": "Chapel",
+    "info": "Location"
+  },
+  {
+    "src": "地中海",
+    "dst": "Mediterranean",
+    "info": "Location"
+  },
+  {
+    "src": "ベッド",
+    "dst": "Bed",
+    "info": "Item"
+  },
+  {
+    "src": "ネクロノミコン",
+    "dst": "Necronomicon",
+    "info": "Item, book"
+  },
+  {
+    "src": "指輪",
+    "dst": "Ring",
+    "info": "Item"
+  },
+  {
+    "src": "シーツ",
+    "dst": "Sheet",
+    "info": "Item"
+  },
+  {
+    "src": "テーブル",
+    "dst": "Table",
+    "info": "Item"
+  },
+  {
+    "src": "下着",
+    "dst": "Underwear",
+    "info": "Item"
+  },
+  {
+    "src": "墓石",
+    "dst": "Gravestone",
+    "info": "Item"
+  },
+  {
+    "src": "地図",
+    "dst": "Map",
+    "info": "Item"
+  },
+  {
+    "src": "金庫",
+    "dst": "Safe",
+    "info": "Item"
+  },
+  {
+    "src": "列車",
+    "dst": "Train",
+    "info": "Item"
+  },
+  {
+    "src": "失われた鍵",
+    "dst": "Lost key",
+    "info": "Item"
+  },
+  {
+    "src": "人形",
+    "dst": "Doll",
+    "info": "Item"
+  },
+  {
+    "src": "グラス",
+    "dst": "Glass",
+    "info": "Item"
+  },
+  {
+    "src": "判例集",
+    "dst": "Case law book",
+    "info": "Item"
+  },
+  {
+    "src": "アルコール",
+    "dst": "Alcohol",
+    "info": "Item"
+  },
+  {
+    "src": "カーテン",
+    "dst": "Curtain",
+    "info": "Item"
+  },
+  {
+    "src": "腕輪",
+    "dst": "Armlet",
+    "info": "Item"
+  },
+  {
+    "src": "ステンドグラス",
+    "dst": "Stained glass",
+    "info": "Item"
+  },
+  {
+    "src": "レリーフ",
+    "dst": "Relief",
+    "info": "Item"
+  },
+  {
+    "src": "実験器具",
+    "dst": "Experimental equipment",
+    "info": "Item"
+  },
+  {
+    "src": "手枷",
+    "dst": "Handcuffs",
+    "info": "Item"
+  },
+  {
+    "src": "安酒",
+    "dst": "Cheap liquor",
+    "info": "Item"
+  },
+  {
+    "src": "ガラス瓶",
+    "dst": "Glass bottle",
+    "info": "Item"
+  },
+  {
+    "src": "ボトル",
+    "dst": "Bottle",
+    "info": "Item"
+  },
+  {
+    "src": "十字架",
+    "dst": "Cross",
+    "info": "Item"
+  },
+  {
+    "src": "刃物",
+    "dst": "Blade",
+    "info": "Item"
+  },
+  {
+    "src": "インデックスカード",
+    "dst": "Index card",
+    "info": "Item"
+  },
+  {
+    "src": "マントルピース",
+    "dst": "Mantelpiece",
+    "info": "Item"
+  },
+  {
+    "src": "ストゥール",
+    "dst": "Stool",
+    "info": "Item"
+  },
+  {
+    "src": "オルガン",
+    "dst": "Organ",
+    "info": "Item"
+  },
+  {
+    "src": "ショーツ",
+    "dst": "Shorts",
+    "info": "Item"
+  },
+  {
+    "src": "ランプ",
+    "dst": "Lamp",
+    "info": "Item"
+  },
+  {
+    "src": "ガウン",
+    "dst": "Gown",
+    "info": "Item"
+  },
+  {
+    "src": "金塊",
+    "dst": "Gold bar",
+    "info": "Item"
+  },
+  {
+    "src": "パイプオルガン",
+    "dst": "Pipe organ",
+    "info": "Item"
+  },
+  {
+    "src": "ビーカー",
+    "dst": "Beaker",
+    "info": "Item"
+  },
+  {
+    "src": "金の腕輪",
+    "dst": "Gold armlet",
+    "info": "Item"
+  },
+  {
+    "src": "スープ",
+    "dst": "Soup",
+    "info": "Item"
+  },
+  {
+    "src": "渡り板",
+    "dst": "Plank",
+    "info": "Item"
+  },
+  {
+    "src": "陶磁器",
+    "dst": "Ceramics",
+    "info": "Item"
+  },
+  {
+    "src": "煉瓦敷",
+    "dst": "Brick pavement",
+    "info": "Item"
+  },
+  {
+    "src": "ボタン",
+    "dst": "Button",
+    "info": "Item"
+  },
+  {
+    "src": "ラム",
+    "dst": "Rum",
+    "info": "Item"
+  },
+  {
+    "src": "酒瓶",
+    "dst": "Wine bottle",
+    "info": "Item"
+  },
+  {
+    "src": "煙草",
+    "dst": "Tobacco",
+    "info": "Item"
+  },
+  {
+    "src": "短銃",
+    "dst": "Pistol",
+    "info": "Item"
+  },
+  {
+    "src": "とうもろこし",
+    "dst": "Corn",
+    "info": "Item"
+  },
+  {
+    "src": "コルセット",
+    "dst": "Corset",
+    "info": "Item"
+  },
+  {
+    "src": "キリスト像",
+    "dst": "Christ statue",
+    "info": "Item"
+  },
+  {
+    "src": "フラスコ",
+    "dst": "Flask",
+    "info": "Item"
+  },
+  {
+    "src": "ワイン",
+    "dst": "Wine",
+    "info": "Item"
+  },
+  {
+    "src": "羊皮紙",
+    "dst": "Parchment",
+    "info": "Item"
+  },
+  {
+    "src": "洗礼盤",
+    "dst": "Baptismal font",
+    "info": "Item"
+  },
+  {
+    "src": "エール",
+    "dst": "Ale",
+    "info": "Item"
+  },
+  {
+    "src": "ジン",
+    "dst": "Gin",
+    "info": "Item"
+  },
+  {
+    "src": "麻袋",
+    "dst": "Sack",
+    "info": "Item"
+  },
+  {
+    "src": "宝石",
+    "dst": "Gem",
+    "info": "Item"
+  },
+  {
+    "src": "貝殻",
+    "dst": "Seashell",
+    "info": "Item"
+  },
+  {
+    "src": "足枷",
+    "dst": "Leg irons",
+    "info": "Item"
+  },
+  {
+    "src": "深きもの",
+    "dst": "Deep One",
+    "info": "Creature, Lovecraftian"
+  },
+  {
+    "src": "黒い影",
+    "dst": "Black shadow",
+    "info": ""
+  },
+  {
+    "src": "蠢く怨念",
+    "dst": "Writhing grudge",
+    "info": ""
+  },
+  {
+    "src": "戯れる指",
+    "dst": "Playful fingers",
+    "info": ""
+  },
+  {
+    "src": "ダゴンの調べ",
+    "dst": "Investigation of Dagon",
+    "info": ""
+  },
+  {
+    "src": "ダニッジの呪い",
+    "dst": "Curse of Dunwitch",
+    "info": ""
+  },
+  {
+    "src": "焦燥の時",
+    "dst": "Time of anxiety",
+    "info": ""
+  },
+  {
+    "src": "雪化粧",
+    "dst": "Snowy makeup",
+    "info": ""
+  },
+  {
+    "src": "破滅への道",
+    "dst": "Road to ruin",
+    "info": ""
+  },
+  {
+    "src": "悪魔の交わり",
+    "dst": "Devil's intercourse",
+    "info": ""
+  },
+  {
+    "src": "寂れた漁村",
+    "dst": "Deserted fishing village",
+    "info": ""
+  }
+]
