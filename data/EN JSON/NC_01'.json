@@ -63,14 +63,14 @@
         "message": "That's when it happened. An old man appeared before me."
     },
     {
-        "message": "The old man seemed quite advanced in age. His face was covered in deeply carved wrinkles, and his receding forehead was marked with age spots unique to the elderly. His clothes were way too light for this season—it made me feel cold just looking at him."
+        "message": "The old man seemed quite advanced in age. His face was covered in deeply carved wrinkles, and his receding forehead was marked with age spots unique to the elderly. His clothes were way too light for this season-it made me feel cold just looking at him."
     },
     {
         "name": "Old man",
         "message": "You folks... what're you doing over there？"
     },
     {
-        "message": "The old man said this in a voice as thin as a mosquito's buzz. Maybe he was a fisherman in the past—his red face was just what you'd expect from someone who's spent years in the sea breeze. Even though he was totally worn down now, you could just barely catch a glimpse of the muscle he must've had back in his prime."
+        "message": "The old man said this in a voice as thin as a mosquito's buzz. Maybe he was a fisherman in the past-his red face was just what you'd expect from someone who's spent years in the sea breeze. Even though he was totally worn down now, you could just barely catch a glimpse of the muscle he must've had back in his prime."
     },
     {
         "name": "Old man",
@@ -110,7 +110,7 @@
         "message": "Looks kind of like a person, and kind of like a fish. Maybe it's some sorta mermaid or whatever. But no matter how you look, that's definitely a dude."
     },
     {
-        "message": "As for me, when it comes to stuff like this, I've got about as much knowledge as Thomas—pretty much none. I have no idea what this picture is supposed to mean."
+        "message": "As for me, when it comes to stuff like this, I've got about as much knowledge as Thomas-pretty much none. I have no idea what this picture is supposed to mean."
     },
     {
         "name": "Thomas",
@@ -142,7 +142,7 @@
         "message": "Thomas looks like he just can't accept it."
     },
     {
-        "message": "For Thomas, who is clearly a total outsider to this kind of stuff, to go after an expert like Gardner—it's pretty damn rude, but..."
+        "message": "For Thomas, who is clearly a total outsider to this kind of stuff, to go after an expert like Gardner-it's pretty damn rude, but..."
     },
     {
         "name": "Thomas",
@@ -153,7 +153,7 @@
     },
     {
         "name": "Gardner",
-        "message": "Just because it's a god that promises a big catch doesn't mean that's why they worshipped it. Maybe they were afraid of something—like, to prevent being cursed, you know? There could be all kinds of reasons."
+        "message": "Just because it's a god that promises a big catch doesn't mean that's why they worshipped it. Maybe they were afraid of something-like, to prevent being cursed, you know? There could be all kinds of reasons."
     },
     {
         "name": "Jonathan",
@@ -343,7 +343,7 @@
     },
     {
         "name": "Thomas",
-        "message": "If you put it that way, then probably all the villagers except you and us know a lot about this junk. That old guy’s the same—they just won’t talk, y’know?"
+        "message": "If you put it that way, then probably all the villagers except you and us know a lot about this junk. That old guy’s the same-they just won’t talk, y’know?"
     },
     {
         "name": "Gardner",

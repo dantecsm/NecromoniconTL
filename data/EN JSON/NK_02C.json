@@ -3,7 +3,7 @@
         "message": "It's the hallway that leads to the room on the second floor."
     },
     {
-        "message": "築１００年以上を経た屋敷は、一歩足を踏み出すたびにぎしぎしと音を立てて背筋を寒くさせる。"
+        "message": "The mansion, built over a century ago, creaks and groans with every step I take, sending chills down my spine."
     },
     {
         "name": "Cordelia",
@@ -22,23 +22,23 @@
         "message": "The second-floor hallway, with not a single window, didn't even get a sliver of moonlight, and even just walking normally demanded a lot of caution."
     },
     {
-        "message": "造られてから１００年はゆうに経過しているであろう木の廊下は、私が一歩踏み出すたびにギシギシと不快な音を発して、いつ抜けるかもしれないという恐怖感を覚えさせる。"
+        "message": "The wooden hallway, which must be well over 100 years old, creaks and makes unpleasant sounds with every step I take, making me feel like it could collapse at any moment."
     },
     {
-        "message": "やはりひとりで来たのは失敗だったろうか。"
+        "message": "Maybe coming here alone was a mistake."
     },
     {
         "message": "It's not like I actually believe in ghosts or anything..."
     },
     {
-        "message": "ダニッジ邸の二階の廊下だ。"
+        "message": "This is the second-floor hallway of the Danidge Mansion."
     },
     {
         "message": "There are two doors on either side, and it's too dark further in to make out anything."
     },
     {
         "name": "Jonathan",
-        "message": "床が抜けるかもしれない、静かに歩いてくれよ。"
+        "message": "The floor might give way, so walk quietly."
     },
     {
         "message": "　　　　　　　　After all, it's an old building......"
@@ -64,7 +64,7 @@
     },
     {
         "name": "Jonathan",
-        "message": "Move a little further away, I can't walk properly like this.　　　　　　　 It's dark enough as it is..."
+        "message": "Move a little further away, I can't walk properly like this.　　　　　　　It's dark enough as it is..."
     },
     {
         "name": "Cordelia",
@@ -83,7 +83,7 @@
         "message": "This floor was built over a hundred years ago, so it wouldn't be weird if it caved in at any time."
     },
     {
-        "message": "The places that look kinda blackened—are the floorboards rotting, or is it leftovers from that incident..."
+        "message": "The places that look kinda blackened--are the floorboards rotting, or is it leftovers from that incident..."
     },
     {
         "message": "Maybe it's because there aren't any windows for dust to get in, it's not as dirty as the entrance hall."
@@ -113,7 +113,7 @@
         "message": "Since there are two doors right in front of me, I think I should start by checking them out..."
     },
     {
-        "message": "ほとんど明かりがない為に、奥の方は何があるのかよく解らない。"
+        "message": "There's barely any light, so I can't tell what's in the back."
     },
     {
         "message": "If the living room and study are on the first floor, then the master bedroom for Dollie and her husband, and their daughters' rooms, should have been on this second floor."
@@ -191,7 +191,7 @@
         "message": "Looks like just an ordinary room door."
     },
     {
-        "message": "二階の日当たりの良さそうな向きにある事を考えると、ドルリイのふたりの娘、ロリーナかハンナの部屋である可能性が高い。"
+        "message": "Considering it's on the sunny side of the second floor, there's a high probability this is the room of one of Dollie's two daughters, Lorina or Hannah."
     },
     {
         "message": "Both daughters were killed by the axe swung down by their father, right?"

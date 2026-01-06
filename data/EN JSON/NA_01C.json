@@ -4,7 +4,7 @@
         "message": "Hey, kid. In this weather, no one's gonna come all the way out just to eat, right? This isn't the only open table, is it? Why don't you move somewhere else?"
     },
     {
-        "message": "Gardner is talking to the tall, sturdy man sitting next to the table. But the vibe doesn't feel very friendly—in fact, it seems kinda hostile."
+        "message": "Gardner is talking to the tall, sturdy man sitting next to the table. But the vibe doesn't feel very friendly-in fact, it seems kinda hostile."
     },
     {
         "message": "Tonight, the only ones staying at the Fish Scale Inn are me, Gardner, and a guy named Thomas. So this must be Thomas."
@@ -117,7 +117,7 @@
         "message": "From the looks of it, there's no rare metals or fancy gems on it at all. In other words, it's not really an expensive piece."
     },
     {
-        "message": "For someone like him—the kind you'd imagine wants to show off his status and current financial situation to others—to wear such a worthless piece of jewelry, there must be some kind of serious reason behind it."
+        "message": "For someone like him-the kind you'd imagine wants to show off his status and current financial situation to others-to wear such a worthless piece of jewelry, there must be some kind of serious reason behind it."
     },
     {
         "message": "When Thomas noticed that I had quickly spotted his ring, he curled his fingers to hide it. When I subtly glanced over at Gardner, he nodded knowingly."
@@ -241,7 +241,7 @@
     },
     {
         "name": "Gardner",
-        "message": "You probably wouldn’t understand if I started talking academically. To put it simply, it's a general term for ruins built with stone structures that show off advanced architectural techniques—stuff that would’ve been totally impossible with the technology back then."
+        "message": "You probably wouldn’t understand if I started talking academically. To put it simply, it's a general term for ruins built with stone structures that show off advanced architectural techniques-stuff that would’ve been totally impossible with the technology back then."
     },
     {
         "name": "Thomas",

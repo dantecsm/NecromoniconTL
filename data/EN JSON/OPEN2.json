@@ -33,7 +33,7 @@
         "message": "It's not like I want status or fame, and if you call it carefree, maybe there's no way of living more selfish than this."
     },
     {
-        "message": "The reason I'm sitting here in this car right now is just my usual whim—I got sick of clinging to my desk in London with the east wind blowing, so I figured I'd take a reporting trip while on vacation."
+        "message": "The reason I'm sitting here in this car right now is just my usual whim-I got sick of clinging to my desk in London with the east wind blowing, so I figured I'd take a reporting trip while on vacation."
     },
     {
         "message": "とは言え、今回の旅に全く目的が無かった訳ではない。"
@@ -72,7 +72,7 @@
         "message": "When I think about it that way, even the boring, torturous train journey doesn't seem all that tough. The train will probably arrive at the station I'm heading for any minute now."
     },
     {
-        "message": "I just hope this isn't some cliché runaway drama or anything like that."
+        "message": "I just hope this isn't some cliche runaway drama or anything like that."
     },
     {
         "message": "I took my first step toward Arkham. For now, the nearest train station to Arkham is none other than this Salem. From here on, whether I sort out a car or walk, I've got to figure things out on my own somehow."
@@ -84,7 +84,7 @@
         "message": "It's as if that train is the last link to civilized society, like a ship leaving an uninhabited island with only me left behind. I don't feel too great, like a castaway who's been abandoned. That's the kind of impression this station gives me."
     },
     {
-        "message": "The station is one of those extremely simple structures often found in rural towns—just a slate roof covering the tracks and platform. The exposed framework feels so flimsy, it's almost unsettling."
+        "message": "The station is one of those extremely simple structures often found in rural towns-just a slate roof covering the tracks and platform. The exposed framework feels so flimsy, it's almost unsettling."
     },
     {
         "message": "The cold wind blowing from the sea slaps my bare cheeks. I feel like I'm gonna freeze."
@@ -354,7 +354,7 @@
     },
     {
         "name": "Jonathan",
-        "message": "Why don't you stay in Arkham too? Maybe tonight or tomorrow—the rain'll probably stop, right?"
+        "message": "Why don't you stay in Arkham too? Maybe tonight or tomorrow-the rain'll probably stop, right?"
     },
     {
         "name": "Driver",
@@ -544,7 +544,7 @@
     },
     {
         "name": "Jonathan",
-        "message": "From what I've been hearing, it's like you don't want me to go to Arkham at all. I'm not some kid from law school, you know—I can take care of myself, can't I？"
+        "message": "From what I've been hearing, it's like you don't want me to go to Arkham at all. I'm not some kid from law school, you know-I can take care of myself, can't I？"
     },
     {
         "name": "Station Attendant",
