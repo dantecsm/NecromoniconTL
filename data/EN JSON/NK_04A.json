@@ -1,230 +1,230 @@
 [
-    {
-        "message": "ダニッジ邸の前だ。"
-    },
-    {
-        "message": "ネクロノミコンにはさまれていた鍵を使えば、ドルリイの書斎に入る事が出来る。"
-    },
-    {
-        "message": "There's no doubt that the nightmare-like scene I saw in my dream and the story Mrs. Hudson told about her husband and child are somehow connected to the Dunwich incident."
-    },
-    {
-        "message": "All of Arkham's secrets are hidden inside Dollie's study."
-    },
-    {
-        "message": "I came to the front of the Dunwich mansion."
-    },
-    {
-        "message": "If the Necronomicon really is hidden somewhere, is Dollie's study, the one place I’ve never been inside, still the most likely spot?"
-    },
-    {
-        "message": "But to get into that room, I need to get the key..."
-    },
-    {
-        "message": "You could hide something that small anywhere. Can we really find it?"
-    },
-    {
-        "message": "I came to the Dunwich mansion."
-    },
-    {
-        "message": "It's not my first time here, and honestly, I'm getting pretty worn out."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Can't find it anywhere, huh."
-    },
-    {
-        "message": "　　　　　　　　I feel like we've already gone around all over the place..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'm starting to lose confidence bit by bit."
-    },
-    {
-        "message": "　　　　　　　　I wonder if a book called the Necronomicon really exists."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Don't get so down."
-    },
-    {
-        "message": "　　　　　　　　I wonder if there's somewhere we've overlooked."
-    },
-    {
-        "name": "Cordelia",
-        "message": "絶対にありえないと思う所にも行ってみる必要がある　　　　　　　　のかもしれないわ。"
-    },
-    {
-        "message": "I came in front of the Dunwitch Mansion."
-    },
-    {
-        "message": "If the Necronomicon really is hidden somewhere, then I guess Dollie's study, which I've never been inside before, is the most likely place."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I wonder if the Necronomicon is in the Dunwich Mansion？"
-    },
-    {
-        "message": "　　　　　　　　If that's the case, then who the hell hid it......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I wonder."
-    },
-    {
-        "message": "　　　　　　　　So it means Dollie did it, huh."
-    },
-    {
-        "name": "Cordelia",
-        "message": "どうしてドルリイがネクロノミコンを持っているの？　　　　　　　　あの人はダゴンと関係がある人だったのかしら。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "There's no way I'd know something like that."
-    },
-    {
-        "message": "　　　　　　　　Anyway, there's no point in just sitting here and thinking about it."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Can't find it anywhere, huh."
-    },
-    {
-        "message": "　　　　　　　　It feels like we've already been all over the place..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'm starting to lose confidence bit by bit."
-    },
-    {
-        "message": "　　　　　　　　I wonder if a book called the Necronomicon really exists."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Don't get so down."
-    },
-    {
-        "message": "　　　　　　　　I wonder if there's a place we've overlooked."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Maybe we need to go try places that we’d never think possible."
-    },
-    {
-        "message": "To my surprise, the old Gas lamp is still working perfectly even now."
-    },
-    {
-        "message": "Due to the sheer number of accidents, they've completely disappeared from London, but it seems like in Arkham they're still commonly used."
-    },
-    {
-        "message": "It doesn't look like it's been maintained in ages, and the glass is dirty with soot."
-    },
-    {
-        "message": "Because of that, it can’t seem to give off enough light, so it’s pretty dark around Dunwich Mansion."
-    },
-    {
-        "message": "It’s an old gas lamp."
-    },
-    {
-        "message": "Because the chance of a serious accident happening is so high, they’ve vanished from the city of London, but apparently, they’re still in use in Arkham."
-    },
-    {
-        "message": "Looks like an old gas lamp."
-    },
-    {
-        "message": "Not sure if it even works anymore, but hardly anyone comes around Dunwich Mansion since that incident happened anyway."
-    },
-    {
-        "message": "Nobody would complain even if there wasn’t any light."
-    },
-    {
-        "message": "The bigger problem, though, is that there’s a chance a serious accident could happen."
-    },
-    {
-        "message": "It doesn’t look like it’s been taken care of for a while, so maybe no one would even notice if there’s a gas leak or something."
-    },
-    {
-        "message": "There’s an old gas lamp standing here."
-    },
-    {
-        "message": "Since nobody wants to go near the Dunwich family after that horrible incident, even if the light was on, it’d probably be useless."
-    },
-    {
-        "message": "For the richest house in the village, it’s not actually all that fancy."
-    },
-    {
-        "message": "The totally ordinary door has lost its shine and looks like it’s starting to rot around the edges."
-    },
-    {
-        "message": "Maybe they're so sure that no one will break into the mansion that the front door isn't even locked."
-    },
-    {
-        "message": "I wonder if that means anything worth stealing disappeared a long time ago."
-    },
-    {
-        "message": "It looks like they're really careless with the place-the door to the mansion is left unlocked, so you can go in whenever you want."
-    },
-    {
-        "message": "This is the window to the sitting room of the Dunwitch Mansion."
-    },
-    {
-        "message": "That room should have had a portrait that looked like Dollie's father, Philip Dunwich, and some family photos, too."
-    },
-    {
-        "message": "The door to the room in the back wouldn’t open with the key I got from Marsh."
-    },
-    {
-        "message": "Most likely, that door leads to the study where Dollie ended her own life."
-    },
-    {
-        "message": "Maybe if I get inside, I’ll understand why Dollie had to kill her family."
-    },
-    {
-        "message": "This is the window to the Dunwich family's sitting room."
-    },
-    {
-        "message": "That room should have had a portrait probably of Dollie’s father, Philip Dunwich, and their family photos."
-    },
-    {
-        "message": "The shutters are left open, but since it’s dark inside the mansion, you can’t tell what’s going on in there."
-    },
-    {
-        "message": "Is it because of this mansion’s past that the place looks like an empty eye socket in a ruined house?"
-    },
-    {
-        "message": "If you carelessly look away, it feels like someone is peeking at you from over here."
-    },
-    {
-        "message": "Because of the fear, I actually can't take my eyes off."
-    },
-    {
-        "message": "Is this the attic? It's a fancy design, but it doesn't really look comfortable to live in."
-    },
-    {
-        "message": "You often see this kind of thing in hotels, but it's not really suitable for an ordinary house. Maybe it was used as a storage room or a guest room？"
-    },
-    {
-        "message": "It's an attic room that doesn't seem very comfortable to live in."
-    },
-    {
-        "message": "It was probably used as a storage room or something."
-    },
-    {
-        "message": "Apparently, the shrubbery planted in the front yard of the mansion somehow grew too large over time. Now, it covers about half the mansion."
-    },
-    {
-        "message": "The weirdly twisted branches seem to make the creepy vibe of Dunwich Mansion even worse."
-    },
-    {
-        "message": "At this rate, even if someone had business at the mansion, just seeing the outside would probably scare them off."
-    },
-    {
-        "message": "The thick, overgrown grove really seems like it's stubbornly refusing to let outsiders into Dunwich Mansion."
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "message": "I'm in front of the Dunwitch Mansion."
+  },
+  {
+    "message": "If you use the key that was tucked in the Necronomicon, you can get into Dollie's study."
+  },
+  {
+    "message": "There's no doubt that the nightmare-like scene I saw in my dream and the story Mrs. Hudson told about her husband and child are somehow connected to the Dunwich incident."
+  },
+  {
+    "message": "All of Arkham's secrets are hidden inside Dollie's study."
+  },
+  {
+    "message": "I came to the front of the Dunwich mansion."
+  },
+  {
+    "message": "If the Necronomicon really is hidden somewhere, is Dollie's study, the one place I’ve never been inside, still the most likely spot?"
+  },
+  {
+    "message": "But to get into that room, I need to get the key..."
+  },
+  {
+    "message": "You could hide something that small anywhere. Can we really find it?"
+  },
+  {
+    "message": "I came to the Dunwich mansion."
+  },
+  {
+    "message": "It's not my first time here, and honestly, I'm getting pretty worn out."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Can't find it anywhere, huh."
+  },
+  {
+    "message": "　　　　　　　　I feel like we've already gone around all over the place..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'm starting to lose confidence bit by bit."
+  },
+  {
+    "message": "　　　　　　　　I wonder if a book called the Necronomicon really exists."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Don't get so down."
+  },
+  {
+    "message": "　　　　　　　　I wonder if there's somewhere we've overlooked."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Maybe we need to try going to places that we’d absolutely never think of going to."
+  },
+  {
+    "message": "I came in front of the Dunwitch Mansion."
+  },
+  {
+    "message": "If the Necronomicon really is hidden somewhere, then I guess Dollie's study, which I've never been inside before, is the most likely place."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I wonder if the Necronomicon is in the Dunwich Mansion？"
+  },
+  {
+    "message": "　　　　　　　　If that's the case, then who the hell hid it......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I wonder."
+  },
+  {
+    "message": "　　　　　　　　So it means Dollie did it, huh."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Why does Dollie have the Necronomicon？　　　　　　　　Was she someone related to Dagon, I wonder."
+  },
+  {
+    "name": "Jonathan",
+    "message": "There's no way I'd know something like that."
+  },
+  {
+    "message": "　　　　　　　　Anyway, there's no point in just sitting here and thinking about it."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Can't find it anywhere, huh."
+  },
+  {
+    "message": "　　　　　　　　It feels like we've already been all over the place..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'm starting to lose confidence bit by bit."
+  },
+  {
+    "message": "　　　　　　　　I wonder if a book called the Necronomicon really exists."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Don't get so down."
+  },
+  {
+    "message": "　　　　　　　　I wonder if there's a place we've overlooked."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Maybe we need to go try places that we’d never think possible."
+  },
+  {
+    "message": "To my surprise, the old Gas lamp is still working perfectly even now."
+  },
+  {
+    "message": "Due to the sheer number of accidents, they've completely disappeared from London, but it seems like in Arkham they're still commonly used."
+  },
+  {
+    "message": "It doesn't look like it's been maintained in ages, and the glass is dirty with soot."
+  },
+  {
+    "message": "Because of that, it can’t seem to give off enough light, so it’s pretty dark around Dunwich Mansion."
+  },
+  {
+    "message": "It’s an old gas lamp."
+  },
+  {
+    "message": "Because the chance of a serious accident happening is so high, they’ve vanished from the city of London, but apparently, they’re still in use in Arkham."
+  },
+  {
+    "message": "Looks like an old gas lamp."
+  },
+  {
+    "message": "Not sure if it even works anymore, but hardly anyone comes around Dunwich Mansion since that incident happened anyway."
+  },
+  {
+    "message": "Nobody would complain even if there wasn’t any light."
+  },
+  {
+    "message": "The bigger problem, though, is that there’s a chance a serious accident could happen."
+  },
+  {
+    "message": "It doesn’t look like it’s been taken care of for a while, so maybe no one would even notice if there’s a gas leak or something."
+  },
+  {
+    "message": "There’s an old gas lamp standing here."
+  },
+  {
+    "message": "Since nobody wants to go near the Dunwich family after that horrible incident, even if the light was on, it’d probably be useless."
+  },
+  {
+    "message": "For the richest house in the village, it’s not actually all that fancy."
+  },
+  {
+    "message": "The totally ordinary door has lost its shine and looks like it’s starting to rot around the edges."
+  },
+  {
+    "message": "Maybe they're so sure that no one will break into the mansion that the front door isn't even locked."
+  },
+  {
+    "message": "I wonder if that means anything worth stealing disappeared a long time ago."
+  },
+  {
+    "message": "It looks like they're really careless with the place-the door to the mansion is left unlocked, so you can go in whenever you want."
+  },
+  {
+    "message": "This is the window to the sitting room of the Dunwitch Mansion."
+  },
+  {
+    "message": "That room should have had a portrait that looked like Dollie's father, Philip Dunwich, and some family photos, too."
+  },
+  {
+    "message": "The door to the room in the back wouldn’t open with the key I got from Marsh."
+  },
+  {
+    "message": "Most likely, that door leads to the study where Dollie ended her own life."
+  },
+  {
+    "message": "Maybe if I get inside, I’ll understand why Dollie had to kill her family."
+  },
+  {
+    "message": "This is the window to the Dunwich family's sitting room."
+  },
+  {
+    "message": "That room should have had a portrait probably of Dollie’s father, Philip Dunwich, and their family photos."
+  },
+  {
+    "message": "The shutters are left open, but since it’s dark inside the mansion, you can’t tell what’s going on in there."
+  },
+  {
+    "message": "Is it because of this mansion’s past that the place looks like an empty eye socket in a ruined house?"
+  },
+  {
+    "message": "If you carelessly look away, it feels like someone is peeking at you from over here."
+  },
+  {
+    "message": "Because of the fear, I actually can't take my eyes off."
+  },
+  {
+    "message": "Is this the attic? It's a fancy design, but it doesn't really look comfortable to live in."
+  },
+  {
+    "message": "You often see this kind of thing in hotels, but it's not really suitable for an ordinary house. Maybe it was used as a storage room or a guest room？"
+  },
+  {
+    "message": "It's an attic room that doesn't seem very comfortable to live in."
+  },
+  {
+    "message": "It was probably used as a storage room or something."
+  },
+  {
+    "message": "Apparently, the shrubbery planted in the front yard of the mansion somehow grew too large over time. Now, it covers about half the mansion."
+  },
+  {
+    "message": "The weirdly twisted branches seem to make the creepy vibe of Dunwich Mansion even worse."
+  },
+  {
+    "message": "At this rate, even if someone had business at the mansion, just seeing the outside would probably scare them off."
+  },
+  {
+    "message": "The thick, overgrown grove really seems like it's stubbornly refusing to let outsiders into Dunwich Mansion."
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

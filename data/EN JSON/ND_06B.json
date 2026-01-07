@@ -1,119 +1,119 @@
 [
-    {
-        "message": "ギルマンハウスの店内にはコーデリアの姿はない。"
-    },
-    {
-        "message": "まだ帰っていないらしい。"
-    },
-    {
-        "message": "Where have you been wandering around until this hour......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia, sorry I'm late."
-    },
-    {
-        "message": "Of course, I say that to Cordelia, who should be waiting for me inside the store, but there's no reply."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia？"
-    },
-    {
-        "message": "The lights were out in the shop, making it dim and just as cold as it was outside."
-    },
-    {
-        "message": "The pub owner isn't behind the counter, isn't sitting on the stool where he'd always wait for me, and there isn't even a dirty glass left out."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Sorry I'm late. Are you upstairs？"
-    },
-    {
-        "message": "　　　　　　　　You　don't　have　to　be　so　mad,　you　know."
-    },
-    {
-        "message": "As expected, Cordelia doesn't answer."
-    },
-    {
-        "message": "Maybe she's not here after all？"
-    },
-    {
-        "message": "No way, was he put off after seeing me go into the Brothel with Thomas？"
-    },
-    {
-        "message": "Maybe she couldn't stand me, spending all my time messing around with hookers even though I had someone like her."
-    },
-    {
-        "message": "There was no sign of the owner in the dimly lit shop, and the empty Stools made the gloomy atmosphere stand out even more."
-    },
-    {
-        "message": "Considering the shop is completely chilled, it looks like nobody's lit the Fireplace tonight."
-    },
-    {
-        "message": "Cordelia obviously knew I was coming, so why'd she leave the room at a temperature that'd freeze you?"
-    },
-    {
-        "message": "Cordelia, who’s usually pretty neat, would never leave the Counter dirty-did she rush out so fast she didn’t even have time to clean up?"
-    },
-    {
-        "message": "Tonight, I can't even find a single dirty Glass."
-    },
-    {
-        "message": "On top of the Counter, dust has piled up like frost."
-    },
-    {
-        "message": "If anything, Cordelia is the meticulous type-there's no way she'd leave her precious shop dirty like that."
-    },
-    {
-        "message": "When I collapsed at the Monastery and was brought to my room at the Fish Scale Inn-what time was that, I wonder? Did Cordelia go out somewhere right after that?"
-    },
-    {
-        "message": "It's all just bottles of cheap liquor like gin and rum, not the sort you'd want to down in silence."
-    },
-    {
-        "message": "It's just cheap liquor you see everywhere lined up."
-    },
-    {
-        "message": "They don’t have the relatively expensive bottles that me or Gardner ordered."
-    },
-    {
-        "message": "Since there aren’t many orders for it, they probably usually keep it in the back of the shop."
-    },
-    {
-        "message": "The people in this village seem to prefer stuff like gin or rum that gets you drunk fast, so if they get drunk and break it, I'd be at a huge loss."
-    },
-    {
-        "message": "Looks like there's a small kitchen space behind the counter."
-    },
-    {
-        "message": "There's just a faint stain of oil left on the wall."
-    },
-    {
-        "message": "The back of the shop has a small kitchen where you can make simple dishes."
-    },
-    {
-        "message": "I guess they make meals and snacks according to the customers' orders."
-    },
-    {
-        "message": "If I recall, there wasn't even equipment on the second floor for making food or even serving hot tea. Cordelia probably prepares her own meals and tea here."
-    },
-    {
-        "message": "You can't really call it a comfortable life, but considering her strange upbringing, I guess you have to say this is actually not so bad."
-    },
-    {
-        "message": "I've heard there are people in the world who make a living as pimps, selling girls from the Orient like Cordelia to brothels."
-    },
-    {
-        "message": "Just the fact that I didn't fall into the hands of such a monster was lucky enough."
-    },
-    {
-        "message": "Even if I had to work myself to the bone at a rundown pub like this."
-    },
-    {
-        "message": "Go to the second floor"
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "message": "Cordelia isn't anywhere inside the Gilman House shop."
+  },
+  {
+    "message": "Looks like she hasn't come back yet."
+  },
+  {
+    "message": "Where have you been wandering around until this hour......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia, sorry I'm late."
+  },
+  {
+    "message": "Of course, I say that to Cordelia, who should be waiting for me inside the store, but there's no reply."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia？"
+  },
+  {
+    "message": "The lights were out in the shop, making it dim and just as cold as it was outside."
+  },
+  {
+    "message": "The pub owner isn't behind the counter, isn't sitting on the stool where he'd always wait for me, and there isn't even a dirty glass left out."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Sorry I'm late. Are you upstairs？"
+  },
+  {
+    "message": "　　　　　　　　You　don't　have　to　be　so　mad,　you　know."
+  },
+  {
+    "message": "As expected, Cordelia doesn't answer."
+  },
+  {
+    "message": "Maybe she's not here after all？"
+  },
+  {
+    "message": "No way, was he put off after seeing me go into the Brothel with Thomas？"
+  },
+  {
+    "message": "Maybe she couldn't stand me, spending all my time messing around with hookers even though I had someone like her."
+  },
+  {
+    "message": "There was no sign of the owner in the dimly lit shop, and the empty Stools made the gloomy atmosphere stand out even more."
+  },
+  {
+    "message": "Considering the shop is completely chilled, it looks like nobody's lit the Fireplace tonight."
+  },
+  {
+    "message": "Cordelia obviously knew I was coming, so why'd she leave the room at a temperature that'd freeze you?"
+  },
+  {
+    "message": "Cordelia, who’s usually pretty neat, would never leave the Counter dirty-did she rush out so fast she didn’t even have time to clean up?"
+  },
+  {
+    "message": "Tonight, I can't even find a single dirty Glass."
+  },
+  {
+    "message": "On top of the Counter, dust has piled up like frost."
+  },
+  {
+    "message": "If anything, Cordelia is the meticulous type-there's no way she'd leave her precious shop dirty like that."
+  },
+  {
+    "message": "When I collapsed at the Monastery and was brought to my room at the Fish Scale Inn-what time was that, I wonder? Did Cordelia go out somewhere right after that?"
+  },
+  {
+    "message": "It's all just bottles of cheap liquor like gin and rum, not the sort you'd want to down in silence."
+  },
+  {
+    "message": "It's just cheap liquor you see everywhere lined up."
+  },
+  {
+    "message": "They don’t have the relatively expensive bottles that me or Gardner ordered."
+  },
+  {
+    "message": "Since there aren’t many orders for it, they probably usually keep it in the back of the shop."
+  },
+  {
+    "message": "The people in this village seem to prefer stuff like gin or rum that gets you drunk fast, so if they get drunk and break it, I'd be at a huge loss."
+  },
+  {
+    "message": "Looks like there's a small kitchen space behind the counter."
+  },
+  {
+    "message": "There's just a faint stain of oil left on the wall."
+  },
+  {
+    "message": "The back of the shop has a small kitchen where you can make simple dishes."
+  },
+  {
+    "message": "I guess they make meals and snacks according to the customers' orders."
+  },
+  {
+    "message": "If I recall, there wasn't even equipment on the second floor for making food or even serving hot tea. Cordelia probably prepares her own meals and tea here."
+  },
+  {
+    "message": "You can't really call it a comfortable life, but considering her strange upbringing, I guess you have to say this is actually not so bad."
+  },
+  {
+    "message": "I've heard there are people in the world who make a living as pimps, selling girls from the Orient like Cordelia to brothels."
+  },
+  {
+    "message": "Just the fact that I didn't fall into the hands of such a monster was lucky enough."
+  },
+  {
+    "message": "Even if I had to work myself to the bone at a rundown pub like this."
+  },
+  {
+    "message": "Go to the second floor"
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

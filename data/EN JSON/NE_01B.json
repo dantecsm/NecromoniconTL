@@ -1,406 +1,406 @@
 [
-    {
-        "message": "Looks like Dorothy still hasn't come back."
-    },
-    {
-        "message": "With management this sloppy, it's a wonder nothing's gone wrong yet."
-    },
-    {
-        "message": "There's no one here."
-    },
-    {
-        "message": "Where on earth did Dorothy at the front desk go?"
-    },
-    {
-        "name": "Gardner",
-        "message": "Even if it's an archives with hardly any visitors, leaving your post carelessly during work hours is just plain negligence！"
-    },
-    {
-        "message": "Gardner looks seriously pissed off."
-    },
-    {
-        "message": "Maybe even a not-so-friendly staff member is better than no one at all."
-    },
-    {
-        "name": "Gardner",
-        "message": "But, guess you could say this actually works out for us."
-    },
-    {
-        "message": "　　　　　　　　Now we can sneak into the president's office while nobody's around."
-    },
-    {
-        "message": "I left the reading room and went back to the reception desk in the hall."
-    },
-    {
-        "message": "Dorothy, the archives staff, glanced our way, not looking all that interested."
-    },
-    {
-        "name": "Dorothy",
-        "message": "Did you find the record you were after？"
-    },
-    {
-        "message": "This is the reception desk at the archives."
-    },
-    {
-        "message": "Dorothy looks puzzled as she sees us."
-    },
-    {
-        "message": "Besides us, there's no one else in this not-so-big hall."
-    },
-    {
-        "message": "Our footsteps echoed across the marble floor, like tracing the marks of glory, and bounced all around the hall."
-    },
-    {
-        "message": "At the reception of the Archives, a bespectacled woman, dressed like a clerk and looking just about twenty, is waiting. She fits perfectly at the eerily deserted reception of the Archives, as if she was made for it."
-    },
-    {
-        "message": "On the chest of the woman in the dark blue clothes, there's a nameplate showing her position. Next to the name 'Dorothy Sayers,' there's a photo of her with a composed expression, making it obvious at a glance that she's an Archives staff member."
-    },
-    {
-        "name": "Dorothy",
-        "message": "Are you looking for something? Is there anything I can help you with?"
-    },
-    {
-        "message": "Contrary to her unfriendly appearance, the woman seems willing enough to perform her duties as staff. Still, her tone is extremely businesslike and her words carry no inflection."
-    },
-    {
-        "message": "It's a pretty impressive building for a rundown rural Archives."
-    },
-    {
-        "message": "The only shame is, the villagers and officials don't seem all that enthusiastic about preserving this building."
-    },
-    {
-        "message": "This is the reception desk of the Archives."
-    },
-    {
-        "message": "The floor is made of marble, but it's quite old and apparently not well maintained-it looks like it's lost its distinctive shine long ago."
-    },
-    {
-        "message": "The door in the back probably used to connect to the university grounds."
-    },
-    {
-        "message": "I don't know how much stuff they've collected, but it's pretty unlikely the content beats the appearance."
-    },
-    {
-        "message": "Neatly organized index cards line the entire wall. If a woman named Dorothy manages all this by herself, she must be seriously meticulous."
-    },
-    {
-        "message": "Looks like these index cards were set up to handle inquiries about the collection of books and all kinds of other items."
-    },
-    {
-        "message": "But with zero tourists visiting the village, and the villagers themselves not caring about their own history, I doubt these cards are actually getting much use."
-    },
-    {
-        "message": "The top of the counter is tidy, with nothing personal that gives off Dorothy's vibe at all."
-    },
-    {
-        "message": "In an archive that barely gets any visitors, I wonder how she kills all that boring time."
-    },
-    {
-        "message": "The counter that's been used for ages has had its shine completely dulled, turned black and basically just become worthless junk."
-    },
-    {
-        "message": "Back when this building used to be a university, this was probably just a regular hall where students gathered, so it shouldn't be all that old."
-    },
-    {
-        "message": "It must have been treated pretty roughly for a long time."
-    },
-    {
-        "name": "Dorothy",
-        "message": "Even if you look at me with such clingy eyes, it won't work, I'm just doing exactly what I'm supposed to do."
-    },
-    {
-        "name": "Dorothy",
-        "message": "Please state your business！"
-    },
-    {
-        "message": "　　　　　　　If you don't have any business, please go home."
-    },
-    {
-        "message": "She really looks like a clerk, like a model from the new employee training manual they'd use at a government office."
-    },
-    {
-        "message": "The deep navy, almost uniform-like outfit weirdly suits her, and it's hard to imagine what she'd look like in any other clothes."
-    },
-    {
-        "name": "Dorothy",
-        "message": "Is something wrong? If you don't tell me what you're looking into, there's really nothing I can do..."
-    },
-    {
-        "message": "Dorothy's words are irritated and sharp."
-    },
-    {
-        "message": "There's also a blatantly overbearing vibe, typical of government officials."
-    },
-    {
-        "name": "Dorothy",
-        "message": "なんとか言ったらどう？"
-    },
-    {
-        "message": "　　　　　　　It's my job too, so don't make extra trouble for me！"
-    },
-    {
-        "name": "Dorothy",
-        "message": "I can’t let you into the principal’s office！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Can you tell me more about that incident？"
-    },
-    {
-        "message": "　　　　　　　　What kind of guy was this Dunwich?"
-    },
-    {
-        "name": "Dorothy",
-        "message": "Well... this is all before I was born."
-    },
-    {
-        "message": "　　　　　　　But, it seems like Mr. Dunwich was one of the wealthiest people in the village."
-    },
-    {
-        "name": "Gardner",
-        "message": "マーシュ老人の言っていた事と合致する。"
-    },
-    {
-        "message": "　　　　　　　　So in other words, that 'Dunwich family' was basically the symbol of Innsmouth."
-    },
-    {
-        "name": "Dorothy",
-        "message": "That's not all there is to it."
-    },
-    {
-        "message": "　　　　　　　Mr. Dunwich was apparently the president of Miskatonic University, which was the predecessor to this Archives."
-    },
-    {
-        "name": "Dorothy",
-        "message": "The university was shut down right after the incident...　　　　　　So, I'm the last president of Miskatonic University."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Fate sure is ironic, huh."
-    },
-    {
-        "message": "　　　　　　　　Then　it　totally　sounds　like　the　university　got　shut　down　because　of　that　Dunwich　guy　or　something."
-    },
-    {
-        "name": "Gardner",
-        "message": "If one of the village's top men of ability, and also a man of great learning, suddenly goes mad‥‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Um, I want to know more about Dunwich in detail."
-    },
-    {
-        "message": "　　　　　　　　Aren't there any materials left about it？"
-    },
-    {
-        "name": "Dorothy",
-        "message": "Let me think..."
-    },
-    {
-        "message": "　　　　　　　I'm pretty sure it's here, but it's not exactly organized.　　　　　　　Looks like you'll have to search for it yourself."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So then, where』s the casebook that has the 'Dunwich Incident' written in it？"
-    },
-    {
-        "name": "Dorothy",
-        "message": "Go into the reading room and it's on the bookshelf immediately to your left."
-    },
-    {
-        "message": "　　　　　　　Since it's an official record, it might be plain and hard to recognize."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'll go look for it."
-    },
-    {
-        "name": "Dorothy",
-        "message": "Anything else？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Let's see‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Then, how about calling it the 'Innsmouth look'？"
-    },
-    {
-        "message": "　　　　　　　　Is there any material that mentions that word?"
-    },
-    {
-        "name": "Dorothy",
-        "message": "あなた、そんな言葉どこで覚えてきたんです？"
-    },
-    {
-        "message": "　　　　　　　If you say stuff like that here in Arkham, you’re not gonna get away with it, you know？"
-    },
-    {
-        "name": "Gardner",
-        "message": "I've got plenty of experience with that already."
-    },
-    {
-        "name": "Dorothy",
-        "message": "If it's Dorothy, she should understand."
-    },
-    {
-        "message": "　　　　　　　このアーカムで、そんな資料があるわけないでしょう？"
-    },
-    {
-        "name": "Dorothy",
-        "message": "他に何かご用は？"
-    },
-    {
-        "name": "Gardner",
-        "message": "別にないようだな。"
-    },
-    {
-        "message": "　　　　　　　　Let's try looking into the 'Dunwich Incident'."
-    },
-    {
-        "name": "Dorothy",
-        "message": "Please do your best."
-    },
-    {
-        "message": "Dorothy says that in a flat tone, like she wants to get away from us as soon as possible."
-    },
-    {
-        "name": "Jonathan",
-        "message": "The reading room, huh."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I don't know how many books are in this collection, but it looks like it's gonna be a pretty tough job."
-    },
-    {
-        "name": "Gardner",
-        "message": "Yeah‥‥‥‥‥‥"
-    },
-    {
-        "name": "Gardner",
-        "message": "Wait, didn't you say that Dunwich used to be the president of Miskatonic University？"
-    },
-    {
-        "name": "Dorothy",
-        "message": "That's right."
-    },
-    {
-        "name": "Gardner",
-        "message": "Didn't this Archives just use the university building as it was after the school shut down？"
-    },
-    {
-        "name": "Dorothy",
-        "message": "Yeah, that's right, but... wait a second！"
-    },
-    {
-        "name": "Gardner",
-        "message": "The president's office that Dunwich used is still left just as it was, right？"
-    },
-    {
-        "name": "Dorothy",
-        "message": "No way, nobody's set foot in that room since the school closed down."
-    },
-    {
-        "name": "Gardner",
-        "message": "Isn't that even more convenient?"
-    },
-    {
-        "message": "　　　　　　　　事件を起こす前に、ダニッジが何かを書き残している　　　　　　　　かもしれないじゃないか。"
-    },
-    {
-        "name": "Dorothy",
-        "message": "I can't let you into the president's office！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Instead of looking at things like case records, if there's something like a memoir left by the person themselves, that's going to be more of a clue to understanding the case."
-    },
-    {
-        "name": "Dorothy",
-        "message": "Listen to me！"
-    },
-    {
-        "message": "　　　　　　　No　one’s　allowed　to　enter　the　president’s　office."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Do you have any criminal records from about 50 years ago？"
-    },
-    {
-        "message": "　　　　　　　　Something　like　someone's　daily　log　would　be　fine,　but　a　case　law　book　would　be　even　better."
-    },
-    {
-        "message": "The woman, with an openly suspicious look that said, 'Why would you want to see something like that？', flipped through the index behind her."
-    },
-    {
-        "name": "Dorothy",
-        "message": "What kind of case are you looking for？"
-    },
-    {
-        "message": "　　　　　　　Even if it's just a small village, they've got everything from petty crimes like theft to murder and poaching, like some kind of crime expo."
-    },
-    {
-        "name": "Gardner",
-        "message": "Of course, I don’t give a shit about some petty thief."
-    },
-    {
-        "message": "　　　　　　　　What we're looking for is a murder case."
-    },
-    {
-        "name": "Dorothy",
-        "message": "殺人ねぇ‥‥‥‥‥‥"
-    },
-    {
-        "message": "　　　　　　　It shouldn't be that many, so I think it's probably all put together in one book."
-    },
-    {
-        "name": "Thomas",
-        "message": "That old geezer was making a big fuss, huh."
-    },
-    {
-        "message": "　　　　　　Some　crazy　bastard　snapped　and　went　and　slaughtered　your　whole　family　or　something‥‥‥‥"
-    },
-    {
-        "name": "Dorothy",
-        "message": "ああ、『ダニッジ事件』の事ですね。"
-    },
-    {
-        "message": "　　　　　　　それなら５０年前どころじゃありませんわ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "When you say 'The Dunwich Incident'？"
-    },
-    {
-        "message": "　　　　　　　　Was it really that famous of an incident?"
-    },
-    {
-        "name": "Dorothy",
-        "message": "Yeah, well......"
-    },
-    {
-        "message": "　　　　　　　It　must　have　been　a　uniquely　brutal　case."
-    },
-    {
-        "name": "Thomas",
-        "message": "あんたが子供の頃の話って訳ではないだろう。"
-    },
-    {
-        "message": "　　　　　　No way, miss, do you get mistaken for being younger？"
-    },
-    {
-        "name": "Dorothy",
-        "message": "I'm still only 23！"
-    },
-    {
-        "message": "　　　Library　　　"
-    },
-    {
-        "message": "President's Office"
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "message": "Looks like Dorothy still hasn't come back."
+  },
+  {
+    "message": "With management this sloppy, it's a wonder nothing's gone wrong yet."
+  },
+  {
+    "message": "There's no one here."
+  },
+  {
+    "message": "Where on earth did Dorothy at the front desk go?"
+  },
+  {
+    "name": "Gardner",
+    "message": "Even if it's an archives with hardly any visitors, leaving your post carelessly during work hours is just plain negligence！"
+  },
+  {
+    "message": "Gardner looks seriously pissed off."
+  },
+  {
+    "message": "Maybe even a not-so-friendly staff member is better than no one at all."
+  },
+  {
+    "name": "Gardner",
+    "message": "But, guess you could say this actually works out for us."
+  },
+  {
+    "message": "　　　　　　　　Now we can sneak into the president's office while nobody's around."
+  },
+  {
+    "message": "I left the reading room and went back to the reception desk in the hall."
+  },
+  {
+    "message": "Dorothy, the archives staff, glanced our way, not looking all that interested."
+  },
+  {
+    "name": "Dorothy",
+    "message": "Did you find the record you were after？"
+  },
+  {
+    "message": "This is the reception desk at the archives."
+  },
+  {
+    "message": "Dorothy looks puzzled as she sees us."
+  },
+  {
+    "message": "Besides us, there's no one else in this not-so-big hall."
+  },
+  {
+    "message": "Our footsteps echoed across the marble floor, like tracing the marks of glory, and bounced all around the hall."
+  },
+  {
+    "message": "At the reception of the Archives, a bespectacled woman, dressed like a clerk and looking just about twenty, is waiting. She fits perfectly at the eerily deserted reception of the Archives, as if she was made for it."
+  },
+  {
+    "message": "On the chest of the woman in the dark blue clothes, there's a nameplate showing her position. Next to the name 'Dorothy Sayers,' there's a photo of her with a composed expression, making it obvious at a glance that she's an Archives staff member."
+  },
+  {
+    "name": "Dorothy",
+    "message": "Are you looking for something? Is there anything I can help you with?"
+  },
+  {
+    "message": "Contrary to her unfriendly appearance, the woman seems willing enough to perform her duties as staff. Still, her tone is extremely businesslike and her words carry no inflection."
+  },
+  {
+    "message": "It's a pretty impressive building for a rundown rural Archives."
+  },
+  {
+    "message": "The only shame is, the villagers and officials don't seem all that enthusiastic about preserving this building."
+  },
+  {
+    "message": "This is the reception desk of the Archives."
+  },
+  {
+    "message": "The floor is made of marble, but it's quite old and apparently not well maintained-it looks like it's lost its distinctive shine long ago."
+  },
+  {
+    "message": "The door in the back probably used to connect to the university grounds."
+  },
+  {
+    "message": "I don't know how much stuff they've collected, but it's pretty unlikely the content beats the appearance."
+  },
+  {
+    "message": "Neatly organized index cards line the entire wall. If a woman named Dorothy manages all this by herself, she must be seriously meticulous."
+  },
+  {
+    "message": "Looks like these index cards were set up to handle inquiries about the collection of books and all kinds of other items."
+  },
+  {
+    "message": "But with zero tourists visiting the village, and the villagers themselves not caring about their own history, I doubt these cards are actually getting much use."
+  },
+  {
+    "message": "The top of the counter is tidy, with nothing personal that gives off Dorothy's vibe at all."
+  },
+  {
+    "message": "In an archive that barely gets any visitors, I wonder how she kills all that boring time."
+  },
+  {
+    "message": "The counter that's been used for ages has had its shine completely dulled, turned black and basically just become worthless junk."
+  },
+  {
+    "message": "Back when this building used to be a university, this was probably just a regular hall where students gathered, so it shouldn't be all that old."
+  },
+  {
+    "message": "It must have been treated pretty roughly for a long time."
+  },
+  {
+    "name": "Dorothy",
+    "message": "Even if you look at me with such clingy eyes, it won't work, I'm just doing exactly what I'm supposed to do."
+  },
+  {
+    "name": "Dorothy",
+    "message": "Please state your business！"
+  },
+  {
+    "message": "　　　　　　　If you don't have any business, please go home."
+  },
+  {
+    "message": "She really looks like a clerk, like a model from the new employee training manual they'd use at a government office."
+  },
+  {
+    "message": "The deep navy, almost uniform-like outfit weirdly suits her, and it's hard to imagine what she'd look like in any other clothes."
+  },
+  {
+    "name": "Dorothy",
+    "message": "Is something wrong? If you don't tell me what you're looking into, there's really nothing I can do..."
+  },
+  {
+    "message": "Dorothy's words are irritated and sharp."
+  },
+  {
+    "message": "There's also a blatantly overbearing vibe, typical of government officials."
+  },
+  {
+    "name": "Dorothy",
+    "message": "Why don't you say something？"
+  },
+  {
+    "message": "　　　　　　　It's my job too, so don't make extra trouble for me！"
+  },
+  {
+    "name": "Dorothy",
+    "message": "I can’t let you into the principal’s office！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Can you tell me more about that incident？"
+  },
+  {
+    "message": "　　　　　　　　What kind of guy was this Dunwich?"
+  },
+  {
+    "name": "Dorothy",
+    "message": "Well... this is all before I was born."
+  },
+  {
+    "message": "　　　　　　　But, it seems like Mr. Dunwich was one of the wealthiest people in the village."
+  },
+  {
+    "name": "Gardner",
+    "message": "That matches what old man Marsh was saying."
+  },
+  {
+    "message": "　　　　　　　　So in other words, that 'Dunwich family' was basically the symbol of Innsmouth."
+  },
+  {
+    "name": "Dorothy",
+    "message": "That's not all there is to it."
+  },
+  {
+    "message": "　　　　　　　Mr. Dunwich was apparently the president of Miskatonic University, which was the predecessor to this Archives."
+  },
+  {
+    "name": "Dorothy",
+    "message": "The university was shut down right after the incident...　　　　　　So, I'm the last president of Miskatonic University."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Fate sure is ironic, huh."
+  },
+  {
+    "message": "　　　　　　　　Then　it　totally　sounds　like　the　university　got　shut　down　because　of　that　Dunwich　guy　or　something."
+  },
+  {
+    "name": "Gardner",
+    "message": "If one of the village's top men of ability, and also a man of great learning, suddenly goes mad‥‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Um, I want to know more about Dunwich in detail."
+  },
+  {
+    "message": "　　　　　　　　Aren't there any materials left about it？"
+  },
+  {
+    "name": "Dorothy",
+    "message": "Let me think..."
+  },
+  {
+    "message": "　　　　　　　I'm pretty sure it's here, but it's not exactly organized.　　　　　　　Looks like you'll have to search for it yourself."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So then, where』s the casebook that has the 'Dunwich Incident' written in it？"
+  },
+  {
+    "name": "Dorothy",
+    "message": "Go into the reading room and it's on the bookshelf immediately to your left."
+  },
+  {
+    "message": "　　　　　　　Since it's an official record, it might be plain and hard to recognize."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'll go look for it."
+  },
+  {
+    "name": "Dorothy",
+    "message": "Anything else？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Let's see‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Then, how about calling it the 'Innsmouth look'？"
+  },
+  {
+    "message": "　　　　　　　　Is there any material that mentions that word?"
+  },
+  {
+    "name": "Dorothy",
+    "message": "Where did you even learn words like that？"
+  },
+  {
+    "message": "　　　　　　　If you say stuff like that here in Arkham, you’re not gonna get away with it, you know？"
+  },
+  {
+    "name": "Gardner",
+    "message": "I've got plenty of experience with that already."
+  },
+  {
+    "name": "Dorothy",
+    "message": "If it's Dorothy, she should understand."
+  },
+  {
+    "message": "　　　　　　　There's no way they'd have those kinds of materials here in Arkham, right？"
+  },
+  {
+    "name": "Dorothy",
+    "message": "Anything else you need？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Doesn't seem like it."
+  },
+  {
+    "message": "　　　　　　　　Let's try looking into the 'Dunwich Incident'."
+  },
+  {
+    "name": "Dorothy",
+    "message": "Please do your best."
+  },
+  {
+    "message": "Dorothy says that in a flat tone, like she wants to get away from us as soon as possible."
+  },
+  {
+    "name": "Jonathan",
+    "message": "The reading room, huh."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I don't know how many books are in this collection, but it looks like it's gonna be a pretty tough job."
+  },
+  {
+    "name": "Gardner",
+    "message": "Yeah‥‥‥‥‥‥"
+  },
+  {
+    "name": "Gardner",
+    "message": "Wait, didn't you say that Dunwich used to be the president of Miskatonic University？"
+  },
+  {
+    "name": "Dorothy",
+    "message": "That's right."
+  },
+  {
+    "name": "Gardner",
+    "message": "Didn't this Archives just use the university building as it was after the school shut down？"
+  },
+  {
+    "name": "Dorothy",
+    "message": "Yeah, that's right, but... wait a second！"
+  },
+  {
+    "name": "Gardner",
+    "message": "The president's office that Dunwich used is still left just as it was, right？"
+  },
+  {
+    "name": "Dorothy",
+    "message": "No way, nobody's set foot in that room since the school closed down."
+  },
+  {
+    "name": "Gardner",
+    "message": "Isn't that even more convenient?"
+  },
+  {
+    "message": "　　　　　　　　Isn't it possible that Dunwich might've left something written down before the incident happened?"
+  },
+  {
+    "name": "Dorothy",
+    "message": "I can't let you into the president's office！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Instead of looking at things like case records, if there's something like a memoir left by the person themselves, that's going to be more of a clue to understanding the case."
+  },
+  {
+    "name": "Dorothy",
+    "message": "Listen to me！"
+  },
+  {
+    "message": "　　　　　　　No　one’s　allowed　to　enter　the　president’s　office."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Do you have any criminal records from about 50 years ago？"
+  },
+  {
+    "message": "　　　　　　　　Something　like　someone's　daily　log　would　be　fine,　but　a　case　law　book　would　be　even　better."
+  },
+  {
+    "message": "The woman, with an openly suspicious look that said, 'Why would you want to see something like that？', flipped through the index behind her."
+  },
+  {
+    "name": "Dorothy",
+    "message": "What kind of case are you looking for？"
+  },
+  {
+    "message": "　　　　　　　Even if it's just a small village, they've got everything from petty crimes like theft to murder and poaching, like some kind of crime expo."
+  },
+  {
+    "name": "Gardner",
+    "message": "Of course, I don’t give a shit about some petty thief."
+  },
+  {
+    "message": "　　　　　　　　What we're looking for is a murder case."
+  },
+  {
+    "name": "Dorothy",
+    "message": "Murder, huh……"
+  },
+  {
+    "message": "　　　　　　　It shouldn't be that many, so I think it's probably all put together in one book."
+  },
+  {
+    "name": "Thomas",
+    "message": "That old geezer was making a big fuss, huh."
+  },
+  {
+    "message": "　　　　　　Some　crazy　bastard　snapped　and　went　and　slaughtered　your　whole　family　or　something‥‥‥‥"
+  },
+  {
+    "name": "Dorothy",
+    "message": "Oh, you're talking about the 'Dunwich Incident.'"
+  },
+  {
+    "message": "　　　　　　　In that case, it's way more than just fifty years ago."
+  },
+  {
+    "name": "Jonathan",
+    "message": "When you say 'The Dunwich Incident'？"
+  },
+  {
+    "message": "　　　　　　　　Was it really that famous of an incident?"
+  },
+  {
+    "name": "Dorothy",
+    "message": "Yeah, well......"
+  },
+  {
+    "message": "　　　　　　　It　must　have　been　a　uniquely　brutal　case."
+  },
+  {
+    "name": "Thomas",
+    "message": "It's not like you're talking about when you were a kid, right?"
+  },
+  {
+    "message": "　　　　　　No way, miss, do you get mistaken for being younger？"
+  },
+  {
+    "name": "Dorothy",
+    "message": "I'm still only 23！"
+  },
+  {
+    "message": "　　　Library　　　"
+  },
+  {
+    "message": "President's Office"
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

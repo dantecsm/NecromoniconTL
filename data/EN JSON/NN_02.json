@@ -1,247 +1,247 @@
 [
-    {
-        "name": "Gardner",
-        "message": "痛っ‥‥‥‥足首をひねってしまったようだ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Are you okay？"
-    },
-    {
-        "message": "　　　　　　　　Looks like we managed to get away somehow."
-    },
-    {
-        "name": "Gardner",
-        "message": "What the hell is that guy..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Professor, look at this."
-    },
-    {
-        "message": "　　　　　　　　The show window's been trashed."
-    },
-    {
-        "name": "Gardner",
-        "message": "I doubt there was anything that valuable on display anyway."
-    },
-    {
-        "message": "　　　　　　　　At the very least, there's nothing here worth risking going to prison for."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What the hell happened to Arkham?"
-    },
-    {
-        "message": "　　　　　　　　It's like we're the only ones in the whole village."
-    },
-    {
-        "name": "Gardner",
-        "message": "Maybe everyone was eaten by that monster！　　　　　　　　Who cares about that anyway‥‥‥‥‥"
-    },
-    {
-        "name": "Gardner",
-        "message": "Jonathan, what’s that you’ve got there？"
-    },
-    {
-        "message": "　　　　　　　　It looks like the gun Thomas had, but weren't there no bullets in it?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Ah, I guess I grabbed it without thinking."
-    },
-    {
-        "message": "　　　　　　　　Something　like　this,　without　any　ammo　it's　worth　about　as　much　as　a　random　rock　lying　around."
-    },
-    {
-        "name": "Gardner",
-        "message": "この店に弾があるかもしれんじゃないか。"
-    },
-    {
-        "message": "　　　　　　　　Let's go in."
-    },
-    {
-        "name": "Jonathan",
-        "message": "こいつは酷い‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Looks like they went on a rampage, wrecking everything in sight."
-    },
-    {
-        "message": "　　　　　　　　Were they looking for something?"
-    },
-    {
-        "name": "Gardner",
-        "message": "I wasn't close enough with the owner here to feel sorry for him."
-    },
-    {
-        "message": "　　　　　　　　You don't need to worry about it."
-    },
-    {
-        "message": "私の力をもってしても動かす事は至難の業だった、旧式の大きくて重いレジスターが何者かの手によって倒されてしまっている。"
-    },
-    {
-        "message": "It's hard to believe a human could do it, but I guess if someone was blinded by greed, they could pull something like that off without a second thought."
-    },
-    {
-        "message": "The cash register lying on its side has had its lock pried open, and the bills and coins inside are scattered all over the place."
-    },
-    {
-        "message": "The shopkeeper Hans hasn't shown himself, but I wonder what kind of face he'd make if he saw this."
-    },
-    {
-        "message": "店に忍び込んだ盗人は、商品にはあまり興味がなかったようで、荒らされた棚から消えた品物はあまりないようだ。"
-    },
-    {
-        "message": "Maybe they thought there was no point in going out of their way to steal cans of soup or beans."
-    },
-    {
-        "message": "There shouldn't have been any alcohol, so it's probably vinegar or something."
-    },
-    {
-        "message": "Last time I saw them, there were a few lined up neatly, but now only some of them are just lying around."
-    },
-    {
-        "message": "I picked up a box about the size of a slightly enlarged matchbox."
-    },
-    {
-        "message": "It's a lot heavier than it looks."
-    },
-    {
-        "message": "I wonder what's inside."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Got it, it's ammo."
-    },
-    {
-        "message": "Inside the box, iron bullets with a dull sheen are packed tightly, pointed downward with their warheads."
-    },
-    {
-        "message": "Thomas's gun seems to be a six-shooter, so with this many, even if the magazine runs empty, he should be able to reload it a few times."
-    },
-    {
-        "message": "I loaded the gun with awkward hands."
-    },
-    {
-        "message": "When I pull back the heavy slide, there's a click and I know a bullet's been loaded into the chamber."
-    },
-    {
-        "message": "The gun suddenly feels heavier, but there's no doubt it's just an illusion caused by the unbelievable fact that this little device can so easily take someone's life."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I've shot rabbits with a hunting rifle before, but this is the first time I've ever held such a small gun."
-    },
-    {
-        "name": "Gardner",
-        "message": "You're better off than me. I've never even held a gun in my whole life."
-    },
-    {
-        "name": "Jonathan",
-        "message": "This is the latest American-made model, huh."
-    },
-    {
-        "message": "　　　　　　　　Looks like it's been used a lot, so Thomas must have been using his gun pretty damn often."
-    },
-    {
-        "name": "Gardner",
-        "message": "I don't like killing, you know."
-    },
-    {
-        "message": "　　　　　　　　Even　if　it's　a　monster　I've　never　seen　before."
-    },
-    {
-        "name": "Jonathan",
-        "message": "But........."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You really think something like this can kill him？"
-    },
-    {
-        "name": "Gardner",
-        "message": "さて、私には解らんがね。"
-    },
-    {
-        "name": "Gardner",
-        "message": "What is it？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "どうかしたんですか。"
-    },
-    {
-        "name": "Gardner",
-        "message": "Just now, I think I heard some kind of noise......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's him..."
-    },
-    {
-        "name": "Gardner",
-        "message": "The guy who was at the Fish Scale Inn earlier！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "No, there's no way‥‥‥‥‥"
-    },
-    {
-        "name": "Gardner",
-        "message": "Anyway, just do something about it！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Looks like I managed to kill it..."
-    },
-    {
-        "name": "Gardner",
-        "message": "If this guy wasn't the one who was at the Fish Scale Inn, then just how many more of them are there in the village?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "さあ‥‥‥私とコーデリアが見た時は何百という数が　　　　　　　　集まっていましたが。"
-    },
-    {
-        "name": "Gardner",
-        "message": "No way! You gotta be kidding me!"
-    },
-    {
-        "message": "　　　　　　　　Hurry up and get out of this village."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You can't leave Cordelia behind！"
-    },
-    {
-        "name": "Gardner",
-        "message": "Of course, we have to save that girl from Thomas.　　　　　　　　We'd better hurry."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Let's head back to the Fish Scale Inn first."
-    },
-    {
-        "message": "　　　　　　　　I can't exactly run away from the village dressed like this."
-    },
-    {
-        "message": "There's a box, about one size bigger than a matchbox, with no label."
-    },
-    {
-        "message": "It's really covered in dust, so you can tell it's been sitting on the store shelf for a long time."
-    },
-    {
-        "message": "I've never bought bullets or anything like that..."
-    },
-    {
-        "message": "I wonder what kind of bullets go into a gun this size."
-    },
-    {
-        "message": "They didn't seem like they were planning to steal anything, so this kind of rampage is weird."
-    },
-    {
-        "message": "It looked like they were enjoying wrecking the nicely organized store."
-    }
+  {
+    "name": "Gardner",
+    "message": "Ouch... looks like I twisted my ankle."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Are you okay？"
+  },
+  {
+    "message": "　　　　　　　　Looks like we managed to get away somehow."
+  },
+  {
+    "name": "Gardner",
+    "message": "What the hell is that guy..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Professor, look at this."
+  },
+  {
+    "message": "　　　　　　　　The show window's been trashed."
+  },
+  {
+    "name": "Gardner",
+    "message": "I doubt there was anything that valuable on display anyway."
+  },
+  {
+    "message": "　　　　　　　　At the very least, there's nothing here worth risking going to prison for."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What the hell happened to Arkham?"
+  },
+  {
+    "message": "　　　　　　　　It's like we're the only ones in the whole village."
+  },
+  {
+    "name": "Gardner",
+    "message": "Maybe everyone was eaten by that monster！　　　　　　　　Who cares about that anyway‥‥‥‥‥"
+  },
+  {
+    "name": "Gardner",
+    "message": "Jonathan, what’s that you’ve got there？"
+  },
+  {
+    "message": "　　　　　　　　It looks like the gun Thomas had, but weren't there no bullets in it?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Ah, I guess I grabbed it without thinking."
+  },
+  {
+    "message": "　　　　　　　　Something　like　this,　without　any　ammo　it's　worth　about　as　much　as　a　random　rock　lying　around."
+  },
+  {
+    "name": "Gardner",
+    "message": "There might be some ammo in this shop, right?"
+  },
+  {
+    "message": "　　　　　　　　Let's go in."
+  },
+  {
+    "name": "Jonathan",
+    "message": "This is awful......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Looks like they went on a rampage, wrecking everything in sight."
+  },
+  {
+    "message": "　　　　　　　　Were they looking for something?"
+  },
+  {
+    "name": "Gardner",
+    "message": "I wasn't close enough with the owner here to feel sorry for him."
+  },
+  {
+    "message": "　　　　　　　　You don't need to worry about it."
+  },
+  {
+    "message": "Even with all my strength, it was nearly impossible to move-the big, heavy, old-fashioned register had been knocked over by someone."
+  },
+  {
+    "message": "It's hard to believe a human could do it, but I guess if someone was blinded by greed, they could pull something like that off without a second thought."
+  },
+  {
+    "message": "The cash register lying on its side has had its lock pried open, and the bills and coins inside are scattered all over the place."
+  },
+  {
+    "message": "The shopkeeper Hans hasn't shown himself, but I wonder what kind of face he'd make if he saw this."
+  },
+  {
+    "message": "The thief who snuck into the store didn’t seem too interested in the merchandise, and it looks like there aren’t many items missing from the ransacked shelves."
+  },
+  {
+    "message": "Maybe they thought there was no point in going out of their way to steal cans of soup or beans."
+  },
+  {
+    "message": "There shouldn't have been any alcohol, so it's probably vinegar or something."
+  },
+  {
+    "message": "Last time I saw them, there were a few lined up neatly, but now only some of them are just lying around."
+  },
+  {
+    "message": "I picked up a box about the size of a slightly enlarged matchbox."
+  },
+  {
+    "message": "It's a lot heavier than it looks."
+  },
+  {
+    "message": "I wonder what's inside."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Got it, it's ammo."
+  },
+  {
+    "message": "Inside the box, iron bullets with a dull sheen are packed tightly, pointed downward with their warheads."
+  },
+  {
+    "message": "Thomas's gun seems to be a six-shooter, so with this many, even if the magazine runs empty, he should be able to reload it a few times."
+  },
+  {
+    "message": "I loaded the gun with awkward hands."
+  },
+  {
+    "message": "When I pull back the heavy slide, there's a click and I know a bullet's been loaded into the chamber."
+  },
+  {
+    "message": "The gun suddenly feels heavier, but there's no doubt it's just an illusion caused by the unbelievable fact that this little device can so easily take someone's life."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I've shot rabbits with a hunting rifle before, but this is the first time I've ever held such a small gun."
+  },
+  {
+    "name": "Gardner",
+    "message": "You're better off than me. I've never even held a gun in my whole life."
+  },
+  {
+    "name": "Jonathan",
+    "message": "This is the latest American-made model, huh."
+  },
+  {
+    "message": "　　　　　　　　Looks like it's been used a lot, so Thomas must have been using his gun pretty damn often."
+  },
+  {
+    "name": "Gardner",
+    "message": "I don't like killing, you know."
+  },
+  {
+    "message": "　　　　　　　　Even　if　it's　a　monster　I've　never　seen　before."
+  },
+  {
+    "name": "Jonathan",
+    "message": "But........."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You really think something like this can kill him？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Well, I don't really get it myself."
+  },
+  {
+    "name": "Gardner",
+    "message": "What is it？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "What's wrong?"
+  },
+  {
+    "name": "Gardner",
+    "message": "Just now, I think I heard some kind of noise......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's him..."
+  },
+  {
+    "name": "Gardner",
+    "message": "The guy who was at the Fish Scale Inn earlier！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "No, there's no way‥‥‥‥‥"
+  },
+  {
+    "name": "Gardner",
+    "message": "Anyway, just do something about it！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Looks like I managed to kill it..."
+  },
+  {
+    "name": "Gardner",
+    "message": "If this guy wasn't the one who was at the Fish Scale Inn, then just how many more of them are there in the village?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Well... When Cordelia and I saw it, there were literally hundreds gathered."
+  },
+  {
+    "name": "Gardner",
+    "message": "No way! You gotta be kidding me!"
+  },
+  {
+    "message": "　　　　　　　　Hurry up and get out of this village."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You can't leave Cordelia behind！"
+  },
+  {
+    "name": "Gardner",
+    "message": "Of course, we have to save that girl from Thomas.　　　　　　　　We'd better hurry."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Let's head back to the Fish Scale Inn first."
+  },
+  {
+    "message": "　　　　　　　　I can't exactly run away from the village dressed like this."
+  },
+  {
+    "message": "There's a box, about one size bigger than a matchbox, with no label."
+  },
+  {
+    "message": "It's really covered in dust, so you can tell it's been sitting on the store shelf for a long time."
+  },
+  {
+    "message": "I've never bought bullets or anything like that..."
+  },
+  {
+    "message": "I wonder what kind of bullets go into a gun this size."
+  },
+  {
+    "message": "They didn't seem like they were planning to steal anything, so this kind of rampage is weird."
+  },
+  {
+    "message": "It looked like they were enjoying wrecking the nicely organized store."
+  }
 ]

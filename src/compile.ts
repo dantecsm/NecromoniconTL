@@ -46,7 +46,6 @@ function moveAndRenameMesFiles(
 
         try {
             renameSync(sourcePath, targetPath);
-            console.log(`    ✓ ${fileName} -> ${targetFileName}`);
             movedCount++;
         } catch (error: any) {
             console.error(`    ✗ Failed to move ${fileName}: ${error.message}`);

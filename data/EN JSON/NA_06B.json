@@ -1,221 +1,221 @@
 [
-    {
-        "message": "The lady isn't here."
-    },
-    {
-        "message": "The Fish Scale Inn is eerily quiet, like it's dead."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Oh, Swift-san."
-    },
-    {
-        "message": "　　　　　　　　　What's wrong, at this hour？"
-    },
-    {
-        "message": "It's Mrs. Hudson."
-    },
-    {
-        "message": "Seeing that you're still in your work clothes, it looks like you were working until this late."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Hudson, are you working this late too？"
-    },
-    {
-        "message": "　　　　　　　　If you push yourself too hard, it'll be bad for your health."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "No, I'm used to it."
-    },
-    {
-        "message": "　　　　　　　　　More importantly, what really happened？"
-    },
-    {
-        "message": "The area is lit only by the weak light of a lamp, making it unusually dark."
-    },
-    {
-        "message": "It totally feels like a run-down inn, and it's nothing but gloomy."
-    },
-    {
-        "message": "There's nothing different from before last night."
-    },
-    {
-        "message": "As always, it's so dim and damp you can't even tell if it's day or night."
-    },
-    {
-        "message": "When I first came here, it was so gloomy that I thought I'd never be able to stand living and sleeping in a place like this, but seeing how I've gotten used to this environment now is kind of eerily unsettling in its own way."
-    },
-    {
-        "message": "Other than a Lamp that's always lit like a nightlight giving off a feeble glow, there's barely any decent lighting at all."
-    },
-    {
-        "message": "Since it's an old building, I guess if you don't keep it a bit dim, all sorts of flaws would show, but I can't imagine Mrs. Hudson being that quick-witted."
-    },
-    {
-        "message": "Maybe it's just that they don't make enough money to invest in unnecessary facilities."
-    },
-    {
-        "message": "Either way, I can't really see something like that bringing in more customers anyway......"
-    },
-    {
-        "message": "She must have been working nonstop for a long time; exhaustion is written all over her face."
-    },
-    {
-        "message": "If she keeps going like this, won't she end up wrecking her health sooner or later?"
-    },
-    {
-        "message": "She must have been working nonstop; she looks really worn out."
-    },
-    {
-        "message": "Hudson never complains, but that just makes it even more painful to see her so exhausted."
-    },
-    {
-        "message": "Honestly, maybe she should just sell off the Fish Scale Inn and head out to London or something."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "You really must get some rest now."
-    },
-    {
-        "message": "　　　　　　　　　If you still need something, please come to my room."
-    },
-    {
-        "message": "Mrs. Hudson's attitude seems cold and prickly."
-    },
-    {
-        "message": "Does she really dislike what Cordelia and I are doing that much?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Mrs. Hudson......"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "I'll listen to you later."
-    },
-    {
-        "message": "She left."
-    },
-    {
-        "message": "It's not good to leave the lady angry like this."
-    },
-    {
-        "message": "But I can't afford to be late for my appointment with Cordelia, either."
-    },
-    {
-        "message": "What should I do......"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "What brings you here at this hour？"
-    },
-    {
-        "message": "　　　　　　　　　Are　you　planning　to　go　out　somewhere　dressed　like　that?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, just a bit......"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "If I say this to someone young like you, it might sound like I'm nagging, but......"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Wouldn't it be better not to rush things too much？"
-    },
-    {
-        "message": "　　　　　　　　　You two still have plenty of time."
-    },
-    {
-        "message": "Is she, indirectly, talking about me and Cordelia?"
-    },
-    {
-        "message": "Does she mean that sneaking out in the middle of the night for a secret date is improper?"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Don't get me wrong, it's not like I'm saying anything bad about you or anything."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Hudson, if you keep working this late, you'll end up ruining your health."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "I'm about to go rest myself."
-    },
-    {
-        "message": "　　　　　　　　　You all have an early morning tomorrow too, right？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Have the professors already gone to bed？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Well, I wouldn't know."
-    },
-    {
-        "message": "　　　　　　　　　If you knew what's good for you, you'd be in bed by now."
-    },
-    {
-        "message": "It's the counter set up in the entrance hall."
-    },
-    {
-        "message": "Mrs. Hudson, who runs the Fish Scale Inn all by herself, is so busy that she can hardly ever stay put here."
-    },
-    {
-        "message": "You can't really see from here, but it looks like there's something like a portrait hanging on the office wall."
-    },
-    {
-        "message": "It might be a portrait of Mr. Hudson's master."
-    },
-    {
-        "message": "I wonder what kind of person they were."
-    },
-    {
-        "message": "I've never thought about it before, but does the lady not have any children?"
-    },
-    {
-        "message": "At the very least, I've never heard a child's voice at the Fish Scale Inn......"
-    },
-    {
-        "message": "If she's going to live all alone in this gloomy Fish Scale Inn, even having a kid around might save the lady a little."
-    },
-    {
-        "message": "Maybe it's a portrait of Mrs. Hudson's husband."
-    },
-    {
-        "message": "夫人ひとりを残して失踪してしまうんなんてどういう人間なんだろう。"
-    },
-    {
-        "message": "I don't know how long they lived together, but didn't they have any children between them?"
-    },
-    {
-        "message": "ハドスンさんも、ご主人との間に子供がいれば、まだ救われたかもしれないのに。"
-    },
-    {
-        "message": "It's a counter for guests."
-    },
-    {
-        "message": "張り出した台の上に客が名前と住所を記入するための台帳がある。"
-    },
-    {
-        "message": "On the other side, divided by glass, is a small office-like room. The lady who runs the Fish Scale Inn all by herself seems to be too busy to be in the office very often, but thanks to the low number of guests, she seems to be managing somehow."
-    },
-    {
-        "message": "My room"
-    },
-    {
-        "message": "　　　Cafeteria　　　"
-    },
-    {
-        "message": "The lady's room"
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "message": "The lady isn't here."
+  },
+  {
+    "message": "The Fish Scale Inn is eerily quiet, like it's dead."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Oh, Swift-san."
+  },
+  {
+    "message": "　　　　　　　　　What's wrong, at this hour？"
+  },
+  {
+    "message": "It's Mrs. Hudson."
+  },
+  {
+    "message": "Seeing that you're still in your work clothes, it looks like you were working until this late."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Hudson, are you working this late too？"
+  },
+  {
+    "message": "　　　　　　　　If you push yourself too hard, it'll be bad for your health."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "No, I'm used to it."
+  },
+  {
+    "message": "　　　　　　　　　More importantly, what really happened？"
+  },
+  {
+    "message": "The area is lit only by the weak light of a lamp, making it unusually dark."
+  },
+  {
+    "message": "It totally feels like a run-down inn, and it's nothing but gloomy."
+  },
+  {
+    "message": "There's nothing different from before last night."
+  },
+  {
+    "message": "As always, it's so dim and damp you can't even tell if it's day or night."
+  },
+  {
+    "message": "When I first came here, it was so gloomy that I thought I'd never be able to stand living and sleeping in a place like this, but seeing how I've gotten used to this environment now is kind of eerily unsettling in its own way."
+  },
+  {
+    "message": "Other than a Lamp that's always lit like a nightlight giving off a feeble glow, there's barely any decent lighting at all."
+  },
+  {
+    "message": "Since it's an old building, I guess if you don't keep it a bit dim, all sorts of flaws would show, but I can't imagine Mrs. Hudson being that quick-witted."
+  },
+  {
+    "message": "Maybe it's just that they don't make enough money to invest in unnecessary facilities."
+  },
+  {
+    "message": "Either way, I can't really see something like that bringing in more customers anyway......"
+  },
+  {
+    "message": "She must have been working nonstop for a long time; exhaustion is written all over her face."
+  },
+  {
+    "message": "If she keeps going like this, won't she end up wrecking her health sooner or later?"
+  },
+  {
+    "message": "She must have been working nonstop; she looks really worn out."
+  },
+  {
+    "message": "Hudson never complains, but that just makes it even more painful to see her so exhausted."
+  },
+  {
+    "message": "Honestly, maybe she should just sell off the Fish Scale Inn and head out to London or something."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "You really must get some rest now."
+  },
+  {
+    "message": "　　　　　　　　　If you still need something, please come to my room."
+  },
+  {
+    "message": "Mrs. Hudson's attitude seems cold and prickly."
+  },
+  {
+    "message": "Does she really dislike what Cordelia and I are doing that much?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Mrs. Hudson......"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "I'll listen to you later."
+  },
+  {
+    "message": "She left."
+  },
+  {
+    "message": "It's not good to leave the lady angry like this."
+  },
+  {
+    "message": "But I can't afford to be late for my appointment with Cordelia, either."
+  },
+  {
+    "message": "What should I do......"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "What brings you here at this hour？"
+  },
+  {
+    "message": "　　　　　　　　　Are　you　planning　to　go　out　somewhere　dressed　like　that?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, just a bit......"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "If I say this to someone young like you, it might sound like I'm nagging, but......"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Wouldn't it be better not to rush things too much？"
+  },
+  {
+    "message": "　　　　　　　　　You two still have plenty of time."
+  },
+  {
+    "message": "Is she, indirectly, talking about me and Cordelia?"
+  },
+  {
+    "message": "Does she mean that sneaking out in the middle of the night for a secret date is improper?"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Don't get me wrong, it's not like I'm saying anything bad about you or anything."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Hudson, if you keep working this late, you'll end up ruining your health."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "I'm about to go rest myself."
+  },
+  {
+    "message": "　　　　　　　　　You all have an early morning tomorrow too, right？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Have the professors already gone to bed？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Well, I wouldn't know."
+  },
+  {
+    "message": "　　　　　　　　　If you knew what's good for you, you'd be in bed by now."
+  },
+  {
+    "message": "It's the counter set up in the entrance hall."
+  },
+  {
+    "message": "Mrs. Hudson, who runs the Fish Scale Inn all by herself, is so busy that she can hardly ever stay put here."
+  },
+  {
+    "message": "You can't really see from here, but it looks like there's something like a portrait hanging on the office wall."
+  },
+  {
+    "message": "It might be a portrait of Mr. Hudson's master."
+  },
+  {
+    "message": "I wonder what kind of person they were."
+  },
+  {
+    "message": "I've never thought about it before, but does the lady not have any children?"
+  },
+  {
+    "message": "At the very least, I've never heard a child's voice at the Fish Scale Inn......"
+  },
+  {
+    "message": "If she's going to live all alone in this gloomy Fish Scale Inn, even having a kid around might save the lady a little."
+  },
+  {
+    "message": "Maybe it's a portrait of Mrs. Hudson's husband."
+  },
+  {
+    "message": "What kind of person disappears, leaving his wife all alone like that?"
+  },
+  {
+    "message": "I don't know how long they lived together, but didn't they have any children between them?"
+  },
+  {
+    "message": "If Mrs. Hudson had a child with her husband, maybe she could've been saved."
+  },
+  {
+    "message": "It's a counter for guests."
+  },
+  {
+    "message": "On the protruding counter, there’s a guestbook for writing your name and address."
+  },
+  {
+    "message": "On the other side, divided by glass, is a small office-like room. The lady who runs the Fish Scale Inn all by herself seems to be too busy to be in the office very often, but thanks to the low number of guests, she seems to be managing somehow."
+  },
+  {
+    "message": "My room"
+  },
+  {
+    "message": "　　　Cafeteria　　　"
+  },
+  {
+    "message": "The lady's room"
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

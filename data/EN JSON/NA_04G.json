@@ -1,294 +1,294 @@
 [
-    {
-        "message": "Not here."
-    },
-    {
-        "message": "Looks like Thomas still hasn't come back from the brothel."
-    },
-    {
-        "message": "Well, with that body, I bet he's way more energetic than me... He's probably planning to stay all night."
-    },
-    {
-        "name": "Thomas",
-        "message": "That was fast."
-    },
-    {
-        "message": "　　　　　　So, how was it? The taste of a widow?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "You can let your imagination run wild if you want, but Hudson-san is a proper lady, you know."
-    },
-    {
-        "name": "Thomas",
-        "message": "You're still wet behind the ears."
-    },
-    {
-        "message": "　　　　　　Women are all the same, no matter who they are."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Do whatever you want."
-    },
-    {
-        "name": "Thomas",
-        "message": "Well, that stuff can wait till later."
-    },
-    {
-        "message": "　　　　　　If we don't hurry up, the sun's gonna come up."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Where are you planning on taking me？"
-    },
-    {
-        "name": "Thomas",
-        "message": "That's something to look forward to after we get there."
-    },
-    {
-        "message": "　　　　　　Are you feeling okay？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'm totally fine now."
-    },
-    {
-        "name": "Thomas",
-        "message": "That's great."
-    },
-    {
-        "message": "　　　　　　We finally get to have some fun, but the one thing we need most is totally useless... that's just too much."
-    },
-    {
-        "name": "Thomas",
-        "message": "Yo, you alright？"
-    },
-    {
-        "message": "　　　　　　I gotta admit, I was pretty shocked when you collapsed at the monastery."
-    },
-    {
-        "name": "Jonathan",
-        "message": "君と教授が運んでくれたのかい？"
-    },
-    {
-        "message": "　　　　　　　　I　really　caused　you　a　lot　of　trouble,　sorry."
-    },
-    {
-        "name": "Thomas",
-        "message": "Nah, don’t worry about it."
-    },
-    {
-        "message": "　　　　　　More importantly, I'm glad I made it in time. I was just about to head out."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Where are you planning to take me？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Whoa, whoa, don't get so worked up."
-    },
-    {
-        "message": "　　　　　　For a shitty countryside, it's not so damn bad after all."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What the hell do you mean, 'It's not all worthless'？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Well then, shall we head out？"
-    },
-    {
-        "message": "　　　　　　If you take it too slow, the sun'll come up before you know it."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, I'm a busy guy too."
-    },
-    {
-        "message": "　　　　　　　　If I don't hurry up and get this over with, my body won't last."
-    },
-    {
-        "name": "Thomas",
-        "message": "Well, do you really think it'll go that smoothly？"
-    },
-    {
-        "message": "　　　　　　My gut tells me, you're the type to get hooked pretty hard."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What about？"
-    },
-    {
-        "name": "Thomas",
-        "message": "See ya, wild thing‥‥‥‥‥"
-    },
-    {
-        "message": "　　　　　　Sometimes, being 'the one getting served...' ain't so bad."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I have no idea what you're talking about."
-    },
-    {
-        "name": "Thomas",
-        "message": "Well, it's all good."
-    },
-    {
-        "message": "　　　　　　Alright, let's head out."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Wait a sec, I've got an appointment to meet Mrs. Hudson."
-    },
-    {
-        "name": "Thomas",
-        "message": "You and the lady？"
-    },
-    {
-        "message": "　　　　　　Hey,　hey……　You’re　pretty　good,　aren’t　you?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's not it！"
-    },
-    {
-        "message": "　　　　　　　　The professor mentioned it this morning, right? That his wife was pissed off at me."
-    },
-    {
-        "name": "Thomas",
-        "message": "Ah, that, huh......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It'll be done soon, so just wait for me."
-    },
-    {
-        "name": "Thomas",
-        "message": "No need to rush. If you think about why the lady’s getting mad, it’s not like there’s zero chance for you, right?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "What's your reason, huh？"
-    },
-    {
-        "message": "　　　　　　　　The lady is worried about Cordelia. She thinks it'd be a huge problem if people started saying her daughter's a slacker."
-    },
-    {
-        "name": "Thomas",
-        "message": "Is that really true？"
-    },
-    {
-        "message": "　　　　　　いくら貞淑な未亡人だって、何年も独り身じゃ辛いだろ。"
-    },
-    {
-        "name": "Thomas",
-        "message": "Then, a young man showed up from London."
-    },
-    {
-        "message": "　　　　　　どうせ長いこと村にいる訳でもなし、後腐れがねえ。"
-    },
-    {
-        "name": "Thomas",
-        "message": "Wouldn't be strange if you got a bit of a sense of adventure."
-    },
-    {
-        "message": "　　　　　　Are you the type who gets liked by older women？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cut it out already！"
-    },
-    {
-        "message": "　　　　　　　　The lady's not that kind of person."
-    },
-    {
-        "name": "Thomas",
-        "message": "Got it, don't get so worked up."
-    },
-    {
-        "message": "　　　　　　Anyway, just go already, I'll be waiting for you."
-    },
-    {
-        "message": "This room is on the shady backside, so it's weirdly damp and honestly not all that comfortable."
-    },
-    {
-        "message": "Considering the awkward relationship between Thomas and Mrs. Hudson, maybe she gave Thomas this lousy room on purpose."
-    },
-    {
-        "message": "Mrs. Hudson, who's always gentle and doesn't have a trace of slyness, just doesn't seem like the type to do something like that, but I honestly can't think of a reason why she would've gone out of her way to stick Thomas, who'd been staying here at the Fish Scale Inn even before I decided to, in such a lousy room."
-    },
-    {
-        "message": "Thomas's room is just as tidy as he claims to like things clean, everything is neatly organized."
-    },
-    {
-        "message": "そればかりか、この部屋にはトマスが滞在しているという事を伝えるような荷物や衣服の類が一切存在しない。"
-    },
-    {
-        "message": "Is this how his secret society does things?"
-    },
-    {
-        "message": "Even if I try to snoop around the room while Thomas isn't here, there's no way I'd find anything like this."
-    },
-    {
-        "message": "Maybe they keep things light around them so they can disappear at any time."
-    },
-    {
-        "message": "I wonder how Thomas found out there's a brothel in this village."
-    },
-    {
-        "message": "酒場と娼婦と葬儀屋はどんな場所にもあると言うが、誰がトマスにその場所を教えたんだ？"
-    },
-    {
-        "message": "It's not much different from the Bed in my room."
-    },
-    {
-        "message": "It might be a little too small for tall Thomas."
-    },
-    {
-        "message": "The sheet is just as Mrs. Hudson made the bed, neatly arranged without a single wrinkle."
-    },
-    {
-        "message": "He's probably planning to spend the night in the prostitute's room again until morning."
-    },
-    {
-        "message": "No matter how nicely Mrs. Hudson makes the bed, it doesn't mean a thing."
-    },
-    {
-        "message": "Thomas sure puts up with a room as gloomy as this one."
-    },
-    {
-        "message": "It's night now so I can't tell, but since it's at the back of the Fish Scale Inn that's in the shade even during the day, sunlight pretty much never comes in through this window."
-    },
-    {
-        "message": "Doesn't seem like it would make much difference even if the curtain was open."
-    },
-    {
-        "message": "Thomas sure puts up with a lot, being stuck in a room like this."
-    },
-    {
-        "message": "It's an old, worthless table, just like the one in my room."
-    },
-    {
-        "message": "It might've been here as equipment ever since the Fish Scale Inn first opened."
-    },
-    {
-        "message": "私の部屋にある物と大した変わりはない。"
-    },
-    {
-        "message": "It's too high to eat at, and it seems too tall to use as a writing desk."
-    },
-    {
-        "message": "Well, Thomas isn't the type to write things down eagerly, and he probably wouldn't want to eat alone either."
-    },
-    {
-        "message": "Even though there's a Table, you probably hardly use it at all."
-    },
-    {
-        "message": "Something like this is just right for that guy."
-    },
-    {
-        "message": "My own room"
-    }
+  {
+    "message": "Not here."
+  },
+  {
+    "message": "Looks like Thomas still hasn't come back from the brothel."
+  },
+  {
+    "message": "Well, with that body, I bet he's way more energetic than me... He's probably planning to stay all night."
+  },
+  {
+    "name": "Thomas",
+    "message": "That was fast."
+  },
+  {
+    "message": "　　　　　　So, how was it? The taste of a widow?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "You can let your imagination run wild if you want, but Hudson-san is a proper lady, you know."
+  },
+  {
+    "name": "Thomas",
+    "message": "You're still wet behind the ears."
+  },
+  {
+    "message": "　　　　　　Women are all the same, no matter who they are."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Do whatever you want."
+  },
+  {
+    "name": "Thomas",
+    "message": "Well, that stuff can wait till later."
+  },
+  {
+    "message": "　　　　　　If we don't hurry up, the sun's gonna come up."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Where are you planning on taking me？"
+  },
+  {
+    "name": "Thomas",
+    "message": "That's something to look forward to after we get there."
+  },
+  {
+    "message": "　　　　　　Are you feeling okay？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'm totally fine now."
+  },
+  {
+    "name": "Thomas",
+    "message": "That's great."
+  },
+  {
+    "message": "　　　　　　We finally get to have some fun, but the one thing we need most is totally useless... that's just too much."
+  },
+  {
+    "name": "Thomas",
+    "message": "Yo, you alright？"
+  },
+  {
+    "message": "　　　　　　I gotta admit, I was pretty shocked when you collapsed at the monastery."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Did you and the professor carry me？"
+  },
+  {
+    "message": "　　　　　　　　I　really　caused　you　a　lot　of　trouble,　sorry."
+  },
+  {
+    "name": "Thomas",
+    "message": "Nah, don’t worry about it."
+  },
+  {
+    "message": "　　　　　　More importantly, I'm glad I made it in time. I was just about to head out."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Where are you planning to take me？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Whoa, whoa, don't get so worked up."
+  },
+  {
+    "message": "　　　　　　For a shitty countryside, it's not so damn bad after all."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What the hell do you mean, 'It's not all worthless'？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Well then, shall we head out？"
+  },
+  {
+    "message": "　　　　　　If you take it too slow, the sun'll come up before you know it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, I'm a busy guy too."
+  },
+  {
+    "message": "　　　　　　　　If I don't hurry up and get this over with, my body won't last."
+  },
+  {
+    "name": "Thomas",
+    "message": "Well, do you really think it'll go that smoothly？"
+  },
+  {
+    "message": "　　　　　　My gut tells me, you're the type to get hooked pretty hard."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What about？"
+  },
+  {
+    "name": "Thomas",
+    "message": "See ya, wild thing‥‥‥‥‥"
+  },
+  {
+    "message": "　　　　　　Sometimes, being 'the one getting served...' ain't so bad."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I have no idea what you're talking about."
+  },
+  {
+    "name": "Thomas",
+    "message": "Well, it's all good."
+  },
+  {
+    "message": "　　　　　　Alright, let's head out."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Wait a sec, I've got an appointment to meet Mrs. Hudson."
+  },
+  {
+    "name": "Thomas",
+    "message": "You and the lady？"
+  },
+  {
+    "message": "　　　　　　Hey,　hey……　You’re　pretty　good,　aren’t　you?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's not it！"
+  },
+  {
+    "message": "　　　　　　　　The professor mentioned it this morning, right? That his wife was pissed off at me."
+  },
+  {
+    "name": "Thomas",
+    "message": "Ah, that, huh......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It'll be done soon, so just wait for me."
+  },
+  {
+    "name": "Thomas",
+    "message": "No need to rush. If you think about why the lady’s getting mad, it’s not like there’s zero chance for you, right?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "What's your reason, huh？"
+  },
+  {
+    "message": "　　　　　　　　The lady is worried about Cordelia. She thinks it'd be a huge problem if people started saying her daughter's a slacker."
+  },
+  {
+    "name": "Thomas",
+    "message": "Is that really true？"
+  },
+  {
+    "message": "　　　　　　Even a chaste widow, it’s gotta be tough being single for years, right?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Then, a young man showed up from London."
+  },
+  {
+    "message": "　　　　　　It’s not like I’m gonna stick around this village for long anyway, so there’s no strings attached."
+  },
+  {
+    "name": "Thomas",
+    "message": "Wouldn't be strange if you got a bit of a sense of adventure."
+  },
+  {
+    "message": "　　　　　　Are you the type who gets liked by older women？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cut it out already！"
+  },
+  {
+    "message": "　　　　　　　　The lady's not that kind of person."
+  },
+  {
+    "name": "Thomas",
+    "message": "Got it, don't get so worked up."
+  },
+  {
+    "message": "　　　　　　Anyway, just go already, I'll be waiting for you."
+  },
+  {
+    "message": "This room is on the shady backside, so it's weirdly damp and honestly not all that comfortable."
+  },
+  {
+    "message": "Considering the awkward relationship between Thomas and Mrs. Hudson, maybe she gave Thomas this lousy room on purpose."
+  },
+  {
+    "message": "Mrs. Hudson, who's always gentle and doesn't have a trace of slyness, just doesn't seem like the type to do something like that, but I honestly can't think of a reason why she would've gone out of her way to stick Thomas, who'd been staying here at the Fish Scale Inn even before I decided to, in such a lousy room."
+  },
+  {
+    "message": "Thomas's room is just as tidy as he claims to like things clean, everything is neatly organized."
+  },
+  {
+    "message": "Not only that, there’s not a single piece of luggage or clothing that suggests Thomas is staying in this room."
+  },
+  {
+    "message": "Is this how his secret society does things?"
+  },
+  {
+    "message": "Even if I try to snoop around the room while Thomas isn't here, there's no way I'd find anything like this."
+  },
+  {
+    "message": "Maybe they keep things light around them so they can disappear at any time."
+  },
+  {
+    "message": "I wonder how Thomas found out there's a brothel in this village."
+  },
+  {
+    "message": "They say every place has a tavern, a prostitute, and a funeral director, but who told Thomas about those places？"
+  },
+  {
+    "message": "It's not much different from the Bed in my room."
+  },
+  {
+    "message": "It might be a little too small for tall Thomas."
+  },
+  {
+    "message": "The sheet is just as Mrs. Hudson made the bed, neatly arranged without a single wrinkle."
+  },
+  {
+    "message": "He's probably planning to spend the night in the prostitute's room again until morning."
+  },
+  {
+    "message": "No matter how nicely Mrs. Hudson makes the bed, it doesn't mean a thing."
+  },
+  {
+    "message": "Thomas sure puts up with a room as gloomy as this one."
+  },
+  {
+    "message": "It's night now so I can't tell, but since it's at the back of the Fish Scale Inn that's in the shade even during the day, sunlight pretty much never comes in through this window."
+  },
+  {
+    "message": "Doesn't seem like it would make much difference even if the curtain was open."
+  },
+  {
+    "message": "Thomas sure puts up with a lot, being stuck in a room like this."
+  },
+  {
+    "message": "It's an old, worthless table, just like the one in my room."
+  },
+  {
+    "message": "It might've been here as equipment ever since the Fish Scale Inn first opened."
+  },
+  {
+    "message": "There’s not much difference from what’s in my own room."
+  },
+  {
+    "message": "It's too high to eat at, and it seems too tall to use as a writing desk."
+  },
+  {
+    "message": "Well, Thomas isn't the type to write things down eagerly, and he probably wouldn't want to eat alone either."
+  },
+  {
+    "message": "Even though there's a Table, you probably hardly use it at all."
+  },
+  {
+    "message": "Something like this is just right for that guy."
+  },
+  {
+    "message": "My own room"
+  }
 ]

@@ -1,131 +1,131 @@
 [
-    {
-        "message": "I came back in front of Gilman House."
-    },
-    {
-        "message": "As usual, there doesn't seem to be anyone around."
-    },
-    {
-        "message": "In front of the Gilman House."
-    },
-    {
-        "message": "There's no sign of lights on in the windows facing the street, not on the first floor or the ones above. Well, with windows that filthy, there's no way to tell what's going on inside anyway."
-    },
-    {
-        "message": "I stopped my hand as I was about to grab the doorknob and thought about the people upstairs."
-    },
-    {
-        "message": "時間が時間だけに、コーデリアは眠ってしまった可能性が強い。しかし他に行く所がある訳でもなし、二階にいる事は間違いない。"
-    },
-    {
-        "message": "But......"
-    },
-    {
-        "message": "It already feels like someone else's house that I've gotten used to, but barging into her private room without permission makes me feel kinda guilty, like some fickle fisherman sneaking into his mistress's room."
-    },
-    {
-        "message": "When I got to the front of the Pub, it was already over two hours past midnight."
-    },
-    {
-        "message": "店の窓には明かりも見えず、入り口の扉は堅く閉ざされたままになっている。あたりには酔いつぶれて寝ている酔っぱらいの姿はおろか、残飯を漁る犬猫の類さえ見えない。"
-    },
-    {
-        "message": "The faint light of the gas lamp, as if trying to drive away the veil of darkness attempting to cover everything, only makes the desolate back alley feel even more melancholic."
-    },
-    {
-        "message": "まるで私ひとりを残して村人全員がどこかにいってしまったようだ。"
-    },
-    {
-        "message": "Living in London, exhausted by the press of people, it feels like it's been ages since I've felt this empty."
-    },
-    {
-        "message": "On the dead silent street, there wasn’t even a passed-out drunk, not to mention not a single stray dog or cat roaming around trying to get at some leftovers."
-    },
-    {
-        "message": "The shops with their lights out look like abandoned buildings. Their pitch-black windows look like the empty eye sockets of a corpse, and here and there, doorways with broken glass remind me of the wrinkled mouth of a toothless old man."
-    },
-    {
-        "message": "The only place that still looks halfway decent is the Gilman House, but it's hard to imagine it being lively after the store's closed up for the night."
-    },
-    {
-        "message": "確かに、アーカムの中ではモダンですぐれた建造物と言えない事もないが、あまり見ていて楽しい類のものではない。所詮この程度のパブなどどこにでも転がっているのだ。"
-    },
-    {
-        "message": "It's a sturdy and neat building, like one you might have found on the backstreets of London back when horse-drawn carriages were the main way to get around. The discolored brick walls and the rust showing on the metal make the building's old, worn-out vibe feel even more real."
-    },
-    {
-        "message": "The glass window taking up one whole wall seems well maintained, but still, because of the inevitable aging of the material itself, you can't look inside. The way the surface looks wavy is probably due to the crude technology of those days."
-    },
-    {
-        "message": "Despite the building's elaborate construction, the sign's lettering is totally boring."
-    },
-    {
-        "message": "The shop’s owners are a timid elderly couple, and with the architect pushing through his own ideas, it seems like the place ended up completely different from what was originally planned."
-    },
-    {
-        "message": "The store's name is written in plain Gothic letters."
-    },
-    {
-        "message": "Judging from how the paint is peeling up because of the rust, it's probably been left alone for over 10 years."
-    },
-    {
-        "message": "Still, the villagers probably know what kind of shop this is, and outsiders coming to a place like this must be really rare. Makes me question whether there's even any need for a signboard at all."
-    },
-    {
-        "message": "The door's unlocked."
-    },
-    {
-        "message": "I don't know why, but no matter how much I warn them about being careless, country folks just never try to lock up. For someone like me, it feels like we're just handing out gifts to thieves, and it makes me uneasy as hell."
-    },
-    {
-        "message": "I put my hand on the doorknob at the entrance of the shop."
-    },
-    {
-        "message": "The worn-down brass handle feels rough, and it gives off a faint stench, kind of like the smell of blood, from the rust and bare metal beneath the paint."
-    },
-    {
-        "message": "Against my will, the door swung open easily."
-    },
-    {
-        "message": "It's not locked. Looks like someone is inside."
-    },
-    {
-        "message": "Come to think of it, I never did ask where the woman lived."
-    },
-    {
-        "message": "No way she's crashing in a run-down back alley tavern like this... right?"
-    },
-    {
-        "message": "Maybe I should ask Mrs. Hudson......"
-    },
-    {
-        "message": "Since we're both running businesses alone here in Arkham, maybe they're helping each other out with stuff."
-    },
-    {
-        "message": "I wouldn't like it if the lady started getting weird ideas, though......"
-    },
-    {
-        "message": "I mean, a foreign woman running a tavern all by herself in a village like this, it's kinda hard not to get curious, you know?"
-    },
-    {
-        "message": "I've gone way past the promised time-will the woman still be waiting for me? I can't tell what's happening inside from here though......"
-    },
-    {
-        "message": "When we made plans during the day, he didn't seem all that eager, and since I was late, maybe he used that as an excuse and just went home."
-    },
-    {
-        "message": "　　　Plaza　　　"
-    },
-    {
-        "message": "Fish Scale Inn"
-    },
-    {
-        "message": "General store"
-    },
-    {
-        "message": "　　　Ruins　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "message": "I came back in front of Gilman House."
+  },
+  {
+    "message": "As usual, there doesn't seem to be anyone around."
+  },
+  {
+    "message": "In front of the Gilman House."
+  },
+  {
+    "message": "There's no sign of lights on in the windows facing the street, not on the first floor or the ones above. Well, with windows that filthy, there's no way to tell what's going on inside anyway."
+  },
+  {
+    "message": "I stopped my hand as I was about to grab the doorknob and thought about the people upstairs."
+  },
+  {
+    "message": "Given the time, it's pretty likely Cordelia's already fallen asleep. But it's not like she has anywhere else to go, so she's definitely upstairs."
+  },
+  {
+    "message": "But......"
+  },
+  {
+    "message": "It already feels like someone else's house that I've gotten used to, but barging into her private room without permission makes me feel kinda guilty, like some fickle fisherman sneaking into his mistress's room."
+  },
+  {
+    "message": "When I got to the front of the Pub, it was already over two hours past midnight."
+  },
+  {
+    "message": "No light can be seen in the shop's window, and the entrance door remains tightly shut. There isn't a single drunk passed out nearby, not even a stray dog or cat digging through the leftovers."
+  },
+  {
+    "message": "The faint light of the gas lamp, as if trying to drive away the veil of darkness attempting to cover everything, only makes the desolate back alley feel even more melancholic."
+  },
+  {
+    "message": "It's like every villager except me has vanished somewhere and I'm the only one left behind."
+  },
+  {
+    "message": "Living in London, exhausted by the press of people, it feels like it's been ages since I've felt this empty."
+  },
+  {
+    "message": "On the dead silent street, there wasn’t even a passed-out drunk, not to mention not a single stray dog or cat roaming around trying to get at some leftovers."
+  },
+  {
+    "message": "The shops with their lights out look like abandoned buildings. Their pitch-black windows look like the empty eye sockets of a corpse, and here and there, doorways with broken glass remind me of the wrinkled mouth of a toothless old man."
+  },
+  {
+    "message": "The only place that still looks halfway decent is the Gilman House, but it's hard to imagine it being lively after the store's closed up for the night."
+  },
+  {
+    "message": "Sure, you could say it's one of the more modern and outstanding buildings in Arkham, but it's not exactly the kind of thing that's much fun to look at. Pubs like this are all over the place, after all."
+  },
+  {
+    "message": "It's a sturdy and neat building, like one you might have found on the backstreets of London back when horse-drawn carriages were the main way to get around. The discolored brick walls and the rust showing on the metal make the building's old, worn-out vibe feel even more real."
+  },
+  {
+    "message": "The glass window taking up one whole wall seems well maintained, but still, because of the inevitable aging of the material itself, you can't look inside. The way the surface looks wavy is probably due to the crude technology of those days."
+  },
+  {
+    "message": "Despite the building's elaborate construction, the sign's lettering is totally boring."
+  },
+  {
+    "message": "The shop’s owners are a timid elderly couple, and with the architect pushing through his own ideas, it seems like the place ended up completely different from what was originally planned."
+  },
+  {
+    "message": "The store's name is written in plain Gothic letters."
+  },
+  {
+    "message": "Judging from how the paint is peeling up because of the rust, it's probably been left alone for over 10 years."
+  },
+  {
+    "message": "Still, the villagers probably know what kind of shop this is, and outsiders coming to a place like this must be really rare. Makes me question whether there's even any need for a signboard at all."
+  },
+  {
+    "message": "The door's unlocked."
+  },
+  {
+    "message": "I don't know why, but no matter how much I warn them about being careless, country folks just never try to lock up. For someone like me, it feels like we're just handing out gifts to thieves, and it makes me uneasy as hell."
+  },
+  {
+    "message": "I put my hand on the doorknob at the entrance of the shop."
+  },
+  {
+    "message": "The worn-down brass handle feels rough, and it gives off a faint stench, kind of like the smell of blood, from the rust and bare metal beneath the paint."
+  },
+  {
+    "message": "Against my will, the door swung open easily."
+  },
+  {
+    "message": "It's not locked. Looks like someone is inside."
+  },
+  {
+    "message": "Come to think of it, I never did ask where the woman lived."
+  },
+  {
+    "message": "No way she's crashing in a run-down back alley tavern like this... right?"
+  },
+  {
+    "message": "Maybe I should ask Mrs. Hudson......"
+  },
+  {
+    "message": "Since we're both running businesses alone here in Arkham, maybe they're helping each other out with stuff."
+  },
+  {
+    "message": "I wouldn't like it if the lady started getting weird ideas, though......"
+  },
+  {
+    "message": "I mean, a foreign woman running a tavern all by herself in a village like this, it's kinda hard not to get curious, you know?"
+  },
+  {
+    "message": "I've gone way past the promised time-will the woman still be waiting for me? I can't tell what's happening inside from here though......"
+  },
+  {
+    "message": "When we made plans during the day, he didn't seem all that eager, and since I was late, maybe he used that as an excuse and just went home."
+  },
+  {
+    "message": "　　　Plaza　　　"
+  },
+  {
+    "message": "Fish Scale Inn"
+  },
+  {
+    "message": "General store"
+  },
+  {
+    "message": "　　　Ruins　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

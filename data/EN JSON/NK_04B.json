@@ -1,180 +1,180 @@
 [
-    {
-        "message": "In the entrance hall, there are stairs leading upstairs and a door on each side of the room."
-    },
-    {
-        "message": "When you go through the left door, there's a staircase leading down to the basement, and the right door leads to the family living room. The key tucked between the pages of the Necronomicon is probably for the door in the living room that leads to the back room."
-    },
-    {
-        "message": "In the entrance hall, there are stairs going up to the upper floor and one door each on both the left and right sides of the room."
-    },
-    {
-        "message": "Passing through the left door, there are stairs leading down to the basement, and the right door leads to the family living room. The room further back, the one I can't open with the key I have now, is probably Dollie's study."
-    },
-    {
-        "name": "Cordelia",
-        "message": "We have to search all the rooms again, huh."
-    },
-    {
-        "message": "　　　　　　　　I feel like I'm about to pass out."
-    },
-    {
-        "message": "Sure, checking every single room in the Dunwich Mansion is a real pain in the ass."
-    },
-    {
-        "name": "Jonathan",
-        "message": "We probably don't need to check every room."
-    },
-    {
-        "message": "　　　　　　　　I don't think there's much chance they've got the Necronomicon hidden in a kid's room or the basement."
-    },
-    {
-        "name": "Cordelia",
-        "message": "The suspicious places are the living room and that laboratory-like room on the second floor."
-    },
-    {
-        "message": "　　　　　　　　The room at the back of the living room can't be entered because there's no key."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, we also have to look for the key to that door."
-    },
-    {
-        "message": "　　　　　　　　That room is the most suspicious, after all."
-    },
-    {
-        "message": "There's a thick layer of dust on the floor."
-    },
-    {
-        "message": "Other than our footprints, it looks like nobody's walked these halls for at least the past few decades."
-    },
-    {
-        "message": "There aren't any traces of blood here, but as I go around the mansion, I have no choice but to enter the room where that gruesome incident happened, whether I like it or not."
-    },
-    {
-        "message": "We can't find anything except our own footprints."
-    },
-    {
-        "message": "Either way, there's probably no one else who would willingly come into this mansion."
-    },
-    {
-        "name": "Cordelia",
-        "message": "The place we have to check upstairs is the room that looks like a laboratory across from the kids' room."
-    },
-    {
-        "name": "Cordelia",
-        "message": "The desk and shelves are all cluttered with stuff, so wouldn't this be the perfect place to hide something？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "そうだな、あそこなら本や鍵を隠すには絶好の場所か　　　　　　　　もしれない。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Shall we go try it out？"
-    },
-    {
-        "message": "　　　　　　　　The creaking hallway is kinda scary though......"
-    },
-    {
-        "message": "There's a staircase leading to the upper floor."
-    },
-    {
-        "message": "There's a room that belongs to one of Dollie's two daughters, and another room that looks like a laboratory, but it's not clear who used it."
-    },
-    {
-        "message": "Right now, neither of those really matter to me."
-    },
-    {
-        "message": "Our only goal is Dollie's study."
-    },
-    {
-        "message": "It's the hallway to enter the corridor that connects all the rooms on the second floor."
-    },
-    {
-        "message": "Many years have passed since it was built, and because people haven't lived here for a long time, the floor is worn out and looks like it could collapse at any moment."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I think that room on the second floor that looks like a laboratory is suspicious.　　　　　　　　There are all sorts of tools and stuff scattered around in there, so I think it's the perfect place to hide something."
-    },
-    {
-        "name": "Cordelia",
-        "message": "If the Necronomicon really is hidden somewhere in this mansion　　　well, that's another story."
-    },
-    {
-        "message": "There's no particular reason to go upstairs right now."
-    },
-    {
-        "message": "The only goal is Dollie's Study."
-    },
-    {
-        "name": "Cordelia",
-        "message": "The living room, huh........."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Was there any place in that room where you could hide something？"
-    },
-    {
-        "message": "　　　　　　　　小さな机と、クローゼットがあったみたいだけど。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I remember the closet was empty."
-    },
-    {
-        "message": "　　　　　　　　Probably someone who checked the mansion after the incident made off with everything inside."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Guess there wasn't anyone around who could complain about it, either."
-    },
-    {
-        "message": "　　　　　　　　Well then, I wonder if there's no hope for that room."
-    },
-    {
-        "message": "ダニッジ邸の居間に続く扉だ。"
-    },
-    {
-        "message": "Beyond the living room, there's the study that Dollie used."
-    },
-    {
-        "message": "I don't know what Marsh saw in Dollie's study, but I'm sure that room is hiding the whole secret of Arkham that I'm tangled up in right now."
-    },
-    {
-        "name": "Cordelia",
-        "message": "The basement door？"
-    },
-    {
-        "message": "　　　　　　　　Why do we have to go to a place like that."
-    },
-    {
-        "message": "Cordelia seems to hate stepping into the basement."
-    },
-    {
-        "message": "Anyone would hesitate after seeing that awful stench and the stains of old blood..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "That's where Dollie's wife was killed, right？"
-    },
-    {
-        "message": "　　　　　　　　I really don't wanna go there."
-    },
-    {
-        "message": "It's a door with stairs leading to the basement, but....."
-    },
-    {
-        "message": "I'm not interested at all right now."
-    },
-    {
-        "message": "　　Second floor hallway　　"
-    },
-    {
-        "message": "　　　Living room　　　"
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "message": "In the entrance hall, there are stairs leading upstairs and a door on each side of the room."
+  },
+  {
+    "message": "When you go through the left door, there's a staircase leading down to the basement, and the right door leads to the family living room. The key tucked between the pages of the Necronomicon is probably for the door in the living room that leads to the back room."
+  },
+  {
+    "message": "In the entrance hall, there are stairs going up to the upper floor and one door each on both the left and right sides of the room."
+  },
+  {
+    "message": "Passing through the left door, there are stairs leading down to the basement, and the right door leads to the family living room. The room further back, the one I can't open with the key I have now, is probably Dollie's study."
+  },
+  {
+    "name": "Cordelia",
+    "message": "We have to search all the rooms again, huh."
+  },
+  {
+    "message": "　　　　　　　　I feel like I'm about to pass out."
+  },
+  {
+    "message": "Sure, checking every single room in the Dunwich Mansion is a real pain in the ass."
+  },
+  {
+    "name": "Jonathan",
+    "message": "We probably don't need to check every room."
+  },
+  {
+    "message": "　　　　　　　　I don't think there's much chance they've got the Necronomicon hidden in a kid's room or the basement."
+  },
+  {
+    "name": "Cordelia",
+    "message": "The suspicious places are the living room and that laboratory-like room on the second floor."
+  },
+  {
+    "message": "　　　　　　　　The room at the back of the living room can't be entered because there's no key."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, we also have to look for the key to that door."
+  },
+  {
+    "message": "　　　　　　　　That room is the most suspicious, after all."
+  },
+  {
+    "message": "There's a thick layer of dust on the floor."
+  },
+  {
+    "message": "Other than our footprints, it looks like nobody's walked these halls for at least the past few decades."
+  },
+  {
+    "message": "There aren't any traces of blood here, but as I go around the mansion, I have no choice but to enter the room where that gruesome incident happened, whether I like it or not."
+  },
+  {
+    "message": "We can't find anything except our own footprints."
+  },
+  {
+    "message": "Either way, there's probably no one else who would willingly come into this mansion."
+  },
+  {
+    "name": "Cordelia",
+    "message": "The place we have to check upstairs is the room that looks like a laboratory across from the kids' room."
+  },
+  {
+    "name": "Cordelia",
+    "message": "The desk and shelves are all cluttered with stuff, so wouldn't this be the perfect place to hide something？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, that might just be the perfect spot to hide a book or a key."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Shall we go try it out？"
+  },
+  {
+    "message": "　　　　　　　　The creaking hallway is kinda scary though......"
+  },
+  {
+    "message": "There's a staircase leading to the upper floor."
+  },
+  {
+    "message": "There's a room that belongs to one of Dollie's two daughters, and another room that looks like a laboratory, but it's not clear who used it."
+  },
+  {
+    "message": "Right now, neither of those really matter to me."
+  },
+  {
+    "message": "Our only goal is Dollie's study."
+  },
+  {
+    "message": "It's the hallway to enter the corridor that connects all the rooms on the second floor."
+  },
+  {
+    "message": "Many years have passed since it was built, and because people haven't lived here for a long time, the floor is worn out and looks like it could collapse at any moment."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I think that room on the second floor that looks like a laboratory is suspicious.　　　　　　　　There are all sorts of tools and stuff scattered around in there, so I think it's the perfect place to hide something."
+  },
+  {
+    "name": "Cordelia",
+    "message": "If the Necronomicon really is hidden somewhere in this mansion　　　well, that's another story."
+  },
+  {
+    "message": "There's no particular reason to go upstairs right now."
+  },
+  {
+    "message": "The only goal is Dollie's Study."
+  },
+  {
+    "name": "Cordelia",
+    "message": "The living room, huh........."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Was there any place in that room where you could hide something？"
+  },
+  {
+    "message": "　　　　　　　　There was a small desk and what looked like a Closet."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I remember the closet was empty."
+  },
+  {
+    "message": "　　　　　　　　Probably someone who checked the mansion after the incident made off with everything inside."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Guess there wasn't anyone around who could complain about it, either."
+  },
+  {
+    "message": "　　　　　　　　Well then, I wonder if there's no hope for that room."
+  },
+  {
+    "message": "It's the door leading to the living room of the Dunwitch Mansion."
+  },
+  {
+    "message": "Beyond the living room, there's the study that Dollie used."
+  },
+  {
+    "message": "I don't know what Marsh saw in Dollie's study, but I'm sure that room is hiding the whole secret of Arkham that I'm tangled up in right now."
+  },
+  {
+    "name": "Cordelia",
+    "message": "The basement door？"
+  },
+  {
+    "message": "　　　　　　　　Why do we have to go to a place like that."
+  },
+  {
+    "message": "Cordelia seems to hate stepping into the basement."
+  },
+  {
+    "message": "Anyone would hesitate after seeing that awful stench and the stains of old blood..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "That's where Dollie's wife was killed, right？"
+  },
+  {
+    "message": "　　　　　　　　I really don't wanna go there."
+  },
+  {
+    "message": "It's a door with stairs leading to the basement, but....."
+  },
+  {
+    "message": "I'm not interested at all right now."
+  },
+  {
+    "message": "　　Second floor hallway　　"
+  },
+  {
+    "message": "　　　Living room　　　"
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

@@ -1,764 +1,764 @@
 [
-    {
-        "name": "Voice",
-        "message": "Jonathan Swift."
-    },
-    {
-        "name": "Voice",
-        "message": "Who those women are,"
-    },
-    {
-        "name": "Voice",
-        "message": "It's not just that I killed them！"
-    },
-    {
-        "name": "Voice",
-        "message": "Who did all of that？"
-    },
-    {
-        "name": "Voice",
-        "message": "You remembered, Jonathan Swift！"
-    },
-    {
-        "message": "Looks like it's inside the cathedral of the monastery."
-    },
-    {
-        "message": "The faint light of early morning pours into the spacious room through the stained glass."
-    },
-    {
-        "message": "I watch as fine dust dances in the sunlight, and the moisture that had condensed on the walls and floor warms up, melting into the air like ice melting away."
-    },
-    {
-        "message": "The snow that had kept falling until last night seemed to have stopped after midnight, and because of the piled-up snow, the air around is shockingly cold."
-    },
-    {
-        "message": "The nuns huddle together in front of the large window carved into the Cathedral wall, seeking a bit of sunlight, and seem to be talking about something."
-    },
-    {
-        "message": "Only fragmented snippets of those conversations reach my ears."
-    },
-    {
-        "message": "Inside the spacious cathedral that offers a view of every corner, there’s no one else besides a handful of nuns."
-    },
-    {
-        "message": "Even so, as if they were pathologically afraid of being overheard, they deliberately lower their voices, huddle together, and gossip about something."
-    },
-    {
-        "message": "『You guys, have you seen it yet？ It's happening again......』"
-    },
-    {
-        "message": "『Again? But someone just came from another place yesterday, didn't they?』"
-    },
-    {
-        "message": "『I heard those people are spies working under the cardinal.』"
-    },
-    {
-        "message": "『Saying that won't change anything.』"
-    },
-    {
-        "message": "『I just went and saw it.』"
-    },
-    {
-        "message": "『Who is it this time？』"
-    },
-    {
-        "message": "『I didn't see it up close or anything, but... apparently it was Hannah.』"
-    },
-    {
-        "message": "『Isn't Hannah the girl who went missing about half a year ago？』"
-    },
-    {
-        "message": "『I'm scared......I wonder who's next.』"
-    },
-    {
-        "message": "『I wonder how long this kind of thing is going to keep up...........』"
-    },
-    {
-        "message": "The girl lying in the snow doesn't move a muscle, just like a Doll, and her vacant eyes aren't seeing anything."
-    },
-    {
-        "message": "It was probably thrown away sometime last night. Because of the cold, all the blood had left the body long ago, and the bare skin was way whiter than the blood-stained snow around it."
-    },
-    {
-        "message": "But she probably doesn’t even feel the cold anymore, and she doesn’t care at all about the chill of the snow touching her bare skin."
-    },
-    {
-        "message": "That nun was already dead."
-    },
-    {
-        "message": "Something like a rope was used to strangle her neck, and the marks left from the congestion are clear like a collar used to leash an animal."
-    },
-    {
-        "message": "The scars all over the body are definitely evidence of assault."
-    },
-    {
-        "message": "鞭で叩かれた跡と思われる擦過傷と、鋭利な刃物でつけられたあまり深くない切り傷が皮膚の上に無数に点在している。"
-    },
-    {
-        "message": "か細い足首には鉄と皮で作られた足枷の一部がそのまま残り、ひどく暴れたのだろう、周囲の皮膚が擦りむけ、うっすらと血を滲ませている。"
-    },
-    {
-        "message": "The iron chain extending from the leg irons looks like it was cut by something that could sever a thick iron chain, like an axe or something similar."
-    },
-    {
-        "message": "The sight of her legs, still bound in shackles and exposed all the way to her most private parts as they’re thrown out into the snow, would make any modest woman want to shrink away in shame."
-    },
-    {
-        "message": "Of course, she who has already passed away can't do anything like that. The way she's been thrown out into the snow is even kind of erotic."
-    },
-    {
-        "message": "生気を失って虚空を見つめる彼女のその表情は、生前の彼女の姿を知らない私には一層美しく感じられる。"
-    },
-    {
-        "message": "The girl with pure white skin lying in the snow, tinted light pink by her own blood, looks like a carefully crafted work of art."
-    },
-    {
-        "message": "I was shocked at myself for thinking such things."
-    },
-    {
-        "message": "Back then, just seeing a corpse would make me feel so sad..."
-    },
-    {
-        "message": "What the heck happened to me......"
-    },
-    {
-        "name": "Lushion",
-        "message": "絞殺の跡がはっきり残っているのに、顔には苦しんだ　　　　　　　　様子が全くない。サラ、これはどういう事かしら？"
-    },
-    {
-        "name": "Sarah",
-        "message": "That means... she was strangled after she died..."
-    },
-    {
-        "message": "　　　　　Or did you maybe use some kind of drug...?"
-    },
-    {
-        "name": "Lushion",
-        "message": "If they were already dead before being strangled, then marks like this　　　　　　　　wouldn't be left. Also‥‥‥"
-    },
-    {
-        "name": "Lushion",
-        "message": "Look, see? My teeth are kind of reddish, right?"
-    },
-    {
-        "message": "　　　　　　　　This is what a body strangled to death looks like."
-    },
-    {
-        "name": "Sarah",
-        "message": "Lushion-sama......"
-    },
-    {
-        "message": "　　　　　Even　so......this　is　just　too　much."
-    },
-    {
-        "message": "　　　　　To throw me away in the cold snow..."
-    },
-    {
-        "name": "Lushion",
-        "message": "With this, there's no way to tell when or where she was killed.　　　　　　　　The signs of abuse inflicted on her show wildly twisted lust,　　　　　　　　but..."
-    },
-    {
-        "name": "Lushion",
-        "message": "Whoever dumped the corpse here must be terrifyingly calm and incredibly intelligent."
-    },
-    {
-        "name": "Sarah",
-        "message": "リュション様‥‥‥みたいに？"
-    },
-    {
-        "name": "Lushion",
-        "message": "Sarah."
-    },
-    {
-        "name": "Sarah",
-        "message": "I'm sorry... but doing it like this is just too cruel."
-    },
-    {
-        "message": "　　　　　This is an act of desecrating the dead."
-    },
-    {
-        "name": "Lushion",
-        "message": "The snow's been falling nonstop for a while now, so the killer could've dumped the body whenever they wanted. But they picked last night."
-    },
-    {
-        "message": "　　　　　　　　What big thing happened yesterday at this monastery？"
-    },
-    {
-        "name": "Sarah",
-        "message": "...We arrived."
-    },
-    {
-        "name": "Lushion",
-        "message": "On the other side of the monastery, the rough sea is right there-if I threw it in, they’d never find the body..."
-    },
-    {
-        "name": "Lushion",
-        "message": "But the culprit chose this place, even though they'll be found right away come morning. Sarah, what do you make of this？"
-    },
-    {
-        "message": "Sarah and Lushion are kneeling on the snow, having a hushed conversation while the other nuns watch from a distance."
-    },
-    {
-        "message": "The way they're having such an intense conversation in front of a completely naked corpse is so far removed from anything I can imagine, it just looks insane."
-    },
-    {
-        "name": "Lushion",
-        "message": "There are wounds all over my body........."
-    },
-    {
-        "message": "　　　　　　　　Some of them are pretty old. Especially the parts where the shackles were attached, they're festering and starting to fall apart."
-    },
-    {
-        "message": "　　　　　　　　サラ、ここから何が判るかしら？"
-    },
-    {
-        "name": "Sarah",
-        "message": "I was locked up for a really long time..."
-    },
-    {
-        "message": "　　　　　ではこの傷も刃物で切られた痕でしょうか？"
-    },
-    {
-        "name": "Lushion",
-        "message": "This is......"
-    },
-    {
-        "name": "Sarah",
-        "message": "What is it？"
-    },
-    {
-        "name": "Lushion",
-        "message": "Take a look at your belly."
-    },
-    {
-        "message": "　　　　　　　　There are a lot of other little scratch-like things too, right？"
-    },
-    {
-        "name": "Sarah",
-        "message": "Isn't that just a healing cut？"
-    },
-    {
-        "name": "Lushion",
-        "message": "That's not it."
-    },
-    {
-        "message": "　　　　　　　　These are... stretch marks from pregnancy."
-    },
-    {
-        "name": "Sarah",
-        "message": "What's that supposed to mean?"
-    },
-    {
-        "name": "Lushion",
-        "message": "つまりね、お腹の中で赤ちゃんが大きくなると、当然　　　　　　　　母親のお腹もふくれるでしょう？"
-    },
-    {
-        "name": "Lushion",
-        "message": "Because my skin is stretching from my swollen belly, it's getting torn."
-    },
-    {
-        "message": "　　　　　　　　It's a bit different from a cut, but kind of similar."
-    },
-    {
-        "name": "Sarah",
-        "message": "But there's no way a nun could get pregnant with a baby."
-    },
-    {
-        "message": "　　　　　That goes against God's teachings！"
-    },
-    {
-        "name": "Lushion",
-        "message": "Yeah......"
-    },
-    {
-        "message": "　　　　　　　　Let's pray for her."
-    },
-    {
-        "message": "There was a man watching the two kneeling in front of the corpse, from the shadows of nuns standing at a distance."
-    },
-    {
-        "message": "Without even showing any sign of being there, even the nuns around don't seem to notice that someone is standing there......"
-    },
-    {
-        "message": "To the nuns, that man was like air itself."
-    },
-    {
-        "message": "While the man pretends to be indifferent, his eyes stay fixed on Sarah and Lushion without so much as a twitch."
-    },
-    {
-        "message": "It's already shocking enough that there's a man inside the Monastery where men are supposed to be forbidden, but on top of that, I felt like something evil was emanating from his body."
-    },
-    {
-        "name": "Angelica",
-        "message": "Pietro-sama......"
-    },
-    {
-        "name": "Pietro",
-        "message": "Angelica, huh."
-    },
-    {
-        "message": "　　　　　　　I told you not to come near me in front of others."
-    },
-    {
-        "name": "Angelica",
-        "message": "But........"
-    },
-    {
-        "message": "　　　　　　　　　Those two, they're spies sent by the cardinal, or so I hear."
-    },
-    {
-        "name": "Angelica",
-        "message": "If we just leave them alone, it might get troublesome, you know."
-    },
-    {
-        "name": "Pietro",
-        "message": "Don't worry."
-    },
-    {
-        "message": "　　　　　　　There's no way those guys will leave this place alive."
-    },
-    {
-        "name": "Angelica",
-        "message": "Then......"
-    },
-    {
-        "name": "Pietro",
-        "message": "An older woman makes just the right prey, don't you think?"
-    },
-    {
-        "message": "　　　　　　　Looks like the girl hasn't even become a woman yet. It's been a while, so I think I'll have some fun for a change."
-    },
-    {
-        "name": "Angelica",
-        "message": "And what will you do after that？"
-    },
-    {
-        "message": "　　　　　　　　　We can't just leave them inside the place."
-    },
-    {
-        "name": "Pietro",
-        "message": "Hmph, they'll make fine food for the beasts."
-    },
-    {
-        "message": "　　　　　　　A single young girl won't even leave a bone behind."
-    },
-    {
-        "message": "Looks like it's inside the Cathedral."
-    },
-    {
-        "message": "It seems to be during mass, and the nuns are offering prayers."
-    },
-    {
-        "message": "A low male voice echoes off the stone walls, resounding all around. Among the nuns bowing their heads deeply in prayer, Sarah's small figure stands out. Her cheeks, red from the outdoor cold, are even streaked with tears as she prays."
-    },
-    {
-        "message": "But standing beside him, Lushion stares intently at the man on the altar performing the mass, not moving a muscle. He doesn’t join in reciting the prayer, and his lips are pressed together so tightly they've lost all color."
-    },
-    {
-        "name": "Lushion",
-        "message": "If a black person became a priest in England,"
-    },
-    {
-        "message": "　　　　　　　　There's no way this wouldn't make the news."
-    },
-    {
-        "name": "Lushion",
-        "message": "If my memory serves me right, there was nothing in the official records either."
-    },
-    {
-        "message": "　　　　　　　　Is this monastery being guided by a priest from another sect？"
-    },
-    {
-        "name": "Sarah",
-        "message": "《...That poor Hannah..."
-    },
-    {
-        "message": "　　　　　　...They looked really cold..."
-    },
-    {
-        "name": "Lushion",
-        "message": "Even with just that, it's more than enough for a cardinal to step in,"
-    },
-    {
-        "message": "　　　　　　　　What are you thinking... Maria..."
-    },
-    {
-        "name": "Sarah",
-        "message": "《...Lushion said I was pregnant, but I wonder what happened to the baby...》"
-    },
-    {
-        "name": "Lushion",
-        "message": "That face Maria made........"
-    },
-    {
-        "message": "　　　　　　　　It feels like I'm being forced to go through some kind of ordeal."
-    },
-    {
-        "name": "Lushion",
-        "message": "But compared to that, Angelica's face......"
-    },
-    {
-        "name": "Sarah",
-        "message": "(...No way, before even receiving baptism...)"
-    },
-    {
-        "name": "Lushion",
-        "message": "This is definitely not normal."
-    },
-    {
-        "message": "　　　　　　　　There's no doubt that those people are sharing a secret."
-    },
-    {
-        "name": "Sarah",
-        "message": "《No, there's no way God would allow something like that！》"
-    },
-    {
-        "name": "Lushion",
-        "message": "And you're showing that off to me........."
-    },
-    {
-        "name": "Sarah",
-        "message": "《God, please... bring peace to Hannah's soul..."
-    },
-    {
-        "message": "　　　　　　And please protect her baby..."
-    },
-    {
-        "name": "Lushion",
-        "message": "Sarah, you can stop praying now. This mass is a little weird.　　　　　　　　Did you notice？ Take a good look."
-    },
-    {
-        "name": "Sarah",
-        "message": "...This isn't a funeral, huh... Poor Hannah."
-    },
-    {
-        "name": "Lushion",
-        "message": "Sarah... I also think that your best quality is your kind heart. But letting your emotions take over isn’t good. You understand what it is we have to do, right？"
-    },
-    {
-        "name": "Sarah",
-        "message": "Yeah."
-    },
-    {
-        "name": "Lushion",
-        "message": "But yeah, it's weird not to hold a funeral when someone has definitely died, right? I wonder why that is‥‥‥"
-    },
-    {
-        "message": "　　　　　　　　Did you notice anything else？"
-    },
-    {
-        "name": "Sarah",
-        "message": "It's pretty rare to see a black priest, isn't it? It's the first time I've seen one."
-    },
-    {
-        "message": "　　　　　And Maria... is she not feeling well or something？　　　　　She looked so pale..."
-    },
-    {
-        "name": "Lushion",
-        "message": "There shouldn't be any Black Catholic priests in this region.　　　　　　　　If that's the case, then there's a possibility this isn't a mass dedicated to our Lord."
-    },
-    {
-        "name": "Sarah",
-        "message": "Lushion-sama, no way！"
-    },
-    {
-        "name": "Lushion",
-        "message": "Whatever she's doing, it's not what Maria really wants-it's more like Angelica is forcing her, isn't it."
-    },
-    {
-        "name": "Lushion",
-        "message": "It's probably impossible for someone as young as you to figure out their relationship just from their expressions."
-    },
-    {
-        "message": "　　　　　　　　That expressionless fake priest is even more so..."
-    },
-    {
-        "name": "Sarah",
-        "message": "But it sounds like there are other men in this clinic too."
-    },
-    {
-        "message": "　　　　　ピエトロという人で、海の事故で身体の自由を失ったとか。"
-    },
-    {
-        "name": "Sarah",
-        "message": "それで、この修道院の下働きをしているそうです。"
-    },
-    {
-        "name": "Lushion",
-        "message": "What did you say."
-    },
-    {
-        "message": "　　　　　　　　Is that guy just wandering around the hospital doing whatever he wants？"
-    },
-    {
-        "name": "Sarah",
-        "message": "With a body that can't move, you won't be able to do anything, will you?"
-    },
-    {
-        "message": "　　　　　Isn't　there　nothing　wrong　with　it？"
-    },
-    {
-        "name": "Lushion",
-        "message": "What am I doing... Sarah, do you already know things you shouldn't need to know yet...？ Then you get it, right."
-    },
-    {
-        "name": "Lushion",
-        "message": "That female corpse showed signs of being pregnant."
-    },
-    {
-        "message": "　　　　　　　　You can't get pregnant with just women."
-    },
-    {
-        "name": "Sarah",
-        "message": "Are you going to look into Sister Angelica？"
-    },
-    {
-        "name": "Lushion",
-        "message": "That's pointless. Angelica's always been a sharp woman since forever."
-    },
-    {
-        "name": "Lushion",
-        "message": "More importantly, it’d be easier to make Maria spill the beans."
-    },
-    {
-        "name": "Sarah",
-        "message": "Well then........."
-    },
-    {
-        "name": "Lushion",
-        "message": "Let's try meeting just the two of us, Maria."
-    },
-    {
-        "message": "　　　　　　　　Looks like I'll finish up my work at this clinic faster than I thought."
-    },
-    {
-        "name": "Black priest",
-        "message": "What are you planning to do？"
-    },
-    {
-        "message": "　　　　　　　　This　isn't　gonna　turn　into　a　pain,　is　it?"
-    },
-    {
-        "name": "Pietro",
-        "message": "Don't worry."
-    },
-    {
-        "message": "　　　　　　　What　could　a　woman　like　her　even　do?"
-    },
-    {
-        "name": "Black priest",
-        "message": "Are you sure it's okay to be so relaxed about this?"
-    },
-    {
-        "message": "　　　　　　　　Even after causing this many casualties, the experiment still hasn't succeeded, right？"
-    },
-    {
-        "name": "Pietro",
-        "message": "He's actually a pretty timid guy."
-    },
-    {
-        "message": "　　　　　　　That's pretty different from what my cousin told me."
-    },
-    {
-        "name": "Black priest",
-        "message": "You're just the one who's not normal."
-    },
-    {
-        "message": "　　　　　　　　To　think　of　something　like　this,　it's　almost　devilish."
-    },
-    {
-        "name": "Pietro",
-        "message": "To hear that coming from your mouth, huh."
-    },
-    {
-        "message": "　　　　　　　From you, a non-human monster."
-    },
-    {
-        "message": "It looks like the director's office where the two were first led when they came to the convent."
-    },
-    {
-        "message": "The nun superior called Maria is sitting at the desk with her head down, silent."
-    },
-    {
-        "message": "Lushion is bending over her, pressing down almost on top of her head, whispering something into Maria's ear."
-    },
-    {
-        "name": "Lushion",
-        "message": "It's true, just like you said, I'm a secret agent for the Cardinal.　　　　　　　　And knowing there was something shady going on here, I　　　　　　　　came to this place."
-    },
-    {
-        "name": "Maria",
-        "message": "‥‥‥‥‥‥"
-    },
-    {
-        "name": "Lushion",
-        "message": "どうかお話し下さい、シスター・マリア。"
-    },
-    {
-        "name": "Maria",
-        "message": "‥‥‥‥‥‥"
-    },
-    {
-        "name": "Lushion",
-        "message": "Maria... it's better if I just tell you everything now！"
-    },
-    {
-        "message": "　　　　　　　　I know Angelica is threatening you and forcing you to help her, right？"
-    },
-    {
-        "name": "Lushion",
-        "message": "The cardinal won't blame you either."
-    },
-    {
-        "message": "　　　　　　　　Come on, tell me everything."
-    },
-    {
-        "name": "Maria",
-        "message": "...I'm not worried about myself."
-    },
-    {
-        "message": "　　　　　　I don't want to be treated like a fool, not even by you."
-    },
-    {
-        "name": "Lushion",
-        "message": "I know that much..."
-    },
-    {
-        "message": "　　　　　　　　But if things stay like this, it's only going to get worse."
-    },
-    {
-        "name": "Lushion",
-        "message": "Even with my power and the Cardinal's, there's nothing we could do, you know？　　　　　　　　If it comes to that, it won't just be a problem for this institution."
-    },
-    {
-        "name": "Maria",
-        "message": "‥‥‥‥‥‥‥‥‥"
-    },
-    {
-        "name": "Lushion",
-        "message": "マリア！"
-    },
-    {
-        "name": "Maria",
-        "message": "You still hate me, don't you？"
-    },
-    {
-        "message": "　　　　　　It's been more than ten years since then, but you still haven't forgotten."
-    },
-    {
-        "name": "Lushion",
-        "message": "What are you talking about？"
-    },
-    {
-        "message": "　　　　　　　　Right　now,　stuff　like　that　doesn't　matter,　does　it?"
-    },
-    {
-        "name": "Maria",
-        "message": "It's not 'whatever' to me."
-    },
-    {
-        "message": "　　　　　　You　probably　have　no　idea　how　much　I've　suffered　since　I　reported　you‥‥‥‥"
-    },
-    {
-        "name": "Lushion",
-        "message": "Get a grip already！"
-    },
-    {
-        "message": "　　　　　　　　Yeah,　that's　right...　I　still　hate　you　even　now！"
-    },
-    {
-        "name": "Lushion",
-        "message": "Of course, right？"
-    },
-    {
-        "message": "　　　　　　　　If you hadn’t snitched back then......"
-    },
-    {
-        "name": "Lushion",
-        "message": "I quit being a nun a long time ago."
-    },
-    {
-        "message": "　　　　　　　　If only I’d had the baby back then."
-    },
-    {
-        "name": "Maria",
-        "message": "Ah, Lushion......"
-    },
-    {
-        "name": "Lushion",
-        "message": "Do you have any idea what it means to be pregnant with a child？"
-    },
-    {
-        "message": "　　　　　　　　For half a year, the child I cherished and raised inside my own womb..."
-    },
-    {
-        "name": "Lushion",
-        "message": "Why do you say you have to get an abortion？"
-    },
-    {
-        "message": "　　　　　　　　I beat Angelica."
-    },
-    {
-        "name": "Lushion",
-        "message": "My only dream was to bear the High Priest's child and become his wife！"
-    },
-    {
-        "name": "Maria",
-        "message": "......You won't forgive me, huh."
-    },
-    {
-        "name": "Lushion",
-        "message": "Yeah, I won't forgive you！"
-    },
-    {
-        "message": "　　　　　　　　I'll probably never forget about you."
-    },
-    {
-        "name": "Maria",
-        "message": "‥‥‥‥‥‥‥‥"
-    },
-    {
-        "name": "Lushion",
-        "message": "Just say it, Maria."
-    },
-    {
-        "message": "　　　　　　　　What's going on in this institute?"
-    },
-    {
-        "name": "Maria",
-        "message": "No... You were still able to abort your baby, but... the ones made inside this facility..."
-    },
-    {
-        "name": "Lushion",
-        "message": "Are you saying I can't get rid of it anymore？"
-    },
-    {
-        "message": "　　　　　　　　We've come to a point of no return."
-    },
-    {
-        "name": "Maria",
-        "message": "That's right."
-    },
-    {
-        "message": "　　　　　　If it comes down to begging for my life, I'd rather die here along with this facility."
-    },
-    {
-        "name": "Lushion",
-        "message": "Got it."
-    },
-    {
-        "message": "　　　　　　　　I can't save you anymore."
-    },
-    {
-        "name": "Maria",
-        "message": "You should leave this place right now, together with that girl.                If you don't......"
-    },
-    {
-        "name": "Lushion",
-        "message": "I've had enough of your nonsense."
-    },
-    {
-        "name": "Lushion",
-        "message": "Excuse me, Sister Maria......"
-    }
+  {
+    "name": "Voice",
+    "message": "Jonathan Swift."
+  },
+  {
+    "name": "Voice",
+    "message": "Who those women are,"
+  },
+  {
+    "name": "Voice",
+    "message": "It's not just that I killed them！"
+  },
+  {
+    "name": "Voice",
+    "message": "Who did all of that？"
+  },
+  {
+    "name": "Voice",
+    "message": "You remembered, Jonathan Swift！"
+  },
+  {
+    "message": "Looks like it's inside the cathedral of the monastery."
+  },
+  {
+    "message": "The faint light of early morning pours into the spacious room through the stained glass."
+  },
+  {
+    "message": "I watch as fine dust dances in the sunlight, and the moisture that had condensed on the walls and floor warms up, melting into the air like ice melting away."
+  },
+  {
+    "message": "The snow that had kept falling until last night seemed to have stopped after midnight, and because of the piled-up snow, the air around is shockingly cold."
+  },
+  {
+    "message": "The nuns huddle together in front of the large window carved into the Cathedral wall, seeking a bit of sunlight, and seem to be talking about something."
+  },
+  {
+    "message": "Only fragmented snippets of those conversations reach my ears."
+  },
+  {
+    "message": "Inside the spacious cathedral that offers a view of every corner, there’s no one else besides a handful of nuns."
+  },
+  {
+    "message": "Even so, as if they were pathologically afraid of being overheard, they deliberately lower their voices, huddle together, and gossip about something."
+  },
+  {
+    "message": "『You guys, have you seen it yet？ It's happening again......』"
+  },
+  {
+    "message": "『Again? But someone just came from another place yesterday, didn't they?』"
+  },
+  {
+    "message": "『I heard those people are spies working under the cardinal.』"
+  },
+  {
+    "message": "『Saying that won't change anything.』"
+  },
+  {
+    "message": "『I just went and saw it.』"
+  },
+  {
+    "message": "『Who is it this time？』"
+  },
+  {
+    "message": "『I didn't see it up close or anything, but... apparently it was Hannah.』"
+  },
+  {
+    "message": "『Isn't Hannah the girl who went missing about half a year ago？』"
+  },
+  {
+    "message": "『I'm scared......I wonder who's next.』"
+  },
+  {
+    "message": "『I wonder how long this kind of thing is going to keep up...........』"
+  },
+  {
+    "message": "The girl lying in the snow doesn't move a muscle, just like a Doll, and her vacant eyes aren't seeing anything."
+  },
+  {
+    "message": "It was probably thrown away sometime last night. Because of the cold, all the blood had left the body long ago, and the bare skin was way whiter than the blood-stained snow around it."
+  },
+  {
+    "message": "But she probably doesn’t even feel the cold anymore, and she doesn’t care at all about the chill of the snow touching her bare skin."
+  },
+  {
+    "message": "That nun was already dead."
+  },
+  {
+    "message": "Something like a rope was used to strangle her neck, and the marks left from the congestion are clear like a collar used to leash an animal."
+  },
+  {
+    "message": "The scars all over the body are definitely evidence of assault."
+  },
+  {
+    "message": "There are countless abrasions that look like marks from being struck by a whip, and shallow cuts made by something sharp like a blade scattered across the skin."
+  },
+  {
+    "message": "On her slender ankle, a piece of leg irons made of iron and leather was still left, and she must have struggled violently, as the skin around it was abraded and faintly oozing blood."
+  },
+  {
+    "message": "The iron chain extending from the leg irons looks like it was cut by something that could sever a thick iron chain, like an axe or something similar."
+  },
+  {
+    "message": "The sight of her legs, still bound in shackles and exposed all the way to her most private parts as they’re thrown out into the snow, would make any modest woman want to shrink away in shame."
+  },
+  {
+    "message": "Of course, she who has already passed away can't do anything like that. The way she's been thrown out into the snow is even kind of erotic."
+  },
+  {
+    "message": "Her expression, gazing vacantly with all life drained from her, looks all the more beautiful to me, who never knew her in life."
+  },
+  {
+    "message": "The girl with pure white skin lying in the snow, tinted light pink by her own blood, looks like a carefully crafted work of art."
+  },
+  {
+    "message": "I was shocked at myself for thinking such things."
+  },
+  {
+    "message": "Back then, just seeing a corpse would make me feel so sad..."
+  },
+  {
+    "message": "What the heck happened to me......"
+  },
+  {
+    "name": "Lushion",
+    "message": "Even though there are clear marks of strangulation left, there's no sign at all of suffering on the face. Sarah, what do you think this means？"
+  },
+  {
+    "name": "Sarah",
+    "message": "That means... she was strangled after she died..."
+  },
+  {
+    "message": "　　　　　Or did you maybe use some kind of drug...?"
+  },
+  {
+    "name": "Lushion",
+    "message": "If they were already dead before being strangled, then marks like this　　　　　　　　wouldn't be left. Also‥‥‥"
+  },
+  {
+    "name": "Lushion",
+    "message": "Look, see? My teeth are kind of reddish, right?"
+  },
+  {
+    "message": "　　　　　　　　This is what a body strangled to death looks like."
+  },
+  {
+    "name": "Sarah",
+    "message": "Lushion-sama......"
+  },
+  {
+    "message": "　　　　　Even　so......this　is　just　too　much."
+  },
+  {
+    "message": "　　　　　To throw me away in the cold snow..."
+  },
+  {
+    "name": "Lushion",
+    "message": "With this, there's no way to tell when or where she was killed.　　　　　　　　The signs of abuse inflicted on her show wildly twisted lust,　　　　　　　　but..."
+  },
+  {
+    "name": "Lushion",
+    "message": "Whoever dumped the corpse here must be terrifyingly calm and incredibly intelligent."
+  },
+  {
+    "name": "Sarah",
+    "message": "Like... Lushion-sama...？"
+  },
+  {
+    "name": "Lushion",
+    "message": "Sarah."
+  },
+  {
+    "name": "Sarah",
+    "message": "I'm sorry... but doing it like this is just too cruel."
+  },
+  {
+    "message": "　　　　　This is an act of desecrating the dead."
+  },
+  {
+    "name": "Lushion",
+    "message": "The snow's been falling nonstop for a while now, so the killer could've dumped the body whenever they wanted. But they picked last night."
+  },
+  {
+    "message": "　　　　　　　　What big thing happened yesterday at this monastery？"
+  },
+  {
+    "name": "Sarah",
+    "message": "...We arrived."
+  },
+  {
+    "name": "Lushion",
+    "message": "On the other side of the monastery, the rough sea is right there-if I threw it in, they’d never find the body..."
+  },
+  {
+    "name": "Lushion",
+    "message": "But the culprit chose this place, even though they'll be found right away come morning. Sarah, what do you make of this？"
+  },
+  {
+    "message": "Sarah and Lushion are kneeling on the snow, having a hushed conversation while the other nuns watch from a distance."
+  },
+  {
+    "message": "The way they're having such an intense conversation in front of a completely naked corpse is so far removed from anything I can imagine, it just looks insane."
+  },
+  {
+    "name": "Lushion",
+    "message": "There are wounds all over my body........."
+  },
+  {
+    "message": "　　　　　　　　Some of them are pretty old. Especially the parts where the shackles were attached, they're festering and starting to fall apart."
+  },
+  {
+    "message": "　　　　　　　　Sarah, can you tell what we can see from here？"
+  },
+  {
+    "name": "Sarah",
+    "message": "I was locked up for a really long time..."
+  },
+  {
+    "message": "　　　　　So is this wound also a mark from being cut with a blade？"
+  },
+  {
+    "name": "Lushion",
+    "message": "This is......"
+  },
+  {
+    "name": "Sarah",
+    "message": "What is it？"
+  },
+  {
+    "name": "Lushion",
+    "message": "Take a look at your belly."
+  },
+  {
+    "message": "　　　　　　　　There are a lot of other little scratch-like things too, right？"
+  },
+  {
+    "name": "Sarah",
+    "message": "Isn't that just a healing cut？"
+  },
+  {
+    "name": "Lushion",
+    "message": "That's not it."
+  },
+  {
+    "message": "　　　　　　　　These are... stretch marks from pregnancy."
+  },
+  {
+    "name": "Sarah",
+    "message": "What's that supposed to mean?"
+  },
+  {
+    "name": "Lushion",
+    "message": "So, you see, when a baby grows inside the belly, of course　　　　　　　　the mother's stomach gets bigger too, right？"
+  },
+  {
+    "name": "Lushion",
+    "message": "Because my skin is stretching from my swollen belly, it's getting torn."
+  },
+  {
+    "message": "　　　　　　　　It's a bit different from a cut, but kind of similar."
+  },
+  {
+    "name": "Sarah",
+    "message": "But there's no way a nun could get pregnant with a baby."
+  },
+  {
+    "message": "　　　　　That goes against God's teachings！"
+  },
+  {
+    "name": "Lushion",
+    "message": "Yeah......"
+  },
+  {
+    "message": "　　　　　　　　Let's pray for her."
+  },
+  {
+    "message": "There was a man watching the two kneeling in front of the corpse, from the shadows of nuns standing at a distance."
+  },
+  {
+    "message": "Without even showing any sign of being there, even the nuns around don't seem to notice that someone is standing there......"
+  },
+  {
+    "message": "To the nuns, that man was like air itself."
+  },
+  {
+    "message": "While the man pretends to be indifferent, his eyes stay fixed on Sarah and Lushion without so much as a twitch."
+  },
+  {
+    "message": "It's already shocking enough that there's a man inside the Monastery where men are supposed to be forbidden, but on top of that, I felt like something evil was emanating from his body."
+  },
+  {
+    "name": "Angelica",
+    "message": "Pietro-sama......"
+  },
+  {
+    "name": "Pietro",
+    "message": "Angelica, huh."
+  },
+  {
+    "message": "　　　　　　　I told you not to come near me in front of others."
+  },
+  {
+    "name": "Angelica",
+    "message": "But........"
+  },
+  {
+    "message": "　　　　　　　　　Those two, they're spies sent by the cardinal, or so I hear."
+  },
+  {
+    "name": "Angelica",
+    "message": "If we just leave them alone, it might get troublesome, you know."
+  },
+  {
+    "name": "Pietro",
+    "message": "Don't worry."
+  },
+  {
+    "message": "　　　　　　　There's no way those guys will leave this place alive."
+  },
+  {
+    "name": "Angelica",
+    "message": "Then......"
+  },
+  {
+    "name": "Pietro",
+    "message": "An older woman makes just the right prey, don't you think?"
+  },
+  {
+    "message": "　　　　　　　Looks like the girl hasn't even become a woman yet. It's been a while, so I think I'll have some fun for a change."
+  },
+  {
+    "name": "Angelica",
+    "message": "And what will you do after that？"
+  },
+  {
+    "message": "　　　　　　　　　We can't just leave them inside the place."
+  },
+  {
+    "name": "Pietro",
+    "message": "Hmph, they'll make fine food for the beasts."
+  },
+  {
+    "message": "　　　　　　　A single young girl won't even leave a bone behind."
+  },
+  {
+    "message": "Looks like it's inside the Cathedral."
+  },
+  {
+    "message": "It seems to be during mass, and the nuns are offering prayers."
+  },
+  {
+    "message": "A low male voice echoes off the stone walls, resounding all around. Among the nuns bowing their heads deeply in prayer, Sarah's small figure stands out. Her cheeks, red from the outdoor cold, are even streaked with tears as she prays."
+  },
+  {
+    "message": "But standing beside him, Lushion stares intently at the man on the altar performing the mass, not moving a muscle. He doesn’t join in reciting the prayer, and his lips are pressed together so tightly they've lost all color."
+  },
+  {
+    "name": "Lushion",
+    "message": "If a black person became a priest in England,"
+  },
+  {
+    "message": "　　　　　　　　There's no way this wouldn't make the news."
+  },
+  {
+    "name": "Lushion",
+    "message": "If my memory serves me right, there was nothing in the official records either."
+  },
+  {
+    "message": "　　　　　　　　Is this monastery being guided by a priest from another sect？"
+  },
+  {
+    "name": "Sarah",
+    "message": "《...That poor Hannah..."
+  },
+  {
+    "message": "　　　　　　...They looked really cold..."
+  },
+  {
+    "name": "Lushion",
+    "message": "Even with just that, it's more than enough for a cardinal to step in,"
+  },
+  {
+    "message": "　　　　　　　　What are you thinking... Maria..."
+  },
+  {
+    "name": "Sarah",
+    "message": "《...Lushion said I was pregnant, but I wonder what happened to the baby...》"
+  },
+  {
+    "name": "Lushion",
+    "message": "That face Maria made........"
+  },
+  {
+    "message": "　　　　　　　　It feels like I'm being forced to go through some kind of ordeal."
+  },
+  {
+    "name": "Lushion",
+    "message": "But compared to that, Angelica's face......"
+  },
+  {
+    "name": "Sarah",
+    "message": "(...No way, before even receiving baptism...)"
+  },
+  {
+    "name": "Lushion",
+    "message": "This is definitely not normal."
+  },
+  {
+    "message": "　　　　　　　　There's no doubt that those people are sharing a secret."
+  },
+  {
+    "name": "Sarah",
+    "message": "《No, there's no way God would allow something like that！》"
+  },
+  {
+    "name": "Lushion",
+    "message": "And you're showing that off to me........."
+  },
+  {
+    "name": "Sarah",
+    "message": "《God, please... bring peace to Hannah's soul..."
+  },
+  {
+    "message": "　　　　　　And please protect her baby..."
+  },
+  {
+    "name": "Lushion",
+    "message": "Sarah, you can stop praying now. This mass is a little weird.　　　　　　　　Did you notice？ Take a good look."
+  },
+  {
+    "name": "Sarah",
+    "message": "...This isn't a funeral, huh... Poor Hannah."
+  },
+  {
+    "name": "Lushion",
+    "message": "Sarah... I also think that your best quality is your kind heart. But letting your emotions take over isn’t good. You understand what it is we have to do, right？"
+  },
+  {
+    "name": "Sarah",
+    "message": "Yeah."
+  },
+  {
+    "name": "Lushion",
+    "message": "But yeah, it's weird not to hold a funeral when someone has definitely died, right? I wonder why that is‥‥‥"
+  },
+  {
+    "message": "　　　　　　　　Did you notice anything else？"
+  },
+  {
+    "name": "Sarah",
+    "message": "It's pretty rare to see a black priest, isn't it? It's the first time I've seen one."
+  },
+  {
+    "message": "　　　　　And Maria... is she not feeling well or something？　　　　　She looked so pale..."
+  },
+  {
+    "name": "Lushion",
+    "message": "There shouldn't be any Black Catholic priests in this region.　　　　　　　　If that's the case, then there's a possibility this isn't a mass dedicated to our Lord."
+  },
+  {
+    "name": "Sarah",
+    "message": "Lushion-sama, no way！"
+  },
+  {
+    "name": "Lushion",
+    "message": "Whatever she's doing, it's not what Maria really wants-it's more like Angelica is forcing her, isn't it."
+  },
+  {
+    "name": "Lushion",
+    "message": "It's probably impossible for someone as young as you to figure out their relationship just from their expressions."
+  },
+  {
+    "message": "　　　　　　　　That expressionless fake priest is even more so..."
+  },
+  {
+    "name": "Sarah",
+    "message": "But it sounds like there are other men in this clinic too."
+  },
+  {
+    "message": "　　　　　A guy named Pietro, apparently lost control of his body in a shipwreck or something."
+  },
+  {
+    "name": "Sarah",
+    "message": "So, I hear he's been working as a servant here at the monastery."
+  },
+  {
+    "name": "Lushion",
+    "message": "What did you say."
+  },
+  {
+    "message": "　　　　　　　　Is that guy just wandering around the hospital doing whatever he wants？"
+  },
+  {
+    "name": "Sarah",
+    "message": "With a body that can't move, you won't be able to do anything, will you?"
+  },
+  {
+    "message": "　　　　　Isn't　there　nothing　wrong　with　it？"
+  },
+  {
+    "name": "Lushion",
+    "message": "What am I doing... Sarah, do you already know things you shouldn't need to know yet...？ Then you get it, right."
+  },
+  {
+    "name": "Lushion",
+    "message": "That female corpse showed signs of being pregnant."
+  },
+  {
+    "message": "　　　　　　　　You can't get pregnant with just women."
+  },
+  {
+    "name": "Sarah",
+    "message": "Are you going to look into Sister Angelica？"
+  },
+  {
+    "name": "Lushion",
+    "message": "That's pointless. Angelica's always been a sharp woman since forever."
+  },
+  {
+    "name": "Lushion",
+    "message": "More importantly, it’d be easier to make Maria spill the beans."
+  },
+  {
+    "name": "Sarah",
+    "message": "Well then........."
+  },
+  {
+    "name": "Lushion",
+    "message": "Let's try meeting just the two of us, Maria."
+  },
+  {
+    "message": "　　　　　　　　Looks like I'll finish up my work at this clinic faster than I thought."
+  },
+  {
+    "name": "Black priest",
+    "message": "What are you planning to do？"
+  },
+  {
+    "message": "　　　　　　　　This　isn't　gonna　turn　into　a　pain,　is　it?"
+  },
+  {
+    "name": "Pietro",
+    "message": "Don't worry."
+  },
+  {
+    "message": "　　　　　　　What　could　a　woman　like　her　even　do?"
+  },
+  {
+    "name": "Black priest",
+    "message": "Are you sure it's okay to be so relaxed about this?"
+  },
+  {
+    "message": "　　　　　　　　Even after causing this many casualties, the experiment still hasn't succeeded, right？"
+  },
+  {
+    "name": "Pietro",
+    "message": "He's actually a pretty timid guy."
+  },
+  {
+    "message": "　　　　　　　That's pretty different from what my cousin told me."
+  },
+  {
+    "name": "Black priest",
+    "message": "You're just the one who's not normal."
+  },
+  {
+    "message": "　　　　　　　　To　think　of　something　like　this,　it's　almost　devilish."
+  },
+  {
+    "name": "Pietro",
+    "message": "To hear that coming from your mouth, huh."
+  },
+  {
+    "message": "　　　　　　　From you, a non-human monster."
+  },
+  {
+    "message": "It looks like the director's office where the two were first led when they came to the convent."
+  },
+  {
+    "message": "The nun superior called Maria is sitting at the desk with her head down, silent."
+  },
+  {
+    "message": "Lushion is bending over her, pressing down almost on top of her head, whispering something into Maria's ear."
+  },
+  {
+    "name": "Lushion",
+    "message": "It's true, just like you said, I'm a secret agent for the Cardinal.　　　　　　　　And knowing there was something shady going on here, I　　　　　　　　came to this place."
+  },
+  {
+    "name": "Maria",
+    "message": "‥‥‥‥‥‥"
+  },
+  {
+    "name": "Lushion",
+    "message": "Please, Sister Maria, won't you talk to us?"
+  },
+  {
+    "name": "Maria",
+    "message": "‥‥‥‥‥‥"
+  },
+  {
+    "name": "Lushion",
+    "message": "Maria... it's better if I just tell you everything now！"
+  },
+  {
+    "message": "　　　　　　　　I know Angelica is threatening you and forcing you to help her, right？"
+  },
+  {
+    "name": "Lushion",
+    "message": "The cardinal won't blame you either."
+  },
+  {
+    "message": "　　　　　　　　Come on, tell me everything."
+  },
+  {
+    "name": "Maria",
+    "message": "...I'm not worried about myself."
+  },
+  {
+    "message": "　　　　　　I don't want to be treated like a fool, not even by you."
+  },
+  {
+    "name": "Lushion",
+    "message": "I know that much..."
+  },
+  {
+    "message": "　　　　　　　　But if things stay like this, it's only going to get worse."
+  },
+  {
+    "name": "Lushion",
+    "message": "Even with my power and the Cardinal's, there's nothing we could do, you know？　　　　　　　　If it comes to that, it won't just be a problem for this institution."
+  },
+  {
+    "name": "Maria",
+    "message": "‥‥‥‥‥‥‥‥‥"
+  },
+  {
+    "name": "Lushion",
+    "message": "Maria！"
+  },
+  {
+    "name": "Maria",
+    "message": "You still hate me, don't you？"
+  },
+  {
+    "message": "　　　　　　It's been more than ten years since then, but you still haven't forgotten."
+  },
+  {
+    "name": "Lushion",
+    "message": "What are you talking about？"
+  },
+  {
+    "message": "　　　　　　　　Right　now,　stuff　like　that　doesn't　matter,　does　it?"
+  },
+  {
+    "name": "Maria",
+    "message": "It's not 'whatever' to me."
+  },
+  {
+    "message": "　　　　　　You　probably　have　no　idea　how　much　I've　suffered　since　I　reported　you‥‥‥‥"
+  },
+  {
+    "name": "Lushion",
+    "message": "Get a grip already！"
+  },
+  {
+    "message": "　　　　　　　　Yeah,　that's　right...　I　still　hate　you　even　now！"
+  },
+  {
+    "name": "Lushion",
+    "message": "Of course, right？"
+  },
+  {
+    "message": "　　　　　　　　If you hadn’t snitched back then......"
+  },
+  {
+    "name": "Lushion",
+    "message": "I quit being a nun a long time ago."
+  },
+  {
+    "message": "　　　　　　　　If only I’d had the baby back then."
+  },
+  {
+    "name": "Maria",
+    "message": "Ah, Lushion......"
+  },
+  {
+    "name": "Lushion",
+    "message": "Do you have any idea what it means to be pregnant with a child？"
+  },
+  {
+    "message": "　　　　　　　　For half a year, the child I cherished and raised inside my own womb..."
+  },
+  {
+    "name": "Lushion",
+    "message": "Why do you say you have to get an abortion？"
+  },
+  {
+    "message": "　　　　　　　　I beat Angelica."
+  },
+  {
+    "name": "Lushion",
+    "message": "My only dream was to bear the High Priest's child and become his wife！"
+  },
+  {
+    "name": "Maria",
+    "message": "......You won't forgive me, huh."
+  },
+  {
+    "name": "Lushion",
+    "message": "Yeah, I won't forgive you！"
+  },
+  {
+    "message": "　　　　　　　　I'll probably never forget about you."
+  },
+  {
+    "name": "Maria",
+    "message": "‥‥‥‥‥‥‥‥"
+  },
+  {
+    "name": "Lushion",
+    "message": "Just say it, Maria."
+  },
+  {
+    "message": "　　　　　　　　What's going on in this institute?"
+  },
+  {
+    "name": "Maria",
+    "message": "No... You were still able to abort your baby, but... the ones made inside this facility..."
+  },
+  {
+    "name": "Lushion",
+    "message": "Are you saying I can't get rid of it anymore？"
+  },
+  {
+    "message": "　　　　　　　　We've come to a point of no return."
+  },
+  {
+    "name": "Maria",
+    "message": "That's right."
+  },
+  {
+    "message": "　　　　　　If it comes down to begging for my life, I'd rather die here along with this facility."
+  },
+  {
+    "name": "Lushion",
+    "message": "Got it."
+  },
+  {
+    "message": "　　　　　　　　I can't save you anymore."
+  },
+  {
+    "name": "Maria",
+    "message": "You should leave this place right now, together with that girl.                If you don't......"
+  },
+  {
+    "name": "Lushion",
+    "message": "I've had enough of your nonsense."
+  },
+  {
+    "name": "Lushion",
+    "message": "Excuse me, Sister Maria......"
+  }
 ]

@@ -1,90 +1,90 @@
 [
-    {
-        "name": "Thomas",
-        "message": "What, you still want something?"
-    },
-    {
-        "message": "　　　　　　Let's hurry up. It's freezing here and I can't stand it."
-    },
-    {
-        "message": "Thomas said that like he wasn't amused at all."
-    },
-    {
-        "message": "Even for me, the cold here gets to me a bit. The only one happy as a fish in water is Gardner."
-    },
-    {
-        "message": "私はハドスン夫人に言われたとおりに、舗装されたメインストリートを海に向けて歩いた。程なくして濃厚な潮のかおりが漂い、海を望む丘陵に出た。"
-    },
-    {
-        "message": "Not even shrubs grow on the hills that take the sea wind head-on; there’s just patches of withered winter weeds here and there."
-    },
-    {
-        "message": "On top of a cliff jutting out even further into the sea than where I am, I can definitely see a group of unusually old buildings. That must be, without a doubt, the Ruins Gardner was talking about."
-    },
-    {
-        "message": "やかましく鳴くかもめの姿さえ見えない。鳥さえ通わぬとはまさにこの事であろう。人はおろか、獣さえそこに行くことを拒むと言う訳か。"
-    },
-    {
-        "message": "That Ruins, while strangely blending into the cold and desolate seaside scenery, gives off an indescribable sense of unease that makes you think it doesn't belong to this world."
-    },
-    {
-        "message": "I'm not saying it's like the Parthenon in Greece, but even the remains of a Church built around the 15th century would still have some walls or pillars left to remind you of those days. But all I see in front of me at these Ruins are messy piles of stone, like collapsing abandoned houses."
-    },
-    {
-        "message": "Gardner said he couldn't identify exactly what era it was made in."
-    },
-    {
-        "message": "Certainly, just looking at it like this, it does seem extremely old, and you could also just say it's simply the remains of a poorly built house."
-    },
-    {
-        "message": "For a while, I lost myself in thoughts, gazing at the Ruins, but the biting sea breeze snapped me back to reality. If the two are waiting for me out here in this exposed wind, they're probably in a really foul mood about it."
-    },
-    {
-        "message": "それとも、あの岬の方が今私の立っているここよりましなのだろうか？どちらにしても、早くあそこに行った方が得策だろう。"
-    },
-    {
-        "message": "I followed a path that was pretty much just an animal trail, grass trampled down only there, and made my way to the tip of the cape."
-    },
-    {
-        "message": "The crude and clumsy impression it gave when seen from the Hills across the cape is gone; the cluster of half-collapsed structures is now clearly recognizable as something built by an intelligent being."
-    },
-    {
-        "message": "For a while, I was mesmerized by the ancient mysteries spreading out before my eyes."
-    },
-    {
-        "message": "And then, after a while, the two who should have been waiting for me showed up out of nowhere."
-    },
-    {
-        "name": "Thomas",
-        "message": "You're late, where the hell were you loafing around？"
-    },
-    {
-        "message": "While they waited for me, it looked like they had been wandering all over the Ruins without a break, and their cheeks were flushed red from being exposed to the cold wind."
-    },
-    {
-        "name": "Gardner",
-        "message": "We've just made another round."
-    },
-    {
-        "message": "　　　　　　　　Well, whatever. I'm just glad you made it here safely. Did you figure out the way？"
-    },
-    {
-        "message": "Gardner, who was usually short-tempered, seemed oddly calm and not angry at all. Now I was starting to regret leaving the professor and Thomas alone together. I just hope nothing happened."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Sorry I'm late. My wife said if I went to the general store, I might be able to meet you two, so I just dropped by for a bit..."
-    },
-    {
-        "name": "Thomas",
-        "message": "Yeah, we stopped by too. The place looks so damn gloomy, and they had the nerve to say they don't even have a single drink. It pissed me off, so I just left right away."
-    },
-    {
-        "name": "Gardner",
-        "message": "Instead, he told me where the pub is. You guys have probably been stuck in a dry spell since coming to this village too, right?　Why don't we swing by later?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Sounds good. If I stay here, I feel like my whole body will end up getting freezing cold."
-    }
+  {
+    "name": "Thomas",
+    "message": "What, you still want something?"
+  },
+  {
+    "message": "　　　　　　Let's hurry up. It's freezing here and I can't stand it."
+  },
+  {
+    "message": "Thomas said that like he wasn't amused at all."
+  },
+  {
+    "message": "Even for me, the cold here gets to me a bit. The only one happy as a fish in water is Gardner."
+  },
+  {
+    "message": "Just like Mrs. Hudson told me, I walked down the paved Main Street toward the sea. Before long, a thick smell of the tide drifted over, and I came out onto hills overlooking the sea."
+  },
+  {
+    "message": "Not even shrubs grow on the hills that take the sea wind head-on; there’s just patches of withered winter weeds here and there."
+  },
+  {
+    "message": "On top of a cliff jutting out even further into the sea than where I am, I can definitely see a group of unusually old buildings. That must be, without a doubt, the Ruins Gardner was talking about."
+  },
+  {
+    "message": "I couldn't even see any gulls screeching noisily. If even birds won't come here, I guess that's exactly what this place is. Let alone people, not even animals want to come here, huh."
+  },
+  {
+    "message": "That Ruins, while strangely blending into the cold and desolate seaside scenery, gives off an indescribable sense of unease that makes you think it doesn't belong to this world."
+  },
+  {
+    "message": "I'm not saying it's like the Parthenon in Greece, but even the remains of a Church built around the 15th century would still have some walls or pillars left to remind you of those days. But all I see in front of me at these Ruins are messy piles of stone, like collapsing abandoned houses."
+  },
+  {
+    "message": "Gardner said he couldn't identify exactly what era it was made in."
+  },
+  {
+    "message": "Certainly, just looking at it like this, it does seem extremely old, and you could also just say it's simply the remains of a poorly built house."
+  },
+  {
+    "message": "For a while, I lost myself in thoughts, gazing at the Ruins, but the biting sea breeze snapped me back to reality. If the two are waiting for me out here in this exposed wind, they're probably in a really foul mood about it."
+  },
+  {
+    "message": "Or maybe that cape over there is better than where I'm standing now？ Either way, I'd better get over there quick."
+  },
+  {
+    "message": "I followed a path that was pretty much just an animal trail, grass trampled down only there, and made my way to the tip of the cape."
+  },
+  {
+    "message": "The crude and clumsy impression it gave when seen from the Hills across the cape is gone; the cluster of half-collapsed structures is now clearly recognizable as something built by an intelligent being."
+  },
+  {
+    "message": "For a while, I was mesmerized by the ancient mysteries spreading out before my eyes."
+  },
+  {
+    "message": "And then, after a while, the two who should have been waiting for me showed up out of nowhere."
+  },
+  {
+    "name": "Thomas",
+    "message": "You're late, where the hell were you loafing around？"
+  },
+  {
+    "message": "While they waited for me, it looked like they had been wandering all over the Ruins without a break, and their cheeks were flushed red from being exposed to the cold wind."
+  },
+  {
+    "name": "Gardner",
+    "message": "We've just made another round."
+  },
+  {
+    "message": "　　　　　　　　Well, whatever. I'm just glad you made it here safely. Did you figure out the way？"
+  },
+  {
+    "message": "Gardner, who was usually short-tempered, seemed oddly calm and not angry at all. Now I was starting to regret leaving the professor and Thomas alone together. I just hope nothing happened."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Sorry I'm late. My wife said if I went to the general store, I might be able to meet you two, so I just dropped by for a bit..."
+  },
+  {
+    "name": "Thomas",
+    "message": "Yeah, we stopped by too. The place looks so damn gloomy, and they had the nerve to say they don't even have a single drink. It pissed me off, so I just left right away."
+  },
+  {
+    "name": "Gardner",
+    "message": "Instead, he told me where the pub is. You guys have probably been stuck in a dry spell since coming to this village too, right?　Why don't we swing by later?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Sounds good. If I stay here, I feel like my whole body will end up getting freezing cold."
+  }
 ]

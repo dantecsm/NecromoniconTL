@@ -1,401 +1,401 @@
 [
-    {
-        "message": "It's in front of the brothel where Thomas brought me."
-    },
-    {
-        "message": "It's surprising there's a brothel in a rundown village like this, but there's also that saying about taverns, prostitutes, and undertakers being everywhere."
-    },
-    {
-        "message": "It's said that prostitutes are one of the world's oldest professions, and maybe that's why they're so tough-they can survive anywhere, no matter the place."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Welcome back, you sure took your time, huh？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Are the women here really that good？"
-    },
-    {
-        "message": "　　　　　　　　I　wonder　if　you'd　rather　do　it　with　me."
-    },
-    {
-        "message": "Cordelia is totally in a bad mood now."
-    },
-    {
-        "message": "Yeah, true."
-    },
-    {
-        "message": "Sue"
-    },
-    {
-        "message": "Mabel"
-    },
-    {
-        "message": "I was able to hear something meaningful from you though..."
-    },
-    {
-        "message": "事の顛末をどうやってコーデリアに話したものか。"
-    },
-    {
-        "message": "どこかふたりきりになれるような場所でもあればいいのだが。"
-    },
-    {
-        "message": "It's in front of the Brothel."
-    },
-    {
-        "message": "It's still daytime, with the sun high in the sky, so there aren't any customers in the shop."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Here again, huh？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Cut it out already........"
-    },
-    {
-        "message": "コーデリアは相変わらず不機嫌なようだ。"
-    },
-    {
-        "message": "当然といえばそのとおりだが、私だって好きで通っている訳ではない。"
-    },
-    {
-        "message": "In front of the brothel."
-    },
-    {
-        "message": "まだ昼の、しかも陽も高い時間とあって、店を訪れる客の姿はない。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Where is this place？"
-    },
-    {
-        "message": "How should I even explain this......"
-    },
-    {
-        "message": "No way I can let a girl into the brothel, you know."
-    },
-    {
-        "name": "Thomas",
-        "message": "Well, this is, you know."
-    },
-    {
-        "message": "　　　　　　How should I put it, it's a place where guys go to blow off steam."
-    },
-    {
-        "name": "Cordelia",
-        "message": "A breather？"
-    },
-    {
-        "message": "　　　　　　　　No way, this place‥‥‥‥‥‥"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I've heard about that."
-    },
-    {
-        "message": "　　　　　　　　ここって女の人を買う所じゃないの？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Why'd you come to a place like this?"
-    },
-    {
-        "message": "　　　　　　This isn't the kind of place you come with a girl."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Why do you have business in a place like this?"
-    },
-    {
-        "message": "　　　　　　　　Jonathan？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "That is......"
-    },
-    {
-        "message": "There's something like a Curtain hanging on the window, so you can't see inside."
-    },
-    {
-        "message": "The entrance is on the right, and the room right next to the door is where you meet the prostitutes, so the window next to it should obviously be for a private room."
-    },
-    {
-        "message": "Looks like this isn't the room I was shown to."
-    },
-    {
-        "message": "In that room, with the prostitute I picked......"
-    },
-    {
-        "message": "Buying a prostitute isn’t exactly something to be proud of, but it’s an act that goes way beyond the moral standards I was raised with."
-    },
-    {
-        "message": "I don't see anyone in the room."
-    },
-    {
-        "message": "Looks like there aren't any customers here."
-    },
-    {
-        "message": "Even though it's the only brothel in town, hardly any customers come-maybe it's because people in this poor village just can't afford to buy women that often."
-    },
-    {
-        "message": "It's a room for 'showing faces,' so to speak, where clients and prostitutes meet."
-    },
-    {
-        "message": "Even if you say 'choose,' there are only two prostitutes in this village."
-    },
-    {
-        "message": "That is, aside from that overly generous Madam."
-    },
-    {
-        "message": "Even though there are two young girls besides, would any client bother to pick an older woman?"
-    },
-    {
-        "message": "Well, unless that's your kink, but if you're paying money to bang a chick, I doubt anyone would pick that Madam."
-    },
-    {
-        "message": "You can't peek in from outside, but since there doesn't seem to be any clients around, the prostitutes are probably bored out of their minds."
-    },
-    {
-        "message": "The Madam who's serious about running her business probably doesn't like seeing her two young prostitutes just killing time like that."
-    },
-    {
-        "message": "It's definitely built way more stylishly than regular houses in Arkham."
-    },
-    {
-        "message": "Slathering plaster over the bricks makes it look like a heavily made-up woman, and it really matches the vibe inside, I think."
-    },
-    {
-        "message": "Knowing full well what goes down in that house every night, no matter how fancy the place is, I just can't feel anything like 'beautiful' about it."
-    },
-    {
-        "message": "Even so, why is there a brothel in Arkham in the first place?"
-    },
-    {
-        "message": "It’s not like there aren’t all sorts of other things this place is lacking, after all."
-    },
-    {
-        "message": "The door to the brothel doesn't seem to ever be locked, day or night."
-    },
-    {
-        "message": "Sneaking into the place where the prostitutes who make even themselves feel good live-do they just think it’s tasteless, even if it’s a thief doing it?"
-    },
-    {
-        "message": "Or is it that, for prostitutes, their only asset is their own body, and it's a sign that they feel there's nothing else to steal from them？"
-    },
-    {
-        "message": "Either way, it's a bold move, but for these girls who are always running into dangerous situations, it might not be something they'd particularly care about."
-    },
-    {
-        "message": "The door of the Brothel doesn't seem to be locked at any time, day or night."
-    },
-    {
-        "message": "It's incredibly convenient for the customers, but in a women-run brothel, it seems a bit too careless."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I get the situation, but you being in Bed with any woman other than me isn't something I'm grateful for."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You're done with your business now, right？"
-    },
-    {
-        "message": "　　　　　　　　Then I don't want you to ever come here again."
-    },
-    {
-        "name": "Cordelia",
-        "message": "What is it......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Are you saying you have something to explain to me？"
-    },
-    {
-        "message": "　　　　　　　　Go ahead, let's hear it."
-    },
-    {
-        "name": "Jonathan",
-        "message": "This isn't a good place for this."
-    },
-    {
-        "message": "　　　　　　　　Let's go somewhere we can be alone."
-    },
-    {
-        "name": "Cordelia",
-        "message": "どうしてみんなの前では言えないのよ。"
-    },
-    {
-        "message": "　　　　　　　　Is there something that shady going on behind the scenes？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Anyway, can you just listen to me?"
-    },
-    {
-        "message": "　　　　　　　　I'm sure you'll understand."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Got it."
-    },
-    {
-        "message": "　　　　　　　　I'll at least hear you out."
-    },
-    {
-        "message": "ふたりだけになれる場所か、何処がいいだろう。"
-    },
-    {
-        "message": "A place where I don't have to worry about Gardner or Thomas overhearing me..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I'm not going inside, okay?"
-    },
-    {
-        "message": "　　　　　　　　どうしてもって言うならあなた方だけでどうぞ。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I'm not going inside, okay?"
-    },
-    {
-        "message": "　　　　　　　　If you insist, then go ahead and do it by yourselves."
-    },
-    {
-        "name": "Gardner",
-        "message": "Maybe I’ll pass too."
-    },
-    {
-        "message": "　　　　　　　　Intense　exercise　is　bad　for　old　folks,　you　know."
-    },
-    {
-        "name": "Thomas",
-        "message": "Can't be helped, let's just go, the two of us."
-    },
-    {
-        "message": "　　　　　　But, trying to buy another woman right in front of your own girl... Even I don't think that's cool."
-    },
-    {
-        "message": "Thomas is looking at me with a reproachful look."
-    },
-    {
-        "message": "Gardner seems kind of tolerant, with an expression like he can't help it."
-    },
-    {
-        "message": "Looks like I should get out of here before they start telling stories about their wild youth."
-    },
-    {
-        "message": "Since there's something weird about Thomas, we can't talk about it right in front of him."
-    },
-    {
-        "message": "It's probably better to explain it to Cordelia later."
-    },
-    {
-        "message": "When the hot-tempered Cordelia gets upset, it'll probably be pretty tough to make it up to her later."
-    },
-    {
-        "message": "Maybe I really should've come alone at night… but there's no point worrying about it now."
-    },
-    {
-        "message": "Was with Thomas last night"
-    },
-    {
-        "message": "Sue"
-    },
-    {
-        "message": "Mabel"
-    },
-    {
-        "message": "I have to meet them."
-    },
-    {
-        "message": "It's unthinkable that Thomas, who's not a generous guy, would give a prostitute more than the usual tip."
-    },
-    {
-        "message": "There's definitely something fishy going on."
-    },
-    {
-        "message": "I seriously doubt he was really at the brothel until morning."
-    },
-    {
-        "name": "Cordelia",
-        "message": "What's up？"
-    },
-    {
-        "message": "　　　　　　　　Why don't you just go already."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, I will."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I never thought you were that kind of guy, Jonathan. I'll tell you right now, I don't accept 'being a man' as an excuse."
-    },
-    {
-        "name": "Cordelia",
-        "message": "What are you thinking, coming to a place like this right in front of me?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Are you saying it's really so important to come buy a woman？"
-    },
-    {
-        "message": "　　　　　　　　Jonathan, don’t tell me you’ve been coming to a place like this all this time."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Last night was the first time I've ever been with a prostitute."
-    },
-    {
-        "message": "　　　　　　　　And　that　too,　being　dragged　along　by　Thomas,　forced‥‥‥‥‥"
-    },
-    {
-        "name": "Cordelia",
-        "message": "You mean by force？"
-    },
-    {
-        "message": "　　　　　　　　If you don't like it, just say no. Why don't you?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "See, look at that."
-    },
-    {
-        "message": "　　　　　　　　You can't even talk back, can you? And anyway, why do we have to come back at a time like this?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "If you have a problem with me, just say it straight！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I told you that's not it."
-    },
-    {
-        "message": "　　　　　　　　I'll explain later, so can you please stop being so selfish all the time?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I see........"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Fine, I get it."
-    },
-    {
-        "message": "　　　　　　　　Do whatever you want then！"
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "message": "It's in front of the brothel where Thomas brought me."
+  },
+  {
+    "message": "It's surprising there's a brothel in a rundown village like this, but there's also that saying about taverns, prostitutes, and undertakers being everywhere."
+  },
+  {
+    "message": "It's said that prostitutes are one of the world's oldest professions, and maybe that's why they're so tough-they can survive anywhere, no matter the place."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Welcome back, you sure took your time, huh？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Are the women here really that good？"
+  },
+  {
+    "message": "　　　　　　　　I　wonder　if　you'd　rather　do　it　with　me."
+  },
+  {
+    "message": "Cordelia is totally in a bad mood now."
+  },
+  {
+    "message": "Yeah, true."
+  },
+  {
+    "message": "Sue"
+  },
+  {
+    "message": "Mabel"
+  },
+  {
+    "message": "I was able to hear something meaningful from you though..."
+  },
+  {
+    "message": "How am I supposed to explain the whole story to Cordelia?"
+  },
+  {
+    "message": "I wish there was somewhere we could be alone together."
+  },
+  {
+    "message": "It's in front of the Brothel."
+  },
+  {
+    "message": "It's still daytime, with the sun high in the sky, so there aren't any customers in the shop."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Here again, huh？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Cut it out already........"
+  },
+  {
+    "message": "Cordelia still seems to be in a bad mood."
+  },
+  {
+    "message": "It goes without saying, but it's not like I'm going there because I want to."
+  },
+  {
+    "message": "In front of the brothel."
+  },
+  {
+    "message": "It's still daytime, and the sun is still high, so there aren’t any customers visiting the shop."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Where is this place？"
+  },
+  {
+    "message": "How should I even explain this......"
+  },
+  {
+    "message": "No way I can let a girl into the brothel, you know."
+  },
+  {
+    "name": "Thomas",
+    "message": "Well, this is, you know."
+  },
+  {
+    "message": "　　　　　　How should I put it, it's a place where guys go to blow off steam."
+  },
+  {
+    "name": "Cordelia",
+    "message": "A breather？"
+  },
+  {
+    "message": "　　　　　　　　No way, this place‥‥‥‥‥‥"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I've heard about that."
+  },
+  {
+    "message": "　　　　　　　　Isn't this the kind of place where you buy women？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Why'd you come to a place like this?"
+  },
+  {
+    "message": "　　　　　　This isn't the kind of place you come with a girl."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Why do you have business in a place like this?"
+  },
+  {
+    "message": "　　　　　　　　Jonathan？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "That is......"
+  },
+  {
+    "message": "There's something like a Curtain hanging on the window, so you can't see inside."
+  },
+  {
+    "message": "The entrance is on the right, and the room right next to the door is where you meet the prostitutes, so the window next to it should obviously be for a private room."
+  },
+  {
+    "message": "Looks like this isn't the room I was shown to."
+  },
+  {
+    "message": "In that room, with the prostitute I picked......"
+  },
+  {
+    "message": "Buying a prostitute isn’t exactly something to be proud of, but it’s an act that goes way beyond the moral standards I was raised with."
+  },
+  {
+    "message": "I don't see anyone in the room."
+  },
+  {
+    "message": "Looks like there aren't any customers here."
+  },
+  {
+    "message": "Even though it's the only brothel in town, hardly any customers come-maybe it's because people in this poor village just can't afford to buy women that often."
+  },
+  {
+    "message": "It's a room for 'showing faces,' so to speak, where clients and prostitutes meet."
+  },
+  {
+    "message": "Even if you say 'choose,' there are only two prostitutes in this village."
+  },
+  {
+    "message": "That is, aside from that overly generous Madam."
+  },
+  {
+    "message": "Even though there are two young girls besides, would any client bother to pick an older woman?"
+  },
+  {
+    "message": "Well, unless that's your kink, but if you're paying money to bang a chick, I doubt anyone would pick that Madam."
+  },
+  {
+    "message": "You can't peek in from outside, but since there doesn't seem to be any clients around, the prostitutes are probably bored out of their minds."
+  },
+  {
+    "message": "The Madam who's serious about running her business probably doesn't like seeing her two young prostitutes just killing time like that."
+  },
+  {
+    "message": "It's definitely built way more stylishly than regular houses in Arkham."
+  },
+  {
+    "message": "Slathering plaster over the bricks makes it look like a heavily made-up woman, and it really matches the vibe inside, I think."
+  },
+  {
+    "message": "Knowing full well what goes down in that house every night, no matter how fancy the place is, I just can't feel anything like 'beautiful' about it."
+  },
+  {
+    "message": "Even so, why is there a brothel in Arkham in the first place?"
+  },
+  {
+    "message": "It’s not like there aren’t all sorts of other things this place is lacking, after all."
+  },
+  {
+    "message": "The door to the brothel doesn't seem to ever be locked, day or night."
+  },
+  {
+    "message": "Sneaking into the place where the prostitutes who make even themselves feel good live-do they just think it’s tasteless, even if it’s a thief doing it?"
+  },
+  {
+    "message": "Or is it that, for prostitutes, their only asset is their own body, and it's a sign that they feel there's nothing else to steal from them？"
+  },
+  {
+    "message": "Either way, it's a bold move, but for these girls who are always running into dangerous situations, it might not be something they'd particularly care about."
+  },
+  {
+    "message": "The door of the Brothel doesn't seem to be locked at any time, day or night."
+  },
+  {
+    "message": "It's incredibly convenient for the customers, but in a women-run brothel, it seems a bit too careless."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I get the situation, but you being in Bed with any woman other than me isn't something I'm grateful for."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You're done with your business now, right？"
+  },
+  {
+    "message": "　　　　　　　　Then I don't want you to ever come here again."
+  },
+  {
+    "name": "Cordelia",
+    "message": "What is it......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Are you saying you have something to explain to me？"
+  },
+  {
+    "message": "　　　　　　　　Go ahead, let's hear it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "This isn't a good place for this."
+  },
+  {
+    "message": "　　　　　　　　Let's go somewhere we can be alone."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Why can't you say it in front of everyone?"
+  },
+  {
+    "message": "　　　　　　　　Is there something that shady going on behind the scenes？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Anyway, can you just listen to me?"
+  },
+  {
+    "message": "　　　　　　　　I'm sure you'll understand."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Got it."
+  },
+  {
+    "message": "　　　　　　　　I'll at least hear you out."
+  },
+  {
+    "message": "A place where we can be alone, hmm, where would be good."
+  },
+  {
+    "message": "A place where I don't have to worry about Gardner or Thomas overhearing me..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I'm not going inside, okay?"
+  },
+  {
+    "message": "　　　　　　　　If　you　insist,　go　ahead　and　do　it　yourselves."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I'm not going inside, okay?"
+  },
+  {
+    "message": "　　　　　　　　If you insist, then go ahead and do it by yourselves."
+  },
+  {
+    "name": "Gardner",
+    "message": "Maybe I’ll pass too."
+  },
+  {
+    "message": "　　　　　　　　Intense　exercise　is　bad　for　old　folks,　you　know."
+  },
+  {
+    "name": "Thomas",
+    "message": "Can't be helped, let's just go, the two of us."
+  },
+  {
+    "message": "　　　　　　But, trying to buy another woman right in front of your own girl... Even I don't think that's cool."
+  },
+  {
+    "message": "Thomas is looking at me with a reproachful look."
+  },
+  {
+    "message": "Gardner seems kind of tolerant, with an expression like he can't help it."
+  },
+  {
+    "message": "Looks like I should get out of here before they start telling stories about their wild youth."
+  },
+  {
+    "message": "Since there's something weird about Thomas, we can't talk about it right in front of him."
+  },
+  {
+    "message": "It's probably better to explain it to Cordelia later."
+  },
+  {
+    "message": "When the hot-tempered Cordelia gets upset, it'll probably be pretty tough to make it up to her later."
+  },
+  {
+    "message": "Maybe I really should've come alone at night… but there's no point worrying about it now."
+  },
+  {
+    "message": "Was with Thomas last night"
+  },
+  {
+    "message": "Sue"
+  },
+  {
+    "message": "Mabel"
+  },
+  {
+    "message": "I have to meet them."
+  },
+  {
+    "message": "It's unthinkable that Thomas, who's not a generous guy, would give a prostitute more than the usual tip."
+  },
+  {
+    "message": "There's definitely something fishy going on."
+  },
+  {
+    "message": "I seriously doubt he was really at the brothel until morning."
+  },
+  {
+    "name": "Cordelia",
+    "message": "What's up？"
+  },
+  {
+    "message": "　　　　　　　　Why don't you just go already."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, I will."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I never thought you were that kind of guy, Jonathan. I'll tell you right now, I don't accept 'being a man' as an excuse."
+  },
+  {
+    "name": "Cordelia",
+    "message": "What are you thinking, coming to a place like this right in front of me?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Are you saying it's really so important to come buy a woman？"
+  },
+  {
+    "message": "　　　　　　　　Jonathan, don’t tell me you’ve been coming to a place like this all this time."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Last night was the first time I've ever been with a prostitute."
+  },
+  {
+    "message": "　　　　　　　　And　that　too,　being　dragged　along　by　Thomas,　forced‥‥‥‥‥"
+  },
+  {
+    "name": "Cordelia",
+    "message": "You mean by force？"
+  },
+  {
+    "message": "　　　　　　　　If you don't like it, just say no. Why don't you?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "See, look at that."
+  },
+  {
+    "message": "　　　　　　　　You can't even talk back, can you? And anyway, why do we have to come back at a time like this?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "If you have a problem with me, just say it straight！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I told you that's not it."
+  },
+  {
+    "message": "　　　　　　　　I'll explain later, so can you please stop being so selfish all the time?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I see........"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Fine, I get it."
+  },
+  {
+    "message": "　　　　　　　　Do whatever you want then！"
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

@@ -1,345 +1,345 @@
 [
-    {
-        "message": "Sure enough, coming here after the sun's gone down, I feel a chill that's almost like fear."
-    },
-    {
-        "message": "It's a cursed place where hundreds of nuns burned to death. Not the kind of spot you should come alone at night."
-    },
-    {
-        "message": "Besides, especially after what happened during the day......"
-    },
-    {
-        "message": "Even if I got scared, who could blame me for that？"
-    },
-    {
-        "message": "It's the remains of the Monastery that burned down."
-    },
-    {
-        "message": "It has been left as if it was forgotten by all people since the fire over a hundred years ago."
-    },
-    {
-        "message": "This is the site of the Miskatonic Monastery."
-    },
-    {
-        "message": "Around here, there are stones blackened with soot and pillars burned to charcoal, telling of the fire's ferocity."
-    },
-    {
-        "message": "It's the site of the monastery."
-    },
-    {
-        "message": "Is this the monastery that appeared in my dream？"
-    },
-    {
-        "message": "The building that the two of them saw in the distance as they walked through the snow was a rather massive stone structure."
-    },
-    {
-        "message": "With things in such a terrible state, I can't be sure that the two buildings are actually the same place."
-    },
-    {
-        "message": "I'm pretty sure, the head nun called 'Maria' in my dream said it was the 'Miskatonic Monastery.'"
-    },
-    {
-        "name": "Cordelia",
-        "message": "What's wrong? You've been lost in thought for a while now."
-    },
-    {
-        "message": "　　　　　　　　Is there some kind of problem？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I was just thinking, maybe this is the monastery that appeared in my dream."
-    },
-    {
-        "name": "Cordelia",
-        "message": "A dream？"
-    },
-    {
-        "message": "　　　　　　　　I had that dream about the Monastery again."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's weird, but ever since I came to Arkham, I've been having dreams almost every night."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You're saying that these monastery ruins are just like the ones that appeared in Jonathan's dream."
-    },
-    {
-        "name": "Jonathan",
-        "message": "確証はないが‥‥‥‥"
-    },
-    {
-        "message": "　　　　　　　　I　kinda　get　the　feeling　that's　how　it　is."
-    },
-    {
-        "message": "Normally, seeing such lush greenery would make me feel at peace, but here, the fear that something other than a person might be watching us from between the trees comes first, and I can't relax at all."
-    },
-    {
-        "message": "Ancient trees over 100 years old grow thickly here."
-    },
-    {
-        "message": "It must have been there since back then, having escaped something from the fire that happened at the Monastery."
-    },
-    {
-        "message": "Unlike the center of Arkham, which has surprisingly little greenery for the countryside, here the greenery is so thick that people can't easily get inside."
-    },
-    {
-        "message": "石が整然と並んだ床が、修道院がまだ存在していた頃の面影をわずかに忍ばせている。"
-    },
-    {
-        "message": "あたりには火災の跡を物語る、炭になった木片や、割れた石材の破片などがいたる所に散乱している。"
-    },
-    {
-        "message": "Even so, for something that supposedly made up the Monastery building, there’s an oddly small number of stones and pillars."
-    },
-    {
-        "message": "Most of that stuff probably got taken away by someone as materials for building something new, but still, this place is basically just an empty lot now."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I can't believe there's a basement in the ruins of the monastery."
-    },
-    {
-        "message": "　　　　　　　　It seems a little out of the ordinary."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Wait a second, what is that?"
-    },
-    {
-        "message": "At first glance, it looks like a pile of rubble, but it seems like there's something under the collapsed stones."
-    },
-    {
-        "message": "If you look closely......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Looks like something's up."
-    },
-    {
-        "message": "　　　　　　　　There are an unusually large number of stones piled up just over there."
-    },
-    {
-        "message": "If someone did this on purpose, maybe there's something hidden that they don't want others to see......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "よく見て、あれ、階段じゃ‥‥‥‥"
-    },
-    {
-        "message": "瓦礫の下には、地下に通じる穴がぽっかりと口を開けている。"
-    },
-    {
-        "message": "If you look closely, there seems to be something like stairs."
-    },
-    {
-        "name": "Jonathan",
-        "message": "If I move this annoying stone, I might be able to get down underground."
-    },
-    {
-        "message": "　　　　　　　　There's a basement down here, you know."
-    },
-    {
-        "name": "Gardner",
-        "message": "A basement in the monastery, huh? I guess it's not impossible."
-    },
-    {
-        "message": "　　　　　　　　If we’re lucky, we might’ve managed to escape the fire."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Should we try going down？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Isn't that dangerous?"
-    },
-    {
-        "message": "　　　　　　　　The　ceiling　could　collapse　on　us　at　any　moment."
-    },
-    {
-        "message": "If it still had even a little bit of its former appearance, it probably would've become a decent tourist spot, but like this, unless you ask someone, there's no way to know what used to be here."
-    },
-    {
-        "message": "The small remnants of the building that barely remain are probably the traces of an annex that stood next to a large building, like the Chapel."
-    },
-    {
-        "message": "Judging from the scale of the arch-shaped structure bordered with stone, which appears to be the remains of an entrance, it's suspected that this wasn't a storeroom for food and other essentials."
-    },
-    {
-        "message": "Even though the most important part of the Monastery vanished without a trace, it's so ironic that a totally random outbuilding is the one left to remind us of it."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan and this monastery are connected somehow."
-    },
-    {
-        "message": "　　　　　　　　If that wasn't the case, there's no way I'd have such a weird dream, right?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan, what kind of dream did you have？"
-    },
-    {
-        "message": "　　　　　　　　Since it was a dream about the monastery, it must've been all women, right?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Well, yeah, but......"
-    },
-    {
-        "message": "　　　　　　　　It's not like I was having a dirty dream or anything."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Somehow, it felt strangely real, like I had actually slipped right into the monastery."
-    },
-    {
-        "name": "Cordelia",
-        "message": "What did you see？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Two women were coming to the monastery."
-    },
-    {
-        "message": "　　　　　　　　One of them looked to be in her early teens."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So there was a nun that young, huh."
-    },
-    {
-        "message": "　　　　　　　　It's so sad to come to a monastery, shut off from the outside, before you even know anything about the world."
-    },
-    {
-        "name": "Jonathan",
-        "message": "And what's more, the woman who just arrived at the Monastery was convinced that something treacherous was going on here."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So you came to the Monastery to check that out, huh？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's what he said."
-    },
-    {
-        "message": "　　　　　　　　You have no idea what the hell I'm talking about, right？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Come to my room tonight."
-    },
-    {
-        "message": "　　　　　　I'll wait for you tonight until you get here."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Where's that 'nice place' you were talking about this morning?　　　　　　　　Is it somewhere you can only go that late at night?"
-    },
-    {
-        "message": "Isn't that just a convenient excuse to cover up the fact that you were meeting with Nai？"
-    },
-    {
-        "message": "First off, how did Thomas even know there was a place like that in Arkham?"
-    },
-    {
-        "name": "Thomas",
-        "message": "I told you I'll take you there tonight."
-    },
-    {
-        "message": "　　　　　　Don't rush so much."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Is there really anywhere in this village you'd actually like？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Man, you nag too much. I told you you'll get it once it's night."
-    },
-    {
-        "message": "　　　　　　Even you'll get hooked once you go there."
-    },
-    {
-        "message": "When this guy says it, it really feels like some shady place."
-    },
-    {
-        "message": "No way... it's not some old opium den or something, right..."
-    },
-    {
-        "name": "Thomas",
-        "message": "Don't overthink it so much."
-    },
-    {
-        "message": "　　　　　　We'll find out once we go, won't we?"
-    },
-    {
-        "name": "Gardner",
-        "message": "Hm, what are we even supposed to look for in a place like this..."
-    },
-    {
-        "message": "　　　　　　　　The whole place is just burned ruins as far as the eye can see, isn't it?"
-    },
-    {
-        "name": "Gardner",
-        "message": "Hm, what are we even supposed to look for in a place like this..."
-    },
-    {
-        "message": "　　　　　　　　Isn't it all ruins as far as the eye can see?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "But, I can't help but feel like this monastery is somehow connected to the dreams I've been having ever since I came to Arkham."
-    },
-    {
-        "name": "Gardner",
-        "message": "Sure is odd, having dreams about a monastery you've never even seen before."
-    },
-    {
-        "name": "Gardner",
-        "message": "And as luck would have it, the village happened to have a monastery."
-    },
-    {
-        "message": "　　　　　　　　It wouldn't be strange to think that there's some kind of connection."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Is there something suspicious going on？"
-    },
-    {
-        "name": "Gardner",
-        "message": "Actually, is it possible that you've been to Arkham before-something you've forgotten yourself?"
-    },
-    {
-        "name": "Gardner",
-        "message": "Maybe I'm unconsciously remembering things about Arkham, and that's what's turning into my dreams."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's impossible."
-    },
-    {
-        "message": "　　　　　　　　In my family, even saying the name Arkham was taboo."
-    },
-    {
-        "name": "Gardner",
-        "message": "I see......"
-    },
-    {
-        "message": "The wood had been completely carbonized, and just touching it even a little made it crumble to pieces."
-    },
-    {
-        "message": "Just how terrible a fire must have hit this monastery?"
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    },
-    {
-        "message": "　　　Map　　　"
-    }
+  {
+    "message": "Sure enough, coming here after the sun's gone down, I feel a chill that's almost like fear."
+  },
+  {
+    "message": "It's a cursed place where hundreds of nuns burned to death. Not the kind of spot you should come alone at night."
+  },
+  {
+    "message": "Besides, especially after what happened during the day......"
+  },
+  {
+    "message": "Even if I got scared, who could blame me for that？"
+  },
+  {
+    "message": "It's the remains of the Monastery that burned down."
+  },
+  {
+    "message": "It has been left as if it was forgotten by all people since the fire over a hundred years ago."
+  },
+  {
+    "message": "This is the site of the Miskatonic Monastery."
+  },
+  {
+    "message": "Around here, there are stones blackened with soot and pillars burned to charcoal, telling of the fire's ferocity."
+  },
+  {
+    "message": "It's the site of the monastery."
+  },
+  {
+    "message": "Is this the monastery that appeared in my dream？"
+  },
+  {
+    "message": "The building that the two of them saw in the distance as they walked through the snow was a rather massive stone structure."
+  },
+  {
+    "message": "With things in such a terrible state, I can't be sure that the two buildings are actually the same place."
+  },
+  {
+    "message": "I'm pretty sure, the head nun called 'Maria' in my dream said it was the 'Miskatonic Monastery.'"
+  },
+  {
+    "name": "Cordelia",
+    "message": "What's wrong? You've been lost in thought for a while now."
+  },
+  {
+    "message": "　　　　　　　　Is there some kind of problem？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I was just thinking, maybe this is the monastery that appeared in my dream."
+  },
+  {
+    "name": "Cordelia",
+    "message": "A dream？"
+  },
+  {
+    "message": "　　　　　　　　I had that dream about the Monastery again."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's weird, but ever since I came to Arkham, I've been having dreams almost every night."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You're saying that these monastery ruins are just like the ones that appeared in Jonathan's dream."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I can't say for sure, but..."
+  },
+  {
+    "message": "　　　　　　　　I　kinda　get　the　feeling　that's　how　it　is."
+  },
+  {
+    "message": "Normally, seeing such lush greenery would make me feel at peace, but here, the fear that something other than a person might be watching us from between the trees comes first, and I can't relax at all."
+  },
+  {
+    "message": "Ancient trees over 100 years old grow thickly here."
+  },
+  {
+    "message": "It must have been there since back then, having escaped something from the fire that happened at the Monastery."
+  },
+  {
+    "message": "Unlike the center of Arkham, which has surprisingly little greenery for the countryside, here the greenery is so thick that people can't easily get inside."
+  },
+  {
+    "message": "The floor lined neatly with stones just barely hints at what the monastery was like when it still existed."
+  },
+  {
+    "message": "All around, there are charred wood pieces and broken stone fragments-signs of fire-scattered everywhere."
+  },
+  {
+    "message": "Even so, for something that supposedly made up the Monastery building, there’s an oddly small number of stones and pillars."
+  },
+  {
+    "message": "Most of that stuff probably got taken away by someone as materials for building something new, but still, this place is basically just an empty lot now."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I can't believe there's a basement in the ruins of the monastery."
+  },
+  {
+    "message": "　　　　　　　　It seems a little out of the ordinary."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Wait a second, what is that?"
+  },
+  {
+    "message": "At first glance, it looks like a pile of rubble, but it seems like there's something under the collapsed stones."
+  },
+  {
+    "message": "If you look closely......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Looks like something's up."
+  },
+  {
+    "message": "　　　　　　　　There are an unusually large number of stones piled up just over there."
+  },
+  {
+    "message": "If someone did this on purpose, maybe there's something hidden that they don't want others to see......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Look closely, hey, isn't that a staircase..."
+  },
+  {
+    "message": "Under the rubble, there's a gaping hole leading down underground."
+  },
+  {
+    "message": "If you look closely, there seems to be something like stairs."
+  },
+  {
+    "name": "Jonathan",
+    "message": "If I move this annoying stone, I might be able to get down underground."
+  },
+  {
+    "message": "　　　　　　　　There's a basement down here, you know."
+  },
+  {
+    "name": "Gardner",
+    "message": "A basement in the monastery, huh? I guess it's not impossible."
+  },
+  {
+    "message": "　　　　　　　　If we’re lucky, we might’ve managed to escape the fire."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Should we try going down？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Isn't that dangerous?"
+  },
+  {
+    "message": "　　　　　　　　The　ceiling　could　collapse　on　us　at　any　moment."
+  },
+  {
+    "message": "If it still had even a little bit of its former appearance, it probably would've become a decent tourist spot, but like this, unless you ask someone, there's no way to know what used to be here."
+  },
+  {
+    "message": "The small remnants of the building that barely remain are probably the traces of an annex that stood next to a large building, like the Chapel."
+  },
+  {
+    "message": "Judging from the scale of the arch-shaped structure bordered with stone, which appears to be the remains of an entrance, it's suspected that this wasn't a storeroom for food and other essentials."
+  },
+  {
+    "message": "Even though the most important part of the Monastery vanished without a trace, it's so ironic that a totally random outbuilding is the one left to remind us of it."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan and this monastery are connected somehow."
+  },
+  {
+    "message": "　　　　　　　　If that wasn't the case, there's no way I'd have such a weird dream, right?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan, what kind of dream did you have？"
+  },
+  {
+    "message": "　　　　　　　　Since it was a dream about the monastery, it must've been all women, right?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Well, yeah, but......"
+  },
+  {
+    "message": "　　　　　　　　It's not like I was having a dirty dream or anything."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Somehow, it felt strangely real, like I had actually slipped right into the monastery."
+  },
+  {
+    "name": "Cordelia",
+    "message": "What did you see？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Two women were coming to the monastery."
+  },
+  {
+    "message": "　　　　　　　　One of them looked to be in her early teens."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So there was a nun that young, huh."
+  },
+  {
+    "message": "　　　　　　　　It's so sad to come to a monastery, shut off from the outside, before you even know anything about the world."
+  },
+  {
+    "name": "Jonathan",
+    "message": "And what's more, the woman who just arrived at the Monastery was convinced that something treacherous was going on here."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So you came to the Monastery to check that out, huh？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's what he said."
+  },
+  {
+    "message": "　　　　　　　　You have no idea what the hell I'm talking about, right？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Come to my room tonight."
+  },
+  {
+    "message": "　　　　　　I'll wait for you tonight until you get here."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Where's that 'nice place' you were talking about this morning?　　　　　　　　Is it somewhere you can only go that late at night?"
+  },
+  {
+    "message": "Isn't that just a convenient excuse to cover up the fact that you were meeting with Nai？"
+  },
+  {
+    "message": "First off, how did Thomas even know there was a place like that in Arkham?"
+  },
+  {
+    "name": "Thomas",
+    "message": "I told you I'll take you there tonight."
+  },
+  {
+    "message": "　　　　　　Don't rush so much."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is there really anywhere in this village you'd actually like？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Man, you nag too much. I told you you'll get it once it's night."
+  },
+  {
+    "message": "　　　　　　Even you'll get hooked once you go there."
+  },
+  {
+    "message": "When this guy says it, it really feels like some shady place."
+  },
+  {
+    "message": "No way... it's not some old opium den or something, right..."
+  },
+  {
+    "name": "Thomas",
+    "message": "Don't overthink it so much."
+  },
+  {
+    "message": "　　　　　　We'll find out once we go, won't we?"
+  },
+  {
+    "name": "Gardner",
+    "message": "Hm, what are we even supposed to look for in a place like this..."
+  },
+  {
+    "message": "　　　　　　　　The whole place is just burned ruins as far as the eye can see, isn't it?"
+  },
+  {
+    "name": "Gardner",
+    "message": "Hm, what are we even supposed to look for in a place like this..."
+  },
+  {
+    "message": "　　　　　　　　Isn't it all ruins as far as the eye can see?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "But, I can't help but feel like this monastery is somehow connected to the dreams I've been having ever since I came to Arkham."
+  },
+  {
+    "name": "Gardner",
+    "message": "Sure is odd, having dreams about a monastery you've never even seen before."
+  },
+  {
+    "name": "Gardner",
+    "message": "And as luck would have it, the village happened to have a monastery."
+  },
+  {
+    "message": "　　　　　　　　It wouldn't be strange to think that there's some kind of connection."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is there something suspicious going on？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Actually, is it possible that you've been to Arkham before-something you've forgotten yourself?"
+  },
+  {
+    "name": "Gardner",
+    "message": "Maybe I'm unconsciously remembering things about Arkham, and that's what's turning into my dreams."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's impossible."
+  },
+  {
+    "message": "　　　　　　　　In my family, even saying the name Arkham was taboo."
+  },
+  {
+    "name": "Gardner",
+    "message": "I see......"
+  },
+  {
+    "message": "The wood had been completely carbonized, and just touching it even a little made it crumble to pieces."
+  },
+  {
+    "message": "Just how terrible a fire must have hit this monastery?"
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  },
+  {
+    "message": "　　　Map　　　"
+  }
 ]

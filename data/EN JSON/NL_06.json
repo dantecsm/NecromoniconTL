@@ -1,313 +1,313 @@
 [
-    {
-        "message": "Cordelia isn't anywhere to be seen here."
-    },
-    {
-        "message": "Where could she have gone at this hour of night?"
-    },
-    {
-        "message": "She's lived in this village way longer than someone like me, so I probably don't need to worry too much..."
-    },
-    {
-        "message": "I arrived at the village square where the suspension bridge connecting Arkham and the outside world is."
-    },
-    {
-        "message": "There's no sign of anyone around."
-    },
-    {
-        "name": "Young man",
-        "message": "You guys are still in the village？"
-    },
-    {
-        "message": "　　　　　　You'd　better　get　out　of　here,　seriously."
-    },
-    {
-        "name": "Young man",
-        "message": "Before something happens you can't take back..."
-    },
-    {
-        "message": "It's those men from the village from before."
-    },
-    {
-        "message": "With faint smirks on their faces, they're standing there trying to intimidate us."
-    },
-    {
-        "message": "This is the village square."
-    },
-    {
-        "message": "Looks like the bridge connecting Arkham and the outside world is still intact, but there's no sign that the bus came out to the village."
-    },
-    {
-        "message": "Maybe we've already been abandoned."
-    },
-    {
-        "message": "Maybe the bus from Salem isn't coming anymore."
-    },
-    {
-        "message": "It's the starting point of Main Street, right in front of the Fish Scale Inn."
-    },
-    {
-        "message": "Even though it's so beautifully maintained, not a single tourist stops to look at it. The villagers don't seem to care much either."
-    },
-    {
-        "message": "Maybe it's just that since no one uses it, they've just decided from the start that fixing it up would be a waste of time."
-    },
-    {
-        "message": "Trying to expect proper public facilities in Arkham is a hopeless cause from the get-go."
-    },
-    {
-        "message": "It used to be the gateway to the village that led to Arkham's Main Street, so this area is paved pretty nicely."
-    },
-    {
-        "message": "I guess cars and carriages hardly ever passed through here, since even after decades, the paving stones look just like they did back then, without any sign of damage."
-    },
-    {
-        "message": "The windows of the abandoned houses look just like the empty eye sockets of corpses."
-    },
-    {
-        "message": "Isn't there anyone who wants to do something about this？"
-    },
-    {
-        "message": "Almost all the buildings around here look like they're not being used anymore."
-    },
-    {
-        "message": "It's like, since there's no one to use them, and nobody's thinking of tearing them down or remodeling them either, they're just being left to rot as they are."
-    },
-    {
-        "message": "The windows with no glass in them look just like the eye sockets of a corpse, with the eyeballs missing."
-    },
-    {
-        "message": "The Fish Scale Inn is our only place of refuge in Arkham."
-    },
-    {
-        "message": "Even that shabby-looking inn, when you're inside, somehow makes you feel strangely safe."
-    },
-    {
-        "message": "It's an old building, about as old as the ones around it, but while most of them are pretty much abandoned ruins, this is the only one that actually looks like someone could live there."
-    },
-    {
-        "message": "Looking at the outside, it seems pretty spacious, but I wonder how many guest rooms there are besides the ones we're using."
-    },
-    {
-        "message": "Looks like they're open for business again today."
-    },
-    {
-        "message": "How are you restocking your goods when contact with the outside has been cut off？"
-    },
-    {
-        "message": "It's the only store open in the village."
-    },
-    {
-        "message": "A good-natured young shop owner runs the place by himself."
-    },
-    {
-        "message": "All the shops in this village that do business with outsiders-like the Fish Scale Inn, the general store, and Gilman House-are run by people who aren't from the village. I wonder if there's a reason for that？"
-    },
-    {
-        "message": "When we ran into them in the plaza before, they didn't seem to care about us at all except for a few people, but today all the villagers are staring at us with interest and sneering expressions."
-    },
-    {
-        "message": "Seeing their shabby appearance and such a listless way of walking, they really don't seem all that different from unemployed bums."
-    },
-    {
-        "message": "What the station staff in Salem said wasn't exactly a lie after all."
-    },
-    {
-        "message": "It seems like most of the villagers here have lost the will to live."
-    },
-    {
-        "message": "The smile playing at his lips pisses me off, like he's mocking us. Why the hell do we have to take this kind of crap from someone like him?"
-    },
-    {
-        "message": "Unlike when we met before, when he was drunk and indifferent to everything, he now clearly seems interested in us."
-    },
-    {
-        "message": "The two men are whispering about something, keeping an eye on us."
-    },
-    {
-        "message": "左の男が手に持っているのは酒瓶だ。昼間からいい心持ちになっているようだ。"
-    },
-    {
-        "message": "He definitely has the well-developed muscles typical of a fisherman and a ruddy face that's been exposed to the sea breeze for a long time, but seeing as he's been drinking since midday, it doesn't look like he's especially hardworking either."
-    },
-    {
-        "message": "I can't make out what they're saying from here, but the occasional faint smile on their face looks a lot like the expression a fisherman has when he sees prey caught in a trap."
-    },
-    {
-        "name": "Young man",
-        "message": "Before you guys get eaten by some vicious fish, shouldn't you hurry your asses back to your own damn homes？"
-    },
-    {
-        "name": "Young man",
-        "message": "You get it now, right？ This place doesn't suit people like you."
-    },
-    {
-        "message": "　　　　　　After going through something that scary..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What do you mean by that?"
-    },
-    {
-        "message": "　　　　　　　　You talk like you know exactly what we've been through and where we've been."
-    },
-    {
-        "name": "Young man",
-        "message": "なんの事だか見当もつかねえ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Don't lie, you've been watching us this whole time！　　　　　　　　Don't tell me, you turned Marsh into that‥‥‥‥"
-    },
-    {
-        "name": "Young man",
-        "message": "Marsh, huh？"
-    },
-    {
-        "name": "Young man",
-        "message": "Did something happen to that old man or what？"
-    },
-    {
-        "message": "　　　　　　We don't know anything, man."
-    },
-    {
-        "name": "Thomas",
-        "message": "Jonathan！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "No doubt about it, these guys did it."
-    },
-    {
-        "name": "Thomas",
-        "message": "Just shut up."
-    },
-    {
-        "message": "　　　　　　It'll just make things even more of a pain."
-    },
-    {
-        "name": "Young man",
-        "message": "What the hell are you mumbling about?"
-    },
-    {
-        "message": "　　　　　　What about Marsh？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "......It's nothing."
-    },
-    {
-        "name": "Young man",
-        "message": "You guys know？"
-    },
-    {
-        "message": "　　　　　　The fish around here are really vicious, you know."
-    },
-    {
-        "name": "Young man",
-        "message": "Humans, they'll just eat 'em without a second thought."
-    },
-    {
-        "message": "　　　　　　If those guys get us, we're totally screwed."
-    },
-    {
-        "name": "Old man",
-        "message": "I don't know anything."
-    },
-    {
-        "message": "　　　　　If you're gonna waste time thinking about something that stupid....."
-    },
-    {
-        "name": "Old man",
-        "message": "Now that you mention it, it looks like the Gilman House has been closed lately."
-    },
-    {
-        "message": "　　　　　What　on　earth　are　you　doing."
-    },
-    {
-        "name": "Old man",
-        "message": "Koty, if you have time to hang around with these guys, then why can't you open up the shop?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Sorry, I've got something I want to look into too.　　　　　　　　I'll try to open the shop as soon as I can."
-    },
-    {
-        "name": "Old man",
-        "message": "Why don't you try thinking about why there's only one tavern in this village?"
-    },
-    {
-        "name": "Old man",
-        "message": "The villagers are helping you out, you know."
-    },
-    {
-        "message": "　　　　　Forgetting that and messing around with guys like this..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "This is something I absolutely have to look into."
-    },
-    {
-        "message": "　　　　　　　　It'll be done soon."
-    },
-    {
-        "name": "Old man",
-        "message": "What are you trying to find out?"
-    },
-    {
-        "message": "　　　　　Are you saying it's more important than running the shop？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I want to know why I was brought to this village."
-    },
-    {
-        "name": "Old man",
-        "message": "What did you say？"
-    },
-    {
-        "message": "　　　　　Why did you start thinking about something like that?"
-    },
-    {
-        "name": "Old man",
-        "message": "I see... you were led astray by those people, weren't you？"
-    },
-    {
-        "message": "　　　　　Meddling in things you shouldn't."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Meddling？"
-    },
-    {
-        "message": "　　　　　　　　Knowing about my past is just unnecessary."
-    },
-    {
-        "name": "Old man",
-        "message": "Even if you know something like that, it's not gonna do you any good."
-    },
-    {
-        "message": "　　　　　You were born in this village and started running the tavern."
-    },
-    {
-        "name": "Old man",
-        "message": "So what's wrong with that！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Grandpa, could it be that you actually know something？"
-    },
-    {
-        "message": "　　　　　　　　Why I was brought here."
-    },
-    {
-        "name": "Old man",
-        "message": "I don't know anything about that! Why the hell would I know something like that?!"
-    },
-    {
-        "message": "　　　　　Guess you'll just have to ask your old man who disappeared or something."
-    },
-    {
-        "message": "　　　Map　　　"
-    }
+  {
+    "message": "Cordelia isn't anywhere to be seen here."
+  },
+  {
+    "message": "Where could she have gone at this hour of night?"
+  },
+  {
+    "message": "She's lived in this village way longer than someone like me, so I probably don't need to worry too much..."
+  },
+  {
+    "message": "I arrived at the village square where the suspension bridge connecting Arkham and the outside world is."
+  },
+  {
+    "message": "There's no sign of anyone around."
+  },
+  {
+    "name": "Young man",
+    "message": "You guys are still in the village？"
+  },
+  {
+    "message": "　　　　　　You'd　better　get　out　of　here,　seriously."
+  },
+  {
+    "name": "Young man",
+    "message": "Before something happens you can't take back..."
+  },
+  {
+    "message": "It's those men from the village from before."
+  },
+  {
+    "message": "With faint smirks on their faces, they're standing there trying to intimidate us."
+  },
+  {
+    "message": "This is the village square."
+  },
+  {
+    "message": "Looks like the bridge connecting Arkham and the outside world is still intact, but there's no sign that the bus came out to the village."
+  },
+  {
+    "message": "Maybe we've already been abandoned."
+  },
+  {
+    "message": "Maybe the bus from Salem isn't coming anymore."
+  },
+  {
+    "message": "It's the starting point of Main Street, right in front of the Fish Scale Inn."
+  },
+  {
+    "message": "Even though it's so beautifully maintained, not a single tourist stops to look at it. The villagers don't seem to care much either."
+  },
+  {
+    "message": "Maybe it's just that since no one uses it, they've just decided from the start that fixing it up would be a waste of time."
+  },
+  {
+    "message": "Trying to expect proper public facilities in Arkham is a hopeless cause from the get-go."
+  },
+  {
+    "message": "It used to be the gateway to the village that led to Arkham's Main Street, so this area is paved pretty nicely."
+  },
+  {
+    "message": "I guess cars and carriages hardly ever passed through here, since even after decades, the paving stones look just like they did back then, without any sign of damage."
+  },
+  {
+    "message": "The windows of the abandoned houses look just like the empty eye sockets of corpses."
+  },
+  {
+    "message": "Isn't there anyone who wants to do something about this？"
+  },
+  {
+    "message": "Almost all the buildings around here look like they're not being used anymore."
+  },
+  {
+    "message": "It's like, since there's no one to use them, and nobody's thinking of tearing them down or remodeling them either, they're just being left to rot as they are."
+  },
+  {
+    "message": "The windows with no glass in them look just like the eye sockets of a corpse, with the eyeballs missing."
+  },
+  {
+    "message": "The Fish Scale Inn is our only place of refuge in Arkham."
+  },
+  {
+    "message": "Even that shabby-looking inn, when you're inside, somehow makes you feel strangely safe."
+  },
+  {
+    "message": "It's an old building, about as old as the ones around it, but while most of them are pretty much abandoned ruins, this is the only one that actually looks like someone could live there."
+  },
+  {
+    "message": "Looking at the outside, it seems pretty spacious, but I wonder how many guest rooms there are besides the ones we're using."
+  },
+  {
+    "message": "Looks like they're open for business again today."
+  },
+  {
+    "message": "How are you restocking your goods when contact with the outside has been cut off？"
+  },
+  {
+    "message": "It's the only store open in the village."
+  },
+  {
+    "message": "A good-natured young shop owner runs the place by himself."
+  },
+  {
+    "message": "All the shops in this village that do business with outsiders-like the Fish Scale Inn, the general store, and Gilman House-are run by people who aren't from the village. I wonder if there's a reason for that？"
+  },
+  {
+    "message": "When we ran into them in the plaza before, they didn't seem to care about us at all except for a few people, but today all the villagers are staring at us with interest and sneering expressions."
+  },
+  {
+    "message": "Seeing their shabby appearance and such a listless way of walking, they really don't seem all that different from unemployed bums."
+  },
+  {
+    "message": "What the station staff in Salem said wasn't exactly a lie after all."
+  },
+  {
+    "message": "It seems like most of the villagers here have lost the will to live."
+  },
+  {
+    "message": "The smile playing at his lips pisses me off, like he's mocking us. Why the hell do we have to take this kind of crap from someone like him?"
+  },
+  {
+    "message": "Unlike when we met before, when he was drunk and indifferent to everything, he now clearly seems interested in us."
+  },
+  {
+    "message": "The two men are whispering about something, keeping an eye on us."
+  },
+  {
+    "message": "The man on the left is holding a wine bottle in his hand. Looks like he's in a good mood even though it's the middle of the day."
+  },
+  {
+    "message": "He definitely has the well-developed muscles typical of a fisherman and a ruddy face that's been exposed to the sea breeze for a long time, but seeing as he's been drinking since midday, it doesn't look like he's especially hardworking either."
+  },
+  {
+    "message": "I can't make out what they're saying from here, but the occasional faint smile on their face looks a lot like the expression a fisherman has when he sees prey caught in a trap."
+  },
+  {
+    "name": "Young man",
+    "message": "Before you guys get eaten by some vicious fish, shouldn't you hurry your asses back to your own damn homes？"
+  },
+  {
+    "name": "Young man",
+    "message": "You get it now, right？ This place doesn't suit people like you."
+  },
+  {
+    "message": "　　　　　　After going through something that scary..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What do you mean by that?"
+  },
+  {
+    "message": "　　　　　　　　You talk like you know exactly what we've been through and where we've been."
+  },
+  {
+    "name": "Young man",
+    "message": "I have no clue what you're talking about."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Don't lie, you've been watching us this whole time！　　　　　　　　Don't tell me, you turned Marsh into that‥‥‥‥"
+  },
+  {
+    "name": "Young man",
+    "message": "Marsh, huh？"
+  },
+  {
+    "name": "Young man",
+    "message": "Did something happen to that old man or what？"
+  },
+  {
+    "message": "　　　　　　We don't know anything, man."
+  },
+  {
+    "name": "Thomas",
+    "message": "Jonathan！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "No doubt about it, these guys did it."
+  },
+  {
+    "name": "Thomas",
+    "message": "Just shut up."
+  },
+  {
+    "message": "　　　　　　It'll just make things even more of a pain."
+  },
+  {
+    "name": "Young man",
+    "message": "What the hell are you mumbling about?"
+  },
+  {
+    "message": "　　　　　　What about Marsh？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "......It's nothing."
+  },
+  {
+    "name": "Young man",
+    "message": "You guys know？"
+  },
+  {
+    "message": "　　　　　　The fish around here are really vicious, you know."
+  },
+  {
+    "name": "Young man",
+    "message": "Humans, they'll just eat 'em without a second thought."
+  },
+  {
+    "message": "　　　　　　If those guys get us, we're totally screwed."
+  },
+  {
+    "name": "Old man",
+    "message": "I don't know anything."
+  },
+  {
+    "message": "　　　　　If you're gonna waste time thinking about something that stupid....."
+  },
+  {
+    "name": "Old man",
+    "message": "Now that you mention it, it looks like the Gilman House has been closed lately."
+  },
+  {
+    "message": "　　　　　What　on　earth　are　you　doing."
+  },
+  {
+    "name": "Old man",
+    "message": "Koty, if you have time to hang around with these guys, then why can't you open up the shop?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Sorry, I've got something I want to look into too.　　　　　　　　I'll try to open the shop as soon as I can."
+  },
+  {
+    "name": "Old man",
+    "message": "Why don't you try thinking about why there's only one tavern in this village?"
+  },
+  {
+    "name": "Old man",
+    "message": "The villagers are helping you out, you know."
+  },
+  {
+    "message": "　　　　　Forgetting that and messing around with guys like this..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "This is something I absolutely have to look into."
+  },
+  {
+    "message": "　　　　　　　　It'll be done soon."
+  },
+  {
+    "name": "Old man",
+    "message": "What are you trying to find out?"
+  },
+  {
+    "message": "　　　　　Are you saying it's more important than running the shop？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I want to know why I was brought to this village."
+  },
+  {
+    "name": "Old man",
+    "message": "What did you say？"
+  },
+  {
+    "message": "　　　　　Why did you start thinking about something like that?"
+  },
+  {
+    "name": "Old man",
+    "message": "I see... you were led astray by those people, weren't you？"
+  },
+  {
+    "message": "　　　　　Meddling in things you shouldn't."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Meddling？"
+  },
+  {
+    "message": "　　　　　　　　Knowing about my past is just unnecessary."
+  },
+  {
+    "name": "Old man",
+    "message": "Even if you know something like that, it's not gonna do you any good."
+  },
+  {
+    "message": "　　　　　You were born in this village and started running the tavern."
+  },
+  {
+    "name": "Old man",
+    "message": "So what's wrong with that！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Grandpa, could it be that you actually know something？"
+  },
+  {
+    "message": "　　　　　　　　Why I was brought here."
+  },
+  {
+    "name": "Old man",
+    "message": "I don't know anything about that! Why the hell would I know something like that?!"
+  },
+  {
+    "message": "　　　　　Guess you'll just have to ask your old man who disappeared or something."
+  },
+  {
+    "message": "　　　Map　　　"
+  }
 ]

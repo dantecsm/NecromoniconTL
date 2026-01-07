@@ -1,469 +1,469 @@
 [
-    {
-        "message": "The gravekeeper old man is no longer here."
-    },
-    {
-        "message": "The empty graveyard feels like it's gone back to being a quiet place just for the dead, like when I first came here."
-    },
-    {
-        "message": "It's the cemetery in Arkham."
-    },
-    {
-        "message": "Because it's away from the sea and sits in a basin slightly lower than other places, the strong winds blowing everywhere else in the village from the sea don't reach here."
-    },
-    {
-        "message": "With its evergreen trees growing thick and, though winter-withered, its well-kept lawn, this cemetery has to be called one of the few quiet and harmless spots in Arkham that might actually feel comfortable."
-    },
-    {
-        "message": "Gravestones without much distinguishing features are lined up neatly within the grounds, and the way each one is aged appropriately seems to remind you of an order unrelated to the village."
-    },
-    {
-        "message": "We strolled along the straight path, careful to avoid the gravestones and the grass around them. There was no sign of anyone visiting a grave, and there was absolutely no sense that we'd run into the old man Marsh."
-    },
-    {
-        "name": "Gardner",
-        "message": "Looks like Marsh isn't here."
-    },
-    {
-        "message": "　　　　　　　　What should we do, do you have anywhere else in mind?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I wonder‥‥‥‥‥"
-    },
-    {
-        "message": "　　　　　　　　I just can't believe Marsh-san would be wandering around here without any purpose."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Even if you ask me where else..."
-    },
-    {
-        "message": "　　　　　　　　What is Marsh old man doing, I wonder."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Hey, what are you guys doing over there？"
-    },
-    {
-        "message": "　　　　　There ain't any rich folks' corpses buried here you could dig up for cash."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "If something like that existed, don't you think I would've dug it up ages ago already？"
-    },
-    {
-        "message": "An extremely exhausted old gravedigger is staring right at us."
-    },
-    {
-        "message": "This guy doesn't seem to be from Arkham either, and he doesn't have that 'Innsmouth look'."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "I asked what you're doing."
-    },
-    {
-        "message": "　　　　　Everyone here is dead and not breathing, but even so, if they see a noisy outsider, they won’t just keep quiet."
-    },
-    {
-        "message": "Ominous-looking black clouds are hanging low in the sky."
-    },
-    {
-        "message": "Even the wind shaking the branches of the trees doesn't seem to do any good in driving away the rain clouds overhead."
-    },
-    {
-        "message": "Through the gaps in the trees, I can see a sky heavy with thick clouds hanging low."
-    },
-    {
-        "message": "The hills visible in the distance have dark clouds looming behind them, looking just like an exceptionally ominous landscape painting."
-    },
-    {
-        "message": "It’s definitely fitting for a graveyard, but even so, this place still gives off a relatively comfortable and refreshing vibe, even within Arkham."
-    },
-    {
-        "message": "I guess nobody would even think about messing with the trees around here."
-    },
-    {
-        "message": "Even though it's this season, those trees, lush with green leaves, are steadily putting in the work to soon become giant trees that can easily avoid harm from others."
-    },
-    {
-        "message": "Maybe because they don't get hit by strong sea winds, the trees in the graveyard grounds all grow perfectly straight."
-    },
-    {
-        "message": "これが夏ならば、丁度いい木陰を作り、その下で休んでみようという気にもなるのだろうが、身も凍らんばかりのこの季節には誰もそんな木々などに気を留めようともしない。"
-    },
-    {
-        "message": "There's no one visiting the graves, and it's dead quiet all around."
-    },
-    {
-        "message": "There's no way I'd ever expect to run into Old man Marsh in a place like this."
-    },
-    {
-        "message": "In the winter-withered lawn, gravestones are lined up in neat, orderly rows."
-    },
-    {
-        "message": "There probably isn't another cemetery in Arkham besides this one, but there still aren't that many gravestones lined up here."
-    },
-    {
-        "message": "I just hope the villagers here aren't still keeping up those old savage customs. If it turned out that the fish in these nearby waters feed on the corpses of villagers washed out to sea, I don't think I'd ever want to eat fish again."
-    },
-    {
-        "message": "From gravestones aged hundreds of years to ones that look brand new and recent, they’re lined up in neat rows."
-    },
-    {
-        "message": "I wonder if these were sourced locally; the gravestones made of stone darker than ordinary gravestones are all shaped almost identically, as if measured to match."
-    },
-    {
-        "message": "It seems like barely anyone in Arkham can afford to spend money on their own gravestones."
-    },
-    {
-        "message": "The moment I mentioned the 'Dunwich family,' the old gravekeeper』s expression seemed to cloud over."
-    },
-    {
-        "message": "The old man, the gravekeeper, is wearing something like a worn-out raincoat, glaring at us without looking particularly surprised."
-    },
-    {
-        "message": "Unlike the villagers' hostile glares that treat us as enemies, his expression almost looks like he's actually enjoying this situation."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "What are you doing coming to a place like this？"
-    },
-    {
-        "message": "　　　　　Seems like you're not from the village, though......"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "You see, folks in this village here don’t even bother to show respect to their own ancestors. Hardly ever set foot in the cemetery."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Excuse me, but are you from Arkham？"
-    },
-    {
-        "message": "　　　　　　　　We’re staying at the Fish Scale Inn......"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Oh, Fish Scale Inn, huh."
-    },
-    {
-        "message": "　　　　　That’s the inn run by Hudson’s wife, right."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "So, are you folks tourists？"
-    },
-    {
-        "message": "　　　　　ここにゃあ有名人の墓なんてないぞ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Isn't the Dunwich family's grave here？"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Dunwich family？"
-    },
-    {
-        "message": "　　　　　How do you know something like that?"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "それで、マーシュとこの墓地とどういう関係があるんだ？"
-    },
-    {
-        "message": "　　　　　Even if you come to a place like this, Marsh ain’t here."
-    },
-    {
-        "name": "Jonathan",
-        "message": "資料館にあったドルリイとダニッジ家の資料を見ただ　　　　　　　　けでは納得いかない部分があるので、村のダニッジ邸　　　　　　　　に行ってみたいんです。"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "No one's set foot in there for decades since the incident."
-    },
-    {
-        "message": "　　　　　Marsh　should　have　the　key,　though."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Anyway, after Dollie died, that guy's been managing all of the Dunwich family's assets."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Old man Marsh？"
-    },
-    {
-        "message": "　　　　　　　　ダニッジ家は村でも屈指の富豪だったのでしょう、そ　　　　　　　　の財産が自分の物になったというのに‥‥‥‥"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Why does Marsh live on that crappy old boat？"
-    },
-    {
-        "message": "　　　　　I'd　like　to　know　that　myself."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Marsh hasn’t touched even a bit of the Dunwich family’s fortune at all."
-    },
-    {
-        "message": "What’s that supposed to mean?"
-    },
-    {
-        "message": "Did you not want to live comfortably for the rest of your life on the fortune of your best friend who was falsely disgraced？"
-    },
-    {
-        "message": "Or maybe......"
-    },
-    {
-        "message": "I don't know who, but maybe there's someone who snatched the Dunwich family's wealth."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Well then, I guess I'll get back to work soon."
-    },
-    {
-        "message": "　　　　　You guys might not know, but being a gravedigger actually keeps you pretty busy."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Is the Dunwich family grave in this cemetery？"
-    },
-    {
-        "message": "　　　　　　　　I'd like to take a quick look if that's okay."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Yeah, it's here."
-    },
-    {
-        "message": "　　　　　Because of the incident, you might not be able to tell it apart from the other shabby tombstones."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Go ahead and look for it yourselves."
-    },
-    {
-        "message": "　　　　　Also, if you see Marsh, tell him to just forget about the nasty stuff already."
-    },
-    {
-        "message": "Leaving those words behind, the gravedigger walked away."
-    },
-    {
-        "name": "Thomas",
-        "message": "Huh, that was one weird old guy."
-    },
-    {
-        "message": "　　　　　　Maybe being alone in a gloomy place like a graveyard has messed with his head, huh？"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "How do you even know about Dunwich?"
-    },
-    {
-        "message": "　　　　　No way the villagers would tell outsiders like you about that."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Do you know an old man named Marsh？"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Marsh？"
-    },
-    {
-        "message": "　　　　　Yeah, I know him. We've known each other since we were kids."
-    },
-    {
-        "message": "If he's known Marsh since childhood, then even though he doesn't look it, this gravedigger must be just as old."
-    },
-    {
-        "message": "Come to think of it, Marsh doesn't look like someone from this village either."
-    },
-    {
-        "message": "I've never once met a villager old enough to know that old man's life story, but maybe this gravedigger knows something."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Since you were a kid？"
-    },
-    {
-        "message": "　　　　　　　　So that means you're just as old as Marsh, huh？"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "He's a little bit older, but our parents both got lured here by the money, we're two peas in a pod."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So Marsh isn't actually from this village？"
-    },
-    {
-        "message": "　　　　　　　　Even so, he sure knows a lot about the village."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "I see, Marsh told you about Dunwich too, huh？"
-    },
-    {
-        "message": "　　　　　Never　once　have　I　told　strangers　about　things　like　that　before."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Just who are you people, anyway？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "We're not anyone special or anything..."
-    },
-    {
-        "message": "　　　　　　　　Marsh the old man told me to look into the 'Dunwich Incident' a bit, that's all."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "The Dunwich Incident, huh... Marsh is still hung up on that stuff, I see."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Can't really blame him."
-    },
-    {
-        "message": "　　　　　Dollie and Marsh were best friends, after all."
-    },
-    {
-        "message": "Dollie Dunwich and Marsh were best friends？"
-    },
-    {
-        "message": "So that's why Marsh was so fixated on that incident."
-    },
-    {
-        "message": "それでは、ドルリイが何かを知ってしまい、その為に一家を惨殺したのだというのは、全てマーシュ老人の妄想なのか？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "マーシュ老人はドルリイを気違いだとは思っていない　　　　　　　　ようですね。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah... If I remember right, a few years after the incident, a circuit judge who dug up a grave in Dunwich saw something bizarre."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "‥‥‥‥‥そいつは俺も知らんな。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Really？"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "‥‥‥‥‥‥‥‥‥‥"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "There's nothing particularly interesting around here, you know."
-    },
-    {
-        "message": "　　　　　さっさと帰ってくれんかね。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "If you don't hurry up, the sun's gonna go down."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan, what are you gonna do now？"
-    },
-    {
-        "message": "　　　　　　　　Do you have any idea where else Marsh-san might have gone？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Now then......"
-    },
-    {
-        "message": "　　　　　　　　And as for other places we haven't been to yet......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "早くしないと陽が暮れちゃうわよ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Don't rush me like that."
-    },
-    {
-        "message": "　　　　　　　　I'm stressed out too, you know."
-    },
-    {
-        "name": "Thomas",
-        "message": "Anyway, I gotta find that old man and hook him up with some good way to make money or something."
-    },
-    {
-        "name": "Thomas",
-        "message": "I had no idea that old man was that loaded."
-    },
-    {
-        "message": "　　　　　　My policy is to get close to rich folks."
-    },
-    {
-        "name": "Jonathan",
-        "message": "In what world does Old man Marsh look rich to you？ There must be some reason he can’t touch the Dunwich family’s fortune."
-    },
-    {
-        "name": "Thomas",
-        "message": "Nah, it's actually pretty hard to figure out."
-    },
-    {
-        "message": "　　　　　　Gramps might be planning to take his money with him to the afterlife."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Don't say stupid things."
-    },
-    {
-        "message": "　　　　　　　　I can't see Marsh as that much of a miser."
-    },
-    {
-        "name": "Gardner",
-        "message": "Looks like Old man Marsh isn't here."
-    },
-    {
-        "name": "Gardner",
-        "message": "So Marsh and Dollie were best friends, huh."
-    },
-    {
-        "message": "　　　　　　　　But,　thinking　about　it　that　way,　it　also　makes　sense　that　the　old　man　was　protecting　Dollie."
-    },
-    {
-        "name": "Gardner",
-        "message": "Dollie found something out... or so they say, but how much can I really trust that?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I can't believe that what Marsh blurted out was just random nonsense."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Even when I look at the records left in the Archives, I just can't shake the feeling that someone deliberately tried to sweep the incident under the rug."
-    },
-    {
-        "name": "Gardner",
-        "message": "It's not like that's an impossible interpretation..."
-    },
-    {
-        "message": "　　　　　　　　Well,　there's　no　point　in　arguing　here　like　this."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Let's try going to Marsh Old Man's derelict ship again."
-    },
-    {
-        "message": "　　　　　　　　Maybe they might have come back."
-    },
-    {
-        "message": "　　　Map　　　"
-    }
+  {
+    "message": "The gravekeeper old man is no longer here."
+  },
+  {
+    "message": "The empty graveyard feels like it's gone back to being a quiet place just for the dead, like when I first came here."
+  },
+  {
+    "message": "It's the cemetery in Arkham."
+  },
+  {
+    "message": "Because it's away from the sea and sits in a basin slightly lower than other places, the strong winds blowing everywhere else in the village from the sea don't reach here."
+  },
+  {
+    "message": "With its evergreen trees growing thick and, though winter-withered, its well-kept lawn, this cemetery has to be called one of the few quiet and harmless spots in Arkham that might actually feel comfortable."
+  },
+  {
+    "message": "Gravestones without much distinguishing features are lined up neatly within the grounds, and the way each one is aged appropriately seems to remind you of an order unrelated to the village."
+  },
+  {
+    "message": "We strolled along the straight path, careful to avoid the gravestones and the grass around them. There was no sign of anyone visiting a grave, and there was absolutely no sense that we'd run into the old man Marsh."
+  },
+  {
+    "name": "Gardner",
+    "message": "Looks like Marsh isn't here."
+  },
+  {
+    "message": "　　　　　　　　What should we do, do you have anywhere else in mind?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I wonder‥‥‥‥‥"
+  },
+  {
+    "message": "　　　　　　　　I just can't believe Marsh-san would be wandering around here without any purpose."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Even if you ask me where else..."
+  },
+  {
+    "message": "　　　　　　　　What is Marsh old man doing, I wonder."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Hey, what are you guys doing over there？"
+  },
+  {
+    "message": "　　　　　There ain't any rich folks' corpses buried here you could dig up for cash."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "If something like that existed, don't you think I would've dug it up ages ago already？"
+  },
+  {
+    "message": "An extremely exhausted old gravedigger is staring right at us."
+  },
+  {
+    "message": "This guy doesn't seem to be from Arkham either, and he doesn't have that 'Innsmouth look'."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "I asked what you're doing."
+  },
+  {
+    "message": "　　　　　Everyone here is dead and not breathing, but even so, if they see a noisy outsider, they won’t just keep quiet."
+  },
+  {
+    "message": "Ominous-looking black clouds are hanging low in the sky."
+  },
+  {
+    "message": "Even the wind shaking the branches of the trees doesn't seem to do any good in driving away the rain clouds overhead."
+  },
+  {
+    "message": "Through the gaps in the trees, I can see a sky heavy with thick clouds hanging low."
+  },
+  {
+    "message": "The hills visible in the distance have dark clouds looming behind them, looking just like an exceptionally ominous landscape painting."
+  },
+  {
+    "message": "It’s definitely fitting for a graveyard, but even so, this place still gives off a relatively comfortable and refreshing vibe, even within Arkham."
+  },
+  {
+    "message": "I guess nobody would even think about messing with the trees around here."
+  },
+  {
+    "message": "Even though it's this season, those trees, lush with green leaves, are steadily putting in the work to soon become giant trees that can easily avoid harm from others."
+  },
+  {
+    "message": "Maybe because they don't get hit by strong sea winds, the trees in the graveyard grounds all grow perfectly straight."
+  },
+  {
+    "message": "If it were summer, these trees would make just the right amount of shade, and you might even want to take a rest beneath them, but in a season cold enough to freeze you to the bone, nobody pays any attention to trees like these."
+  },
+  {
+    "message": "There's no one visiting the graves, and it's dead quiet all around."
+  },
+  {
+    "message": "There's no way I'd ever expect to run into Old man Marsh in a place like this."
+  },
+  {
+    "message": "In the winter-withered lawn, gravestones are lined up in neat, orderly rows."
+  },
+  {
+    "message": "There probably isn't another cemetery in Arkham besides this one, but there still aren't that many gravestones lined up here."
+  },
+  {
+    "message": "I just hope the villagers here aren't still keeping up those old savage customs. If it turned out that the fish in these nearby waters feed on the corpses of villagers washed out to sea, I don't think I'd ever want to eat fish again."
+  },
+  {
+    "message": "From gravestones aged hundreds of years to ones that look brand new and recent, they’re lined up in neat rows."
+  },
+  {
+    "message": "I wonder if these were sourced locally; the gravestones made of stone darker than ordinary gravestones are all shaped almost identically, as if measured to match."
+  },
+  {
+    "message": "It seems like barely anyone in Arkham can afford to spend money on their own gravestones."
+  },
+  {
+    "message": "The moment I mentioned the 'Dunwich family,' the old gravekeeper』s expression seemed to cloud over."
+  },
+  {
+    "message": "The old man, the gravekeeper, is wearing something like a worn-out raincoat, glaring at us without looking particularly surprised."
+  },
+  {
+    "message": "Unlike the villagers' hostile glares that treat us as enemies, his expression almost looks like he's actually enjoying this situation."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "What are you doing coming to a place like this？"
+  },
+  {
+    "message": "　　　　　Seems like you're not from the village, though......"
+  },
+  {
+    "name": "Gravedigger",
+    "message": "You see, folks in this village here don’t even bother to show respect to their own ancestors. Hardly ever set foot in the cemetery."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Excuse me, but are you from Arkham？"
+  },
+  {
+    "message": "　　　　　　　　We’re staying at the Fish Scale Inn......"
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Oh, Fish Scale Inn, huh."
+  },
+  {
+    "message": "　　　　　That’s the inn run by Hudson’s wife, right."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "So, are you folks tourists？"
+  },
+  {
+    "message": "　　　　　There aren't any famous people's graves here, y'know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Isn't the Dunwich family's grave here？"
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Dunwich family？"
+  },
+  {
+    "message": "　　　　　How do you know something like that?"
+  },
+  {
+    "name": "Gravedigger",
+    "message": "So, what's the deal between Marsh and this graveyard？"
+  },
+  {
+    "message": "　　　　　Even if you come to a place like this, Marsh ain’t here."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Just looking at the stuff about Dollie and the Dunwich family in the Archives isn’t enough for me, so I wanna check out the Dunwitch Mansion in the village too."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "No one's set foot in there for decades since the incident."
+  },
+  {
+    "message": "　　　　　Marsh　should　have　the　key,　though."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Anyway, after Dollie died, that guy's been managing all of the Dunwich family's assets."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Old man Marsh？"
+  },
+  {
+    "message": "　　　　　　　　The Dunwich family was probably one of the richest in the village, and yet, even though all that fortune became mine......"
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Why does Marsh live on that crappy old boat？"
+  },
+  {
+    "message": "　　　　　I'd　like　to　know　that　myself."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Marsh hasn’t touched even a bit of the Dunwich family’s fortune at all."
+  },
+  {
+    "message": "What’s that supposed to mean?"
+  },
+  {
+    "message": "Did you not want to live comfortably for the rest of your life on the fortune of your best friend who was falsely disgraced？"
+  },
+  {
+    "message": "Or maybe......"
+  },
+  {
+    "message": "I don't know who, but maybe there's someone who snatched the Dunwich family's wealth."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Well then, I guess I'll get back to work soon."
+  },
+  {
+    "message": "　　　　　You guys might not know, but being a gravedigger actually keeps you pretty busy."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is the Dunwich family grave in this cemetery？"
+  },
+  {
+    "message": "　　　　　　　　I'd like to take a quick look if that's okay."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Yeah, it's here."
+  },
+  {
+    "message": "　　　　　Because of the incident, you might not be able to tell it apart from the other shabby tombstones."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Go ahead and look for it yourselves."
+  },
+  {
+    "message": "　　　　　Also, if you see Marsh, tell him to just forget about the nasty stuff already."
+  },
+  {
+    "message": "Leaving those words behind, the gravedigger walked away."
+  },
+  {
+    "name": "Thomas",
+    "message": "Huh, that was one weird old guy."
+  },
+  {
+    "message": "　　　　　　Maybe being alone in a gloomy place like a graveyard has messed with his head, huh？"
+  },
+  {
+    "name": "Gravedigger",
+    "message": "How do you even know about Dunwich?"
+  },
+  {
+    "message": "　　　　　No way the villagers would tell outsiders like you about that."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Do you know an old man named Marsh？"
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Marsh？"
+  },
+  {
+    "message": "　　　　　Yeah, I know him. We've known each other since we were kids."
+  },
+  {
+    "message": "If he's known Marsh since childhood, then even though he doesn't look it, this gravedigger must be just as old."
+  },
+  {
+    "message": "Come to think of it, Marsh doesn't look like someone from this village either."
+  },
+  {
+    "message": "I've never once met a villager old enough to know that old man's life story, but maybe this gravedigger knows something."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Since you were a kid？"
+  },
+  {
+    "message": "　　　　　　　　So that means you're just as old as Marsh, huh？"
+  },
+  {
+    "name": "Gravedigger",
+    "message": "He's a little bit older, but our parents both got lured here by the money, we're two peas in a pod."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So Marsh isn't actually from this village？"
+  },
+  {
+    "message": "　　　　　　　　Even so, he sure knows a lot about the village."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "I see, Marsh told you about Dunwich too, huh？"
+  },
+  {
+    "message": "　　　　　Never　once　have　I　told　strangers　about　things　like　that　before."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Just who are you people, anyway？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "We're not anyone special or anything..."
+  },
+  {
+    "message": "　　　　　　　　Marsh the old man told me to look into the 'Dunwich Incident' a bit, that's all."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "The Dunwich Incident, huh... Marsh is still hung up on that stuff, I see."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Can't really blame him."
+  },
+  {
+    "message": "　　　　　Dollie and Marsh were best friends, after all."
+  },
+  {
+    "message": "Dollie Dunwich and Marsh were best friends？"
+  },
+  {
+    "message": "So that's why Marsh was so fixated on that incident."
+  },
+  {
+    "message": "So then, is the whole thing about Dollie finding something out and killing the whole family because of it just some delusion of old man Marsh？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It looks like Old man Marsh doesn't think Dollie is crazy."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah... If I remember right, a few years after the incident, a circuit judge who dug up a grave in Dunwich saw something bizarre."
+  },
+  {
+    "name": "Gravedigger",
+    "message": ".....I don't know about that either."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Really？"
+  },
+  {
+    "name": "Gravedigger",
+    "message": "‥‥‥‥‥‥‥‥‥‥"
+  },
+  {
+    "name": "Gravedigger",
+    "message": "There's nothing particularly interesting around here, you know."
+  },
+  {
+    "message": "　　　　　Would　you　just　go　home　already?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "If you don't hurry up, the sun's gonna go down."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan, what are you gonna do now？"
+  },
+  {
+    "message": "　　　　　　　　Do you have any idea where else Marsh-san might have gone？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Now then......"
+  },
+  {
+    "message": "　　　　　　　　And as for other places we haven't been to yet......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "If you don't hurry up, the sun's gonna set."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Don't rush me like that."
+  },
+  {
+    "message": "　　　　　　　　I'm stressed out too, you know."
+  },
+  {
+    "name": "Thomas",
+    "message": "Anyway, I gotta find that old man and hook him up with some good way to make money or something."
+  },
+  {
+    "name": "Thomas",
+    "message": "I had no idea that old man was that loaded."
+  },
+  {
+    "message": "　　　　　　My policy is to get close to rich folks."
+  },
+  {
+    "name": "Jonathan",
+    "message": "In what world does Old man Marsh look rich to you？ There must be some reason he can’t touch the Dunwich family’s fortune."
+  },
+  {
+    "name": "Thomas",
+    "message": "Nah, it's actually pretty hard to figure out."
+  },
+  {
+    "message": "　　　　　　Gramps might be planning to take his money with him to the afterlife."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Don't say stupid things."
+  },
+  {
+    "message": "　　　　　　　　I can't see Marsh as that much of a miser."
+  },
+  {
+    "name": "Gardner",
+    "message": "Looks like Old man Marsh isn't here."
+  },
+  {
+    "name": "Gardner",
+    "message": "So Marsh and Dollie were best friends, huh."
+  },
+  {
+    "message": "　　　　　　　　But,　thinking　about　it　that　way,　it　also　makes　sense　that　the　old　man　was　protecting　Dollie."
+  },
+  {
+    "name": "Gardner",
+    "message": "Dollie found something out... or so they say, but how much can I really trust that?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I can't believe that what Marsh blurted out was just random nonsense."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Even when I look at the records left in the Archives, I just can't shake the feeling that someone deliberately tried to sweep the incident under the rug."
+  },
+  {
+    "name": "Gardner",
+    "message": "It's not like that's an impossible interpretation..."
+  },
+  {
+    "message": "　　　　　　　　Well,　there's　no　point　in　arguing　here　like　this."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Let's try going to Marsh Old Man's derelict ship again."
+  },
+  {
+    "message": "　　　　　　　　Maybe they might have come back."
+  },
+  {
+    "message": "　　　Map　　　"
+  }
 ]

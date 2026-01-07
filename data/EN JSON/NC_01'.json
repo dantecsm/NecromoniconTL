@@ -1,483 +1,483 @@
 [
-    {
-        "message": "As usual, pillars made of dull black stone are standing."
-    },
-    {
-        "message": "Not just while I'm watching, it'll probably keep standing there even after I'm dead."
-    },
-    {
-        "message": "There are carvings on the pillars."
-    },
-    {
-        "message": "The style seems to slightly resemble that of the Mediterranean, but the material looks different from the easily workable limestone."
-    },
-    {
-        "message": "A giant stone pillar is standing there. It's probably big enough that it would take two or three adults holding hands to just barely wrap around it. It looks pretty worn down by rain and salty winds, but it seems like it'll still last a few hundred years more at this rate."
-    },
-    {
-        "message": "It's a relief depicting some bizarre figure, neither fish nor human, which Gardner insists must be the god worshipped in this temple."
-    },
-    {
-        "message": "I've never seen such a weird scene anywhere else."
-    },
-    {
-        "name": "Thomas",
-        "message": "何度見たって同じだぜ。あんなもんに価値なんてありゃし　　　　　　ないさ。"
-    },
-    {
-        "name": "Gardner",
-        "message": "What are you talking about！ You don't understand just how strange and rare that thing is."
-    },
-    {
-        "name": "Gardner",
-        "message": "This is a country of Christians, so the fact that a culture that openly worshipped another god could exist here is already surprising."
-    },
-    {
-        "name": "Thomas",
-        "message": "Then, isn't it just an even older building?"
-    },
-    {
-        "name": "Gardner",
-        "message": "If there's an ancient artifact from before Christ, and no one has ever discovered it until now, that's a huge scoop！"
-    },
-    {
-        "name": "Thomas",
-        "message": "Just some bored person's prank, I bet."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What do the villagers say about these ruins? Is there any kind of legend or something?"
-    },
-    {
-        "name": "Gardner",
-        "message": "That's the problem......"
-    },
-    {
-        "message": "　　　　　　　　The villagers don't seem very happy about people talking about these ruins. They won't say a single word."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'd heard it's a pretty closed-off village, but......"
-    },
-    {
-        "message": "That's when it happened. An old man appeared before me."
-    },
-    {
-        "message": "The old man seemed quite advanced in age. His face was covered in deeply carved wrinkles, and his receding forehead was marked with age spots unique to the elderly. His clothes were way too light for this season-it made me feel cold just looking at him."
-    },
-    {
-        "name": "Old man",
-        "message": "You folks... what're you doing over there？"
-    },
-    {
-        "message": "The old man said this in a voice as thin as a mosquito's buzz. Maybe he was a fisherman in the past-his red face was just what you'd expect from someone who's spent years in the sea breeze. Even though he was totally worn down now, you could just barely catch a glimpse of the muscle he must've had back in his prime."
-    },
-    {
-        "name": "Old man",
-        "message": "Ah... you are..."
-    },
-    {
-        "message": "The old man ignores the other two entirely, staring intently at my face."
-    },
-    {
-        "message": "What in the world did he sense from looking at my face?"
-    },
-    {
-        "name": "Old man",
-        "message": "Ia... fhtagn... mglw’nafh Cthulhu R’lyeh..."
-    },
-    {
-        "message": "The words that came from the old man's mouth were a string of incomprehensible terms, none of which I recognized, nor could I even guess what language they belonged to."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Professor, about those picture-like things carved into the stone pillar..."
-    },
-    {
-        "name": "Gardner",
-        "message": "Yes. It seems, at least from what I imagine, that these structures were built for the 'god' depicted on that mural."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What in the world is it supposed to be？"
-    },
-    {
-        "name": "Gardner",
-        "message": "Take a closer look."
-    },
-    {
-        "name": "Thomas",
-        "message": "Looks kind of like a person, and kind of like a fish. Maybe it's some sorta mermaid or whatever. But no matter how you look, that's definitely a dude."
-    },
-    {
-        "message": "As for me, when it comes to stuff like this, I've got about as much knowledge as Thomas-pretty much none. I have no idea what this picture is supposed to mean."
-    },
-    {
-        "name": "Thomas",
-        "message": "A dude, huh... In that case, I'd rather have one of those sirens or whatever, the gals that mess with sailors using their singing voices."
-    },
-    {
-        "name": "Gardner",
-        "message": "Even if all that's waiting is drowning for you？"
-    },
-    {
-        "message": "　　　　　　　　Besides, that's not an object of worship. It's folklore, you know, just local legends."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Is that a 'god'？"
-    },
-    {
-        "message": "　　　　　　　　Are you telling me it was revered so much that they went out of their way to build such a grand Temple for it？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Sure does feel kinda scary though."
-    },
-    {
-        "name": "Gardner",
-        "message": "Can't say anything for sure！ After all, we don't even know who built it. But since it's close to the sea, it wouldn't be strange if they enshrined some kind of sea god."
-    },
-    {
-        "message": "Thomas looks like he just can't accept it."
-    },
-    {
-        "message": "For Thomas, who is clearly a total outsider to this kind of stuff, to go after an expert like Gardner-it's pretty damn rude, but..."
-    },
-    {
-        "name": "Thomas",
-        "message": "Really, though? Not buying it. Why would a fish god hand out fish to fishermen? I'd get it if it stopped them from catching any, though."
-    },
-    {
-        "message": "Maybe it's because the picture itself is so old and crude, but to me it feels kind of ominous."
-    },
-    {
-        "name": "Gardner",
-        "message": "Just because it's a god that promises a big catch doesn't mean that's why they worshipped it. Maybe they were afraid of something-like, to prevent being cursed, you know? There could be all kinds of reasons."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It might just be my imagination, but to me it really feels like something extremely evil..."
-    },
-    {
-        "name": "Gardner",
-        "message": "Maybe they're actually that kind of god, you know. That's what you'd call a cult of evil gods！"
-    },
-    {
-        "message": "Gardner said that, glancing sideways at Thomas. It was like he was already assuming Thomas was a worshipper of some evil god."
-    },
-    {
-        "message": "On top of pillars that look like the ruins of a Temple, there's something like an emblem or maybe a mural. The details have been worn down by erosion, so you can't really see it clearly."
-    },
-    {
-        "message": "Amidst the ruins of the mostly-collapsed structures, these stone pillars, looking like either a gate or a Temple, stand tall and dignified without a trace of collapse."
-    },
-    {
-        "message": "Anyway, I don't think someone like me, an outsider, is going to make any big discoveries just by staring at this."
-    },
-    {
-        "message": "目の前にそびえる巨大な石の建造物は一体何を意味するのだろう。"
-    },
-    {
-        "message": "It looks like either a gate to a fortress city, or the entrance to the Temple. Either way, it feels really unnatural for something like this to be here in a place like this."
-    },
-    {
-        "message": "The sky is a dull, pale overcast, and I can't even tell if it's midday or twilight with evening closing in. Even as I stand here, it feels like the chill from the sea is slowly creeping in."
-    },
-    {
-        "message": "Looks like they've gotten completely bored."
-    },
-    {
-        "message": "Whatever Thomas was scheming when he came here, it seems he couldn't find what he was looking for in the Ruins."
-    },
-    {
-        "message": "トマスは、一通り遺跡を見て回った途端、すっかり興味を失ってしまったようだ。彼がどういう素性の人間なのかは解らないが、この種の学問に熱心なようにも見えない。"
-    },
-    {
-        "name": "Gardner",
-        "message": "You've been staring at me for a while now, huh？"
-    },
-    {
-        "message": "　　　　　　　　Didn't you come to look at the Ruins? If there's something you don't understand, just say it straight."
-    },
-    {
-        "message": "Gardner is smiling as if just being inside the Ruins brings him joy, glancing around at the various artifacts."
-    },
-    {
-        "message": "This cold must really get to the elderly, but there's no sign at all that it bothers him."
-    },
-    {
-        "message": "When the old man realized that I didn't understand what he was saying at all, he suddenly looked embarrassed. Seems like he mistook me for someone else."
-    },
-    {
-        "message": "The old man still seems to be mistaking me for someone else. He's standing there, quiet, almost like he's sucking up to someone powerful."
-    },
-    {
-        "message": "That old man is staring at me with eyes full of fear mixed with awe."
-    },
-    {
-        "message": "I have no idea what kind of words he said, but there's no doubt he's mistaking me for someone else."
-    },
-    {
-        "name": "Thomas",
-        "message": "Let's get going soon."
-    },
-    {
-        "message": "　　　　　　So... at that place called Gilman House or whatever, the pub. I mean, it's not exactly fancy, but they'll serve booze that warms you up, right?"
-    },
-    {
-        "name": "Thomas",
-        "message": "It's way bigger than I imagined."
-    },
-    {
-        "message": "　　　　　　Something　smaller...　yeah,　like　the　kind　you　often　see　out　in　the　countryside."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What is it？"
-    },
-    {
-        "name": "Thomas",
-        "message": "The old man at the rectory, you know, he says it all proudly."
-    },
-    {
-        "name": "Thomas",
-        "message": "『This is the site of the 14th-century Church our parish is so proud of.' Or so they say.　　　　　　 But when you look at it, all you see is a dirty, half-collapsed brick wall."
-    },
-    {
-        "message": "So does he actually have the refined hobby of going around looking at local relics, despite how he looks? He must be going through a lot of trouble exploring Ruins in remote, inconvenient countryside areas."
-    },
-    {
-        "message": "I remember him saying he often leaves London for work, but maybe the real reason is to check out the ruins."
-    },
-    {
-        "name": "Jonathan",
-        "message": "The ruins here are obviously something completely different from that kind of stuff."
-    },
-    {
-        "message": "　　　　　　　　Even at a glance, you could call them an important cultural heritage."
-    },
-    {
-        "name": "Thomas",
-        "message": "Suspicious-looking pillars and walls, stone statues I have no idea what they're even supposed to be... and you call this cultural heritage, huh......"
-    },
-    {
-        "name": "Gardner",
-        "message": "I shouldn't butt in too much, so just look around however you want. If there's anything you don't understand, just ask me anything."
-    },
-    {
-        "name": "Gardner",
-        "message": "Well, seeing this magnificent relic up close, don't you really get what I was trying to say？"
-    },
-    {
-        "message": "I wonder about that........."
-    },
-    {
-        "message": "I feel like Gardner only ever said stuff like 'extremely valuable' or 'super rare' anyway."
-    },
-    {
-        "name": "Gardner",
-        "message": "What could the statues and murals of strange beings scattered all over the Ruins mean? Even though you're no expert, if you share your opinion, it might help my research."
-    },
-    {
-        "name": "Jonathan",
-        "message": "No... I really don't think an outsider like me could possibly make any new discoveries..."
-    },
-    {
-        "name": "Gardner",
-        "message": "Oh, enough with the lectures."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why are you keeping quiet? Is there something inconvenient if you say it out loud?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Just leave it, will you? Feels kinda bad, like we're picking on an old man or something."
-    },
-    {
-        "message": "I can't really see this guy as the type to worry about such things. Honestly, it just looks like he's trying to keep us away from this old man and the ruins. Or is this just my imagination？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's not gonna happen. Depending on this old man, I might actually be able to achieve the real reason I came to Arkham."
-    },
-    {
-        "name": "Old man",
-        "message": "I don't know anything."
-    },
-    {
-        "message": "　　　　　It's　true......　I　haven't　betrayed　anyone！"
-    },
-    {
-        "message": "The old man suddenly looked extremely scared, even trembling a little as he backed away and disappeared from in front of us."
-    },
-    {
-        "name": "Gardner",
-        "message": "Ah, shit！"
-    },
-    {
-        "message": "　　　　　　　　Jonathan, it's because you started asking those dumbass questions that they left."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Dumbass？"
-    },
-    {
-        "message": "　　　　　　　　How can you say for sure that it's pointless to the professor?"
-    },
-    {
-        "name": "Gardner",
-        "message": "But there was a way more important question than that！"
-    },
-    {
-        "name": "Thomas",
-        "message": "He already left, so there's nothing we can do about it, right?"
-    },
-    {
-        "message": "　　　　　　We should get going too, don’t you think?"
-    },
-    {
-        "name": "Gardner",
-        "message": "That old man must know something important about the ruins."
-    },
-    {
-        "name": "Thomas",
-        "message": "If you put it that way, then probably all the villagers except you and us know a lot about this junk. That old guy’s the same-they just won’t talk, y’know?"
-    },
-    {
-        "name": "Gardner",
-        "message": "Hey, old man, you must know something about these ruins, right? What do those reliefs displayed in the temple and the broken statues mean?"
-    },
-    {
-        "name": "Old man",
-        "message": "I don't know... I don't know anything！"
-    },
-    {
-        "message": "The old man shut his mouth tight, as if he was forbidden from talking about it."
-    },
-    {
-        "name": "Thomas",
-        "message": "Told you so, didn't I?"
-    },
-    {
-        "message": "　　　　　　This old guy's gotten a bit weird, you know."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Old man, it seems like you mistook me for someone else, but do you know someone who looks a lot like me？"
-    },
-    {
-        "message": "Like Thomas says, is it just the ramblings of an old man who's simply losing his memory? Or is it something about my past"
-    },
-    {
-        "message": "That woman who connects me and Arkham,"
-    },
-    {
-        "message": "I wonder if there's some kind of connection？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Please say it！"
-    },
-    {
-        "message": "　　　　　　　　Who were your words directed at?"
-    },
-    {
-        "name": "Old man",
-        "message": "I just..."
-    },
-    {
-        "message": "　　　　　Ah, it's because you had that Innsmouth look..."
-    },
-    {
-        "message": "What does an Innsmouth face mean?"
-    },
-    {
-        "message": "What is the old man saying, I wonder."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What does 'Innsmouth Look' mean？"
-    },
-    {
-        "message": "　　　　　　　　Could you say it more clearly?"
-    },
-    {
-        "name": "Old man",
-        "message": "‥‥‥‥‥‥‥‥"
-    },
-    {
-        "name": "Thomas",
-        "message": "What the hell... is with this creepy old man."
-    },
-    {
-        "message": "　　　　　　Jonathan, it looks like they've got something they want to say to you."
-    },
-    {
-        "message": "It's true, but I don't know this old man at all, and I have absolutely no idea what he's trying to say."
-    },
-    {
-        "name": "Old man",
-        "message": "Ngai-Nguag-Bugu=Shoggoth...... We humbly　　　　　worship the Almighty God we devote ourselves to......"
-    },
-    {
-        "message": "Once again, what came out of the old man's mouth was a mysterious word with a ring similar to a medieval dark age curse. What does 'Almighty God' mean? There's no way he's saying that I'm God, right? Could it have something to do with these ruins?"
-    },
-    {
-        "name": "Gardner",
-        "message": "W-wait a minute！"
-    },
-    {
-        "name": "Gardner",
-        "message": "What do you mean by that comment just now? What is this 'Almighty God' thing supposed to be?"
-    },
-    {
-        "message": "Before I could open my mouth, Gardner questioned the old man."
-    },
-    {
-        "message": "He's about to lunge at the Old man any second now."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Excuse me, but aren't you mistaking me for someone else?"
-    },
-    {
-        "name": "Gardner",
-        "message": "Damn it！ That doesn't matter. More importantly, tell me what that weird chant-like gibberish you were just saying means."
-    },
-    {
-        "name": "Thomas",
-        "message": "Why are you getting so worked up? It's just the ramblings of an old man who's lost his marbles."
-    },
-    {
-        "name": "Gardner",
-        "message": "You idiot, you think this can be brushed off as nonsense?！"
-    },
-    {
-        "message": "　　　　　　　　There’s definitely some kind of hidden meaning behind what was just said."
-    },
-    {
-        "name": "Thomas",
-        "message": "Cut it out already."
-    },
-    {
-        "message": "　　　　　　Hey Jonathan, let's get going already. It's not fun wasting time with these guys！"
-    },
-    {
-        "name": "Old man",
-        "message": "S-So, you're...not, huh？"
-    },
-    {
-        "message": "Fish Scale Inn"
-    },
-    {
-        "message": "　　　Plaza　　　"
-    },
-    {
-        "message": "General store"
-    },
-    {
-        "message": "Gilman House"
-    }
+  {
+    "message": "As usual, pillars made of dull black stone are standing."
+  },
+  {
+    "message": "Not just while I'm watching, it'll probably keep standing there even after I'm dead."
+  },
+  {
+    "message": "There are carvings on the pillars."
+  },
+  {
+    "message": "The style seems to slightly resemble that of the Mediterranean, but the material looks different from the easily workable limestone."
+  },
+  {
+    "message": "A giant stone pillar is standing there. It's probably big enough that it would take two or three adults holding hands to just barely wrap around it. It looks pretty worn down by rain and salty winds, but it seems like it'll still last a few hundred years more at this rate."
+  },
+  {
+    "message": "It's a relief depicting some bizarre figure, neither fish nor human, which Gardner insists must be the god worshipped in this temple."
+  },
+  {
+    "message": "I've never seen such a weird scene anywhere else."
+  },
+  {
+    "name": "Thomas",
+    "message": "No matter how many times you look at it, it's the same. There's no damn value in something like that."
+  },
+  {
+    "name": "Gardner",
+    "message": "What are you talking about！ You don't understand just how strange and rare that thing is."
+  },
+  {
+    "name": "Gardner",
+    "message": "This is a country of Christians, so the fact that a culture that openly worshipped another god could exist here is already surprising."
+  },
+  {
+    "name": "Thomas",
+    "message": "Then, isn't it just an even older building?"
+  },
+  {
+    "name": "Gardner",
+    "message": "If there's an ancient artifact from before Christ, and no one has ever discovered it until now, that's a huge scoop！"
+  },
+  {
+    "name": "Thomas",
+    "message": "Just some bored person's prank, I bet."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What do the villagers say about these ruins? Is there any kind of legend or something?"
+  },
+  {
+    "name": "Gardner",
+    "message": "That's the problem......"
+  },
+  {
+    "message": "　　　　　　　　The villagers don't seem very happy about people talking about these ruins. They won't say a single word."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'd heard it's a pretty closed-off village, but......"
+  },
+  {
+    "message": "That's when it happened. An old man appeared before me."
+  },
+  {
+    "message": "The old man seemed quite advanced in age. His face was covered in deeply carved wrinkles, and his receding forehead was marked with age spots unique to the elderly. His clothes were way too light for this season-it made me feel cold just looking at him."
+  },
+  {
+    "name": "Old man",
+    "message": "You folks... what're you doing over there？"
+  },
+  {
+    "message": "The old man said this in a voice as thin as a mosquito's buzz. Maybe he was a fisherman in the past-his red face was just what you'd expect from someone who's spent years in the sea breeze. Even though he was totally worn down now, you could just barely catch a glimpse of the muscle he must've had back in his prime."
+  },
+  {
+    "name": "Old man",
+    "message": "Ah... you are..."
+  },
+  {
+    "message": "The old man ignores the other two entirely, staring intently at my face."
+  },
+  {
+    "message": "What in the world did he sense from looking at my face?"
+  },
+  {
+    "name": "Old man",
+    "message": "Ia... fhtagn... mglw’nafh Cthulhu R’lyeh..."
+  },
+  {
+    "message": "The words that came from the old man's mouth were a string of incomprehensible terms, none of which I recognized, nor could I even guess what language they belonged to."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Professor, about those picture-like things carved into the stone pillar..."
+  },
+  {
+    "name": "Gardner",
+    "message": "Yes. It seems, at least from what I imagine, that these structures were built for the 'god' depicted on that mural."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What in the world is it supposed to be？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Take a closer look."
+  },
+  {
+    "name": "Thomas",
+    "message": "Looks kind of like a person, and kind of like a fish. Maybe it's some sorta mermaid or whatever. But no matter how you look, that's definitely a dude."
+  },
+  {
+    "message": "As for me, when it comes to stuff like this, I've got about as much knowledge as Thomas-pretty much none. I have no idea what this picture is supposed to mean."
+  },
+  {
+    "name": "Thomas",
+    "message": "A dude, huh... In that case, I'd rather have one of those sirens or whatever, the gals that mess with sailors using their singing voices."
+  },
+  {
+    "name": "Gardner",
+    "message": "Even if all that's waiting is drowning for you？"
+  },
+  {
+    "message": "　　　　　　　　Besides, that's not an object of worship. It's folklore, you know, just local legends."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is that a 'god'？"
+  },
+  {
+    "message": "　　　　　　　　Are you telling me it was revered so much that they went out of their way to build such a grand Temple for it？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Sure does feel kinda scary though."
+  },
+  {
+    "name": "Gardner",
+    "message": "Can't say anything for sure！ After all, we don't even know who built it. But since it's close to the sea, it wouldn't be strange if they enshrined some kind of sea god."
+  },
+  {
+    "message": "Thomas looks like he just can't accept it."
+  },
+  {
+    "message": "For Thomas, who is clearly a total outsider to this kind of stuff, to go after an expert like Gardner-it's pretty damn rude, but..."
+  },
+  {
+    "name": "Thomas",
+    "message": "Really, though? Not buying it. Why would a fish god hand out fish to fishermen? I'd get it if it stopped them from catching any, though."
+  },
+  {
+    "message": "Maybe it's because the picture itself is so old and crude, but to me it feels kind of ominous."
+  },
+  {
+    "name": "Gardner",
+    "message": "Just because it's a god that promises a big catch doesn't mean that's why they worshipped it. Maybe they were afraid of something-like, to prevent being cursed, you know? There could be all kinds of reasons."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It might just be my imagination, but to me it really feels like something extremely evil..."
+  },
+  {
+    "name": "Gardner",
+    "message": "Maybe they're actually that kind of god, you know. That's what you'd call a cult of evil gods！"
+  },
+  {
+    "message": "Gardner said that, glancing sideways at Thomas. It was like he was already assuming Thomas was a worshipper of some evil god."
+  },
+  {
+    "message": "On top of pillars that look like the ruins of a Temple, there's something like an emblem or maybe a mural. The details have been worn down by erosion, so you can't really see it clearly."
+  },
+  {
+    "message": "Amidst the ruins of the mostly-collapsed structures, these stone pillars, looking like either a gate or a Temple, stand tall and dignified without a trace of collapse."
+  },
+  {
+    "message": "Anyway, I don't think someone like me, an outsider, is going to make any big discoveries just by staring at this."
+  },
+  {
+    "message": "What could this gigantic stone structure towering before my eyes possibly mean?"
+  },
+  {
+    "message": "It looks like either a gate to a fortress city, or the entrance to the Temple. Either way, it feels really unnatural for something like this to be here in a place like this."
+  },
+  {
+    "message": "The sky is a dull, pale overcast, and I can't even tell if it's midday or twilight with evening closing in. Even as I stand here, it feels like the chill from the sea is slowly creeping in."
+  },
+  {
+    "message": "Looks like they've gotten completely bored."
+  },
+  {
+    "message": "Whatever Thomas was scheming when he came here, it seems he couldn't find what he was looking for in the Ruins."
+  },
+  {
+    "message": "As soon as Thomas finished looking around the ruins, he seemed to lose all interest. I don't know what kind of person he really is, but he sure doesn't seem into this kind of study."
+  },
+  {
+    "name": "Gardner",
+    "message": "You've been staring at me for a while now, huh？"
+  },
+  {
+    "message": "　　　　　　　　Didn't you come to look at the Ruins? If there's something you don't understand, just say it straight."
+  },
+  {
+    "message": "Gardner is smiling as if just being inside the Ruins brings him joy, glancing around at the various artifacts."
+  },
+  {
+    "message": "This cold must really get to the elderly, but there's no sign at all that it bothers him."
+  },
+  {
+    "message": "When the old man realized that I didn't understand what he was saying at all, he suddenly looked embarrassed. Seems like he mistook me for someone else."
+  },
+  {
+    "message": "The old man still seems to be mistaking me for someone else. He's standing there, quiet, almost like he's sucking up to someone powerful."
+  },
+  {
+    "message": "That old man is staring at me with eyes full of fear mixed with awe."
+  },
+  {
+    "message": "I have no idea what kind of words he said, but there's no doubt he's mistaking me for someone else."
+  },
+  {
+    "name": "Thomas",
+    "message": "Let's get going soon."
+  },
+  {
+    "message": "　　　　　　So... at that place called Gilman House or whatever, the pub. I mean, it's not exactly fancy, but they'll serve booze that warms you up, right?"
+  },
+  {
+    "name": "Thomas",
+    "message": "It's way bigger than I imagined."
+  },
+  {
+    "message": "　　　　　　Something　smaller...　yeah,　like　the　kind　you　often　see　out　in　the　countryside."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What is it？"
+  },
+  {
+    "name": "Thomas",
+    "message": "The old man at the rectory, you know, he says it all proudly."
+  },
+  {
+    "name": "Thomas",
+    "message": "『This is the site of the 14th-century Church our parish is so proud of.' Or so they say.　　　　　　 But when you look at it, all you see is a dirty, half-collapsed brick wall."
+  },
+  {
+    "message": "So does he actually have the refined hobby of going around looking at local relics, despite how he looks? He must be going through a lot of trouble exploring Ruins in remote, inconvenient countryside areas."
+  },
+  {
+    "message": "I remember him saying he often leaves London for work, but maybe the real reason is to check out the ruins."
+  },
+  {
+    "name": "Jonathan",
+    "message": "The ruins here are obviously something completely different from that kind of stuff."
+  },
+  {
+    "message": "　　　　　　　　Even at a glance, you could call them an important cultural heritage."
+  },
+  {
+    "name": "Thomas",
+    "message": "Suspicious-looking pillars and walls, stone statues I have no idea what they're even supposed to be... and you call this cultural heritage, huh......"
+  },
+  {
+    "name": "Gardner",
+    "message": "I shouldn't butt in too much, so just look around however you want. If there's anything you don't understand, just ask me anything."
+  },
+  {
+    "name": "Gardner",
+    "message": "Well, seeing this magnificent relic up close, don't you really get what I was trying to say？"
+  },
+  {
+    "message": "I wonder about that........."
+  },
+  {
+    "message": "I feel like Gardner only ever said stuff like 'extremely valuable' or 'super rare' anyway."
+  },
+  {
+    "name": "Gardner",
+    "message": "What could the statues and murals of strange beings scattered all over the Ruins mean? Even though you're no expert, if you share your opinion, it might help my research."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No... I really don't think an outsider like me could possibly make any new discoveries..."
+  },
+  {
+    "name": "Gardner",
+    "message": "Oh, enough with the lectures."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why are you keeping quiet? Is there something inconvenient if you say it out loud?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Just leave it, will you? Feels kinda bad, like we're picking on an old man or something."
+  },
+  {
+    "message": "I can't really see this guy as the type to worry about such things. Honestly, it just looks like he's trying to keep us away from this old man and the ruins. Or is this just my imagination？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's not gonna happen. Depending on this old man, I might actually be able to achieve the real reason I came to Arkham."
+  },
+  {
+    "name": "Old man",
+    "message": "I don't know anything."
+  },
+  {
+    "message": "　　　　　It's　true......　I　haven't　betrayed　anyone！"
+  },
+  {
+    "message": "The old man suddenly looked extremely scared, even trembling a little as he backed away and disappeared from in front of us."
+  },
+  {
+    "name": "Gardner",
+    "message": "Ah, shit！"
+  },
+  {
+    "message": "　　　　　　　　Jonathan, it's because you started asking those dumbass questions that they left."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Dumbass？"
+  },
+  {
+    "message": "　　　　　　　　How can you say for sure that it's pointless to the professor?"
+  },
+  {
+    "name": "Gardner",
+    "message": "But there was a way more important question than that！"
+  },
+  {
+    "name": "Thomas",
+    "message": "He already left, so there's nothing we can do about it, right?"
+  },
+  {
+    "message": "　　　　　　We should get going too, don’t you think?"
+  },
+  {
+    "name": "Gardner",
+    "message": "That old man must know something important about the ruins."
+  },
+  {
+    "name": "Thomas",
+    "message": "If you put it that way, then probably all the villagers except you and us know a lot about this junk. That old guy’s the same-they just won’t talk, y’know?"
+  },
+  {
+    "name": "Gardner",
+    "message": "Hey, old man, you must know something about these ruins, right? What do those reliefs displayed in the temple and the broken statues mean?"
+  },
+  {
+    "name": "Old man",
+    "message": "I don't know... I don't know anything！"
+  },
+  {
+    "message": "The old man shut his mouth tight, as if he was forbidden from talking about it."
+  },
+  {
+    "name": "Thomas",
+    "message": "Told you so, didn't I?"
+  },
+  {
+    "message": "　　　　　　This old guy's gotten a bit weird, you know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Old man, it seems like you mistook me for someone else, but do you know someone who looks a lot like me？"
+  },
+  {
+    "message": "Like Thomas says, is it just the ramblings of an old man who's simply losing his memory? Or is it something about my past"
+  },
+  {
+    "message": "That woman who connects me and Arkham,"
+  },
+  {
+    "message": "I wonder if there's some kind of connection？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Please say it！"
+  },
+  {
+    "message": "　　　　　　　　Who were your words directed at?"
+  },
+  {
+    "name": "Old man",
+    "message": "I just..."
+  },
+  {
+    "message": "　　　　　Ah, it's because you had that Innsmouth look..."
+  },
+  {
+    "message": "What does an Innsmouth face mean?"
+  },
+  {
+    "message": "What is the old man saying, I wonder."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What does 'Innsmouth Look' mean？"
+  },
+  {
+    "message": "　　　　　　　　Could you say it more clearly?"
+  },
+  {
+    "name": "Old man",
+    "message": "‥‥‥‥‥‥‥‥"
+  },
+  {
+    "name": "Thomas",
+    "message": "What the hell... is with this creepy old man."
+  },
+  {
+    "message": "　　　　　　Jonathan, it looks like they've got something they want to say to you."
+  },
+  {
+    "message": "It's true, but I don't know this old man at all, and I have absolutely no idea what he's trying to say."
+  },
+  {
+    "name": "Old man",
+    "message": "Ngai-Nguag-Bugu=Shoggoth...... We humbly　　　　　worship the Almighty God we devote ourselves to......"
+  },
+  {
+    "message": "Once again, what came out of the old man's mouth was a mysterious word with a ring similar to a medieval dark age curse. What does 'Almighty God' mean? There's no way he's saying that I'm God, right? Could it have something to do with these ruins?"
+  },
+  {
+    "name": "Gardner",
+    "message": "W-wait a minute！"
+  },
+  {
+    "name": "Gardner",
+    "message": "What do you mean by that comment just now? What is this 'Almighty God' thing supposed to be?"
+  },
+  {
+    "message": "Before I could open my mouth, Gardner questioned the old man."
+  },
+  {
+    "message": "He's about to lunge at the Old man any second now."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Excuse me, but aren't you mistaking me for someone else?"
+  },
+  {
+    "name": "Gardner",
+    "message": "Damn it！ That doesn't matter. More importantly, tell me what that weird chant-like gibberish you were just saying means."
+  },
+  {
+    "name": "Thomas",
+    "message": "Why are you getting so worked up? It's just the ramblings of an old man who's lost his marbles."
+  },
+  {
+    "name": "Gardner",
+    "message": "You idiot, you think this can be brushed off as nonsense?！"
+  },
+  {
+    "message": "　　　　　　　　There’s definitely some kind of hidden meaning behind what was just said."
+  },
+  {
+    "name": "Thomas",
+    "message": "Cut it out already."
+  },
+  {
+    "message": "　　　　　　Hey Jonathan, let's get going already. It's not fun wasting time with these guys！"
+  },
+  {
+    "name": "Old man",
+    "message": "S-So, you're...not, huh？"
+  },
+  {
+    "message": "Fish Scale Inn"
+  },
+  {
+    "message": "　　　Plaza　　　"
+  },
+  {
+    "message": "General store"
+  },
+  {
+    "message": "Gilman House"
+  }
 ]

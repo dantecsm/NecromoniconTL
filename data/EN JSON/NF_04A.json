@@ -1,278 +1,278 @@
 [
-    {
-        "name": "Jonathan",
-        "message": "Are you okay, Cordelia？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Of course I'm not okay."
-    },
-    {
-        "message": "　　　　　　　　Why did something like that have to happen..."
-    },
-    {
-        "message": "Can't blame you."
-    },
-    {
-        "message": "Seeing something like that right in front of you..."
-    },
-    {
-        "message": "Who did that to Old man Marsh?"
-    },
-    {
-        "message": "If they'd just killed him, that would be one thing, but this looks like some kind of warning."
-    },
-    {
-        "name": "Thomas",
-        "message": "Hey, this isn't the time to be zoning out here."
-    },
-    {
-        "message": "　　　　　　If it stays like this, we'll be blamed for killing them."
-    },
-    {
-        "name": "Jonathan",
-        "message": "どうして？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "We don't have any reason why we have to kill Marsh, do we！"
-    },
-    {
-        "name": "Thomas",
-        "message": "You idiot."
-    },
-    {
-        "message": "　　　　　　The　world　isn't　that　easy,　you　know！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "But......"
-    },
-    {
-        "message": "　　　　　　　　マーシュをあのままに放っておくのか？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Everyone knows we were hanging around the old man.　　　　　　Reason or not, we’re the ones who look the most suspicious."
-    },
-    {
-        "name": "Thomas",
-        "message": "There's nothing I can fucking do about it."
-    },
-    {
-        "message": "Yeah, that's exactly right."
-    },
-    {
-        "message": "This isn’t the time to be standing around in a daze here......"
-    },
-    {
-        "message": "This is the harbor where Marsh's abandoned ships float."
-    },
-    {
-        "message": "No matter how many times I come, it always feels like a ship graveyard, and it's not a very pleasant sight."
-    },
-    {
-        "message": "This is the harbor where Marsh's derelict ships float."
-    },
-    {
-        "message": "No matter how many times I come here, it always feels like a ship graveyard, and it's not really a pleasant sight."
-    },
-    {
-        "message": "Besides, the strange stench hanging in the air seems to be getting stronger every day. It's gotten to the point where I almost think someone is doing it just to mess with us."
-    },
-    {
-        "message": "The sky is completely covered with dark clouds."
-    },
-    {
-        "message": "It's like it sensed exactly how we feel right now."
-    },
-    {
-        "message": "Looks like there's going to be another nasty storm."
-    },
-    {
-        "message": "The whole view is covered by dark clouds, and because of the strong wind blowing up above, the clouds are moving at an abnormal speed."
-    },
-    {
-        "message": "The indescribable uneasy feeling drifting around grows even stronger, and just looking up at the sky like this makes me anxious."
-    },
-    {
-        "message": "As always, gloomy clouds cover the whole sky."
-    },
-    {
-        "message": "It's not surprising if it starts raining at any moment, but for now, it looks like we're okay."
-    },
-    {
-        "message": "The heavy, low-hanging clouds sharply define the boundary with the sea. The wind that had been blowing from the ocean toward the land seems to have stopped completely, and it doesn't look like the clouds will clear up anytime soon."
-    },
-    {
-        "message": "There isn't even a single seagull in the sky, and nothing blocks my view."
-    },
-    {
-        "message": "I wonder if Arkham has been abandoned not just by the outside world’s civilization, but even by the seagulls."
-    },
-    {
-        "message": "On ground that's been trampled this much, there probably won't be any trace of the culprit left."
-    },
-    {
-        "message": "I can't stay here too long."
-    },
-    {
-        "message": "On the earth packed down over many long years, there's not a single footprint left."
-    },
-    {
-        "message": "If it were raining, it'd be different, but like this, even if someone snuck into Marsh's derelict ship, there probably wouldn't be any traces left behind."
-    },
-    {
-        "message": "We don't even have a magnifying glass to search for the culprit's leftover belongings."
-    },
-    {
-        "message": "Besides, if we keep hanging around here, like Thomas said, people might start saying we're the ones who killed Marsh."
-    },
-    {
-        "message": "The villagers would surely be delighted if troublesome people like us got caught."
-    },
-    {
-        "message": "On the contrary, they might not even hesitate to use this as an excuse to lynch us."
-    },
-    {
-        "message": "There's nothing particularly unusual lying around."
-    },
-    {
-        "message": "地面を馴らして固めただけで、とても上等な船着き場とは思えない。"
-    },
-    {
-        "message": "The stakes for mooring the boat are just rough wooden poles haphazardly driven into the ground."
-    },
-    {
-        "message": "It really makes me wonder if you can even call this a harbor."
-    },
-    {
-        "message": "以前は海外と行き来できるほど大型の帆船もあったのだから、もっとまともな港が存在するのかもしれない。"
-    },
-    {
-        "message": "With waves this strong, there probably isn't anyone who would even think about swimming."
-    },
-    {
-        "message": "犯人は堂々と渡り板を使って船に乗り込んだのか？"
-    },
-    {
-        "message": "The sea is rougher than before because of the strong winds."
-    },
-    {
-        "message": "Still, I guess it's a bit better than the rough seas outside the bay, but there's no way I'd ever feel like swimming in a place like this."
-    },
-    {
-        "message": "If the culprit snuck onto Marsh's derelict ship from the sea, they must've been a pretty damn good swimmer."
-    },
-    {
-        "message": "Still, Arkham is a fishing village after all, so there’s gotta be more than one or two people who are good swimmers. It’d be impossible to pinpoint the culprit."
-    },
-    {
-        "message": "But, to be able to do something that brutal to Marsh's body, it would have to be someone incredibly strong."
-    },
-    {
-        "message": "漁師は皆一様に力が強いが、それでもあれほどの事が出来る人間となればそう多くはいないはずだ。"
-    },
-    {
-        "message": "It's clouded in chocolate color."
-    },
-    {
-        "message": "あたりに漂っている耐え難い悪臭は、この濁った海の水のせいらしい。"
-    },
-    {
-        "message": "It's like a bottomless swamp, muddy with the color of chocolate."
-    },
-    {
-        "message": "Because of the strong wind blowing, I can see white wave crests on the surface, but I have no idea what it's like under the water."
-    },
-    {
-        "message": "Every time the waves crash against the wharf, an unbearable stench fills the air."
-    },
-    {
-        "message": "I wonder if there are piles of dead fish sinking at the bottom of this sea."
-    },
-    {
-        "message": "It's not sturdy enough to withstand a lot of weight."
-    },
-    {
-        "message": "Thomas seems to be the heaviest among us, but even he's crossing all nervous and shaky."
-    },
-    {
-        "message": "It's hard to imagine that a huge guy with enough strength to turn Marsh into such a gruesome corpse could cross this board."
-    },
-    {
-        "message": "Since it's been left alone for years, it probably can't handle anything too heavy."
-    },
-    {
-        "message": "Judging from the state of Marsh's corpse, it's possible to think it was the work of a pretty strong big guy, but this plank doesn't look sturdy enough to support a man that size."
-    },
-    {
-        "message": "Was Marsh killed by multiple people instead of just one person?"
-    },
-    {
-        "message": "しかし、か弱い老人ひとりを殺すのに、それほど大勢の力を必要としたとは考えにくい。"
-    },
-    {
-        "message": "If a group barges into a place like this, it'll stand out just from that alone. Why did they have to go out of their way to take such a risk..."
-    },
-    {
-        "message": "There’s no point in hesitating forever."
-    },
-    {
-        "message": "The only way to get onto the ship is with this plank, after all."
-    },
-    {
-        "message": "It's a careless plank, like they just threw a piece of wood they found over from around here. I'm not sure if it'll hold our weight."
-    },
-    {
-        "message": "It looks about as old as that scrapped ship it's hanging on."
-    },
-    {
-        "message": "Is it really going to be okay？"
-    },
-    {
-        "message": "Leaving someone in such a gruesome state really hurts my conscience..."
-    },
-    {
-        "message": "It can't be helped, if we report that we found the corpse, we'll be the first ones suspected as the culprits."
-    },
-    {
-        "message": "Moored at the far end of the port where no one comes near, it's hard to imagine people would visit a derelict ship like that very often."
-    },
-    {
-        "message": "Marsh's corpse probably won't be found by anyone for a while yet."
-    },
-    {
-        "message": "Sorry, but we can't bury the Old man's corpse."
-    },
-    {
-        "message": "Leaving her abandoned in such a gruesome state hurts my conscience..."
-    },
-    {
-        "message": "It can't be helped, if we report that we found the corpse, we'll be the first ones suspected as the culprits."
-    },
-    {
-        "message": "It's barely floating, but it looks like it's long since lost its real abilities as a ship."
-    },
-    {
-        "message": "It's barely managing to function as Marsh the old man's home. Even then, who knows how long it'll hold up."
-    },
-    {
-        "message": "It's the abandoned ship where the old man Marsh lives."
-    },
-    {
-        "message": "おそらくマーシュと同じぐらい年老いているのだろう。動力は蒸気ではなくて、帆だけで進むようだ。"
-    },
-    {
-        "message": "Just looking at the outside, it's so old and worn out that it wouldn't be surprising if it sank any second."
-    },
-    {
-        "message": "It's barely floating, but it doesn't look like it could possibly withstand the rough waves of the open sea."
-    },
-    {
-        "message": "　　　地図　　　"
-    },
-    {
-        "message": "　　中に入る　　"
-    }
+  {
+    "name": "Jonathan",
+    "message": "Are you okay, Cordelia？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Of course I'm not okay."
+  },
+  {
+    "message": "　　　　　　　　Why did something like that have to happen..."
+  },
+  {
+    "message": "Can't blame you."
+  },
+  {
+    "message": "Seeing something like that right in front of you..."
+  },
+  {
+    "message": "Who did that to Old man Marsh?"
+  },
+  {
+    "message": "If they'd just killed him, that would be one thing, but this looks like some kind of warning."
+  },
+  {
+    "name": "Thomas",
+    "message": "Hey, this isn't the time to be zoning out here."
+  },
+  {
+    "message": "　　　　　　If it stays like this, we'll be blamed for killing them."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "We don't have any reason why we have to kill Marsh, do we！"
+  },
+  {
+    "name": "Thomas",
+    "message": "You idiot."
+  },
+  {
+    "message": "　　　　　　The　world　isn't　that　easy,　you　know！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "But......"
+  },
+  {
+    "message": "　　　　　　　　Are you just gonna leave Marsh like that？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Everyone knows we were hanging around the old man.　　　　　　Reason or not, we’re the ones who look the most suspicious."
+  },
+  {
+    "name": "Thomas",
+    "message": "There's nothing I can fucking do about it."
+  },
+  {
+    "message": "Yeah, that's exactly right."
+  },
+  {
+    "message": "This isn’t the time to be standing around in a daze here......"
+  },
+  {
+    "message": "This is the harbor where Marsh's abandoned ships float."
+  },
+  {
+    "message": "No matter how many times I come, it always feels like a ship graveyard, and it's not a very pleasant sight."
+  },
+  {
+    "message": "This is the harbor where Marsh's derelict ships float."
+  },
+  {
+    "message": "No matter how many times I come here, it always feels like a ship graveyard, and it's not really a pleasant sight."
+  },
+  {
+    "message": "Besides, the strange stench hanging in the air seems to be getting stronger every day. It's gotten to the point where I almost think someone is doing it just to mess with us."
+  },
+  {
+    "message": "The sky is completely covered with dark clouds."
+  },
+  {
+    "message": "It's like it sensed exactly how we feel right now."
+  },
+  {
+    "message": "Looks like there's going to be another nasty storm."
+  },
+  {
+    "message": "The whole view is covered by dark clouds, and because of the strong wind blowing up above, the clouds are moving at an abnormal speed."
+  },
+  {
+    "message": "The indescribable uneasy feeling drifting around grows even stronger, and just looking up at the sky like this makes me anxious."
+  },
+  {
+    "message": "As always, gloomy clouds cover the whole sky."
+  },
+  {
+    "message": "It's not surprising if it starts raining at any moment, but for now, it looks like we're okay."
+  },
+  {
+    "message": "The heavy, low-hanging clouds sharply define the boundary with the sea. The wind that had been blowing from the ocean toward the land seems to have stopped completely, and it doesn't look like the clouds will clear up anytime soon."
+  },
+  {
+    "message": "There isn't even a single seagull in the sky, and nothing blocks my view."
+  },
+  {
+    "message": "I wonder if Arkham has been abandoned not just by the outside world’s civilization, but even by the seagulls."
+  },
+  {
+    "message": "On ground that's been trampled this much, there probably won't be any trace of the culprit left."
+  },
+  {
+    "message": "I can't stay here too long."
+  },
+  {
+    "message": "On the earth packed down over many long years, there's not a single footprint left."
+  },
+  {
+    "message": "If it were raining, it'd be different, but like this, even if someone snuck into Marsh's derelict ship, there probably wouldn't be any traces left behind."
+  },
+  {
+    "message": "We don't even have a magnifying glass to search for the culprit's leftover belongings."
+  },
+  {
+    "message": "Besides, if we keep hanging around here, like Thomas said, people might start saying we're the ones who killed Marsh."
+  },
+  {
+    "message": "The villagers would surely be delighted if troublesome people like us got caught."
+  },
+  {
+    "message": "On the contrary, they might not even hesitate to use this as an excuse to lynch us."
+  },
+  {
+    "message": "There's nothing particularly unusual lying around."
+  },
+  {
+    "message": "It's just the ground leveled and packed down-it doesn't look like a proper dock at all."
+  },
+  {
+    "message": "The stakes for mooring the boat are just rough wooden poles haphazardly driven into the ground."
+  },
+  {
+    "message": "It really makes me wonder if you can even call this a harbor."
+  },
+  {
+    "message": "There used to be big sailing ships that could come and go overseas, so maybe there's a better port somewhere else."
+  },
+  {
+    "message": "With waves this strong, there probably isn't anyone who would even think about swimming."
+  },
+  {
+    "message": "Did the culprit really just boldly use the plank to board the ship？"
+  },
+  {
+    "message": "The sea is rougher than before because of the strong winds."
+  },
+  {
+    "message": "Still, I guess it's a bit better than the rough seas outside the bay, but there's no way I'd ever feel like swimming in a place like this."
+  },
+  {
+    "message": "If the culprit snuck onto Marsh's derelict ship from the sea, they must've been a pretty damn good swimmer."
+  },
+  {
+    "message": "Still, Arkham is a fishing village after all, so there’s gotta be more than one or two people who are good swimmers. It’d be impossible to pinpoint the culprit."
+  },
+  {
+    "message": "But, to be able to do something that brutal to Marsh's body, it would have to be someone incredibly strong."
+  },
+  {
+    "message": "All the fishermen are strong, but still, there can't be many people who could pull something like that off."
+  },
+  {
+    "message": "It's clouded in chocolate color."
+  },
+  {
+    "message": "The unbearable stench drifting around here seems to be because of this murky seawater."
+  },
+  {
+    "message": "It's like a bottomless swamp, muddy with the color of chocolate."
+  },
+  {
+    "message": "Because of the strong wind blowing, I can see white wave crests on the surface, but I have no idea what it's like under the water."
+  },
+  {
+    "message": "Every time the waves crash against the wharf, an unbearable stench fills the air."
+  },
+  {
+    "message": "I wonder if there are piles of dead fish sinking at the bottom of this sea."
+  },
+  {
+    "message": "It's not sturdy enough to withstand a lot of weight."
+  },
+  {
+    "message": "Thomas seems to be the heaviest among us, but even he's crossing all nervous and shaky."
+  },
+  {
+    "message": "It's hard to imagine that a huge guy with enough strength to turn Marsh into such a gruesome corpse could cross this board."
+  },
+  {
+    "message": "Since it's been left alone for years, it probably can't handle anything too heavy."
+  },
+  {
+    "message": "Judging from the state of Marsh's corpse, it's possible to think it was the work of a pretty strong big guy, but this plank doesn't look sturdy enough to support a man that size."
+  },
+  {
+    "message": "Was Marsh killed by multiple people instead of just one person?"
+  },
+  {
+    "message": "But it's hard to believe it took a whole bunch of people to kill one frail old man."
+  },
+  {
+    "message": "If a group barges into a place like this, it'll stand out just from that alone. Why did they have to go out of their way to take such a risk..."
+  },
+  {
+    "message": "There’s no point in hesitating forever."
+  },
+  {
+    "message": "The only way to get onto the ship is with this plank, after all."
+  },
+  {
+    "message": "It's a careless plank, like they just threw a piece of wood they found over from around here. I'm not sure if it'll hold our weight."
+  },
+  {
+    "message": "It looks about as old as that scrapped ship it's hanging on."
+  },
+  {
+    "message": "Is it really going to be okay？"
+  },
+  {
+    "message": "Leaving someone in such a gruesome state really hurts my conscience..."
+  },
+  {
+    "message": "It can't be helped, if we report that we found the corpse, we'll be the first ones suspected as the culprits."
+  },
+  {
+    "message": "Moored at the far end of the port where no one comes near, it's hard to imagine people would visit a derelict ship like that very often."
+  },
+  {
+    "message": "Marsh's corpse probably won't be found by anyone for a while yet."
+  },
+  {
+    "message": "Sorry, but we can't bury the Old man's corpse."
+  },
+  {
+    "message": "Leaving her abandoned in such a gruesome state hurts my conscience..."
+  },
+  {
+    "message": "It can't be helped, if we report that we found the corpse, we'll be the first ones suspected as the culprits."
+  },
+  {
+    "message": "It's barely floating, but it looks like it's long since lost its real abilities as a ship."
+  },
+  {
+    "message": "It's barely managing to function as Marsh the old man's home. Even then, who knows how long it'll hold up."
+  },
+  {
+    "message": "It's the abandoned ship where the old man Marsh lives."
+  },
+  {
+    "message": "He's probably as old as Marsh. It's not steam-powered-it looks like it just moves by sail."
+  },
+  {
+    "message": "Just looking at the outside, it's so old and worn out that it wouldn't be surprising if it sank any second."
+  },
+  {
+    "message": "It's barely floating, but it doesn't look like it could possibly withstand the rough waves of the open sea."
+  },
+  {
+    "message": "　　　地図　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

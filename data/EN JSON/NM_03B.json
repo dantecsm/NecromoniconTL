@@ -1,338 +1,338 @@
 [
-    {
-        "name": "Mary",
-        "message": "Jonathan, thank you so much."
-    },
-    {
-        "message": "　　　　　　Now I've made up my mind."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Made up your mind？"
-    },
-    {
-        "message": "　　　　　　　　What do you mean?"
-    },
-    {
-        "name": "Mary",
-        "message": "No, it's fine now."
-    },
-    {
-        "message": "　　　　　　You'd better go quickly."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Well then, let's go together."
-    },
-    {
-        "message": "　　　　　　　　Staying here alone is just waiting for death."
-    },
-    {
-        "name": "Mary",
-        "message": "そうはいかないわ。"
-    },
-    {
-        "message": "　　　　　　ここはあたしのお店ですからね。"
-    },
-    {
-        "name": "Mary",
-        "message": "I don't just go out for no reason, you know."
-    },
-    {
-        "name": "Jonathan",
-        "message": "No way..."
-    },
-    {
-        "name": "Mary",
-        "message": "Just go already！"
-    },
-    {
-        "message": "　　　　　　You still have things you gotta do, don't you！"
-    },
-    {
-        "name": "Mary",
-        "message": "At least you should get out of this village safely."
-    },
-    {
-        "message": "　　　　　　You can't die in a place like this."
-    },
-    {
-        "name": "Mary",
-        "message": "Jonathan, thank you so much."
-    },
-    {
-        "message": "　　　　　　Now I've made up my mind."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Made up your mind？"
-    },
-    {
-        "message": "　　　　　　　　What do you mean?"
-    },
-    {
-        "name": "Mary",
-        "message": "Nah, it's fine now."
-    },
-    {
-        "message": "　　　　　　You should get going soon."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Then, let's go together."
-    },
-    {
-        "message": "　　　　　　　　Staying　here　alone　is　just　like　waiting　to　die."
-    },
-    {
-        "name": "Mary",
-        "message": "I can't let you do that."
-    },
-    {
-        "message": "　　　　　　This is my shop, after all."
-    },
-    {
-        "name": "Mary",
-        "message": "I'm not going to just leave so easily."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's ridiculous..."
-    },
-    {
-        "name": "Mary",
-        "message": "Just go already！"
-    },
-    {
-        "message": "　　　　　　You've still got things you need to do, don't you！"
-    },
-    {
-        "name": "Mary",
-        "message": "At least you, please get out of this village safely."
-    },
-    {
-        "message": "　　　　　　You can't die in a place like this."
-    },
-    {
-        "name": "Madam",
-        "message": "Ah, you are......"
-    },
-    {
-        "message": "There’s no sign of the two young prostitutes inside the Brothel."
-    },
-    {
-        "message": "Madam, left alone in the shop, looks at me with a face of relief, like she's seen a savior."
-    },
-    {
-        "name": "Madam",
-        "message": "Ah, please... help me！"
-    },
-    {
-        "message": "　　　　　　How　did　things　end　up　like　this？"
-    },
-    {
-        "message": "What the hell happened？"
-    },
-    {
-        "name": "Mary",
-        "message": "ジョナサン、何をしに来たの。"
-    },
-    {
-        "message": "　　　　　　Don't you know what's happening in this village right now？"
-    },
-    {
-        "message": "Mary's face is pale, and the smile floating at her lips is somehow unnatural, like her mind is confused."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What happened here?"
-    },
-    {
-        "message": "　　　　　　　　Where did Sue and Mabel go?"
-    },
-    {
-        "name": "Mary",
-        "message": "Sue...... Mabel......"
-    },
-    {
-        "name": "Mary",
-        "message": "You two are......"
-    },
-    {
-        "message": "やや個性的に思える感を別にすれば、ロンドンでも中の下あたりに位置するホテルの一室と言っても通用するような瀟洒な内装だ。"
-    },
-    {
-        "message": "今まで娼館などという場所に出入りした経験はないが、どこでもこんな様子なのだろうか。"
-    },
-    {
-        "message": "Mixed in with the strong perfume that fills the room, there's also a nasty stench that makes you feel sick."
-    },
-    {
-        "message": "Every time I go out to cover incidents in the streets of London, there’s that familiar smell... This has gotta be the stench of blood, no doubt about it."
-    },
-    {
-        "message": "なかなか洒落た飾りが施してある。"
-    },
-    {
-        "message": "Maybe the fact that they pay attention to such little details is proof that they're serious about their business."
-    },
-    {
-        "message": "It probably isn't easy to set up a store this big in Arkham, so maybe the lady owner here is actually pretty sharp."
-    },
-    {
-        "message": "Compared to places like Fish Scale Inn and Gilman House, they seem to be more proactive about investing in their facilities."
-    },
-    {
-        "message": "That just means there's that much profit in it."
-    },
-    {
-        "name": "Mary",
-        "message": "Hurry up and go already."
-    },
-    {
-        "message": "　　　　　　You can't die in a place like this."
-    },
-    {
-        "name": "Jonathan",
-        "message": "スウとメーベルは何処に行ってしまったんです。"
-    },
-    {
-        "message": "　　　　　　　　If　you　went　outside　at　a　time　like　this..."
-    },
-    {
-        "name": "Madam",
-        "message": "Well then……"
-    },
-    {
-        "message": "　　　　　　You saw that, didn't you？"
-    },
-    {
-        "message": "Could that be... are you talking about a Deep One?"
-    },
-    {
-        "message": "So then, that monster showed up at the brothel too, huh."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Then, Sue and Mabel..."
-    },
-    {
-        "name": "Madam",
-        "message": "It happened last night."
-    },
-    {
-        "message": "　　　　　　Two customers came, young fishermen."
-    },
-    {
-        "name": "Madam",
-        "message": "As soon as they came in, they said stuff like 'today's our last time'... I just thought, oh, I guess these guys will be out fishing for a while starting tomorrow."
-    },
-    {
-        "name": "Madam",
-        "message": "Not a lot of them come back to the port for about a week after they take their boat out."
-    },
-    {
-        "name": "Madam",
-        "message": "But still..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What happened?"
-    },
-    {
-        "message": "　　　　　　　　Those fishermen..."
-    },
-    {
-        "name": "Madam",
-        "message": "I woke up in the middle of the night to Sue and Mabel's screams."
-    },
-    {
-        "message": "　　　　　　I wondered what the hell was going on, and peeked into the room..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "The guys had turned into fish monsters, right?"
-    },
-    {
-        "message": "　　　　　　　　Sue and Mabel..."
-    },
-    {
-        "name": "Madam",
-        "message": "The whole place was a sea of blood around there！"
-    },
-    {
-        "message": "　　　　　　They both got killed！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Calm down..."
-    },
-    {
-        "name": "Madam",
-        "message": "Ah... it's no good anymore..."
-    },
-    {
-        "name": "Madam",
-        "message": "It's my fault."
-    },
-    {
-        "message": "　　　　　　If I just hadn't let bastards like that into the shop..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Madam, hang in there."
-    },
-    {
-        "name": "Madam",
-        "message": "It's Mary..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Mary？"
-    },
-    {
-        "name": "Madam",
-        "message": "That's my name."
-    },
-    {
-        "name": "Madam",
-        "message": "Ah, Jonathan......"
-    },
-    {
-        "message": "　　　　　　Please, just let me forget everything for just a little while！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "What are you even saying at a time like this."
-    },
-    {
-        "name": "Madam",
-        "message": "I'm about to go insane！"
-    },
-    {
-        "message": "　　　　　　What the hell was that, this has to be a dream, yeah, that's got to be it..."
-    },
-    {
-        "message": "No good, I'm not in a normal state of mind anymore."
-    },
-    {
-        "message": "It can't be helped, I'll do as you wish......."
-    },
-    {
-        "name": "Mary",
-        "message": "What did you come here for？"
-    },
-    {
-        "message": "　　　　　　Sue and Mabel aren't here either."
-    },
-    {
-        "name": "Mary",
-        "message": "I'm already worn out."
-    },
-    {
-        "message": "　　　　　　あたしはここに残るから、あんた達だけでなんとかしてみ　　　　　　なさいよ。"
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "name": "Mary",
+    "message": "Jonathan, thank you so much."
+  },
+  {
+    "message": "　　　　　　Now I've made up my mind."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Made up your mind？"
+  },
+  {
+    "message": "　　　　　　　　What do you mean?"
+  },
+  {
+    "name": "Mary",
+    "message": "No, it's fine now."
+  },
+  {
+    "message": "　　　　　　You'd better go quickly."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Well then, let's go together."
+  },
+  {
+    "message": "　　　　　　　　Staying here alone is just waiting for death."
+  },
+  {
+    "name": "Mary",
+    "message": "That's not gonna happen."
+  },
+  {
+    "message": "　　　　　　This is my shop, you know."
+  },
+  {
+    "name": "Mary",
+    "message": "I don't just go out for no reason, you know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No way..."
+  },
+  {
+    "name": "Mary",
+    "message": "Just go already！"
+  },
+  {
+    "message": "　　　　　　You still have things you gotta do, don't you！"
+  },
+  {
+    "name": "Mary",
+    "message": "At least you should get out of this village safely."
+  },
+  {
+    "message": "　　　　　　You can't die in a place like this."
+  },
+  {
+    "name": "Mary",
+    "message": "Jonathan, thank you so much."
+  },
+  {
+    "message": "　　　　　　Now I've made up my mind."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Made up your mind？"
+  },
+  {
+    "message": "　　　　　　　　What do you mean?"
+  },
+  {
+    "name": "Mary",
+    "message": "Nah, it's fine now."
+  },
+  {
+    "message": "　　　　　　You should get going soon."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Then, let's go together."
+  },
+  {
+    "message": "　　　　　　　　Staying　here　alone　is　just　like　waiting　to　die."
+  },
+  {
+    "name": "Mary",
+    "message": "I can't let you do that."
+  },
+  {
+    "message": "　　　　　　This is my shop, after all."
+  },
+  {
+    "name": "Mary",
+    "message": "I'm not going to just leave so easily."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's ridiculous..."
+  },
+  {
+    "name": "Mary",
+    "message": "Just go already！"
+  },
+  {
+    "message": "　　　　　　You've still got things you need to do, don't you！"
+  },
+  {
+    "name": "Mary",
+    "message": "At least you, please get out of this village safely."
+  },
+  {
+    "message": "　　　　　　You can't die in a place like this."
+  },
+  {
+    "name": "Madam",
+    "message": "Ah, you are......"
+  },
+  {
+    "message": "There’s no sign of the two young prostitutes inside the Brothel."
+  },
+  {
+    "message": "Madam, left alone in the shop, looks at me with a face of relief, like she's seen a savior."
+  },
+  {
+    "name": "Madam",
+    "message": "Ah, please... help me！"
+  },
+  {
+    "message": "　　　　　　How　did　things　end　up　like　this？"
+  },
+  {
+    "message": "What the hell happened？"
+  },
+  {
+    "name": "Mary",
+    "message": "Jonathan, what are you doing here?"
+  },
+  {
+    "message": "　　　　　　Don't you know what's happening in this village right now？"
+  },
+  {
+    "message": "Mary's face is pale, and the smile floating at her lips is somehow unnatural, like her mind is confused."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What happened here?"
+  },
+  {
+    "message": "　　　　　　　　Where did Sue and Mabel go?"
+  },
+  {
+    "name": "Mary",
+    "message": "Sue...... Mabel......"
+  },
+  {
+    "name": "Mary",
+    "message": "You two are......"
+  },
+  {
+    "message": "Putting aside the somewhat unique vibe, the stylish interior could easily pass for a room in a lower-mid-class hotel in London."
+  },
+  {
+    "message": "I've never been to a place like a brothel before, but is it like this everywhere?"
+  },
+  {
+    "message": "Mixed in with the strong perfume that fills the room, there's also a nasty stench that makes you feel sick."
+  },
+  {
+    "message": "Every time I go out to cover incidents in the streets of London, there’s that familiar smell... This has gotta be the stench of blood, no doubt about it."
+  },
+  {
+    "message": "It's got some pretty stylish decorations on it."
+  },
+  {
+    "message": "Maybe the fact that they pay attention to such little details is proof that they're serious about their business."
+  },
+  {
+    "message": "It probably isn't easy to set up a store this big in Arkham, so maybe the lady owner here is actually pretty sharp."
+  },
+  {
+    "message": "Compared to places like Fish Scale Inn and Gilman House, they seem to be more proactive about investing in their facilities."
+  },
+  {
+    "message": "That just means there's that much profit in it."
+  },
+  {
+    "name": "Mary",
+    "message": "Hurry up and go already."
+  },
+  {
+    "message": "　　　　　　You can't die in a place like this."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Where did Sue and Mabel go?"
+  },
+  {
+    "message": "　　　　　　　　If　you　went　outside　at　a　time　like　this..."
+  },
+  {
+    "name": "Madam",
+    "message": "Well then……"
+  },
+  {
+    "message": "　　　　　　You saw that, didn't you？"
+  },
+  {
+    "message": "Could that be... are you talking about a Deep One?"
+  },
+  {
+    "message": "So then, that monster showed up at the brothel too, huh."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Then, Sue and Mabel..."
+  },
+  {
+    "name": "Madam",
+    "message": "It happened last night."
+  },
+  {
+    "message": "　　　　　　Two customers came, young fishermen."
+  },
+  {
+    "name": "Madam",
+    "message": "As soon as they came in, they said stuff like 'today's our last time'... I just thought, oh, I guess these guys will be out fishing for a while starting tomorrow."
+  },
+  {
+    "name": "Madam",
+    "message": "Not a lot of them come back to the port for about a week after they take their boat out."
+  },
+  {
+    "name": "Madam",
+    "message": "But still..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What happened?"
+  },
+  {
+    "message": "　　　　　　　　Those fishermen..."
+  },
+  {
+    "name": "Madam",
+    "message": "I woke up in the middle of the night to Sue and Mabel's screams."
+  },
+  {
+    "message": "　　　　　　I wondered what the hell was going on, and peeked into the room..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "The guys had turned into fish monsters, right?"
+  },
+  {
+    "message": "　　　　　　　　Sue and Mabel..."
+  },
+  {
+    "name": "Madam",
+    "message": "The whole place was a sea of blood around there！"
+  },
+  {
+    "message": "　　　　　　They both got killed！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Calm down..."
+  },
+  {
+    "name": "Madam",
+    "message": "Ah... it's no good anymore..."
+  },
+  {
+    "name": "Madam",
+    "message": "It's my fault."
+  },
+  {
+    "message": "　　　　　　If I just hadn't let bastards like that into the shop..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Madam, hang in there."
+  },
+  {
+    "name": "Madam",
+    "message": "It's Mary..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Mary？"
+  },
+  {
+    "name": "Madam",
+    "message": "That's my name."
+  },
+  {
+    "name": "Madam",
+    "message": "Ah, Jonathan......"
+  },
+  {
+    "message": "　　　　　　Please, just let me forget everything for just a little while！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "What are you even saying at a time like this."
+  },
+  {
+    "name": "Madam",
+    "message": "I'm about to go insane！"
+  },
+  {
+    "message": "　　　　　　What the hell was that, this has to be a dream, yeah, that's got to be it..."
+  },
+  {
+    "message": "No good, I'm not in a normal state of mind anymore."
+  },
+  {
+    "message": "It can't be helped, I'll do as you wish......."
+  },
+  {
+    "name": "Mary",
+    "message": "What did you come here for？"
+  },
+  {
+    "message": "　　　　　　Sue and Mabel aren't here either."
+  },
+  {
+    "name": "Mary",
+    "message": "I'm already worn out."
+  },
+  {
+    "message": "　　　　　　I'm staying here, so you guys figure it out on your own."
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

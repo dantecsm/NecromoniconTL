@@ -1,119 +1,119 @@
 [
-    {
-        "message": "Looks like Thomas hasn't come back yet."
-    },
-    {
-        "message": "I wonder where they went off to this late at night."
-    },
-    {
-        "message": "This is Thomas's room."
-    },
-    {
-        "message": "Taking advantage of the unlocked door and opening it without asking, I find that the person who should be complaining isn't anywhere to be seen."
-    },
-    {
-        "message": "The room is neat and tidy, just like you'd expect from someone who says they like things clean."
-    },
-    {
-        "message": "Not only that, but there isn't a single piece of luggage that would show Thomas is staying here."
-    },
-    {
-        "message": "Is he a guy who hardly had any stuff to begin with, or did he leave for some reason? Even so, the suspension bridge you use to get out of Arkham is in a dangerous state, and the iron bridge built half a century ago could collapse at any moment-wasn't it Thomas himself who said that?"
-    },
-    {
-        "message": "I wonder where he went."
-    },
-    {
-        "message": "It's a neatly organized room."
-    },
-    {
-        "message": "There's nothing here that shows Thomas is staying here."
-    },
-    {
-        "message": "Because this room is on the shady backside, it's strangely damp and honestly not very comfortable."
-    },
-    {
-        "message": "トマスとハドスン夫人のぎくしゃくした関係から考えると、夫人はわざとこんな良くない部屋をトマスにあてがったのではないだろうか。"
-    },
-    {
-        "message": "Mrs. Hudson is always gentle and doesn’t have a trace of malice, so I just can’t imagine her doing something like that, but I have no idea why she went out of her way to push Thomas, who had been staying at the Fish Scale Inn long before I decided to stay here, into such a bad room."
-    },
-    {
-        "message": "Thomas's room is just as tidy as you'd expect from someone who says they like things clean, everything's neatly organized."
-    },
-    {
-        "message": "Not only that, there isn’t a single piece of luggage or clothing or anything that would show Thomas is staying in this room."
-    },
-    {
-        "message": "Is this the way his secret society does things?"
-    },
-    {
-        "message": "Even if I try to search the room while Thomas is gone, there's no way I'll find anything like this."
-    },
-    {
-        "message": "Maybe they keep things light so they can disappear whenever they want."
-    },
-    {
-        "message": "When I saw the bed still perfectly made, it looked like Thomas had gone out without sleeping a wink."
-    },
-    {
-        "message": "It's not much different from the bed in my room."
-    },
-    {
-        "message": "It might be a bit too small for tall Thomas."
-    },
-    {
-        "message": "The sheet is just as Mrs. Hudson made the bed, perfectly neat without a single wrinkle."
-    },
-    {
-        "message": "Thomas probably went out without sleeping a wink while I was dozing off."
-    },
-    {
-        "message": "I can't think of anywhere he might go at all..."
-    },
-    {
-        "message": "Come to think of it, when we talked in the cafeteria this morning, you said something like 'places to have fun in the village'..."
-    },
-    {
-        "message": "In this village where entertainment is scarce, I wonder if there's even a 'fun place'."
-    },
-    {
-        "message": "I wonder what that smug look on Thomas's face back then meant."
-    },
-    {
-        "message": "I can't believe Thomas puts up with a room this gloomy and sunless."
-    },
-    {
-        "message": "It's nighttime now so I can't tell, but since this window is on the back side of the Fish Scale Inn, which is shaded even during the day, sunlight probably hardly ever comes in through here."
-    },
-    {
-        "message": "This way, even if the curtain is open, it probably won't make much difference."
-    },
-    {
-        "message": "Thomas sure puts up with a lot in a room like this."
-    },
-    {
-        "message": "It's an old, worthless Table, just like the one in my room."
-    },
-    {
-        "message": "魚鱗亭が開業した頃から備品として存在していたのかもしれない。"
-    },
-    {
-        "message": "There's not much difference from the stuff in my room."
-    },
-    {
-        "message": "It's too tall for eating, and it seems too high to use as a writing desk."
-    },
-    {
-        "message": "Still, Thomas isn't the type to write things eagerly, and he probably wouldn't want to eat alone."
-    },
-    {
-        "message": "Even though there's a Table, you probably hardly ever use it."
-    },
-    {
-        "message": "For that guy, something like this is just about right."
-    },
-    {
-        "message": "My room"
-    }
+  {
+    "message": "Looks like Thomas hasn't come back yet."
+  },
+  {
+    "message": "I wonder where they went off to this late at night."
+  },
+  {
+    "message": "This is Thomas's room."
+  },
+  {
+    "message": "Taking advantage of the unlocked door and opening it without asking, I find that the person who should be complaining isn't anywhere to be seen."
+  },
+  {
+    "message": "The room is neat and tidy, just like you'd expect from someone who says they like things clean."
+  },
+  {
+    "message": "Not only that, but there isn't a single piece of luggage that would show Thomas is staying here."
+  },
+  {
+    "message": "Is he a guy who hardly had any stuff to begin with, or did he leave for some reason? Even so, the suspension bridge you use to get out of Arkham is in a dangerous state, and the iron bridge built half a century ago could collapse at any moment-wasn't it Thomas himself who said that?"
+  },
+  {
+    "message": "I wonder where he went."
+  },
+  {
+    "message": "It's a neatly organized room."
+  },
+  {
+    "message": "There's nothing here that shows Thomas is staying here."
+  },
+  {
+    "message": "Because this room is on the shady backside, it's strangely damp and honestly not very comfortable."
+  },
+  {
+    "message": "Given the awkward relationship between Thomas and Mrs. Hudson, maybe she purposely gave Thomas such a lousy room."
+  },
+  {
+    "message": "Mrs. Hudson is always gentle and doesn’t have a trace of malice, so I just can’t imagine her doing something like that, but I have no idea why she went out of her way to push Thomas, who had been staying at the Fish Scale Inn long before I decided to stay here, into such a bad room."
+  },
+  {
+    "message": "Thomas's room is just as tidy as you'd expect from someone who says they like things clean, everything's neatly organized."
+  },
+  {
+    "message": "Not only that, there isn’t a single piece of luggage or clothing or anything that would show Thomas is staying in this room."
+  },
+  {
+    "message": "Is this the way his secret society does things?"
+  },
+  {
+    "message": "Even if I try to search the room while Thomas is gone, there's no way I'll find anything like this."
+  },
+  {
+    "message": "Maybe they keep things light so they can disappear whenever they want."
+  },
+  {
+    "message": "When I saw the bed still perfectly made, it looked like Thomas had gone out without sleeping a wink."
+  },
+  {
+    "message": "It's not much different from the bed in my room."
+  },
+  {
+    "message": "It might be a bit too small for tall Thomas."
+  },
+  {
+    "message": "The sheet is just as Mrs. Hudson made the bed, perfectly neat without a single wrinkle."
+  },
+  {
+    "message": "Thomas probably went out without sleeping a wink while I was dozing off."
+  },
+  {
+    "message": "I can't think of anywhere he might go at all..."
+  },
+  {
+    "message": "Come to think of it, when we talked in the cafeteria this morning, you said something like 'places to have fun in the village'..."
+  },
+  {
+    "message": "In this village where entertainment is scarce, I wonder if there's even a 'fun place'."
+  },
+  {
+    "message": "I wonder what that smug look on Thomas's face back then meant."
+  },
+  {
+    "message": "I can't believe Thomas puts up with a room this gloomy and sunless."
+  },
+  {
+    "message": "It's nighttime now so I can't tell, but since this window is on the back side of the Fish Scale Inn, which is shaded even during the day, sunlight probably hardly ever comes in through here."
+  },
+  {
+    "message": "This way, even if the curtain is open, it probably won't make much difference."
+  },
+  {
+    "message": "Thomas sure puts up with a lot in a room like this."
+  },
+  {
+    "message": "It's an old, worthless Table, just like the one in my room."
+  },
+  {
+    "message": "Maybe it's been part of the furnishings since the Fish Scale Inn first opened for business."
+  },
+  {
+    "message": "There's not much difference from the stuff in my room."
+  },
+  {
+    "message": "It's too tall for eating, and it seems too high to use as a writing desk."
+  },
+  {
+    "message": "Still, Thomas isn't the type to write things eagerly, and he probably wouldn't want to eat alone."
+  },
+  {
+    "message": "Even though there's a Table, you probably hardly ever use it."
+  },
+  {
+    "message": "For that guy, something like this is just about right."
+  },
+  {
+    "message": "My room"
+  }
 ]

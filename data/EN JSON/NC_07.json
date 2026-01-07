@@ -1,246 +1,246 @@
 [
-    {
-        "message": "There's no one here."
-    },
-    {
-        "message": "If this temple really does belong to the god Dagon worships, I figured this was the only place any kind of ritual would be held..."
-    },
-    {
-        "message": "Was there anywhere else that seemed likely?"
-    },
-    {
-        "name": "Gardner",
-        "message": "Jonathan......"
-    },
-    {
-        "message": "　　　　　　　　There's　nowhere　here　you　could　really　hide　a　book."
-    },
-    {
-        "name": "Gardner",
-        "message": "If you're even a little smart, you wouldn't leave a precious book like that out in the open to get wrecked by the weather, would you？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Nnh... brr! It's freezing!"
-    },
-    {
-        "message": "A wind carrying tiny grains of ice blows from the sea onto the land."
-    },
-    {
-        "message": "On the tip of a cape with almost no cover, the cold wind just rips the warmth right out of you, lashing an already exhausted body even more."
-    },
-    {
-        "name": "Thomas",
-        "message": "What the hell do you think's out here, anyway?"
-    },
-    {
-        "message": "　　　　　　With it this cold, even that monster wouldn't show up."
-    },
-    {
-        "message": "Honestly, that might just be true."
-    },
-    {
-        "message": "Out here, it'd be impossible to keep a book in good shape. I don't know who last had the Necronomicon, but no way is this the perfect hiding spot."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I can't stop shivering..."
-    },
-    {
-        "message": "黒ずんだぬめるような光沢を持った石の柱は、ギリシアの島々に点在する神殿に見られる様式に似ているようだ。"
-    },
-    {
-        "message": "But there's no way these Ruins were brought here from Greece."
-    },
-    {
-        "message": "Philip was trading with countries in Asia and Africa, so these ruins must've been brought over from there too, no doubt..."
-    },
-    {
-        "message": "I'm an outsider, so I don't have enough knowledge to back up that hypothesis."
-    },
-    {
-        "message": "Even Gardner, the expert, is baffled, so there's no way I could solve that mystery."
-    },
-    {
-        "message": "The pillars, made of black stone with a slimy gloss, are surrendering themselves to the slow waves of collapse, without anyone taking notice."
-    },
-    {
-        "message": "This is the Temple that displays murals, apparently modeled after the bizarre monstrosities I saw firsthand last night."
-    },
-    {
-        "message": "If we believe the gravekeeper's story that the Dagon Cult worships this Temple, then wouldn't the mural displayed high up there be their god?"
-    },
-    {
-        "message": "But the way the man who was reading the Necronomicon in my dream treated the monster seemed just like he was handling his own servant."
-    },
-    {
-        "message": "Someone who seems like a god to Dagon is nothing more than a mere servant to the man."
-    },
-    {
-        "message": "Is it just the difference between someone who has the Necronomicon and someone who doesn't？"
-    },
-    {
-        "message": "It's a building with a solemn, almost unapproachable vibe, that looks like a Temple."
-    },
-    {
-        "message": "Maybe the consciousness of the people who worshipped this place as the center of their faith is lingering here, because just seeing it makes me feel even afraid."
-    },
-    {
-        "message": "Marsh said that by bringing these ruins to Arkham, Philip made quite a fortune."
-    },
-    {
-        "message": "確かに、こんな物を運んでくるのは並大抵の苦労では無かったはずだから、それなりの見返りを期待していたのだろうが‥‥‥"
-    },
-    {
-        "message": "Around the Ruins where the cold wind blows fiercely, you can't find a single person, let alone even a bird flying overhead."
-    },
-    {
-        "message": "The sound of waves crashing against the sheer cliffs just below is a deafening noise that seems to make the lonely atmosphere of the cape even more intense."
-    },
-    {
-        "message": "Surrounded by massive Ruins and hearing the terrifying sound of the waves, it really makes you realize just how small you are."
-    },
-    {
-        "message": "Around the ruins where the cold wind blows fiercely, you can't find a single human, not even a bird flying overhead."
-    },
-    {
-        "name": "Thomas",
-        "message": "Seriously, can you quit prying into what I'm up to already?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "If that's what you want, then you'd better spill everything you've got hidden in your gut."
-    },
-    {
-        "name": "Thomas",
-        "message": "I'm not hiding anything."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's why I can't trust you."
-    },
-    {
-        "name": "Thomas",
-        "message": "Then why are you taking me along？"
-    },
-    {
-        "message": "　　　　　　Even though I don't know when you might betray me."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Even if I say no, you're gonna follow me anyway, right?"
-    },
-    {
-        "message": "　　　　　　　　Then don't you think it'd be safer if you stayed somewhere I can keep an eye on you？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Well now........."
-    },
-    {
-        "name": "Thomas",
-        "message": "I don't wanna be stuck in a village like this either."
-    },
-    {
-        "message": "　　　　　　Let's hurry up and find that Whatever book or something."
-    },
-    {
-        "name": "Gardner",
-        "message": "君は真面目に探す気があるのかね？"
-    },
-    {
-        "message": "　　　　　　　　Where the hell would there even be a place to hide books in a spot like this, with all this wind and rain blowing around?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "So, where do you think we should look for the professor？"
-    },
-    {
-        "name": "Gardner",
-        "message": "『木の葉を隠すには森の中』という言葉がある。"
-    },
-    {
-        "message": "　　　　　　　　たくさんの本の中にまぎれてしまえば、それを見つけ　　　　　　　　だすのは非常に困難だと言えよう。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "それでは‥‥‥‥"
-    },
-    {
-        "name": "Gardner",
-        "message": "If it's hard to find, that just means it's the perfect place to hide something."
-    },
-    {
-        "name": "Gardner",
-        "message": "Anyway, let's just get out of here."
-    },
-    {
-        "message": "　　　　　　　　Time is limited."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I'm already tired......"
-    },
-    {
-        "message": "無理もない、昨晩からほとんど眠っていない上に満足な食事さえとっていないのだから。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Shall we take a little break somewhere？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "No, that's not it."
-    },
-    {
-        "message": "　　　　　　　　But, I've just been running the pub alone for years, without anyone to talk to, and I haven't even met a guy I like."
-    },
-    {
-        "name": "Cordelia",
-        "message": "When I started thinking, like, what was the point of everything I’ve been doing, all of a sudden I just lost all my strength."
-    },
-    {
-        "name": "Jonathan",
-        "message": "それももうすぐ終わりじゃないか。"
-    },
-    {
-        "message": "　　　　　　　　もうすぐこの村から出ていく事ができるんだから。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Do you really think that will happen？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Of course I would."
-    },
-    {
-        "message": "　　　　　　　　Otherwise, there's no way I'd be going through all this trouble."
-    },
-    {
-        "name": "Cordelia",
-        "message": "わたし、思うんだけど‥‥‥‥"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I bet someone will get in the way again and try to stop me from being happy."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Don't say stuff like that."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I just kinda felt that way......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Hurry up and find the 'Necronomicon'."
-    },
-    {
-        "message": "　　　　　　　　I wanna get out of this village as soon as I can."
-    },
-    {
-        "message": "　　　Map　　　"
-    }
+  {
+    "message": "There's no one here."
+  },
+  {
+    "message": "If this temple really does belong to the god Dagon worships, I figured this was the only place any kind of ritual would be held..."
+  },
+  {
+    "message": "Was there anywhere else that seemed likely?"
+  },
+  {
+    "name": "Gardner",
+    "message": "Jonathan......"
+  },
+  {
+    "message": "　　　　　　　　There's　nowhere　here　you　could　really　hide　a　book."
+  },
+  {
+    "name": "Gardner",
+    "message": "If you're even a little smart, you wouldn't leave a precious book like that out in the open to get wrecked by the weather, would you？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Nnh... brr! It's freezing!"
+  },
+  {
+    "message": "A wind carrying tiny grains of ice blows from the sea onto the land."
+  },
+  {
+    "message": "On the tip of a cape with almost no cover, the cold wind just rips the warmth right out of you, lashing an already exhausted body even more."
+  },
+  {
+    "name": "Thomas",
+    "message": "What the hell do you think's out here, anyway?"
+  },
+  {
+    "message": "　　　　　　With it this cold, even that monster wouldn't show up."
+  },
+  {
+    "message": "Honestly, that might just be true."
+  },
+  {
+    "message": "Out here, it'd be impossible to keep a book in good shape. I don't know who last had the Necronomicon, but no way is this the perfect hiding spot."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I can't stop shivering..."
+  },
+  {
+    "message": "The pillars of stone, covered in a dark, slimy sheen, seem to resemble the style of temples scattered across the islands of Greece."
+  },
+  {
+    "message": "But there's no way these Ruins were brought here from Greece."
+  },
+  {
+    "message": "Philip was trading with countries in Asia and Africa, so these ruins must've been brought over from there too, no doubt..."
+  },
+  {
+    "message": "I'm an outsider, so I don't have enough knowledge to back up that hypothesis."
+  },
+  {
+    "message": "Even Gardner, the expert, is baffled, so there's no way I could solve that mystery."
+  },
+  {
+    "message": "The pillars, made of black stone with a slimy gloss, are surrendering themselves to the slow waves of collapse, without anyone taking notice."
+  },
+  {
+    "message": "This is the Temple that displays murals, apparently modeled after the bizarre monstrosities I saw firsthand last night."
+  },
+  {
+    "message": "If we believe the gravekeeper's story that the Dagon Cult worships this Temple, then wouldn't the mural displayed high up there be their god?"
+  },
+  {
+    "message": "But the way the man who was reading the Necronomicon in my dream treated the monster seemed just like he was handling his own servant."
+  },
+  {
+    "message": "Someone who seems like a god to Dagon is nothing more than a mere servant to the man."
+  },
+  {
+    "message": "Is it just the difference between someone who has the Necronomicon and someone who doesn't？"
+  },
+  {
+    "message": "It's a building with a solemn, almost unapproachable vibe, that looks like a Temple."
+  },
+  {
+    "message": "Maybe the consciousness of the people who worshipped this place as the center of their faith is lingering here, because just seeing it makes me feel even afraid."
+  },
+  {
+    "message": "Marsh said that by bringing these ruins to Arkham, Philip made quite a fortune."
+  },
+  {
+    "message": "It’s true, bringing something like this must have been no ordinary effort, so they probably expected some reward in return‥‥‥"
+  },
+  {
+    "message": "Around the Ruins where the cold wind blows fiercely, you can't find a single person, let alone even a bird flying overhead."
+  },
+  {
+    "message": "The sound of waves crashing against the sheer cliffs just below is a deafening noise that seems to make the lonely atmosphere of the cape even more intense."
+  },
+  {
+    "message": "Surrounded by massive Ruins and hearing the terrifying sound of the waves, it really makes you realize just how small you are."
+  },
+  {
+    "message": "Around the ruins where the cold wind blows fiercely, you can't find a single human, not even a bird flying overhead."
+  },
+  {
+    "name": "Thomas",
+    "message": "Seriously, can you quit prying into what I'm up to already?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "If that's what you want, then you'd better spill everything you've got hidden in your gut."
+  },
+  {
+    "name": "Thomas",
+    "message": "I'm not hiding anything."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's why I can't trust you."
+  },
+  {
+    "name": "Thomas",
+    "message": "Then why are you taking me along？"
+  },
+  {
+    "message": "　　　　　　Even though I don't know when you might betray me."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Even if I say no, you're gonna follow me anyway, right?"
+  },
+  {
+    "message": "　　　　　　　　Then don't you think it'd be safer if you stayed somewhere I can keep an eye on you？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Well now........."
+  },
+  {
+    "name": "Thomas",
+    "message": "I don't wanna be stuck in a village like this either."
+  },
+  {
+    "message": "　　　　　　Let's hurry up and find that Whatever book or something."
+  },
+  {
+    "name": "Gardner",
+    "message": "Are you even seriously trying to look for it？"
+  },
+  {
+    "message": "　　　　　　　　Where the hell would there even be a place to hide books in a spot like this, with all this wind and rain blowing around?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "So, where do you think we should look for the professor？"
+  },
+  {
+    "name": "Gardner",
+    "message": "There's a saying, 'To hide a leaf, put it in the forest.'"
+  },
+  {
+    "message": "　　　　　　　　If it’s buried among a lot of books, it would be extremely difficult to find."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Well then‥‥‥‥"
+  },
+  {
+    "name": "Gardner",
+    "message": "If it's hard to find, that just means it's the perfect place to hide something."
+  },
+  {
+    "name": "Gardner",
+    "message": "Anyway, let's just get out of here."
+  },
+  {
+    "message": "　　　　　　　　Time is limited."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I'm already tired......"
+  },
+  {
+    "message": "No wonder-I’ve barely slept since last night, and I haven’t even had a decent meal."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Shall we take a little break somewhere？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "No, that's not it."
+  },
+  {
+    "message": "　　　　　　　　But, I've just been running the pub alone for years, without anyone to talk to, and I haven't even met a guy I like."
+  },
+  {
+    "name": "Cordelia",
+    "message": "When I started thinking, like, what was the point of everything I’ve been doing, all of a sudden I just lost all my strength."
+  },
+  {
+    "name": "Jonathan",
+    "message": "But it’ll be over soon, won’t it?"
+  },
+  {
+    "message": "　　　　　　　　We’ll　be　able　to　leave　this　village　soon　enough."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Do you really think that will happen？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Of course I would."
+  },
+  {
+    "message": "　　　　　　　　Otherwise, there's no way I'd be going through all this trouble."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You know, I’ve been thinking..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I bet someone will get in the way again and try to stop me from being happy."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Don't say stuff like that."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I just kinda felt that way......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Hurry up and find the 'Necronomicon'."
+  },
+  {
+    "message": "　　　　　　　　I wanna get out of this village as soon as I can."
+  },
+  {
+    "message": "　　　Map　　　"
+  }
 ]

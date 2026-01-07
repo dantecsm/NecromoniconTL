@@ -1,122 +1,122 @@
 [
-    {
-        "message": "Looks like Cordelia's not here."
-    },
-    {
-        "message": "If you went out to look for me because I was late, I figured the first place you'd come would be the Fish Scale Inn."
-    },
-    {
-        "message": "If they’re not here either......"
-    },
-    {
-        "message": "Where could Cordelia have gone?"
-    },
-    {
-        "message": "In front of the Fish Scale Inn."
-    },
-    {
-        "message": "Looking around, nothing seems different from when I came out, so it looks like Thomas still hasn't come back."
-    },
-    {
-        "message": "それにしても、トマスの奴はあんな所で何をしていたのだろう。"
-    },
-    {
-        "message": "Are you maybe acquainted with Nai？"
-    },
-    {
-        "message": "She belonged to a secret society and had weirdly specialized knowledge, so there was something not quite normal about her......"
-    },
-    {
-        "message": "If you're acquainted with Nai, does that mean you came to Arkham for some special reason?"
-    },
-    {
-        "message": "I'm in front of Fish Scale Inn."
-    },
-    {
-        "message": "Maybe it's because thick clouds cover the sky, but it's not as cold as I thought."
-    },
-    {
-        "message": "Before I go see Cordelia, I should check out some other places."
-    },
-    {
-        "message": "Places that seemed like nothing during the day might mean something important now."
-    },
-    {
-        "message": "I can't just stand here staring forever."
-    },
-    {
-        "message": "Fish Scale Inn itself isn't exactly a building that's interesting enough to really catch my eye in the first place."
-    },
-    {
-        "message": "It stands out as if asserting its presence in the darkness."
-    },
-    {
-        "message": "But instead of being lyrical or majestic, my impression is more like that of an eerie abandoned house."
-    },
-    {
-        "message": "Especially in England, there’s a tendency to value old things, but it seems Fish Scale Inn is an exception."
-    },
-    {
-        "message": "If Mrs. Hudson weren’t here, no one would even think of staying at an inn like this."
-    },
-    {
-        "message": "In the end, I left while Mrs. Hudson was still angry, but I wonder if that was really the right thing to do."
-    },
-    {
-        "message": "She’s one of the few people willing to help in Arkham, and she seemed to look at me favorably too."
-    },
-    {
-        "message": "I don’t know why she’s angry, but maybe it’d be wiser to clear up the misunderstanding first？"
-    },
-    {
-        "message": "Hudson seemed really worried about Cordelia."
-    },
-    {
-        "message": "The moment she heard I planned to take Cordelia out of Arkham, her cold attitude disappeared."
-    },
-    {
-        "message": "It’s not like I just said something off the cuff, but is it really okay to take Cordelia to London?"
-    },
-    {
-        "message": "If I suddenly brought a woman home, what would my family think?"
-    },
-    {
-        "message": "And if they found out that woman used to live in Arkham......"
-    },
-    {
-        "message": "I know it's pointless to dwell on it, but thinking about what's coming makes me feel pretty down."
-    },
-    {
-        "message": "And I'm also bothered about Mrs. Hudson's husband, who went missing."
-    },
-    {
-        "message": "Mrs. Hudson said she was the last one from the family whose husband used to run the Fish Scale Inn."
-    },
-    {
-        "message": "Maybe that's why she can't leave Arkham."
-    },
-    {
-        "message": "She probably just can't stand being the one to end the Fish Scale Inn that's been passed down in her husband's family for generations."
-    },
-    {
-        "message": "Honestly, I don't think she owes that much to the guy who dumped her and disappeared, but maybe that's not for me to judge."
-    },
-    {
-        "message": "Just standing here staring like this, my motivation to do something crazy like heading out somewhere is fading bit by bit."
-    },
-    {
-        "message": "Should I just head back to my room like this..."
-    },
-    {
-        "message": "From the completely silent building, you can’t even sense if anyone’s inside. Actually, you even start to doubt whether anyone really lives there at all."
-    },
-    {
-        "message": "I'm not sure if this door will really be open when I get back, but I can't exactly ask Mrs. Hudson to lend me the front door key-so I guess I just have to keep moving without hesitating."
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "message": "Looks like Cordelia's not here."
+  },
+  {
+    "message": "If you went out to look for me because I was late, I figured the first place you'd come would be the Fish Scale Inn."
+  },
+  {
+    "message": "If they’re not here either......"
+  },
+  {
+    "message": "Where could Cordelia have gone?"
+  },
+  {
+    "message": "In front of the Fish Scale Inn."
+  },
+  {
+    "message": "Looking around, nothing seems different from when I came out, so it looks like Thomas still hasn't come back."
+  },
+  {
+    "message": "Still, what the hell was Thomas doing in a place like that?"
+  },
+  {
+    "message": "Are you maybe acquainted with Nai？"
+  },
+  {
+    "message": "She belonged to a secret society and had weirdly specialized knowledge, so there was something not quite normal about her......"
+  },
+  {
+    "message": "If you're acquainted with Nai, does that mean you came to Arkham for some special reason?"
+  },
+  {
+    "message": "I'm in front of Fish Scale Inn."
+  },
+  {
+    "message": "Maybe it's because thick clouds cover the sky, but it's not as cold as I thought."
+  },
+  {
+    "message": "Before I go see Cordelia, I should check out some other places."
+  },
+  {
+    "message": "Places that seemed like nothing during the day might mean something important now."
+  },
+  {
+    "message": "I can't just stand here staring forever."
+  },
+  {
+    "message": "Fish Scale Inn itself isn't exactly a building that's interesting enough to really catch my eye in the first place."
+  },
+  {
+    "message": "It stands out as if asserting its presence in the darkness."
+  },
+  {
+    "message": "But instead of being lyrical or majestic, my impression is more like that of an eerie abandoned house."
+  },
+  {
+    "message": "Especially in England, there’s a tendency to value old things, but it seems Fish Scale Inn is an exception."
+  },
+  {
+    "message": "If Mrs. Hudson weren’t here, no one would even think of staying at an inn like this."
+  },
+  {
+    "message": "In the end, I left while Mrs. Hudson was still angry, but I wonder if that was really the right thing to do."
+  },
+  {
+    "message": "She’s one of the few people willing to help in Arkham, and she seemed to look at me favorably too."
+  },
+  {
+    "message": "I don’t know why she’s angry, but maybe it’d be wiser to clear up the misunderstanding first？"
+  },
+  {
+    "message": "Hudson seemed really worried about Cordelia."
+  },
+  {
+    "message": "The moment she heard I planned to take Cordelia out of Arkham, her cold attitude disappeared."
+  },
+  {
+    "message": "It’s not like I just said something off the cuff, but is it really okay to take Cordelia to London?"
+  },
+  {
+    "message": "If I suddenly brought a woman home, what would my family think?"
+  },
+  {
+    "message": "And if they found out that woman used to live in Arkham......"
+  },
+  {
+    "message": "I know it's pointless to dwell on it, but thinking about what's coming makes me feel pretty down."
+  },
+  {
+    "message": "And I'm also bothered about Mrs. Hudson's husband, who went missing."
+  },
+  {
+    "message": "Mrs. Hudson said she was the last one from the family whose husband used to run the Fish Scale Inn."
+  },
+  {
+    "message": "Maybe that's why she can't leave Arkham."
+  },
+  {
+    "message": "She probably just can't stand being the one to end the Fish Scale Inn that's been passed down in her husband's family for generations."
+  },
+  {
+    "message": "Honestly, I don't think she owes that much to the guy who dumped her and disappeared, but maybe that's not for me to judge."
+  },
+  {
+    "message": "Just standing here staring like this, my motivation to do something crazy like heading out somewhere is fading bit by bit."
+  },
+  {
+    "message": "Should I just head back to my room like this..."
+  },
+  {
+    "message": "From the completely silent building, you can’t even sense if anyone’s inside. Actually, you even start to doubt whether anyone really lives there at all."
+  },
+  {
+    "message": "I'm not sure if this door will really be open when I get back, but I can't exactly ask Mrs. Hudson to lend me the front door key-so I guess I just have to keep moving without hesitating."
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

@@ -1,466 +1,466 @@
 [
-    {
-        "message": "We made it to the Fish Scale Inn, staggering with exhaustion after a day that was just too damn busy."
-    },
-    {
-        "name": "Gardner",
-        "message": "Jeez, what a day it's been."
-    },
-    {
-        "message": "　　　　　　　　It's tough for an old person like me."
-    },
-    {
-        "message": "Gardner looks like he's gotten a lot older."
-    },
-    {
-        "message": "Even Thomas doesn't seem to have the energy to talk back right now."
-    },
-    {
-        "name": "Cordelia",
-        "message": "We're done for today, right？"
-    },
-    {
-        "message": "　　　　　　　　I'm heading back to the Gilman House."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You don't have to rush that much, do you？"
-    },
-    {
-        "message": "　　　　　　　　Why　don't　you　stay　and　have　dinner　with　us?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Nah, I'll pass."
-    },
-    {
-        "message": "　　　　　　　　I'm kind of tired, so I don't have an appetite."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Is that so？"
-    },
-    {
-        "message": "　　　　　　　　Lately, it seems like there aren't many customers coming to eat at the Fish Scale Inn, so if you went along, the lady would be happy too."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I'm sorry."
-    },
-    {
-        "message": "　　　　　　　　By the way, Jonathan......"
-    },
-    {
-        "name": "Gardner",
-        "message": "What's up, Jonathan."
-    },
-    {
-        "message": "　　　　　　　　Standing　around　here　isn't　going　to　get　you　anything."
-    },
-    {
-        "name": "Thomas",
-        "message": "Are you lost in thought again？"
-    },
-    {
-        "message": "　　　　　　If you're that uptight, the young lady's gonna end up hating you.　　　　　　A man needs to be a lot more chill, you know."
-    },
-    {
-        "message": "Walking along with these two loudmouths is no ordinary hassle."
-    },
-    {
-        "message": "It'd be nice if Cordelia could understand the tough spot I'm in too..."
-    },
-    {
-        "message": "It's in front of the Fish Scale Inn."
-    },
-    {
-        "message": "Since it's early morning, it's dark outside. I have a feeling it's going to be a gloomy, overcast day again."
-    },
-    {
-        "message": "この村に来てから、まだ一度も晴天の空を見た事がないが、この時期のイギリスにあってはそれも仕方のない事なのだろう。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "What's wrong？"
-    },
-    {
-        "message": "　　　　　　　　You’ve been completely silent for a while now."
-    },
-    {
-        "name": "Thomas",
-        "message": "There's nothing to worry about, miss."
-    },
-    {
-        "message": "　　　　　　This guy's always like this."
-    },
-    {
-        "message": "Looking at the Fish Scale Inn like this, it reminds me of what the station staff said back in Salem."
-    },
-    {
-        "message": "駅員は村で信用がおける宿はここしかないと言っていたが、確かにそのとおりかもしれない。少なくともハドスン夫人は夜中に客の部屋に忍び込んで手荷物を漁るような事はすまい。"
-    },
-    {
-        "message": "It's the Fish Scale Inn."
-    },
-    {
-        "message": "In the middle of all the closed buildings around, it's the only one that's barely still open."
-    },
-    {
-        "message": "When I saw it in the darkness of night, it felt reliable, being the only thing left to depend on in this village, but now, seeing it under the sunlight like this, it just looks really unreliable."
-    },
-    {
-        "message": "It looks like they're trying to open up to us, but so far it doesn't seem like there have been any promising results."
-    },
-    {
-        "message": "He still doesn't seem used to being with Gardner and Thomas."
-    },
-    {
-        "message": "No wonder, Gardner might seem like a kindly old gentleman, but you never know when he might just explode in a fit of temper."
-    },
-    {
-        "message": "When it comes to Thomas, there's honestly no telling who the hell he even is."
-    },
-    {
-        "message": "Was it really a mistake to bring her along after all?"
-    },
-    {
-        "message": "You probably shouldn't trust it too much."
-    },
-    {
-        "message": "As usual, acting nonchalant."
-    },
-    {
-        "message": "The way he sometimes exchanges glances with Cordelia so subtly that I can't tell, that's just like this untrustworthy guy."
-    },
-    {
-        "message": "But I don't think this guy's true face is just that of a mere dilettante."
-    },
-    {
-        "message": "Soon enough, they'll definitely start showing their true colors."
-    },
-    {
-        "message": "Seems like they're irritated."
-    },
-    {
-        "message": "We should probably leave before Gardner throws a tantrum."
-    },
-    {
-        "message": "At first glance, they seem calm on the outside, but inside, they can barely stand it-they're itching to uncover the mystery of the Ruins right away."
-    },
-    {
-        "message": "If he could successfully unravel the mysteries of the Arkham ruins, Gardner's status as a folklorist would become unshakable, and that's just how it is."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan, don't forget that promise, okay?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Promise？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Geez！"
-    },
-    {
-        "message": "　　　　　　　　It's the same time as yesterday, don't forget."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia, aren't you tired？"
-    },
-    {
-        "message": "　　　　　　　　Maybe we should stop here for today."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I'm still okay, but my head's kinda messed up.　　　　　　　　The more I look into it, the less I understand."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I can't deny that I kinda feel that way too."
-    },
-    {
-        "message": "　　　　　　　　I'm　starting　to　get　a　little　fed　up　too."
-    },
-    {
-        "name": "Cordelia",
-        "message": "By the way......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "What is it？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Will you come see me again tonight？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "What are you saying all of a sudden, the professors are watching, you know."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan, please."
-    },
-    {
-        "message": "　　　　　　　　Come　again　tonight...　at　the　same　time　as　yesterday."
-    },
-    {
-        "name": "Jonathan",
-        "message": "‥‥‥‥‥‥‥‥"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Marsh-san's story, it was full of things that are just really hard to believe, huh."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Is that so？"
-    },
-    {
-        "message": "　　　　　　　　To me, here in Arkham, nothing would seem strange, no matter what happened."
-    },
-    {
-        "name": "Cordelia",
-        "message": "それは言い過ぎよ、わたしだってアーカムの住人なん　　　　　　　　ですからね。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Besides, Jonathan, it’s not like you have absolutely no ties to this village, right？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Let's hurry up and go."
-    },
-    {
-        "message": "　　　　　　　　You wanna catch Marsh-san before she drinks too much and totally loses it, right？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Are you really okay staying with us？"
-    },
-    {
-        "message": "　　　　　　　　If you don't want to, it's totally fine to stop."
-    },
-    {
-        "name": "Cordelia",
-        "message": "This is something I wished for myself."
-    },
-    {
-        "message": "　　　　　　　　You　don't　need　to　worry　about　Jonathan　at　all."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I hope you're not just putting on a brave face with those words."
-    },
-    {
-        "message": "　　　　　　　　Just like last night, it'll be a problem if you suddenly throw a tantrum out of nowhere."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Don't say such mean things."
-    },
-    {
-        "message": "　　　　　　　　If　that　happens,　I'll　get　Thomas　to　help　me！"
-    },
-    {
-        "name": "Thomas",
-        "message": "What did you say？"
-    },
-    {
-        "message": "　　　　　　Weren't you just talking about me just now?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "なんでもない。"
-    },
-    {
-        "name": "Thomas",
-        "message": "I'm really getting sick of this village."
-    },
-    {
-        "message": "　　　　　　I　wanna　hurry　back　to　London　already."
-    },
-    {
-        "name": "Thomas",
-        "message": "Come to think of it, maybe there was no need for me to come along in the first place, huh."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What are you saying now, after all this time？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "No one ever said they wanted you to come along from the start, did they?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Was that really the case？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, that's right."
-    },
-    {
-        "message": "　　　　　　　　It's not too late even now, I honestly wouldn't mind at all if you stayed at the Fish Scale Inn, you know."
-    },
-    {
-        "name": "Thomas",
-        "message": "......When you put it like that, it kind of hurts, you know."
-    },
-    {
-        "message": "　　　　　　Makes me wanna go with you no matter what, out of pure stubbornness."
-    },
-    {
-        "name": "Gardner",
-        "message": "It's getting more and more confusing."
-    },
-    {
-        "message": "　　　　　　　　I'll have to meet Old man Marsh again."
-    },
-    {
-        "name": "Gardner",
-        "message": "I really can't make heads or tails of what that old man is saying."
-    },
-    {
-        "message": "　　　　　　　　What kind of connection could there possibly be between the ruins and these bizarre murders..."
-    },
-    {
-        "name": "Gardner",
-        "message": "Anyway, it looks like our only option is to check out the Archives."
-    },
-    {
-        "message": "　　　　　　　　Guess we've got no choice but to go along with Marsh for a while, huh？"
-    },
-    {
-        "name": "Gardner",
-        "message": "Might be about time for us to head out."
-    },
-    {
-        "message": "　　　　　　　　Sitting　around　speculating　isn't　going　to　get　us　anywhere."
-    },
-    {
-        "name": "Gardner",
-        "message": "First off, let's meet that old man Marsh everyone's talking about."
-    },
-    {
-        "message": "　　　　　　　　He might know something about the young lady's background too."
-    },
-    {
-        "name": "Gardner",
-        "message": "Anyway, as far as we know, he seems to be the oldest among Arkham's villagers."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Now that you mention it, I don't think I've seen any old men since coming to the village."
-    },
-    {
-        "name": "Gardner",
-        "message": "That's right......"
-    },
-    {
-        "message": "　　　　　　　　Being a fisherman is a dangerous and tough job, so it's reasonable to assume that villagers have a relatively short life span."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Still, not seeing a single person around seems a little hard to believe."
-    },
-    {
-        "name": "Gardner",
-        "message": "If you say that, isn't it true that most of the villagers won't show themselves in front of us? They're probably all hiding somewhere."
-    },
-    {
-        "message": "　　Go inside　　"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan, don't forget that promise, okay?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Promise？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Geez！"
-    },
-    {
-        "message": "　　　　　　　　It's the same time as yesterday, don't forget."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia, aren't you tired？"
-    },
-    {
-        "message": "　　　　　　　　Maybe we should call it here for today."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I'm still okay, but my head's kind of spinning.　　　　　　　　Feels like the more I look into it, the less I understand what's going on."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I guess I kind of feel that way, too."
-    },
-    {
-        "message": "　　　　　　　　I'm　starting　to　get　a　little　fed　up　too."
-    },
-    {
-        "name": "Cordelia",
-        "message": "By the way......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "What's up？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Will you come see me again tonight？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "What are you saying all of a sudden? The professors are watching."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan, please."
-    },
-    {
-        "message": "　　　　　　　　Come tonight too......at the same time as yesterday."
-    },
-    {
-        "name": "Jonathan",
-        "message": "‥‥‥‥‥‥‥‥"
-    },
-    {
-        "message": "　　　Plaza　　　"
-    },
-    {
-        "message": "General store"
-    },
-    {
-        "message": "　　　Ruins　　　"
-    },
-    {
-        "message": "Gilman House"
-    },
-    {
-        "message": "　Church　of　Dagon　"
-    },
-    {
-        "message": "Port"
-    },
-    {
-        "message": "Archives"
-    },
-    {
-        "message": "　　Go inside　　"
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "message": "We made it to the Fish Scale Inn, staggering with exhaustion after a day that was just too damn busy."
+  },
+  {
+    "name": "Gardner",
+    "message": "Jeez, what a day it's been."
+  },
+  {
+    "message": "　　　　　　　　It's tough for an old person like me."
+  },
+  {
+    "message": "Gardner looks like he's gotten a lot older."
+  },
+  {
+    "message": "Even Thomas doesn't seem to have the energy to talk back right now."
+  },
+  {
+    "name": "Cordelia",
+    "message": "We're done for today, right？"
+  },
+  {
+    "message": "　　　　　　　　I'm heading back to the Gilman House."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You don't have to rush that much, do you？"
+  },
+  {
+    "message": "　　　　　　　　Why　don't　you　stay　and　have　dinner　with　us?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Nah, I'll pass."
+  },
+  {
+    "message": "　　　　　　　　I'm kind of tired, so I don't have an appetite."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is that so？"
+  },
+  {
+    "message": "　　　　　　　　Lately, it seems like there aren't many customers coming to eat at the Fish Scale Inn, so if you went along, the lady would be happy too."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I'm sorry."
+  },
+  {
+    "message": "　　　　　　　　By the way, Jonathan......"
+  },
+  {
+    "name": "Gardner",
+    "message": "What's up, Jonathan."
+  },
+  {
+    "message": "　　　　　　　　Standing　around　here　isn't　going　to　get　you　anything."
+  },
+  {
+    "name": "Thomas",
+    "message": "Are you lost in thought again？"
+  },
+  {
+    "message": "　　　　　　If you're that uptight, the young lady's gonna end up hating you.　　　　　　A man needs to be a lot more chill, you know."
+  },
+  {
+    "message": "Walking along with these two loudmouths is no ordinary hassle."
+  },
+  {
+    "message": "It'd be nice if Cordelia could understand the tough spot I'm in too..."
+  },
+  {
+    "message": "It's in front of the Fish Scale Inn."
+  },
+  {
+    "message": "Since it's early morning, it's dark outside. I have a feeling it's going to be a gloomy, overcast day again."
+  },
+  {
+    "message": "Since coming to this village, I haven't seen clear skies even once, but I guess that's just how it is in Britain this time of year."
+  },
+  {
+    "name": "Cordelia",
+    "message": "What's wrong？"
+  },
+  {
+    "message": "　　　　　　　　You’ve been completely silent for a while now."
+  },
+  {
+    "name": "Thomas",
+    "message": "There's nothing to worry about, miss."
+  },
+  {
+    "message": "　　　　　　This guy's always like this."
+  },
+  {
+    "message": "Looking at the Fish Scale Inn like this, it reminds me of what the station staff said back in Salem."
+  },
+  {
+    "message": "The station attendant said this was the only trustworthy inn in the village, and he might be right. At least Mrs. Hudson wouldn't sneak into guests' rooms in the middle of the night and rummage through their luggage."
+  },
+  {
+    "message": "It's the Fish Scale Inn."
+  },
+  {
+    "message": "In the middle of all the closed buildings around, it's the only one that's barely still open."
+  },
+  {
+    "message": "When I saw it in the darkness of night, it felt reliable, being the only thing left to depend on in this village, but now, seeing it under the sunlight like this, it just looks really unreliable."
+  },
+  {
+    "message": "It looks like they're trying to open up to us, but so far it doesn't seem like there have been any promising results."
+  },
+  {
+    "message": "He still doesn't seem used to being with Gardner and Thomas."
+  },
+  {
+    "message": "No wonder, Gardner might seem like a kindly old gentleman, but you never know when he might just explode in a fit of temper."
+  },
+  {
+    "message": "When it comes to Thomas, there's honestly no telling who the hell he even is."
+  },
+  {
+    "message": "Was it really a mistake to bring her along after all?"
+  },
+  {
+    "message": "You probably shouldn't trust it too much."
+  },
+  {
+    "message": "As usual, acting nonchalant."
+  },
+  {
+    "message": "The way he sometimes exchanges glances with Cordelia so subtly that I can't tell, that's just like this untrustworthy guy."
+  },
+  {
+    "message": "But I don't think this guy's true face is just that of a mere dilettante."
+  },
+  {
+    "message": "Soon enough, they'll definitely start showing their true colors."
+  },
+  {
+    "message": "Seems like they're irritated."
+  },
+  {
+    "message": "We should probably leave before Gardner throws a tantrum."
+  },
+  {
+    "message": "At first glance, they seem calm on the outside, but inside, they can barely stand it-they're itching to uncover the mystery of the Ruins right away."
+  },
+  {
+    "message": "If he could successfully unravel the mysteries of the Arkham ruins, Gardner's status as a folklorist would become unshakable, and that's just how it is."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan, don't forget that promise, okay?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Promise？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Geez！"
+  },
+  {
+    "message": "　　　　　　　　It's the same time as yesterday, don't forget."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia, aren't you tired？"
+  },
+  {
+    "message": "　　　　　　　　Maybe we should stop here for today."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I'm still okay, but my head's kinda messed up.　　　　　　　　The more I look into it, the less I understand."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I can't deny that I kinda feel that way too."
+  },
+  {
+    "message": "　　　　　　　　I'm　starting　to　get　a　little　fed　up　too."
+  },
+  {
+    "name": "Cordelia",
+    "message": "By the way......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "What is it？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Will you come see me again tonight？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "What are you saying all of a sudden, the professors are watching, you know."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan, please."
+  },
+  {
+    "message": "　　　　　　　　Come　again　tonight...　at　the　same　time　as　yesterday."
+  },
+  {
+    "name": "Jonathan",
+    "message": "‥‥‥‥‥‥‥‥"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Marsh-san's story, it was full of things that are just really hard to believe, huh."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is that so？"
+  },
+  {
+    "message": "　　　　　　　　To me, here in Arkham, nothing would seem strange, no matter what happened."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You're being dramatic, I'm a resident of Arkham too　　　　　　　　you know."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Besides, Jonathan, it’s not like you have absolutely no ties to this village, right？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Let's hurry up and go."
+  },
+  {
+    "message": "　　　　　　　　You wanna catch Marsh-san before she drinks too much and totally loses it, right？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Are you really okay staying with us？"
+  },
+  {
+    "message": "　　　　　　　　If you don't want to, it's totally fine to stop."
+  },
+  {
+    "name": "Cordelia",
+    "message": "This is something I wished for myself."
+  },
+  {
+    "message": "　　　　　　　　You　don't　need　to　worry　about　Jonathan　at　all."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I hope you're not just putting on a brave face with those words."
+  },
+  {
+    "message": "　　　　　　　　Just like last night, it'll be a problem if you suddenly throw a tantrum out of nowhere."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Don't say such mean things."
+  },
+  {
+    "message": "　　　　　　　　If　that　happens,　I'll　get　Thomas　to　help　me！"
+  },
+  {
+    "name": "Thomas",
+    "message": "What did you say？"
+  },
+  {
+    "message": "　　　　　　Weren't you just talking about me just now?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's nothing."
+  },
+  {
+    "name": "Thomas",
+    "message": "I'm really getting sick of this village."
+  },
+  {
+    "message": "　　　　　　I　wanna　hurry　back　to　London　already."
+  },
+  {
+    "name": "Thomas",
+    "message": "Come to think of it, maybe there was no need for me to come along in the first place, huh."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What are you saying now, after all this time？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "No one ever said they wanted you to come along from the start, did they?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Was that really the case？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, that's right."
+  },
+  {
+    "message": "　　　　　　　　It's not too late even now, I honestly wouldn't mind at all if you stayed at the Fish Scale Inn, you know."
+  },
+  {
+    "name": "Thomas",
+    "message": "......When you put it like that, it kind of hurts, you know."
+  },
+  {
+    "message": "　　　　　　Makes me wanna go with you no matter what, out of pure stubbornness."
+  },
+  {
+    "name": "Gardner",
+    "message": "It's getting more and more confusing."
+  },
+  {
+    "message": "　　　　　　　　I'll have to meet Old man Marsh again."
+  },
+  {
+    "name": "Gardner",
+    "message": "I really can't make heads or tails of what that old man is saying."
+  },
+  {
+    "message": "　　　　　　　　What kind of connection could there possibly be between the ruins and these bizarre murders..."
+  },
+  {
+    "name": "Gardner",
+    "message": "Anyway, it looks like our only option is to check out the Archives."
+  },
+  {
+    "message": "　　　　　　　　Guess we've got no choice but to go along with Marsh for a while, huh？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Might be about time for us to head out."
+  },
+  {
+    "message": "　　　　　　　　Sitting　around　speculating　isn't　going　to　get　us　anywhere."
+  },
+  {
+    "name": "Gardner",
+    "message": "First off, let's meet that old man Marsh everyone's talking about."
+  },
+  {
+    "message": "　　　　　　　　He might know something about the young lady's background too."
+  },
+  {
+    "name": "Gardner",
+    "message": "Anyway, as far as we know, he seems to be the oldest among Arkham's villagers."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Now that you mention it, I don't think I've seen any old men since coming to the village."
+  },
+  {
+    "name": "Gardner",
+    "message": "That's right......"
+  },
+  {
+    "message": "　　　　　　　　Being a fisherman is a dangerous and tough job, so it's reasonable to assume that villagers have a relatively short life span."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Still, not seeing a single person around seems a little hard to believe."
+  },
+  {
+    "name": "Gardner",
+    "message": "If you say that, isn't it true that most of the villagers won't show themselves in front of us? They're probably all hiding somewhere."
+  },
+  {
+    "message": "　　Go inside　　"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan, don't forget that promise, okay?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Promise？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Geez！"
+  },
+  {
+    "message": "　　　　　　　　It's the same time as yesterday, don't forget."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia, aren't you tired？"
+  },
+  {
+    "message": "　　　　　　　　Maybe we should call it here for today."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I'm still okay, but my head's kind of spinning.　　　　　　　　Feels like the more I look into it, the less I understand what's going on."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I guess I kind of feel that way, too."
+  },
+  {
+    "message": "　　　　　　　　I'm　starting　to　get　a　little　fed　up　too."
+  },
+  {
+    "name": "Cordelia",
+    "message": "By the way......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "What's up？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Will you come see me again tonight？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "What are you saying all of a sudden? The professors are watching."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan, please."
+  },
+  {
+    "message": "　　　　　　　　Come tonight too......at the same time as yesterday."
+  },
+  {
+    "name": "Jonathan",
+    "message": "‥‥‥‥‥‥‥‥"
+  },
+  {
+    "message": "　　　Plaza　　　"
+  },
+  {
+    "message": "General store"
+  },
+  {
+    "message": "　　　Ruins　　　"
+  },
+  {
+    "message": "Gilman House"
+  },
+  {
+    "message": "　Church　of　Dagon　"
+  },
+  {
+    "message": "Port"
+  },
+  {
+    "message": "Archives"
+  },
+  {
+    "message": "　　Go inside　　"
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

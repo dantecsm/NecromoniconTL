@@ -1,176 +1,176 @@
 [
-    {
-        "message": "I went into the room on the front left."
-    },
-    {
-        "message": "The inside is just as messed up as it looked from outside."
-    },
-    {
-        "message": "But......"
-    },
-    {
-        "message": "Even though the door's only partly burned, how the hell did the inside end up in such a messed up state?"
-    },
-    {
-        "message": "I went into the room in the front left."
-    },
-    {
-        "message": "Even though the door kept its original shape despite definitely showing signs of burning, why the hell is the inside of the room in such a terrible state？"
-    },
-    {
-        "message": "Various relics are scattered across the floor."
-    },
-    {
-        "message": "Apparently, it wasn't just a storage-like room, but a room that must have served some important purpose."
-    },
-    {
-        "message": "There are cracks in the wall, like the remnants of a hole big enough for a tall person to walk through without ducking."
-    },
-    {
-        "message": "Maybe it's because of the fire, but cracks run from the floor to the ceiling, and in places the plaster is peeling off."
-    },
-    {
-        "message": "It's kind of weird, like there was an entrance carved into the wall, with cracks in the shape of a doorway."
-    },
-    {
-        "message": "Seeing that it's stained black and dirty just like the other parts, it probably isn't a hole that was patched up later, but I can't believe it's just a coincidence either."
-    },
-    {
-        "message": "I try pushing hard against the wall, but that much isn't going to do anything."
-    },
-    {
-        "message": "Next door should've been the room with rubble piled up in front of the door."
-    },
-    {
-        "message": "If only this wall would collapse, I could get into the next room..."
-    },
-    {
-        "message": "Looks like it’s impossible for me."
-    },
-    {
-        "message": "There's a big crack in the wall."
-    },
-    {
-        "message": "I really hope it doesn't collapse while we're in the room."
-    },
-    {
-        "message": "There's a big crack in the wall."
-    },
-    {
-        "message": "It looks like the mortar wall is starting to give way under the weight of the ceiling."
-    },
-    {
-        "message": "Judging by the direction, the other side of this wall is inside the dirt, so it's hard to imagine there's some kind of hidden room ahead."
-    },
-    {
-        "message": "The crack in the ceiling feels ominous."
-    },
-    {
-        "message": "落盤を恐れる炭坑夫にでもなった気分だな‥‥‥‥‥‥"
-    },
-    {
-        "message": "Just thinking about the heavy stone-covered ground above this ceiling sends chills down my spine."
-    },
-    {
-        "message": "Since it's been left abandoned for over 100 years after the fire, it wouldn't be weird if it collapsed at any moment."
-    },
-    {
-        "message": "Plaster peeled off the wall is piled up on the floor."
-    },
-    {
-        "message": "Looks like it came off naturally."
-    },
-    {
-        "message": "Chunks of plaster are piled up on the floor."
-    },
-    {
-        "message": "壁に入ったひびの部分から剥がれ落ちた物だろう、白い破片は割れた陶磁器の破片を思わせる。"
-    },
-    {
-        "message": "隣の部屋は、入り口に瓦礫が積まれて中に入る事が出来なかったはず。この壁が壊れれば、部屋に入る事が出来るのに‥‥‥‥"
-    },
-    {
-        "message": "It's an old handwritten manuscript that survived the burning."
-    },
-    {
-        "message": "Doesn't seem to be worth much, let's leave it here."
-    },
-    {
-        "message": "It's a pretty old book."
-    },
-    {
-        "message": "To think something could survive a horrible fire like this..."
-    },
-    {
-        "message": "私は床に落ちている本を手に取った。"
-    },
-    {
-        "message": "The cover made of tanned and dyed leather is scorched in places, to the point where even the title can't be read."
-    },
-    {
-        "message": "まだ印刷技術が一般的なものでなく、本が高価だった時代の物らしく、中は手書きの写本だ、熱心な修道女が丹念に書き移した物なのだろう。"
-    },
-    {
-        "message": "書かれているラテン語のようだが、焼けこげやにじみ多くてほとんど読む事が出来ない。"
-    },
-    {
-        "message": "If only I'd thrown myself into language studies more seriously back in my student days......"
-    },
-    {
-        "message": "Since it's in the Monastery, it's probably a Bible or something, but it's weird that just this one book happened to survive the fire."
-    },
-    {
-        "message": "I don't really think it's worth much."
-    },
-    {
-        "message": "I put the book back on the floor."
-    },
-    {
-        "message": "It looks like experimental equipment made of melted glass."
-    },
-    {
-        "message": "どうして修道院の地下室にこんな物が落ちているのか、訳が解らない。"
-    },
-    {
-        "message": "It's a melted glass bottle."
-    },
-    {
-        "message": "科学の実験で使われるビーカーのような形をしている。"
-    },
-    {
-        "message": "どうして修道院の地下にこんな物が？"
-    },
-    {
-        "message": "I picked up the glass bottle that had melted, leaving only the bottom part."
-    },
-    {
-        "message": "The glass, which melted from the heat and then solidified again, has deformed into a strange, shapeless form like water spilled on the floor."
-    },
-    {
-        "message": "I wonder who used something like this."
-    },
-    {
-        "message": "人目のない地下室でこっそりと実験器具を前にした修道女など、私の想像力の範疇を越えている。"
-    },
-    {
-        "message": "Looking at the floor, there's a huge amount of glass that's melted and doesn't have its original shape at all."
-    },
-    {
-        "message": "Weren't there a lot of other glass instruments too?"
-    },
-    {
-        "message": "So this room was a Laboratory？"
-    },
-    {
-        "message": "Why is there a room like that in the basement of the Monastery......"
-    },
-    {
-        "message": "I have no fucking clue what's going on."
-    },
-    {
-        "message": "I wonder what other rooms there are."
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "message": "I went into the room on the front left."
+  },
+  {
+    "message": "The inside is just as messed up as it looked from outside."
+  },
+  {
+    "message": "But......"
+  },
+  {
+    "message": "Even though the door's only partly burned, how the hell did the inside end up in such a messed up state?"
+  },
+  {
+    "message": "I went into the room in the front left."
+  },
+  {
+    "message": "Even though the door kept its original shape despite definitely showing signs of burning, why the hell is the inside of the room in such a terrible state？"
+  },
+  {
+    "message": "Various relics are scattered across the floor."
+  },
+  {
+    "message": "Apparently, it wasn't just a storage-like room, but a room that must have served some important purpose."
+  },
+  {
+    "message": "There are cracks in the wall, like the remnants of a hole big enough for a tall person to walk through without ducking."
+  },
+  {
+    "message": "Maybe it's because of the fire, but cracks run from the floor to the ceiling, and in places the plaster is peeling off."
+  },
+  {
+    "message": "It's kind of weird, like there was an entrance carved into the wall, with cracks in the shape of a doorway."
+  },
+  {
+    "message": "Seeing that it's stained black and dirty just like the other parts, it probably isn't a hole that was patched up later, but I can't believe it's just a coincidence either."
+  },
+  {
+    "message": "I try pushing hard against the wall, but that much isn't going to do anything."
+  },
+  {
+    "message": "Next door should've been the room with rubble piled up in front of the door."
+  },
+  {
+    "message": "If only this wall would collapse, I could get into the next room..."
+  },
+  {
+    "message": "Looks like it’s impossible for me."
+  },
+  {
+    "message": "There's a big crack in the wall."
+  },
+  {
+    "message": "I really hope it doesn't collapse while we're in the room."
+  },
+  {
+    "message": "There's a big crack in the wall."
+  },
+  {
+    "message": "It looks like the mortar wall is starting to give way under the weight of the ceiling."
+  },
+  {
+    "message": "Judging by the direction, the other side of this wall is inside the dirt, so it's hard to imagine there's some kind of hidden room ahead."
+  },
+  {
+    "message": "The crack in the ceiling feels ominous."
+  },
+  {
+    "message": "Feels like I'm a miner afraid of a cave-in..."
+  },
+  {
+    "message": "Just thinking about the heavy stone-covered ground above this ceiling sends chills down my spine."
+  },
+  {
+    "message": "Since it's been left abandoned for over 100 years after the fire, it wouldn't be weird if it collapsed at any moment."
+  },
+  {
+    "message": "Plaster peeled off the wall is piled up on the floor."
+  },
+  {
+    "message": "Looks like it came off naturally."
+  },
+  {
+    "message": "Chunks of plaster are piled up on the floor."
+  },
+  {
+    "message": "The white fragments, probably peeled from where cracks formed in the wall, look like pieces of broken ceramics."
+  },
+  {
+    "message": "The room next door should've been blocked off by rubble at the entrance, making it impossible to get in. If only this wall was broken, I could get into the room‥‥‥‥"
+  },
+  {
+    "message": "It's an old handwritten manuscript that survived the burning."
+  },
+  {
+    "message": "Doesn't seem to be worth much, let's leave it here."
+  },
+  {
+    "message": "It's a pretty old book."
+  },
+  {
+    "message": "To think something could survive a horrible fire like this..."
+  },
+  {
+    "message": "I picked up a book that was lying on the floor."
+  },
+  {
+    "message": "The cover made of tanned and dyed leather is scorched in places, to the point where even the title can't be read."
+  },
+  {
+    "message": "It looks like it's from a time when printing technology wasn't common and books were expensive, and inside, it's a handwritten manuscript. Maybe a devoted Nun carefully copied it all by hand."
+  },
+  {
+    "message": "It seems to be written in Latin, but there are so many burn marks and smudges that I can barely read it."
+  },
+  {
+    "message": "If only I'd thrown myself into language studies more seriously back in my student days......"
+  },
+  {
+    "message": "Since it's in the Monastery, it's probably a Bible or something, but it's weird that just this one book happened to survive the fire."
+  },
+  {
+    "message": "I don't really think it's worth much."
+  },
+  {
+    "message": "I put the book back on the floor."
+  },
+  {
+    "message": "It looks like experimental equipment made of melted glass."
+  },
+  {
+    "message": "I have no idea why something like this is lying around in the Monastery's basement."
+  },
+  {
+    "message": "It's a melted glass bottle."
+  },
+  {
+    "message": "It's shaped like a beaker used in scientific experiments."
+  },
+  {
+    "message": "Why is something like this in the Monastery's basement？"
+  },
+  {
+    "message": "I picked up the glass bottle that had melted, leaving only the bottom part."
+  },
+  {
+    "message": "The glass, which melted from the heat and then solidified again, has deformed into a strange, shapeless form like water spilled on the floor."
+  },
+  {
+    "message": "I wonder who used something like this."
+  },
+  {
+    "message": "A Nun secretly sitting in a basement with experimental equipment goes way beyond anything I could imagine."
+  },
+  {
+    "message": "Looking at the floor, there's a huge amount of glass that's melted and doesn't have its original shape at all."
+  },
+  {
+    "message": "Weren't there a lot of other glass instruments too?"
+  },
+  {
+    "message": "So this room was a Laboratory？"
+  },
+  {
+    "message": "Why is there a room like that in the basement of the Monastery......"
+  },
+  {
+    "message": "I have no fucking clue what's going on."
+  },
+  {
+    "message": "I wonder what other rooms there are."
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

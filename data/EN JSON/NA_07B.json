@@ -1,323 +1,323 @@
 [
-    {
-        "message": "In the end, I never got to see Cordelia."
-    },
-    {
-        "message": "After seeing Marsh's gruesome state during the day, I can't believe you could do something so reckless."
-    },
-    {
-        "message": "When I see her tomorrow, I'll have to give her a good lecture about just how dangerous it is for a young girl to be out wandering around at this hour."
-    },
-    {
-        "message": "魚鱗亭の中は水を打ったように静まりかえっている。"
-    },
-    {
-        "message": "Gardner and Mrs. Hudson are probably already in bed, so even if I come back, they won't say anything..."
-    },
-    {
-        "message": "I wonder if that Thomas guy still hasn't come back from the brothel."
-    },
-    {
-        "message": "He's such a horn dog it's no surprise, but I'm amazed he still has that much energy left after running around all day."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Oh, Mr. Swift."
-    },
-    {
-        "message": "　　　　　　　　　どうなすったの、何度も行ったり来たりして。"
-    },
-    {
-        "message": "Mrs. Hudson is here."
-    },
-    {
-        "message": "According to what I heard from Gardner this morning, he was apparently pretty pissed off..."
-    },
-    {
-        "message": "He doesn't bother to change his cold expression even when he looks at me, just completely absorbed in his own work."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "どうなすったの、スゥイフトさん？"
-    },
-    {
-        "message": "　　　　　　　　　You've been staring at my face this whole time."
-    },
-    {
-        "name": "Jonathan",
-        "message": "No... it's nothing."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "I see, well, that's fine then."
-    },
-    {
-        "message": "She's definitely pissed."
-    },
-    {
-        "message": "It's not like I need to worry just because I pissed off Mrs. Hudson or anything, but for some reason, I just can't help but see her like an older sister."
-    },
-    {
-        "message": "It'd be better to just apologize honestly, but........"
-    },
-    {
-        "message": "There's a guest book on the Counter, and on the wall is written the daily lodging fee and 'Today's Recommended Dish.' Tonight, the recommended dishes are meuniere of white fish or roast Rum."
-    },
-    {
-        "message": "The room is dark."
-    },
-    {
-        "message": "Years of dust and grease are soaked in, giving off a heavy sense of history."
-    },
-    {
-        "message": "Nowadays, gas lamps are installed and give off a faint light, but before that, all we had were lamps that burned oil or candles."
-    },
-    {
-        "message": "I kinda get why the room is weirdly sooty, too."
-    },
-    {
-        "message": "Fish Scale Inn, which doesn't get that many customers, probably doesn't have enough savings to fix up the interior or the exterior."
-    },
-    {
-        "message": "For someone running the inn all by herself, she always seems upbeat and hardly ever shows signs of being tired."
-    },
-    {
-        "message": "Is the Fish Scale Inn really that important to them?"
-    },
-    {
-        "message": "Is it because this inn is the only thing left behind by my husband who ran away？"
-    },
-    {
-        "message": "She's wearing the same plaid dress I've seen so many times before. Apparently, she uses that outfit as her work clothes. Sure, it's neat and not flashy, but it feels a bit out of place for someone who's supposed to be the innkeeper."
-    },
-    {
-        "message": "It seems she doesn't like that I've been staying out of the Fish Scale Inn so often, spending the night in Cordelia's room, and she looks at me with a cold expression."
-    },
-    {
-        "message": "You should probably just apologize honestly."
-    },
-    {
-        "message": "It's not really smart to make Mrs. Hudson your enemy."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Well then, I'll be waiting for you tonight."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Hudson, there's something I want to ask you."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "What is it？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Excuse me, but how long ago did you come to this village?"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Yeah......I think it was about 12 years ago."
-    },
-    {
-        "message": "　　　　　　　　　It was back when I was about Cordelia's age."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Was Cordelia already in this village at that time？"
-    },
-    {
-        "message": "　　　　　　　　You had a relationship with the previous owner of Gilman House, didn't you？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "ええ、わたくしの主人が昵懇にしていましたから。　　　　　　　　　コーデリアはわたくしがこの村にやって来た時すで　　　　　　　　　に夫妻の養女になっていました。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "どういう経緯でコーデリアが夫妻の養女になったのか　　　　　　　　知っていますか？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Well... I don't really know the details, though."
-    },
-    {
-        "message": "　　　　　　　　　Why are you asking me something like that？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia wants to know."
-    },
-    {
-        "message": "　　　　　　　　Why was I brought to Arkham?"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Yeah........"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "I don't know how much help I'll be, but if it's about when she was little, I might be able to tell you a bit."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Is it okay if I drop by tonight？"
-    },
-    {
-        "message": "　　　　　　　　Everyone's waiting outside."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Yeah, as long as it’s not too late."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Where were you last night？"
-    },
-    {
-        "message": "　　　　　　　　　If　you're　going　to　leave　the　room,　I'll　be　in　trouble　if　you　don't　tell　me　ahead　of　time."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "The breakfast I went to all the trouble of making is going to go to waste, you know.　　　　　　　　　I don't like that kind of wastefulness."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'm　sorry...　I　meant　to　be　back　by　morning."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "That's not the issue here！"
-    },
-    {
-        "message": "　　　　　　　　　You really don't understand at all why I'm angry, do you?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "So, what am I supposed to do then？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Even if it's fine that you two have ended up in that kind of relationship, it's just that almost every night‥‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's not like I told you to do that."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "She was lonely because there was nobody by that girl's side to be there for her."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You think I took advantage of that and forced you into doing those things, don't you？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "ではお聞きしますけど、あなたはコーデリアの事を　　　　　　　　　どうなさるつもりなの？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "You’re not seriously thinking that if you leave Arkham, that'll be the end of it, are you?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I didn't say anything like that, did I?"
-    },
-    {
-        "message": "　　　　　　　　I'm trying to think things through properly too."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "So, you’re planning to take Cordelia along to London with you, aren’t you."
-    },
-    {
-        "message": "Somehow, this has turned into a way more serious conversation than I was expecting."
-    },
-    {
-        "message": "いきなり婦人の口からそんな事を言われるとは思ってもみなかった。"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Thank goodness."
-    },
-    {
-        "message": "　　　　　　　　　That's what I was worried about."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "確かにコーデリアとあなたの仲をわたくしがどうこ　　　　　　　　　うする権利はないかもしれません。"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "But, if you do that kind of thing so often..."
-    },
-    {
-        "message": "　　　　　　　　　I'm not feeling very good."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why would Madam be upset about us?　　　　　　　　　　 I thought we’d already talked that over, right?"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "‥‥‥‥‥‥‥‥‥‥"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "I can't help but worry about you two.　　　　　　　　　I know it's a bother, but please forgive me for being a meddlesome old lady."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why are you getting so uptight about this?"
-    },
-    {
-        "message": "　　　　　　　　I don't get it."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "That's......"
-    },
-    {
-        "message": "ハドスン夫人は黙ってしまった。"
-    },
-    {
-        "message": "夫人は私たちの仲に関して異常なほど神経質になっている。"
-    },
-    {
-        "message": "それは無分別で無軌道な若者の行く末を心配する年長の女性がとる態度というより、私たちが特別な人間で、深い関係になる事で必ずや不幸な結末をもたらすであろうと決めつけているようだ。"
-    },
-    {
-        "message": "I just can't understand why the lady thought that."
-    },
-    {
-        "message": "Is it because I'm a widow whose own marriage ended unhappily, or is there some other reason......"
-    },
-    {
-        "message": "When I was a kid, being alone in an old room like this used to scare me."
-    },
-    {
-        "message": "Even now, I sometimes get this baseless fear that maybe someone is staring at me from the corner of the room..."
-    },
-    {
-        "message": "Beyond the counter, there's a room like an office for handling customers when they come in."
-    },
-    {
-        "message": "The busy lady can't always stay in this room, but since there aren't that many guests, that's good enough."
-    },
-    {
-        "message": "On top of the faded wallpaper, there's something like a photo or painting of someone displayed."
-    },
-    {
-        "message": "Mrs. Hudson doesn't really care about interior decoration, so maybe it's something that's been on display for ages, or maybe it's something really important‥‥‥‥"
-    },
-    {
-        "message": "My room"
-    },
-    {
-        "message": "　　Go outside　　"
-    },
-    {
-        "message": "Lady's room"
-    }
+  {
+    "message": "In the end, I never got to see Cordelia."
+  },
+  {
+    "message": "After seeing Marsh's gruesome state during the day, I can't believe you could do something so reckless."
+  },
+  {
+    "message": "When I see her tomorrow, I'll have to give her a good lecture about just how dangerous it is for a young girl to be out wandering around at this hour."
+  },
+  {
+    "message": "Inside the Fish Scale Inn, it's as quiet as if water's been poured over everything."
+  },
+  {
+    "message": "Gardner and Mrs. Hudson are probably already in bed, so even if I come back, they won't say anything..."
+  },
+  {
+    "message": "I wonder if that Thomas guy still hasn't come back from the brothel."
+  },
+  {
+    "message": "He's such a horn dog it's no surprise, but I'm amazed he still has that much energy left after running around all day."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Oh, Mr. Swift."
+  },
+  {
+    "message": "　　　　　　　　　What's　wrong?　You're　wandering　back　and　forth　so　many　times."
+  },
+  {
+    "message": "Mrs. Hudson is here."
+  },
+  {
+    "message": "According to what I heard from Gardner this morning, he was apparently pretty pissed off..."
+  },
+  {
+    "message": "He doesn't bother to change his cold expression even when he looks at me, just completely absorbed in his own work."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "What's wrong, Mr. Swift？"
+  },
+  {
+    "message": "　　　　　　　　　You've been staring at my face this whole time."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No... it's nothing."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "I see, well, that's fine then."
+  },
+  {
+    "message": "She's definitely pissed."
+  },
+  {
+    "message": "It's not like I need to worry just because I pissed off Mrs. Hudson or anything, but for some reason, I just can't help but see her like an older sister."
+  },
+  {
+    "message": "It'd be better to just apologize honestly, but........"
+  },
+  {
+    "message": "There's a guest book on the Counter, and on the wall is written the daily lodging fee and 'Today's Recommended Dish.' Tonight, the recommended dishes are meuniere of white fish or roast Rum."
+  },
+  {
+    "message": "The room is dark."
+  },
+  {
+    "message": "Years of dust and grease are soaked in, giving off a heavy sense of history."
+  },
+  {
+    "message": "Nowadays, gas lamps are installed and give off a faint light, but before that, all we had were lamps that burned oil or candles."
+  },
+  {
+    "message": "I kinda get why the room is weirdly sooty, too."
+  },
+  {
+    "message": "Fish Scale Inn, which doesn't get that many customers, probably doesn't have enough savings to fix up the interior or the exterior."
+  },
+  {
+    "message": "For someone running the inn all by herself, she always seems upbeat and hardly ever shows signs of being tired."
+  },
+  {
+    "message": "Is the Fish Scale Inn really that important to them?"
+  },
+  {
+    "message": "Is it because this inn is the only thing left behind by my husband who ran away？"
+  },
+  {
+    "message": "She's wearing the same plaid dress I've seen so many times before. Apparently, she uses that outfit as her work clothes. Sure, it's neat and not flashy, but it feels a bit out of place for someone who's supposed to be the innkeeper."
+  },
+  {
+    "message": "It seems she doesn't like that I've been staying out of the Fish Scale Inn so often, spending the night in Cordelia's room, and she looks at me with a cold expression."
+  },
+  {
+    "message": "You should probably just apologize honestly."
+  },
+  {
+    "message": "It's not really smart to make Mrs. Hudson your enemy."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Well then, I'll be waiting for you tonight."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Hudson, there's something I want to ask you."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "What is it？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Excuse me, but how long ago did you come to this village?"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Yeah......I think it was about 12 years ago."
+  },
+  {
+    "message": "　　　　　　　　　It was back when I was about Cordelia's age."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Was Cordelia already in this village at that time？"
+  },
+  {
+    "message": "　　　　　　　　You had a relationship with the previous owner of Gilman House, didn't you？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Yes, my husband was quite close with them. When I came to this village, Cordelia was already their adopted daughter."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Do you know how Cordelia became the Hudsons' adopted daughter？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Well... I don't really know the details, though."
+  },
+  {
+    "message": "　　　　　　　　　Why are you asking me something like that？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia wants to know."
+  },
+  {
+    "message": "　　　　　　　　Why was I brought to Arkham?"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Yeah........"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "I don't know how much help I'll be, but if it's about when she was little, I might be able to tell you a bit."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is it okay if I drop by tonight？"
+  },
+  {
+    "message": "　　　　　　　　Everyone's waiting outside."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Yeah, as long as it’s not too late."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Where were you last night？"
+  },
+  {
+    "message": "　　　　　　　　　If　you're　going　to　leave　the　room,　I'll　be　in　trouble　if　you　don't　tell　me　ahead　of　time."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "The breakfast I went to all the trouble of making is going to go to waste, you know.　　　　　　　　　I don't like that kind of wastefulness."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'm　sorry...　I　meant　to　be　back　by　morning."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "That's not the issue here！"
+  },
+  {
+    "message": "　　　　　　　　　You really don't understand at all why I'm angry, do you?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "So, what am I supposed to do then？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Even if it's fine that you two have ended up in that kind of relationship, it's just that almost every night‥‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's not like I told you to do that."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "She was lonely because there was nobody by that girl's side to be there for her."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You think I took advantage of that and forced you into doing those things, don't you？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Well, let me ask you, what are you going to do about Cordelia？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "You’re not seriously thinking that if you leave Arkham, that'll be the end of it, are you?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I didn't say anything like that, did I?"
+  },
+  {
+    "message": "　　　　　　　　I'm trying to think things through properly too."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "So, you’re planning to take Cordelia along to London with you, aren’t you."
+  },
+  {
+    "message": "Somehow, this has turned into a way more serious conversation than I was expecting."
+  },
+  {
+    "message": "I never thought she'd say something like that out of the blue."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Thank goodness."
+  },
+  {
+    "message": "　　　　　　　　　That's what I was worried about."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "It's true that I might not have the right to interfere in your relationship with Cordelia."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "But, if you do that kind of thing so often..."
+  },
+  {
+    "message": "　　　　　　　　　I'm not feeling very good."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why would Madam be upset about us?　　　　　　　　　　 I thought we’d already talked that over, right?"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "‥‥‥‥‥‥‥‥‥‥"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "I can't help but worry about you two.　　　　　　　　　I know it's a bother, but please forgive me for being a meddlesome old lady."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why are you getting so uptight about this?"
+  },
+  {
+    "message": "　　　　　　　　I don't get it."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "That's......"
+  },
+  {
+    "message": "Mrs. Hudson went quiet."
+  },
+  {
+    "message": "She's become strangely nervous about our relationship."
+  },
+  {
+    "message": "It's not like she's acting like a concerned older woman worried about some reckless, foolish youngsters-instead, it's like she's convinced that we're special people and if we get too close, it'll definitely end in some tragic disaster."
+  },
+  {
+    "message": "I just can't understand why the lady thought that."
+  },
+  {
+    "message": "Is it because I'm a widow whose own marriage ended unhappily, or is there some other reason......"
+  },
+  {
+    "message": "When I was a kid, being alone in an old room like this used to scare me."
+  },
+  {
+    "message": "Even now, I sometimes get this baseless fear that maybe someone is staring at me from the corner of the room..."
+  },
+  {
+    "message": "Beyond the counter, there's a room like an office for handling customers when they come in."
+  },
+  {
+    "message": "The busy lady can't always stay in this room, but since there aren't that many guests, that's good enough."
+  },
+  {
+    "message": "On top of the faded wallpaper, there's something like a photo or painting of someone displayed."
+  },
+  {
+    "message": "Mrs. Hudson doesn't really care about interior decoration, so maybe it's something that's been on display for ages, or maybe it's something really important‥‥‥‥"
+  },
+  {
+    "message": "My room"
+  },
+  {
+    "message": "　　Go outside　　"
+  },
+  {
+    "message": "Lady's room"
+  }
 ]

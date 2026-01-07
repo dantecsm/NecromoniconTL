@@ -1,176 +1,176 @@
 [
-    {
-        "message": "It's an underground passage leading to the sea."
-    },
-    {
-        "message": "Mixed with the scent of the tide, the unpleasant smell like rotting fish-one I've gotten used to by now-lingers in the air around here."
-    },
-    {
-        "message": "Every time the tide comes in, the passageway fills with seawater and gets washed clean."
-    },
-    {
-        "message": "I wonder if this smell has seeped into the surrounding walls and hallways."
-    },
-    {
-        "message": "I came back to the stairs leading down to the Monastery's basement."
-    },
-    {
-        "message": "さすがに５マイル以上の距離を往復するのは身体にこたえる。"
-    },
-    {
-        "message": "Even though the path is flat, my heart is pounding-maybe it's because I'm scared the roof could collapse at any moment."
-    },
-    {
-        "name": "Jonathan",
-        "message": "This is......"
-    },
-    {
-        "name": "Gardner",
-        "message": "Looks like a hallway."
-    },
-    {
-        "message": "　　　　　　　　I　don't　know　how　far　it　goes,　but　it's　clearly　something　made　for　people　to　pass　through."
-    },
-    {
-        "message": "Inside the passageway, it’s filled with a strong smell of the sea and that fishy, rotten stench you get when fish go bad-one I’m already used to by now."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why does it smell like the ocean？"
-    },
-    {
-        "message": "　　　　　　　　The monastery should have been on top of the hills away from the sea."
-    },
-    {
-        "name": "Gardner",
-        "message": "通路が海まで続いているという事か。"
-    },
-    {
-        "message": "　　　　　　　　I don't know how many miles it is, but it must've taken a hell of a lot of effort."
-    },
-    {
-        "message": "The rocks around here are covered in moss, so there's no doubt they were made a long time ago. If people really dug out the earth and built these stone walls with their own hands, it must've been one hell of a tough job."
-    },
-    {
-        "message": "Unless there was a really important reason, there's no way they'd bother digging a passage like this."
-    },
-    {
-        "message": "Irregular stones bigger than a person's head are embedded all over, like a wall."
-    },
-    {
-        "message": "There's no doubt it's something clearly man-made."
-    },
-    {
-        "message": "The surface of the stone is completely covered in moss, so it's definitely pretty old."
-    },
-    {
-        "message": "わざわざ修道院の地下室に通路を造るという事は、あまり他人の目には触れたくなかったのだろう、おおぜいの人間を使う事はしなかったはずだから、かなり長い時間をかけて造られたのだろう。"
-    },
-    {
-        "message": "It must've been a real pain to haul this much material out from that cramped Basement. Stones bigger than a person's head would've needed at least two people to carry each one."
-    },
-    {
-        "message": "They made a path by putting together several wooden planks about the size of railroad ties so people could walk easily."
-    },
-    {
-        "message": "There are passages on both sides of the walls, but the center of the underground tunnel is like a waterway just big enough for a small boat to pass through."
-    },
-    {
-        "message": "The waterway isn't that deep, just enough for a flat-bottomed boat to make it through without scraping the bottom."
-    },
-    {
-        "message": "They made a walkway by putting together a bunch of wooden planks about the size of railroad ties so people can walk easily."
-    },
-    {
-        "name": "Jonathan",
-        "message": "フナムシだ。"
-    },
-    {
-        "message": "　　　　　　　　海辺にいる生物のはずなのに、こんな内陸の方まで入　　　　　　　　り込んでくるなんて。"
-    },
-    {
-        "name": "Gardner",
-        "message": "These creatures will crawl in anywhere there's an environment that suits them."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Even down here underground where no sunlight reaches, they can survive, huh.　　　　　　　　I wonder if there's anything for them to eat？"
-    },
-    {
-        "message": "しかし、そもそも私はフナムシが何を食べて生きているのか知らない。ガードナーも生物学者ではないのだからそんな事は知らないだろう。"
-    },
-    {
-        "message": "大量のフナムシが固まってうごめいている。"
-    },
-    {
-        "message": "It's not like I hate bugs or anything, but it's not exactly a pleasant sight."
-    },
-    {
-        "message": "まさか人間に襲いかかって来る訳ではないだろうが、出来るだけ刺激しないようにしたほうがいいだろう。"
-    },
-    {
-        "message": "The surface of the stone wall is completely covered in slimy moss."
-    },
-    {
-        "message": "The high humidity underground and the fact that it's constantly getting wet when submerged at high tide probably make it a good habitat for moss."
-    },
-    {
-        "message": "Those thick, densely packed plants wouldn't come off easily, even when I tried to pull them with my hands."
-    },
-    {
-        "message": "Even if someone still uses this passage today and accidentally touches the wall, there probably wouldn't be any trace left at all."
-    },
-    {
-        "message": "Thick, densely-packed moss covers the surface of the wall."
-    },
-    {
-        "message": "It doesn't come off easily just by me touching it."
-    },
-    {
-        "message": "I reached out from the corridor and plunged my hand into the waterway flowing down the center of the corridor."
-    },
-    {
-        "message": "The water is cold, and in no time at all, I lose feeling in my fingertips."
-    },
-    {
-        "message": "When I put the drops of water from my finger in my mouth, I realize it's strong saltwater."
-    },
-    {
-        "message": "This passage must be connected to the sea after all."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Looks like it's seawater after all."
-    },
-    {
-        "message": "　　　　　　　　How many miles do you think it is from here to the sea？"
-    },
-    {
-        "name": "Gardner",
-        "message": "I'd say about five or six miles."
-    },
-    {
-        "message": "　　　　　　　　They　really　dug　out　such　a　long　distance,　huh."
-    },
-    {
-        "message": "When I try licking the water in the canal, it's pretty salty."
-    },
-    {
-        "message": "It's now an undeniable fact that this passage leads all the way to the sea."
-    },
-    {
-        "message": "At this time of low tide, the sea surface is just about the same height as the passage, which means that when the tide comes in, this entire passage will be submerged under the sea during the night."
-    },
-    {
-        "message": "So that means this waterway can only be used during the daytime."
-    },
-    {
-        "message": "There’s no way a human could go back and forth for miles without breathing."
-    },
-    {
-        "message": "　　Go forward　　"
-    },
-    {
-        "message": "Return to the room above"
-    }
+  {
+    "message": "It's an underground passage leading to the sea."
+  },
+  {
+    "message": "Mixed with the scent of the tide, the unpleasant smell like rotting fish-one I've gotten used to by now-lingers in the air around here."
+  },
+  {
+    "message": "Every time the tide comes in, the passageway fills with seawater and gets washed clean."
+  },
+  {
+    "message": "I wonder if this smell has seeped into the surrounding walls and hallways."
+  },
+  {
+    "message": "I came back to the stairs leading down to the Monastery's basement."
+  },
+  {
+    "message": "Honestly, making a round trip over five miles is exhausting."
+  },
+  {
+    "message": "Even though the path is flat, my heart is pounding-maybe it's because I'm scared the roof could collapse at any moment."
+  },
+  {
+    "name": "Jonathan",
+    "message": "This is......"
+  },
+  {
+    "name": "Gardner",
+    "message": "Looks like a hallway."
+  },
+  {
+    "message": "　　　　　　　　I　don't　know　how　far　it　goes,　but　it's　clearly　something　made　for　people　to　pass　through."
+  },
+  {
+    "message": "Inside the passageway, it’s filled with a strong smell of the sea and that fishy, rotten stench you get when fish go bad-one I’m already used to by now."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why does it smell like the ocean？"
+  },
+  {
+    "message": "　　　　　　　　The monastery should have been on top of the hills away from the sea."
+  },
+  {
+    "name": "Gardner",
+    "message": "So this passageway leads all the way to the sea, huh."
+  },
+  {
+    "message": "　　　　　　　　I don't know how many miles it is, but it must've taken a hell of a lot of effort."
+  },
+  {
+    "message": "The rocks around here are covered in moss, so there's no doubt they were made a long time ago. If people really dug out the earth and built these stone walls with their own hands, it must've been one hell of a tough job."
+  },
+  {
+    "message": "Unless there was a really important reason, there's no way they'd bother digging a passage like this."
+  },
+  {
+    "message": "Irregular stones bigger than a person's head are embedded all over, like a wall."
+  },
+  {
+    "message": "There's no doubt it's something clearly man-made."
+  },
+  {
+    "message": "The surface of the stone is completely covered in moss, so it's definitely pretty old."
+  },
+  {
+    "message": "If they went out of their way to build a passage in the monastery's basement, they probably didn't want other people to see it; since they wouldn't have used a big crew, it must've taken a pretty long time to make."
+  },
+  {
+    "message": "It must've been a real pain to haul this much material out from that cramped Basement. Stones bigger than a person's head would've needed at least two people to carry each one."
+  },
+  {
+    "message": "They made a path by putting together several wooden planks about the size of railroad ties so people could walk easily."
+  },
+  {
+    "message": "There are passages on both sides of the walls, but the center of the underground tunnel is like a waterway just big enough for a small boat to pass through."
+  },
+  {
+    "message": "The waterway isn't that deep, just enough for a flat-bottomed boat to make it through without scraping the bottom."
+  },
+  {
+    "message": "They made a walkway by putting together a bunch of wooden planks about the size of railroad ties so people can walk easily."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's a sea roach."
+  },
+  {
+    "message": "　　　　　　　　It's supposed to be a creature you find by the sea, but to think it would make its way this far inland."
+  },
+  {
+    "name": "Gardner",
+    "message": "These creatures will crawl in anywhere there's an environment that suits them."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Even down here underground where no sunlight reaches, they can survive, huh.　　　　　　　　I wonder if there's anything for them to eat？"
+  },
+  {
+    "message": "But actually, I don't even know what sea roaches eat to survive. Gardner's not a biologist either, so he probably doesn't know either."
+  },
+  {
+    "message": "A mass of sea roaches is all huddled together and wriggling."
+  },
+  {
+    "message": "It's not like I hate bugs or anything, but it's not exactly a pleasant sight."
+  },
+  {
+    "message": "There's no way it's actually going to attack a human, but it's probably best not to provoke it as much as possible."
+  },
+  {
+    "message": "The surface of the stone wall is completely covered in slimy moss."
+  },
+  {
+    "message": "The high humidity underground and the fact that it's constantly getting wet when submerged at high tide probably make it a good habitat for moss."
+  },
+  {
+    "message": "Those thick, densely packed plants wouldn't come off easily, even when I tried to pull them with my hands."
+  },
+  {
+    "message": "Even if someone still uses this passage today and accidentally touches the wall, there probably wouldn't be any trace left at all."
+  },
+  {
+    "message": "Thick, densely-packed moss covers the surface of the wall."
+  },
+  {
+    "message": "It doesn't come off easily just by me touching it."
+  },
+  {
+    "message": "I reached out from the corridor and plunged my hand into the waterway flowing down the center of the corridor."
+  },
+  {
+    "message": "The water is cold, and in no time at all, I lose feeling in my fingertips."
+  },
+  {
+    "message": "When I put the drops of water from my finger in my mouth, I realize it's strong saltwater."
+  },
+  {
+    "message": "This passage must be connected to the sea after all."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Looks like it's seawater after all."
+  },
+  {
+    "message": "　　　　　　　　How many miles do you think it is from here to the sea？"
+  },
+  {
+    "name": "Gardner",
+    "message": "I'd say about five or six miles."
+  },
+  {
+    "message": "　　　　　　　　They　really　dug　out　such　a　long　distance,　huh."
+  },
+  {
+    "message": "When I try licking the water in the canal, it's pretty salty."
+  },
+  {
+    "message": "It's now an undeniable fact that this passage leads all the way to the sea."
+  },
+  {
+    "message": "At this time of low tide, the sea surface is just about the same height as the passage, which means that when the tide comes in, this entire passage will be submerged under the sea during the night."
+  },
+  {
+    "message": "So that means this waterway can only be used during the daytime."
+  },
+  {
+    "message": "There’s no way a human could go back and forth for miles without breathing."
+  },
+  {
+    "message": "　　Go forward　　"
+  },
+  {
+    "message": "Return to the room above"
+  }
 ]

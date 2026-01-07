@@ -1,573 +1,573 @@
 [
-    {
-        "message": "It's the Ruins on the cape."
-    },
-    {
-        "message": "There’s nobody here, and it doesn’t look like any shady rituals are going on, either."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It's cold……"
-    },
-    {
-        "message": "A cold wind is blowing through the Ruins, almost as if it's keeping people away."
-    },
-    {
-        "message": "There’s nothing around to block the wind, so the icy gusts mercilessly steal the warmth from my body."
-    },
-    {
-        "name": "Gardner",
-        "message": "Let's go wander around over there for a bit."
-    },
-    {
-        "message": "　　　　　　　　It's not really my intention to get in your way."
-    },
-    {
-        "message": "It’s the Ruins at the tip of the cape."
-    },
-    {
-        "message": "Now that Old man Marsh is no longer in this world, there’s probably no one else who’d visit these ruins."
-    },
-    {
-        "message": "遺跡のまわりには海からの冷たい風が吹き寄せ、誰の目にも触れる事がなくなった古代の遺物達は、人知れず崩壊への道を歩んでいる。"
-    },
-    {
-        "name": "Gardner",
-        "message": "We troublemakers will step out for a bit."
-    },
-    {
-        "message": "　　　　　　　　Call me when it's time to go home."
-    },
-    {
-        "name": "Thomas",
-        "message": "Hey, make sure you cheer her up real good."
-    },
-    {
-        "message": "　　　　　　If this keeps up, I’ll end up looking like the bad guy for taking you there, won’t I?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "It's cold........."
-    },
-    {
-        "message": "A cold wind blows through the Ruins, almost as if it's trying to keep people away."
-    },
-    {
-        "message": "There’s no cover around here to escape the wind, and the icy wind mercilessly strips the heat from my body."
-    },
-    {
-        "name": "Gardner",
-        "message": "I'm gonna go take a little walk around there."
-    },
-    {
-        "message": "　　　　　　　　I’m not really interested in the Ruins anymore these days."
-    },
-    {
-        "name": "Thomas",
-        "message": "Don't just do whatever you want, it makes me look like a nuisance."
-    },
-    {
-        "message": "　　　　　　It's like I'm getting in the way of you two."
-    },
-    {
-        "name": "Gardner",
-        "message": "If that's what you think, why don't you go wander around over there yourself？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Aren't you overthinking things？"
-    },
-    {
-        "message": "　　　　　　These two sleep in the same Bed every night, after all."
-    },
-    {
-        "name": "Gardner",
-        "message": "Then just do whatever you want."
-    },
-    {
-        "name": "Thomas",
-        "message": "Got it."
-    },
-    {
-        "message": "　　　　　　Hurry up, will ya? It's freezing here, I can't take it."
-    },
-    {
-        "name": "Gardner",
-        "message": "Call me when you're going home."
-    },
-    {
-        "message": "　　　　　　　　I don't wanna be left behind, alright?"
-    },
-    {
-        "message": "The black, slimy-looking glossy stone pillars seem to resemble the style found in the temples scattered across the islands of Greece."
-    },
-    {
-        "message": "However, there's no way these ruins were brought over from Greece."
-    },
-    {
-        "message": "Philip was trading with countries in Asia and Africa, so these ruins must've been brought from there too, I'm sure of it..."
-    },
-    {
-        "message": "But as an amateur, I don't have enough knowledge to back up that theory."
-    },
-    {
-        "message": "Even a pro like Gardner is stumped, so there's no way I could ever solve that mystery."
-    },
-    {
-        "message": "The pillar, made of a slimy-looking glossy black stone, surrenders itself to the slow waves of collapse, without being noticed or questioned by anyone."
-    },
-    {
-        "message": "It's a building that seems to be a Temple, with a majestic, somewhat unapproachable atmosphere."
-    },
-    {
-        "message": "I wonder if the consciousness of the people who revered this building as a key part of their faith lingers here-the sight of it even stirs fear in me."
-    },
-    {
-        "message": "Marsh said that by bringing these ruins to Arkham, Philip made quite a fortune."
-    },
-    {
-        "message": "No doubt, bringing something like this here couldn't have been easy, so I guess he expected a proper reward in return..."
-    },
-    {
-        "message": "遺跡とフィリップが得た大量の金との間にどんな関係があるのだろう。この遺跡を奉っていた人々がフィリップに金を与えたのだろうか。"
-    },
-    {
-        "message": "The gravekeeper said the Dagon Cult came to the village because of these ruins."
-    },
-    {
-        "message": "Then, the temple-like buildings and the murals painted above them were probably made for their gods."
-    },
-    {
-        "message": "Even so, it's weird that the believers aren't coming to the Ruins."
-    },
-    {
-        "message": "If it's a place where someone enshrined their own god, it wouldn't be strange to visit it almost every day."
-    },
-    {
-        "message": "寒風が吹きすさぶ遺跡の周囲には、人間はおろか上空を飛ぶ鳥の姿さえ見つける事が出来ない。"
-    },
-    {
-        "message": "The sound of waves crashing against the cliffs just below is almost deafening, making the lonely atmosphere of the cape feel even more desolate."
-    },
-    {
-        "message": "Surrounded by massive Ruins and listening to the terrifyingly loud sound of the waves, I’m reminded once again of just how tiny I really am."
-    },
-    {
-        "name": "Thomas",
-        "message": "You were pretty quick, huh."
-    },
-    {
-        "message": "　　　　　　Is it already all done？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Hey, is she in a better mood now？"
-    },
-    {
-        "message": "　　　　　　At times like that, you just gotta apologize."
-    },
-    {
-        "name": "Gardner",
-        "message": "Did you get to talk things over without rushing？"
-    },
-    {
-        "message": "　　　　　　　　You don't have to worry about us, you know, it's okay if you two stay alone together even longer？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "What a lonely place this is..."
-    },
-    {
-        "message": "　　　　　　　　We're the only living things moving around here."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Ah......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Shall we get going already？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Being here makes me feel like I want to die."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It's cold... Let's go home already."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, let's call the professor and Thomas."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Talk to me."
-    },
-    {
-        "message": "Cordelia suddenly brought it up."
-    },
-    {
-        "message": "Their expression is stiff, showing clear anger."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's not like I go to places like that because I want to, you know."
-    },
-    {
-        "name": "Cordelia",
-        "message": "あんな所に何があるって言うのよ。"
-    },
-    {
-        "message": "　　　　　　　　No way, it couldn't be that Dunwich's daughter is alive and working as a prostitute, right？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "もしも生きていたとしたら、もう６０過ぎの老人だろ　　　　　　　　う、そんな事はあり得ないよ。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Then why did you go?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "The other night, on the way to your room, I saw Thomas talking with Nai in front of the Church of Dagon."
-    },
-    {
-        "name": "Cordelia",
-        "message": "教会で？"
-    },
-    {
-        "message": "　　　　　　　　Why do you have any business going to a place like that, Thomas?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I was curious too, so I asked about it. After all, Thomas is a totally mysterious guy, you know. Maybe he's actually an old acquaintance of Nai or something."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I figured the reason you came to Arkham probably had something to do with the Dagon Cult."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So, what did Thomas say？"
-    },
-    {
-        "message": "　　　　　　　　No way he just confessed that easily, right?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Thomas said that on his way back from the 'good place' that night, he happened to be stopped by Nai."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So that 'good place' was a brothel, huh."
-    },
-    {
-        "message": "　　　　　　　　So, the place you said you went out to with Thomas last night was actually the brothel, huh."
-    },
-    {
-        "name": "Jonathan",
-        "message": " I thought that if I found out Thomas was lying, I might be able to get that guy to spill why he keeps hanging around us."
-    },
-    {
-        "name": "Cordelia",
-        "message": " So, how did it go?"
-    },
-    {
-        "name": "Jonathan",
-        "message": " The prostitute who was with Thomas last night said she thinks Thomas might be impotent."
-    },
-    {
-        "name": "Cordelia",
-        "message": " Impotent... what's that mean？"
-    },
-    {
-        "name": "Jonathan",
-        "message": " Basically... um... it means he's a cripple in that sense."
-    },
-    {
-        "message": "　　　　　　　　It means a man who can't do it with women."
-    },
-    {
-        "name": "Cordelia",
-        "message": " Ah, so that means..."
-    },
-    {
-        "name": "Jonathan",
-        "message": " Let's move on."
-    },
-    {
-        "message": "　　　　　　　　When Thomas went into the room with the prostitute, he slipped out the back door and secretly went somewhere else."
-    },
-    {
-        "name": "Cordelia",
-        "message": " Then, was he meeting Nai at the Church of Dagon？"
-    },
-    {
-        "name": "Jonathan",
-        "message": " He planned everything from the start, even set up an alibi, so there's no way those two are unrelated."
-    },
-    {
-        "message": "And, you were actually raised at the Church of Dagon too, Cordelia."
-    },
-    {
-        "message": "The fact that she was gone last night might not be unrelated either."
-    },
-    {
-        "message": "Cordelia doesn't even know she was raised at the church."
-    },
-    {
-        "message": "It would be easy to sneak her out in the middle of the night and make her lose her memory afterwards."
-    },
-    {
-        "message": "What should I do........."
-    },
-    {
-        "message": "Should I tell Cordelia about this?"
-    },
-    {
-        "message": "I'm also bothered by what Hans, the general store owner, said-that the villagers treated Cordelia specially."
-    },
-    {
-        "message": "ナイとダゴン教団が何を企んでいるのか、コーデリアや私はその企てにどういう形で巻き込まれているのか‥‥‥‥"
-    },
-    {
-        "message": "Was Cordelia's inexplicable, sleepwalking-like behavior last night just a coincidence?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "ダゴン教団て何をしようとしているのかしら。"
-    },
-    {
-        "message": "　　　　　　　　Somehow, this is scary......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Even now that I've come this far, I have absolutely no idea what Thomas and Nai are thinking."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Then why don't you just stop hanging out with Thomas...　　　　　　　　That way, you wouldn't have to worry anymore."
-    },
-    {
-        "name": "Jonathan",
-        "message": "We can't even escape from Arkham.　　　　Keeping Thomas away won't change anything."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Besides, we’re already up to our necks in this mess."
-    },
-    {
-        "message": "　　　　　　　　In　that　case,　we’ll　just　use　that　guy　ourselves."
-    },
-    {
-        "name": "Cordelia",
-        "message": "That's dangerous, is there really any need to cross such a risky bridge？　　　　　　　　Jonathan, let's just stop already."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Let's forget everything and leave the village together."
-    },
-    {
-        "message": "　　　　　　　　The suspension bridge will work out somehow, I mean, we haven't even tried it yet, so we don't really know if it's actually dangerous."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I can't. I can't stop."
-    },
-    {
-        "message": "　　　　　　　　If I happened to be connected to the Dunwich family, then the blood of a murderer-just like Dollie's-would be flowing through me too."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You never know when, where, or what kind of shit might go down."
-    },
-    {
-        "message": "　　　　　　　　I need to know why Dollie tried to wipe out her own bloodline.　　　　　　　　I can't go without knowing the reason."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I wonder why Dollie did something like that."
-    },
-    {
-        "message": "　　　　　　　　I　can't　help　but　feel　like　it　has　something　to　do　with　my　distant　ancestors　from　Arkham."
-    },
-    {
-        "name": "Cordelia",
-        "message": "解ったわ、あなたの気の済むまでおやりなさい。"
-    },
-    {
-        "message": "　　　　　　　　I'll help too."
-    },
-    {
-        "name": "Cordelia",
-        "message": "But you know, stop doing that kind of thing already！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "What do you mean by something like that？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "With another woman besides me......"
-    },
-    {
-        "message": "　　　　　　　　Let alone spending money to buy that kind of woman."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's why..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It doesn't matter, it doesn't change the fact that Jonathan trampled all over my heart."
-    },
-    {
-        "name": "Jonathan",
-        "message": "‥‥‥‥‥‥‥"
-    },
-    {
-        "name": "Cordelia",
-        "message": "How was it？"
-    },
-    {
-        "message": "　　　　　　　　As a pro, it must've felt good for you, right？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "This again?"
-    },
-    {
-        "message": "　　　　　　　　Didn't I tell you before?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I can't just not know why Dollie tried to end her own bloodline."
-    },
-    {
-        "name": "Cordelia",
-        "message": "‥‥‥‥‥"
-    },
-    {
-        "name": "Cordelia",
-        "message": "...If only the sky was at least clear."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I feel like I haven't seen the sun in such a long time."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It's so frustrating."
-    },
-    {
-        "name": "Jonathan",
-        "message": "About what？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I thought I'd done my best to live as happily as possible till now."
-    },
-    {
-        "name": "Jonathan",
-        "message": "......Let's get out of here. The vibe here is just way too bad."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It's cold... Let's just go home already."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, let's call the professor and Thomas."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Coming here reminds me of Mr. Marsh."
-    },
-    {
-        "message": "　　　　　　　　I　still　can't　forget　what　I　saw　back　then........."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You should stop feeling sorry for Marsh. We never know when we could end up like that too."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You mean us？"
-    },
-    {
-        "message": "　　　　　　　　Why do we have to go through something like that?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Marsh wasn't killed just to shut him up."
-    },
-    {
-        "message": "　　　　　　　　That was a warning meant for us."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan, let's just stop, okay？"
-    },
-    {
-        "message": "　　　　　　　　It’s not good to keep putting ourselves in danger like this."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why are you saying this all of a sudden?"
-    },
-    {
-        "message": "　　　　　　　　Don't you want to know why you were brought to Arkham?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "That's enough."
-    },
-    {
-        "message": "　　　　　　　　More importantly, what's really important is that Jonathan is safe."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia........."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I can't. I can't stop."
-    },
-    {
-        "message": "　　　　　　　　If I were connected to the Dunwich family, then that would mean the same murderer’s blood as Dollie’s is flowing through me too."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You never know when, where, or what might happen."
-    },
-    {
-        "message": "　　　　　　　　どうしてドルリイが自分の血を絶やそうとしたのか、　　　　　　　　その理由を知らない訳にはいかない。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I wonder why Dollie did something like that."
-    },
-    {
-        "message": "　　　　　　　　I can't help but feel like it has something to do with one of my distant ancestors from Arkham."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Got it, do whatever you want until you're satisfied."
-    },
-    {
-        "message": "　　　　　　　　I'll help out too."
-    },
-    {
-        "message": "　　　Map　　　"
-    }
+  {
+    "message": "It's the Ruins on the cape."
+  },
+  {
+    "message": "There’s nobody here, and it doesn’t look like any shady rituals are going on, either."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It's cold……"
+  },
+  {
+    "message": "A cold wind is blowing through the Ruins, almost as if it's keeping people away."
+  },
+  {
+    "message": "There’s nothing around to block the wind, so the icy gusts mercilessly steal the warmth from my body."
+  },
+  {
+    "name": "Gardner",
+    "message": "Let's go wander around over there for a bit."
+  },
+  {
+    "message": "　　　　　　　　It's not really my intention to get in your way."
+  },
+  {
+    "message": "It’s the Ruins at the tip of the cape."
+  },
+  {
+    "message": "Now that Old man Marsh is no longer in this world, there’s probably no one else who’d visit these ruins."
+  },
+  {
+    "message": "Cold winds from the sea blow around the ruins, and the ancient relics that are no longer seen by anyone are quietly walking the path toward ruin."
+  },
+  {
+    "name": "Gardner",
+    "message": "We troublemakers will step out for a bit."
+  },
+  {
+    "message": "　　　　　　　　Call me when it's time to go home."
+  },
+  {
+    "name": "Thomas",
+    "message": "Hey, make sure you cheer her up real good."
+  },
+  {
+    "message": "　　　　　　If this keeps up, I’ll end up looking like the bad guy for taking you there, won’t I?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "It's cold........."
+  },
+  {
+    "message": "A cold wind blows through the Ruins, almost as if it's trying to keep people away."
+  },
+  {
+    "message": "There’s no cover around here to escape the wind, and the icy wind mercilessly strips the heat from my body."
+  },
+  {
+    "name": "Gardner",
+    "message": "I'm gonna go take a little walk around there."
+  },
+  {
+    "message": "　　　　　　　　I’m not really interested in the Ruins anymore these days."
+  },
+  {
+    "name": "Thomas",
+    "message": "Don't just do whatever you want, it makes me look like a nuisance."
+  },
+  {
+    "message": "　　　　　　It's like I'm getting in the way of you two."
+  },
+  {
+    "name": "Gardner",
+    "message": "If that's what you think, why don't you go wander around over there yourself？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Aren't you overthinking things？"
+  },
+  {
+    "message": "　　　　　　These two sleep in the same Bed every night, after all."
+  },
+  {
+    "name": "Gardner",
+    "message": "Then just do whatever you want."
+  },
+  {
+    "name": "Thomas",
+    "message": "Got it."
+  },
+  {
+    "message": "　　　　　　Hurry up, will ya? It's freezing here, I can't take it."
+  },
+  {
+    "name": "Gardner",
+    "message": "Call me when you're going home."
+  },
+  {
+    "message": "　　　　　　　　I don't wanna be left behind, alright?"
+  },
+  {
+    "message": "The black, slimy-looking glossy stone pillars seem to resemble the style found in the temples scattered across the islands of Greece."
+  },
+  {
+    "message": "However, there's no way these ruins were brought over from Greece."
+  },
+  {
+    "message": "Philip was trading with countries in Asia and Africa, so these ruins must've been brought from there too, I'm sure of it..."
+  },
+  {
+    "message": "But as an amateur, I don't have enough knowledge to back up that theory."
+  },
+  {
+    "message": "Even a pro like Gardner is stumped, so there's no way I could ever solve that mystery."
+  },
+  {
+    "message": "The pillar, made of a slimy-looking glossy black stone, surrenders itself to the slow waves of collapse, without being noticed or questioned by anyone."
+  },
+  {
+    "message": "It's a building that seems to be a Temple, with a majestic, somewhat unapproachable atmosphere."
+  },
+  {
+    "message": "I wonder if the consciousness of the people who revered this building as a key part of their faith lingers here-the sight of it even stirs fear in me."
+  },
+  {
+    "message": "Marsh said that by bringing these ruins to Arkham, Philip made quite a fortune."
+  },
+  {
+    "message": "No doubt, bringing something like this here couldn't have been easy, so I guess he expected a proper reward in return..."
+  },
+  {
+    "message": "What kind of connection could there be between the ruins and the huge amount of money Philip got? Did the people who worshiped these ruins give Philip that money?"
+  },
+  {
+    "message": "The gravekeeper said the Dagon Cult came to the village because of these ruins."
+  },
+  {
+    "message": "Then, the temple-like buildings and the murals painted above them were probably made for their gods."
+  },
+  {
+    "message": "Even so, it's weird that the believers aren't coming to the Ruins."
+  },
+  {
+    "message": "If it's a place where someone enshrined their own god, it wouldn't be strange to visit it almost every day."
+  },
+  {
+    "message": "Around the ruins where the cold wind blows fiercely, you can't even spot a single bird flying in the sky, let alone any humans."
+  },
+  {
+    "message": "The sound of waves crashing against the cliffs just below is almost deafening, making the lonely atmosphere of the cape feel even more desolate."
+  },
+  {
+    "message": "Surrounded by massive Ruins and listening to the terrifyingly loud sound of the waves, I’m reminded once again of just how tiny I really am."
+  },
+  {
+    "name": "Thomas",
+    "message": "You were pretty quick, huh."
+  },
+  {
+    "message": "　　　　　　Is it already all done？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Hey, is she in a better mood now？"
+  },
+  {
+    "message": "　　　　　　At times like that, you just gotta apologize."
+  },
+  {
+    "name": "Gardner",
+    "message": "Did you get to talk things over without rushing？"
+  },
+  {
+    "message": "　　　　　　　　You don't have to worry about us, you know, it's okay if you two stay alone together even longer？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "What a lonely place this is..."
+  },
+  {
+    "message": "　　　　　　　　We're the only living things moving around here."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Ah......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Shall we get going already？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Being here makes me feel like I want to die."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It's cold... Let's go home already."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, let's call the professor and Thomas."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Talk to me."
+  },
+  {
+    "message": "Cordelia suddenly brought it up."
+  },
+  {
+    "message": "Their expression is stiff, showing clear anger."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's not like I go to places like that because I want to, you know."
+  },
+  {
+    "name": "Cordelia",
+    "message": "What could possibly be over there anyway?"
+  },
+  {
+    "message": "　　　　　　　　No way, it couldn't be that Dunwich's daughter is alive and working as a prostitute, right？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "If he's alive, he'd be an old man over sixty by now　　　　, that's just impossible."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Then why did you go?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "The other night, on the way to your room, I saw Thomas talking with Nai in front of the Church of Dagon."
+  },
+  {
+    "name": "Cordelia",
+    "message": "At the church？"
+  },
+  {
+    "message": "　　　　　　　　Why do you have any business going to a place like that, Thomas?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I was curious too, so I asked about it. After all, Thomas is a totally mysterious guy, you know. Maybe he's actually an old acquaintance of Nai or something."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I figured the reason you came to Arkham probably had something to do with the Dagon Cult."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So, what did Thomas say？"
+  },
+  {
+    "message": "　　　　　　　　No way he just confessed that easily, right?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Thomas said that on his way back from the 'good place' that night, he happened to be stopped by Nai."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So that 'good place' was a brothel, huh."
+  },
+  {
+    "message": "　　　　　　　　So, the place you said you went out to with Thomas last night was actually the brothel, huh."
+  },
+  {
+    "name": "Jonathan",
+    "message": " I thought that if I found out Thomas was lying, I might be able to get that guy to spill why he keeps hanging around us."
+  },
+  {
+    "name": "Cordelia",
+    "message": " So, how did it go?"
+  },
+  {
+    "name": "Jonathan",
+    "message": " The prostitute who was with Thomas last night said she thinks Thomas might be impotent."
+  },
+  {
+    "name": "Cordelia",
+    "message": " Impotent... what's that mean？"
+  },
+  {
+    "name": "Jonathan",
+    "message": " Basically... um... it means he's a cripple in that sense."
+  },
+  {
+    "message": "　　　　　　　　It means a man who can't do it with women."
+  },
+  {
+    "name": "Cordelia",
+    "message": " Ah, so that means..."
+  },
+  {
+    "name": "Jonathan",
+    "message": " Let's move on."
+  },
+  {
+    "message": "　　　　　　　　When Thomas went into the room with the prostitute, he slipped out the back door and secretly went somewhere else."
+  },
+  {
+    "name": "Cordelia",
+    "message": " Then, was he meeting Nai at the Church of Dagon？"
+  },
+  {
+    "name": "Jonathan",
+    "message": " He planned everything from the start, even set up an alibi, so there's no way those two are unrelated."
+  },
+  {
+    "message": "And, you were actually raised at the Church of Dagon too, Cordelia."
+  },
+  {
+    "message": "The fact that she was gone last night might not be unrelated either."
+  },
+  {
+    "message": "Cordelia doesn't even know she was raised at the church."
+  },
+  {
+    "message": "It would be easy to sneak her out in the middle of the night and make her lose her memory afterwards."
+  },
+  {
+    "message": "What should I do........."
+  },
+  {
+    "message": "Should I tell Cordelia about this?"
+  },
+  {
+    "message": "I'm also bothered by what Hans, the general store owner, said-that the villagers treated Cordelia specially."
+  },
+  {
+    "message": "What Nai and the Dagon Cult are plotting, and just how Cordelia and I have gotten caught up in that scheme‥‥‥‥"
+  },
+  {
+    "message": "Was Cordelia's inexplicable, sleepwalking-like behavior last night just a coincidence?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I wonder what the Dagon Cult is trying to do."
+  },
+  {
+    "message": "　　　　　　　　Somehow, this is scary......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Even now that I've come this far, I have absolutely no idea what Thomas and Nai are thinking."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Then why don't you just stop hanging out with Thomas...　　　　　　　　That way, you wouldn't have to worry anymore."
+  },
+  {
+    "name": "Jonathan",
+    "message": "We can't even escape from Arkham.　　　　Keeping Thomas away won't change anything."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Besides, we’re already up to our necks in this mess."
+  },
+  {
+    "message": "　　　　　　　　In　that　case,　we’ll　just　use　that　guy　ourselves."
+  },
+  {
+    "name": "Cordelia",
+    "message": "That's dangerous, is there really any need to cross such a risky bridge？　　　　　　　　Jonathan, let's just stop already."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Let's forget everything and leave the village together."
+  },
+  {
+    "message": "　　　　　　　　The suspension bridge will work out somehow, I mean, we haven't even tried it yet, so we don't really know if it's actually dangerous."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I can't. I can't stop."
+  },
+  {
+    "message": "　　　　　　　　If I happened to be connected to the Dunwich family, then the blood of a murderer-just like Dollie's-would be flowing through me too."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You never know when, where, or what kind of shit might go down."
+  },
+  {
+    "message": "　　　　　　　　I need to know why Dollie tried to wipe out her own bloodline.　　　　　　　　I can't go without knowing the reason."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I wonder why Dollie did something like that."
+  },
+  {
+    "message": "　　　　　　　　I　can't　help　but　feel　like　it　has　something　to　do　with　my　distant　ancestors　from　Arkham."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Fine, do as you please until you're satisfied."
+  },
+  {
+    "message": "　　　　　　　　I'll help too."
+  },
+  {
+    "name": "Cordelia",
+    "message": "But you know, stop doing that kind of thing already！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "What do you mean by something like that？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "With another woman besides me......"
+  },
+  {
+    "message": "　　　　　　　　Let alone spending money to buy that kind of woman."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's why..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It doesn't matter, it doesn't change the fact that Jonathan trampled all over my heart."
+  },
+  {
+    "name": "Jonathan",
+    "message": "‥‥‥‥‥‥‥"
+  },
+  {
+    "name": "Cordelia",
+    "message": "How was it？"
+  },
+  {
+    "message": "　　　　　　　　As a pro, it must've felt good for you, right？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "This again?"
+  },
+  {
+    "message": "　　　　　　　　Didn't I tell you before?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I can't just not know why Dollie tried to end her own bloodline."
+  },
+  {
+    "name": "Cordelia",
+    "message": "‥‥‥‥‥"
+  },
+  {
+    "name": "Cordelia",
+    "message": "...If only the sky was at least clear."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I feel like I haven't seen the sun in such a long time."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It's so frustrating."
+  },
+  {
+    "name": "Jonathan",
+    "message": "About what？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I thought I'd done my best to live as happily as possible till now."
+  },
+  {
+    "name": "Jonathan",
+    "message": "......Let's get out of here. The vibe here is just way too bad."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It's cold... Let's just go home already."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, let's call the professor and Thomas."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Coming here reminds me of Mr. Marsh."
+  },
+  {
+    "message": "　　　　　　　　I　still　can't　forget　what　I　saw　back　then........."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You should stop feeling sorry for Marsh. We never know when we could end up like that too."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You mean us？"
+  },
+  {
+    "message": "　　　　　　　　Why do we have to go through something like that?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Marsh wasn't killed just to shut him up."
+  },
+  {
+    "message": "　　　　　　　　That was a warning meant for us."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan, let's just stop, okay？"
+  },
+  {
+    "message": "　　　　　　　　It’s not good to keep putting ourselves in danger like this."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why are you saying this all of a sudden?"
+  },
+  {
+    "message": "　　　　　　　　Don't you want to know why you were brought to Arkham?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "That's enough."
+  },
+  {
+    "message": "　　　　　　　　More importantly, what's really important is that Jonathan is safe."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia........."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I can't. I can't stop."
+  },
+  {
+    "message": "　　　　　　　　If I were connected to the Dunwich family, then that would mean the same murderer’s blood as Dollie’s is flowing through me too."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You never know when, where, or what might happen."
+  },
+  {
+    "message": "　　　　　　　　I can't afford not to find out why Dollie tried to end her own bloodline.　　　　I need to know the reason."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I wonder why Dollie did something like that."
+  },
+  {
+    "message": "　　　　　　　　I can't help but feel like it has something to do with one of my distant ancestors from Arkham."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Got it, do whatever you want until you're satisfied."
+  },
+  {
+    "message": "　　　　　　　　I'll help out too."
+  },
+  {
+    "message": "　　　Map　　　"
+  }
 ]

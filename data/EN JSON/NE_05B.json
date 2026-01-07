@@ -1,89 +1,89 @@
 [
-    {
-        "message": "Looks like the Necronomicon isn't in the archives after all."
-    },
-    {
-        "message": "Other than that, if we're talking about rooms we should check out in the Archives......"
-    },
-    {
-        "message": "Dorothy isn't at the reception."
-    },
-    {
-        "message": "I don't know where you're loafing around, but is it really okay to leave the reception unattended for this long?"
-    },
-    {
-        "message": "資料館の前の受け付けには、ドロシーの姿がない。"
-    },
-    {
-        "message": "普段ならば職務怠慢だと叱りつけるところだが、今日は彼女がいない方が都合がいい。"
-    },
-    {
-        "message": "This is the front desk of the Archives."
-    },
-    {
-        "message": "The floor is made of marble, but it seems to be quite old and not well taken care of, so it's been a long time since it lost its characteristic shine."
-    },
-    {
-        "message": "The door in the back probably leads to what used to be inside the university."
-    },
-    {
-        "message": "I don't know how many collectibles there are, but it's highly unlikely that what's inside is better than how it looks."
-    },
-    {
-        "message": "At the back of the room, there's a door that leads to the library."
-    },
-    {
-        "message": "Ever since I snuck into the dean's office before, Dorothy hasn't even let me into the library, but now I can slip in quietly."
-    },
-    {
-        "message": "There's not a very high chance the Necronomicon is in the library, but I can't exactly not check."
-    },
-    {
-        "message": "For an archives in a lonely, rundown rural backwater, it's a pretty impressive building."
-    },
-    {
-        "message": "The only pity is that the villagers and officials don't seem all that eager to preserve this building."
-    },
-    {
-        "message": "It looks like an index card made to answer questions about book collections and various other collectibles."
-    },
-    {
-        "message": "But with absolutely no tourists visiting the village, and the villagers themselves being totally indifferent to their own village's history, I can't really say it's having much effect."
-    },
-    {
-        "message": "Neatly arranged index cards are set up across the entire wall. If this woman named Dorothy is managing all of them by herself, she must be pretty meticulous."
-    },
-    {
-        "message": "長いこと使い続けられたカウンターは、表面の光沢が失せて黒ずんで、全く無価値なガラクタになってしまっている。"
-    },
-    {
-        "message": "Back when this building was still a university, this was just a hall where students gathered, so it probably isn’t all that old."
-    },
-    {
-        "message": "She must have been treated really roughly for a long time."
-    },
-    {
-        "message": "Dorothy's nowhere to be seen."
-    },
-    {
-        "message": "Their meticulousness is so extreme that not even a trace is left to show they were ever there, which ironically backfires and makes it seem like they're always skipping out on work to goof off."
-    },
-    {
-        "message": "In reality, Dorothy is just a timid office lady, and the reason she's strict with rule breakers is because she doesn't want to get caught up in the fallout herself."
-    },
-    {
-        "message": "カウンターの上はきちんと整頓されて、ドロシーの個性を感じさせるような私物は一切無い。"
-    },
-    {
-        "message": "さして利用者がいる訳でもない資料館で、彼女はどうやって退屈な時間を潰しているのだろうか。"
-    },
-    {
-        "message": "　　　Archive　　　"
-    },
-    {
-        "message": "President's Office"
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "message": "Looks like the Necronomicon isn't in the archives after all."
+  },
+  {
+    "message": "Other than that, if we're talking about rooms we should check out in the Archives......"
+  },
+  {
+    "message": "Dorothy isn't at the reception."
+  },
+  {
+    "message": "I don't know where you're loafing around, but is it really okay to leave the reception unattended for this long?"
+  },
+  {
+    "message": "Dorothy isn't at the reception in front of the Archives."
+  },
+  {
+    "message": "Usually I'd scold her for being lazy, but today it's actually better that she's not here."
+  },
+  {
+    "message": "This is the front desk of the Archives."
+  },
+  {
+    "message": "The floor is made of marble, but it seems to be quite old and not well taken care of, so it's been a long time since it lost its characteristic shine."
+  },
+  {
+    "message": "The door in the back probably leads to what used to be inside the university."
+  },
+  {
+    "message": "I don't know how many collectibles there are, but it's highly unlikely that what's inside is better than how it looks."
+  },
+  {
+    "message": "At the back of the room, there's a door that leads to the library."
+  },
+  {
+    "message": "Ever since I snuck into the dean's office before, Dorothy hasn't even let me into the library, but now I can slip in quietly."
+  },
+  {
+    "message": "There's not a very high chance the Necronomicon is in the library, but I can't exactly not check."
+  },
+  {
+    "message": "For an archives in a lonely, rundown rural backwater, it's a pretty impressive building."
+  },
+  {
+    "message": "The only pity is that the villagers and officials don't seem all that eager to preserve this building."
+  },
+  {
+    "message": "It looks like an index card made to answer questions about book collections and various other collectibles."
+  },
+  {
+    "message": "But with absolutely no tourists visiting the village, and the villagers themselves being totally indifferent to their own village's history, I can't really say it's having much effect."
+  },
+  {
+    "message": "Neatly arranged index cards are set up across the entire wall. If this woman named Dorothy is managing all of them by herself, she must be pretty meticulous."
+  },
+  {
+    "message": "The counter that's been used for ages has lost its shine, gotten dark and dingy, and now it's basically just worthless junk."
+  },
+  {
+    "message": "Back when this building was still a university, this was just a hall where students gathered, so it probably isn’t all that old."
+  },
+  {
+    "message": "She must have been treated really roughly for a long time."
+  },
+  {
+    "message": "Dorothy's nowhere to be seen."
+  },
+  {
+    "message": "Their meticulousness is so extreme that not even a trace is left to show they were ever there, which ironically backfires and makes it seem like they're always skipping out on work to goof off."
+  },
+  {
+    "message": "In reality, Dorothy is just a timid office lady, and the reason she's strict with rule breakers is because she doesn't want to get caught up in the fallout herself."
+  },
+  {
+    "message": "The top of the counter is neatly arranged, and there's nothing on it that gives away any hint of Dorothy's personality."
+  },
+  {
+    "message": "In the Archives that hardly anyone uses, I wonder how she kills the boring hours."
+  },
+  {
+    "message": "　　　Archive　　　"
+  },
+  {
+    "message": "President's Office"
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

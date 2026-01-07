@@ -1,417 +1,417 @@
 [
-    {
-        "name": "Mrs. Hudson",
-        "message": "Welcome back."
-    },
-    {
-        "message": "　　　　　　　　　You look pretty tired, don't you？"
-    },
-    {
-        "message": "Mrs. Hudson is watching us with a worried expression."
-    },
-    {
-        "message": "Well, that's understandable, since we left without saying anything after breakfast and didn't come back until dinnertime."
-    },
-    {
-        "message": "Even the most tolerant lady would naturally want to complain at least a little."
-    },
-    {
-        "message": "Or maybe she's actually happy to have guests who don't cause any trouble？"
-    },
-    {
-        "message": "Looks like Cordelia is acting like she doesn't really want to see Mrs. Hudson."
-    },
-    {
-        "message": "Is it that woman's sharp intuition, and she's scared she'll figure out that Cordelia and I have that kind of relationship？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia, sorry to keep you waiting."
-    },
-    {
-        "message": "　　　　　　　　I'm　all　set　here,　so　let's　get　going　soon."
-    },
-    {
-        "name": "Gardner",
-        "message": "Miss, sorry for how I acted at the pub. Please don't be upset about it."
-    },
-    {
-        "name": "Cordelia",
-        "message": "No, I'm not bothered at all."
-    },
-    {
-        "message": "　　　　　　　　More importantly, I just hope I'm not bothering you by tagging along with you."
-    },
-    {
-        "name": "Thomas",
-        "message": "No way you're bothering me."
-    },
-    {
-        "message": "　　　　　　I'm always happy to have a beautiful woman accompany me."
-    },
-    {
-        "name": "Gardner",
-        "message": "Why don't you shut up！"
-    },
-    {
-        "message": "　　　　　　　　I've　heard　the　situation　from　Jonathan,　so　if　there's　anything　we　can　help　with,　that'd　be　good."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Hey, Jonathan. Are you really okay？"
-    },
-    {
-        "message": "　　　　　　　　You don't look so good."
-    },
-    {
-        "message": "My face when I looked in the mirror this morning to shave was terrible."
-    },
-    {
-        "message": "But the face I see in the mirror is always like that. I'm sure the real thing isn't that bad."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's okay, you don't have to worry."
-    },
-    {
-        "message": "I answered bluntly."
-    },
-    {
-        "message": "It's one thing when it's just the two of us, but I'd rather you not get all clingy in front of Mrs. Hudson or Gardner and the others."
-    },
-    {
-        "message": "Cordelia and I, after spending the night at Gilman House, visited the Fish Scale Inn the next morning."
-    },
-    {
-        "message": "Maybe it's because I had a bad dream last night, but I feel really awful."
-    },
-    {
-        "message": "Just thinking that I'll have to talk with nosy guys like Gardner and Thomas in this mood feels like a dark cloud hanging over my head."
-    },
-    {
-        "message": "Nothing seems out of the ordinary."
-    },
-    {
-        "message": "There's nothing different from before last night."
-    },
-    {
-        "message": "As usual, it's so dim and damp that I can't even tell if it's day or night."
-    },
-    {
-        "message": "When I first came here, it was so gloomy that I thought there was no way I could stand staying in a place like this, but now that I've gotten used to it, I can't help but feel a little creeped out by myself."
-    },
-    {
-        "message": "Always seems to be busy."
-    },
-    {
-        "message": "宿屋の女将とはそうしたものなのだろうが、夫人がゆっくりとくつろいだ気分になれるのは、客達が寝静まった後しかないのだろう。"
-    },
-    {
-        "message": "Maybe she was in the middle of making dinner, her hair-normally tied up nice and neat-was all messy, and sweat was glistening on her forehead."
-    },
-    {
-        "message": "When she looks at me or Gardner, there's this motherly tenderness in her eyes, but the moment her gaze lands on Thomas, her face instantly turns stern."
-    },
-    {
-        "message": "He seems to be feeling even more blatant hatred toward Thomas than yesterday. I wonder what happened."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "You're tired, aren't you？"
-    },
-    {
-        "message": "　　　　　　　　　Why don't you all rest in your rooms？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "You look awfully tired, don't you? Where did you go today?"
-    },
-    {
-        "name": "Gardner",
-        "message": "いや、若者は元気すぎて困りますよ。"
-    },
-    {
-        "message": "　　　　　　　　I got dragged all around the village."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "That was a real disaster, wasn't it."
-    },
-    {
-        "message": "　　　　　　　　　Mr. Swift, Gardner is elderly, so we have to be careful with him."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'm not joking."
-    },
-    {
-        "message": "　　　　　　　　This person was even more energetic than me, so I'm the one who got dragged around, you know."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Oh my......"
-    },
-    {
-        "message": "Looks like fish is the main dish again tonight."
-    },
-    {
-        "message": "Sure, madam's skills as a cook aren't bad, but with all this fish day after day, I have to say I'm getting a bit fed up."
-    },
-    {
-        "message": "Thanks to Mrs. Hudson's thorough cleaning, there's not a speck of dust."
-    },
-    {
-        "message": "Even though it’s this clean, if there aren’t any customers visiting, you’ve got to say all that effort just isn’t paying off."
-    },
-    {
-        "message": "When I first came here, I feel like I heard there aren't many overnight guests, but a lot of people come to eat. So why haven’t we seen a single guest during our stay?"
-    },
-    {
-        "message": "Maybe, knowing that Gardner and I are staying at the Fish Scale Inn, she's purposely avoiding us. If that's the case, we might be causing Mrs. Hudson a lot of trouble."
-    },
-    {
-        "message": "Unlike the stoic and androgynous bartender outfit, today's Cordelia's clothing seems to have been carefully chosen with the intention of fully bringing out her feminine charm."
-    },
-    {
-        "message": "It's not like it's your first time here, but you're looking around restlessly. Maybe you're regretting coming here with me."
-    },
-    {
-        "message": "控えめで他人のことをとやかく詮索する方ではないハドスン夫人なら、私たちが連れだって現れても問いただしたりはしないだろうが、やはり少しばかりばつが悪いのだろう。"
-    },
-    {
-        "message": "After all, Cordelia and I only met yesterday, and getting into that kind of relationship so quickly might've been way too immoral."
-    },
-    {
-        "message": "He's got a sleazy smirk on his lips."
-    },
-    {
-        "message": "I knew he was a hopeless womanizer, but I don't like that he's as interested in Cordelia as he is in any other woman."
-    },
-    {
-        "message": "He’s gazing at Cordelia with a much gentler-looking smile than the ones he shows me or Thomas, looking all smug."
-    },
-    {
-        "message": "If I'm the nephew, then Cordelia would be, at a guess, the granddaughter. It's not like she's causing any trouble or anything, so it's probably fine to just leave her be."
-    },
-    {
-        "name": "Thomas",
-        "message": "No way I'm sleeping alone in a cold bed in some boring-ass village like this."
-    },
-    {
-        "name": "Thomas",
-        "message": "That's not fair, Jonathan."
-    },
-    {
-        "message": "　　　　　　I had my eye on this girl first, you know..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Too bad for you."
-    },
-    {
-        "message": "　　　　　　　　Looks like you weren't Cordelia's type."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Hey... Jonathan！"
-    },
-    {
-        "name": "Thomas",
-        "message": "Showing off your love..."
-    },
-    {
-        "message": "　　　　　　I can't take this shit. I'm not like some dried-up old geezer, you know."
-    },
-    {
-        "name": "Gardner",
-        "message": "Today was pretty busy."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah. You're probably pretty tired, huh？"
-    },
-    {
-        "name": "Gardner",
-        "message": "Ah......"
-    },
-    {
-        "name": "Gardner",
-        "message": "Looks like I'll be able to get a good night's sleep tonight."
-    },
-    {
-        "name": "Gardner",
-        "message": "I guess it's no wonder old Marsh is interested in the case."
-    },
-    {
-        "name": "Gardner",
-        "message": "It's true that the incident Dollie caused can definitely be called strange‥‥‥"
-    },
-    {
-        "name": "Gardner",
-        "message": "I‥‥‥‥‥‥"
-    },
-    {
-        "message": "　　　　　　　　I don't want to believe what old Marsh said is true."
-    },
-    {
-        "name": "Gardner",
-        "message": "I can't believe those ruins were fakes."
-    },
-    {
-        "message": "Gardner looks pretty down."
-    },
-    {
-        "message": "Well, I guess that's no surprise either......"
-    },
-    {
-        "name": "Gardner",
-        "message": "First, you should go check out the house of that old man named Marsh."
-    },
-    {
-        "name": "Gardner",
-        "message": "For now, it’s probably best to try visiting the old man named Marsh. Even if we go to the Archives right away, I've got no clue what we're supposed to look into."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Marsh's house is on the edge of the port."
-    },
-    {
-        "message": "　　　　　　　　At　this　time,　I　think　they're　probably　at　home."
-    },
-    {
-        "name": "Jonathan",
-        "message": "They say he's pretty much a recluse, but I wonder how he makes a living."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I don't really know either."
-    },
-    {
-        "message": "　　　　　　　　It's just that, an old friend left me enough of a fortune to live off for the rest of my life or something......"
-    },
-    {
-        "name": "Gardner",
-        "message": "You can save unnecessary snooping for later."
-    },
-    {
-        "message": "　　　　　　　　First, meeting that old man should be the top priority."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I just can't believe Marsh would know anything that could be useful to the professors."
-    },
-    {
-        "name": "Gardner",
-        "message": "We can't really say anything until we ask the old man directly.　　　　　　　　But I do think it's a bit more useful than just asking some random villager."
-    },
-    {
-        "name": "Jonathan",
-        "message": "私たちと関わっている事が大っぴらになって、君が"
-    },
-    {
-        "message": "　　　　　　　　I hope this doesn't turn into trouble......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I think that's probably fine, but up until now, no one's ever really thought about, you know, trying to look into anything　　　　　　　　　about the Ruins."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Do you really think you'll figure anything out？"
-    },
-    {
-        "name": "Gardner",
-        "message": "お嬢さん、世の中に解明出来ない謎など存在せんよ。　　　　　　　　根気よく絡んだ糸を解きほぐしていけば、いつか真実　　　　　　　　に突き当たるものさ。"
-    },
-    {
-        "name": "Thomas",
-        "message": "I hope so."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I'll be waiting here, so hurry up, okay?"
-    },
-    {
-        "message": "　　　　　　　　If I ran into Hudson-san, I wouldn't even know what to say."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Looks like nobody's here."
-    },
-    {
-        "message": "　　　　　　　　Maybe　it's　still　too　early,　isn't　everyone　still　sleeping？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "That can't be true."
-    },
-    {
-        "message": "　　　　　　　　At the very least, Gardner should be awake.　　　　　　　　Old men are early risers, after all."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You're terrible, you know. Saying it like that will hurt my feelings."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Of course I wouldn’t say something like that in front of him."
-    },
-    {
-        "message": "　　　　　　　　When I look at that person, it reminds me of my college professor, and I end up getting a bit mean."
-    },
-    {
-        "message": "Cordelia shrugged her shoulders with a look that could be taken as either agreement or criticism."
-    },
-    {
-        "message": "As usual, she's nervously glancing around. Looks like she's anxious about when the lady will show up."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Oh, I smell food."
-    },
-    {
-        "message": "　　　　　　　　Looks like Hudson is actually doing their job."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I bet everyone's gathered in the cafeteria."
-    },
-    {
-        "message": "　　　　　　　　I'm gonna go out for a bit, so wait here for me."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Hey, Jonathan‥‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "What's up？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "So... how are you planning to explain us?　　　　　　　You're not actually gonna tell the truth, right?"
-    },
-    {
-        "message": "Cordelia says that with her cheeks blushing, looking a little embarrassed and glancing downward. Even though she said last night that she doesn't care about other people's scandals, it seems like she does have some sense of shame."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah... How should I even explain this."
-    },
-    {
-        "message": "　　　　　　　　Well, whatever, I'll try to talk my way out of it."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Yeah..."
-    },
-    {
-        "message": "My room"
-    },
-    {
-        "message": "　　Go outside　　"
-    },
-    {
-        "message": "　　　Cafeteria　　　"
-    }
+  {
+    "name": "Mrs. Hudson",
+    "message": "Welcome back."
+  },
+  {
+    "message": "　　　　　　　　　You look pretty tired, don't you？"
+  },
+  {
+    "message": "Mrs. Hudson is watching us with a worried expression."
+  },
+  {
+    "message": "Well, that's understandable, since we left without saying anything after breakfast and didn't come back until dinnertime."
+  },
+  {
+    "message": "Even the most tolerant lady would naturally want to complain at least a little."
+  },
+  {
+    "message": "Or maybe she's actually happy to have guests who don't cause any trouble？"
+  },
+  {
+    "message": "Looks like Cordelia is acting like she doesn't really want to see Mrs. Hudson."
+  },
+  {
+    "message": "Is it that woman's sharp intuition, and she's scared she'll figure out that Cordelia and I have that kind of relationship？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia, sorry to keep you waiting."
+  },
+  {
+    "message": "　　　　　　　　I'm　all　set　here,　so　let's　get　going　soon."
+  },
+  {
+    "name": "Gardner",
+    "message": "Miss, sorry for how I acted at the pub. Please don't be upset about it."
+  },
+  {
+    "name": "Cordelia",
+    "message": "No, I'm not bothered at all."
+  },
+  {
+    "message": "　　　　　　　　More importantly, I just hope I'm not bothering you by tagging along with you."
+  },
+  {
+    "name": "Thomas",
+    "message": "No way you're bothering me."
+  },
+  {
+    "message": "　　　　　　I'm always happy to have a beautiful woman accompany me."
+  },
+  {
+    "name": "Gardner",
+    "message": "Why don't you shut up！"
+  },
+  {
+    "message": "　　　　　　　　I've　heard　the　situation　from　Jonathan,　so　if　there's　anything　we　can　help　with,　that'd　be　good."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Hey, Jonathan. Are you really okay？"
+  },
+  {
+    "message": "　　　　　　　　You don't look so good."
+  },
+  {
+    "message": "My face when I looked in the mirror this morning to shave was terrible."
+  },
+  {
+    "message": "But the face I see in the mirror is always like that. I'm sure the real thing isn't that bad."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's okay, you don't have to worry."
+  },
+  {
+    "message": "I answered bluntly."
+  },
+  {
+    "message": "It's one thing when it's just the two of us, but I'd rather you not get all clingy in front of Mrs. Hudson or Gardner and the others."
+  },
+  {
+    "message": "Cordelia and I, after spending the night at Gilman House, visited the Fish Scale Inn the next morning."
+  },
+  {
+    "message": "Maybe it's because I had a bad dream last night, but I feel really awful."
+  },
+  {
+    "message": "Just thinking that I'll have to talk with nosy guys like Gardner and Thomas in this mood feels like a dark cloud hanging over my head."
+  },
+  {
+    "message": "Nothing seems out of the ordinary."
+  },
+  {
+    "message": "There's nothing different from before last night."
+  },
+  {
+    "message": "As usual, it's so dim and damp that I can't even tell if it's day or night."
+  },
+  {
+    "message": "When I first came here, it was so gloomy that I thought there was no way I could stand staying in a place like this, but now that I've gotten used to it, I can't help but feel a little creeped out by myself."
+  },
+  {
+    "message": "Always seems to be busy."
+  },
+  {
+    "message": "That’s just how innkeepers are, but maybe the only time the lady can really relax is after the guests have all gone to sleep."
+  },
+  {
+    "message": "Maybe she was in the middle of making dinner, her hair-normally tied up nice and neat-was all messy, and sweat was glistening on her forehead."
+  },
+  {
+    "message": "When she looks at me or Gardner, there's this motherly tenderness in her eyes, but the moment her gaze lands on Thomas, her face instantly turns stern."
+  },
+  {
+    "message": "He seems to be feeling even more blatant hatred toward Thomas than yesterday. I wonder what happened."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "You're tired, aren't you？"
+  },
+  {
+    "message": "　　　　　　　　　Why don't you all rest in your rooms？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "You look awfully tired, don't you? Where did you go today?"
+  },
+  {
+    "name": "Gardner",
+    "message": "Nah, youngsters have way too much energy, it’s a problem, honestly."
+  },
+  {
+    "message": "　　　　　　　　I got dragged all around the village."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "That was a real disaster, wasn't it."
+  },
+  {
+    "message": "　　　　　　　　　Mr. Swift, Gardner is elderly, so we have to be careful with him."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'm not joking."
+  },
+  {
+    "message": "　　　　　　　　This person was even more energetic than me, so I'm the one who got dragged around, you know."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Oh my......"
+  },
+  {
+    "message": "Looks like fish is the main dish again tonight."
+  },
+  {
+    "message": "Sure, madam's skills as a cook aren't bad, but with all this fish day after day, I have to say I'm getting a bit fed up."
+  },
+  {
+    "message": "Thanks to Mrs. Hudson's thorough cleaning, there's not a speck of dust."
+  },
+  {
+    "message": "Even though it’s this clean, if there aren’t any customers visiting, you’ve got to say all that effort just isn’t paying off."
+  },
+  {
+    "message": "When I first came here, I feel like I heard there aren't many overnight guests, but a lot of people come to eat. So why haven’t we seen a single guest during our stay?"
+  },
+  {
+    "message": "Maybe, knowing that Gardner and I are staying at the Fish Scale Inn, she's purposely avoiding us. If that's the case, we might be causing Mrs. Hudson a lot of trouble."
+  },
+  {
+    "message": "Unlike the stoic and androgynous bartender outfit, today's Cordelia's clothing seems to have been carefully chosen with the intention of fully bringing out her feminine charm."
+  },
+  {
+    "message": "It's not like it's your first time here, but you're looking around restlessly. Maybe you're regretting coming here with me."
+  },
+  {
+    "message": "Mrs. Hudson’s not the type to pry or gossip, so she probably won’t question us even if we show up together-but still, it does feel a little awkward."
+  },
+  {
+    "message": "After all, Cordelia and I only met yesterday, and getting into that kind of relationship so quickly might've been way too immoral."
+  },
+  {
+    "message": "He's got a sleazy smirk on his lips."
+  },
+  {
+    "message": "I knew he was a hopeless womanizer, but I don't like that he's as interested in Cordelia as he is in any other woman."
+  },
+  {
+    "message": "He’s gazing at Cordelia with a much gentler-looking smile than the ones he shows me or Thomas, looking all smug."
+  },
+  {
+    "message": "If I'm the nephew, then Cordelia would be, at a guess, the granddaughter. It's not like she's causing any trouble or anything, so it's probably fine to just leave her be."
+  },
+  {
+    "name": "Thomas",
+    "message": "No way I'm sleeping alone in a cold bed in some boring-ass village like this."
+  },
+  {
+    "name": "Thomas",
+    "message": "That's not fair, Jonathan."
+  },
+  {
+    "message": "　　　　　　I had my eye on this girl first, you know..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Too bad for you."
+  },
+  {
+    "message": "　　　　　　　　Looks like you weren't Cordelia's type."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Hey... Jonathan！"
+  },
+  {
+    "name": "Thomas",
+    "message": "Showing off your love..."
+  },
+  {
+    "message": "　　　　　　I can't take this shit. I'm not like some dried-up old geezer, you know."
+  },
+  {
+    "name": "Gardner",
+    "message": "Today was pretty busy."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah. You're probably pretty tired, huh？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Ah......"
+  },
+  {
+    "name": "Gardner",
+    "message": "Looks like I'll be able to get a good night's sleep tonight."
+  },
+  {
+    "name": "Gardner",
+    "message": "I guess it's no wonder old Marsh is interested in the case."
+  },
+  {
+    "name": "Gardner",
+    "message": "It's true that the incident Dollie caused can definitely be called strange‥‥‥"
+  },
+  {
+    "name": "Gardner",
+    "message": "I‥‥‥‥‥‥"
+  },
+  {
+    "message": "　　　　　　　　I don't want to believe what old Marsh said is true."
+  },
+  {
+    "name": "Gardner",
+    "message": "I can't believe those ruins were fakes."
+  },
+  {
+    "message": "Gardner looks pretty down."
+  },
+  {
+    "message": "Well, I guess that's no surprise either......"
+  },
+  {
+    "name": "Gardner",
+    "message": "First, you should go check out the house of that old man named Marsh."
+  },
+  {
+    "name": "Gardner",
+    "message": "For now, it’s probably best to try visiting the old man named Marsh. Even if we go to the Archives right away, I've got no clue what we're supposed to look into."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Marsh's house is on the edge of the port."
+  },
+  {
+    "message": "　　　　　　　　At　this　time,　I　think　they're　probably　at　home."
+  },
+  {
+    "name": "Jonathan",
+    "message": "They say he's pretty much a recluse, but I wonder how he makes a living."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I don't really know either."
+  },
+  {
+    "message": "　　　　　　　　It's just that, an old friend left me enough of a fortune to live off for the rest of my life or something......"
+  },
+  {
+    "name": "Gardner",
+    "message": "You can save unnecessary snooping for later."
+  },
+  {
+    "message": "　　　　　　　　First, meeting that old man should be the top priority."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I just can't believe Marsh would know anything that could be useful to the professors."
+  },
+  {
+    "name": "Gardner",
+    "message": "We can't really say anything until we ask the old man directly.　　　　　　　　But I do think it's a bit more useful than just asking some random villager."
+  },
+  {
+    "name": "Jonathan",
+    "message": "If it becomes known that you’re involved with us,"
+  },
+  {
+    "message": "　　　　　　　　I hope this doesn't turn into trouble......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I think that's probably fine, but up until now, no one's ever really thought about, you know, trying to look into anything　　　　　　　　　about the Ruins."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Do you really think you'll figure anything out？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Miss, there’s no such thing as an unsolvable mystery in this world. If you patiently unravel the tangled threads, sooner or later, you'll hit upon the truth."
+  },
+  {
+    "name": "Thomas",
+    "message": "I hope so."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I'll be waiting here, so hurry up, okay?"
+  },
+  {
+    "message": "　　　　　　　　If I ran into Hudson-san, I wouldn't even know what to say."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Looks like nobody's here."
+  },
+  {
+    "message": "　　　　　　　　Maybe　it's　still　too　early,　isn't　everyone　still　sleeping？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "That can't be true."
+  },
+  {
+    "message": "　　　　　　　　At the very least, Gardner should be awake.　　　　　　　　Old men are early risers, after all."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You're terrible, you know. Saying it like that will hurt my feelings."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Of course I wouldn’t say something like that in front of him."
+  },
+  {
+    "message": "　　　　　　　　When I look at that person, it reminds me of my college professor, and I end up getting a bit mean."
+  },
+  {
+    "message": "Cordelia shrugged her shoulders with a look that could be taken as either agreement or criticism."
+  },
+  {
+    "message": "As usual, she's nervously glancing around. Looks like she's anxious about when the lady will show up."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Oh, I smell food."
+  },
+  {
+    "message": "　　　　　　　　Looks like Hudson is actually doing their job."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I bet everyone's gathered in the cafeteria."
+  },
+  {
+    "message": "　　　　　　　　I'm gonna go out for a bit, so wait here for me."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Hey, Jonathan‥‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "What's up？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "So... how are you planning to explain us?　　　　　　　You're not actually gonna tell the truth, right?"
+  },
+  {
+    "message": "Cordelia says that with her cheeks blushing, looking a little embarrassed and glancing downward. Even though she said last night that she doesn't care about other people's scandals, it seems like she does have some sense of shame."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah... How should I even explain this."
+  },
+  {
+    "message": "　　　　　　　　Well, whatever, I'll try to talk my way out of it."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Yeah..."
+  },
+  {
+    "message": "My room"
+  },
+  {
+    "message": "　　Go outside　　"
+  },
+  {
+    "message": "　　　Cafeteria　　　"
+  }
 ]

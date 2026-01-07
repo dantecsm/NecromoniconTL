@@ -1,348 +1,348 @@
 [
-    {
-        "message": "I'm in front of the general store."
-    },
-    {
-        "message": "There's nothing particularly unusual, but......"
-    },
-    {
-        "message": "Came back in front of the general store."
-    },
-    {
-        "message": "Cordelia doesn't really seem like she wants to stay here long..."
-    },
-    {
-        "message": "I'm in front of the general store."
-    },
-    {
-        "message": "Looks like the shop is open, but as usual, there aren't any villagers who look like customers around the place."
-    },
-    {
-        "name": "Cordelia",
-        "message": "あら、『ハンスの店』に何か用なの？"
-    },
-    {
-        "message": "　　　　　　　　If you need something, I could get it for you."
-    },
-    {
-        "name": "Cordelia",
-        "message": "The stuff here isn't really that great."
-    },
-    {
-        "message": "　　　　　　　　If you don't really need anything right now, you better just leave it alone."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I... don't really want to see Hans..."
-    },
-    {
-        "message": "　　　　　　　　After being told something like that, what kind of face am I supposed to make?"
-    },
-    {
-        "message": "コーデリアは雑貨店の店主、ハンスがコーデリアに不謹慎な妄想を抱いていた事を気にしているらしい。"
-    },
-    {
-        "message": "If you're not doing it, I don't see any point in staying here."
-    },
-    {
-        "message": "Let's come back and try again tomorrow morning."
-    },
-    {
-        "message": "If the shop owner is a nice guy, he might tell you stuff that villagers won't talk about."
-    },
-    {
-        "message": "It's the only general store in Arkham. Seems to have everything from sundries to groceries, but it looks like it's closed right now. You'll have to wait until tomorrow morning to shop."
-    },
-    {
-        "message": "That said, I don't think there's anything I particularly need, though？"
-    },
-    {
-        "message": "Tiny grains of sand carried by the wind have piled up, forming small hills."
-    },
-    {
-        "message": "Even this former Main Street looks like it'll be completely buried in sand and disappear without a trace in the not-too-distant future."
-    },
-    {
-        "message": "Even though this area has pretty much turned into a bunch of abandoned buildings, there are still remnants of houses and shops around, so the wind doesn’t seem quite as strong here."
-    },
-    {
-        "message": "Even so, fine grains of sand that couldn't be completely cleared away have piled up along the roadside. Maybe one reason is that Hans, the shop owner, isn't all that passionate about keeping the store running, but at this rate, won't the whole place end up buried in sand eventually?"
-    },
-    {
-        "message": "There's no sign of anyone inside though......"
-    },
-    {
-        "message": "Since the suspension bridge is in that state, the shopkeeper will probably have to stay somewhere in the village too."
-    },
-    {
-        "message": "Since business hours are already over, the door is firmly shut."
-    },
-    {
-        "message": "But since it's not exactly a sturdy wooden door, it wouldn't be hard to sneak in if someone wanted to."
-    },
-    {
-        "message": "これぐらいの貧相な扉なら、私の力でも十分ぶち破る事が可能だ。"
-    },
-    {
-        "message": "If you really have to do it, I guess it's okay to give it a try."
-    },
-    {
-        "message": "It doesn't feel like there are any customers in the shop, but it looks like they're open for business."
-    },
-    {
-        "message": "I don't think there's anything to gain from meeting Hans at this point though......"
-    },
-    {
-        "message": "There's no sign of anyone inside, but it looks like they're open for business."
-    },
-    {
-        "message": "Even if the shopkeeper Hans wasn't at the store, he probably wouldn't be careful enough to lock the door."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Are you really going in？"
-    },
-    {
-        "message": "　　　　　　　　I’m really not feeling up to this..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why not？"
-    },
-    {
-        "message": "　　　　　　　　この村で客商売をしている店は、魚鱗亭と君のパブと　　　　　　　　この雑貨店だけだろう。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Aren't you all working together so you don't step into each other's business territory？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Yeah, that's true, but......"
-    },
-    {
-        "message": "　　　　　　　　I just don't really like Hans that much."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why not？"
-    },
-    {
-        "message": "　　　　　　　　Compared to the other villagers, he's a lot more friendly."
-    },
-    {
-        "name": "Cordelia",
-        "message": "That guy, he just gives off kind of a weird vibe."
-    },
-    {
-        "message": "　　　　　　　　Who even knows why he drifted into this village, you know."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Are you still bothered by that？"
-    },
-    {
-        "message": "　　　　　　　　I don't think it's something you need to take so seriously..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "But..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Thinking that a guy saw me that way... there's no way I can keep a straight face."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Any regular guy would feel that way after seeing a girl like you-it’s only natural."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's just that Hans is a little more honest than the other guys."
-    },
-    {
-        "message": "　　　　　　　　If anything, I think that's a good thing, you know？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "So, you two are thinking about that stuff too？"
-    },
-    {
-        "message": "There doesn't seem to be anything particularly interesting on display."
-    },
-    {
-        "message": "With this, nobody would go so far as to break the glass just to steal something."
-    },
-    {
-        "message": "Old-fashioned, worthless goods that you hardly ever see these days are displayed carelessly."
-    },
-    {
-        "message": "Like this, it's hard to stir up anyone's urge to buy, not just mine or the villagers'."
-    },
-    {
-        "message": "Doesn't really seem like they're that into running the shop, either."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Let's hurry up and go, okay？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "わたし、あんまり店の中に入りたくないな‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "But if it’s Hans, he might know why you were brought to Arkham."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Is that so......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Being the owner of a general store, I probably get to talk with the villagers a lot."
-    },
-    {
-        "name": "Jonathan",
-        "message": "There are people who just let things slip, you know."
-    },
-    {
-        "message": "　　　　　　　　And besides, I don't really think the stuff about your past is something that needs to be kept such a big secret."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Yeah.........."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Why do you think that？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "You said that before, didn't you?"
-    },
-    {
-        "message": "　　　　　　　　\"Tried sneaking into the Gilman House over and over,\" huh."
-    },
-    {
-        "name": "Jonathan",
-        "message": "He also said the reason he didn't do that was because the villagers cared about you a lot."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So, does that have something to do with why I was brought to Arkham......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "アーカムの村人がそんなに優しい人だとは思えない。　　　　　　　　目的もなく君をかばい続ける訳ないだろう。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Hans doesn’t seem like a bad person at first glance, but sometimes he makes a really scary face."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Scary? Like, how?"
-    },
-    {
-        "message": "　　　　　　　　Like a dad scolding his kid, huh?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Do I really look that much like a kid？"
-    },
-    {
-        "message": "　　　　　　　　That's not it, it's more like a chill running down my spine......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "なんて言ったらいいのかよく解らないけど、冷酷って　　　　　　　　いうのかな、とにかく恐いのよ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Surely, if they've ended up in such a remote village as this, they must have a fitting past..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "He's really nice to me, but I just can't really like him that much."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Do you remember what Hans said the other day？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Ah, something like, 'Trying to shove me into Gilman House over and over...'　　　　　　　I think that's what was being said."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I guess that means he had feelings for you, right？"
-    },
-    {
-        "message": "　　　　　　　　Not　exactly　the　kindest　way　to　put　it,　though."
-    },
-    {
-        "name": "Cordelia",
-        "message": "No, that's not it-I was saying that everyone in the village cherishes me, remember？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "それがどうかしたのかい？"
-    },
-    {
-        "message": "　　　　　　　　Doesn't it mean that the villagers were protecting the girl who lost her foster parents?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "本当にそうなのかしら。"
-    },
-    {
-        "message": "　　　　　　　　それって、わたしがアーカムに連れて来られた事と関　　　　　　　　係があるんじゃないかしら？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "You look pale, are you okay？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Yeah, I'm fine now."
-    },
-    {
-        "message": "　　　　　　　　I was kind of shocked..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "If it's too much for you, it's okay to go back to Gilman House ahead of us, you know."
-    },
-    {
-        "name": "Cordelia",
-        "message": "No way... I don't wanna be alone."
-    },
-    {
-        "message": "　　　　　　　　The person who did that to Marsh is still wandering around the village, you know？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Unless we tell someone, it’ll be a long time before Marsh’s corpse is found."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So, Marsh will never even get a proper farewell, just stuck like that forever......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's sad, but it can't be helped."
-    },
-    {
-        "message": "　　　　　　　　If we report Marsh, we'll be the first ones they suspect."
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    },
-    {
-        "message": "　　　Map　　　"
-    }
+  {
+    "message": "I'm in front of the general store."
+  },
+  {
+    "message": "There's nothing particularly unusual, but......"
+  },
+  {
+    "message": "Came back in front of the general store."
+  },
+  {
+    "message": "Cordelia doesn't really seem like she wants to stay here long..."
+  },
+  {
+    "message": "I'm in front of the general store."
+  },
+  {
+    "message": "Looks like the shop is open, but as usual, there aren't any villagers who look like customers around the place."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Oh, do you need something at 'Hans's shop'？"
+  },
+  {
+    "message": "　　　　　　　　If you need something, I could get it for you."
+  },
+  {
+    "name": "Cordelia",
+    "message": "The stuff here isn't really that great."
+  },
+  {
+    "message": "　　　　　　　　If you don't really need anything right now, you better just leave it alone."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I... don't really want to see Hans..."
+  },
+  {
+    "message": "　　　　　　　　After being told something like that, what kind of face am I supposed to make?"
+  },
+  {
+    "message": "Cordelia seems to be bothered by the fact that Hans, the owner of the general store, used to have indecent fantasies about her."
+  },
+  {
+    "message": "If you're not doing it, I don't see any point in staying here."
+  },
+  {
+    "message": "Let's come back and try again tomorrow morning."
+  },
+  {
+    "message": "If the shop owner is a nice guy, he might tell you stuff that villagers won't talk about."
+  },
+  {
+    "message": "It's the only general store in Arkham. Seems to have everything from sundries to groceries, but it looks like it's closed right now. You'll have to wait until tomorrow morning to shop."
+  },
+  {
+    "message": "That said, I don't think there's anything I particularly need, though？"
+  },
+  {
+    "message": "Tiny grains of sand carried by the wind have piled up, forming small hills."
+  },
+  {
+    "message": "Even this former Main Street looks like it'll be completely buried in sand and disappear without a trace in the not-too-distant future."
+  },
+  {
+    "message": "Even though this area has pretty much turned into a bunch of abandoned buildings, there are still remnants of houses and shops around, so the wind doesn’t seem quite as strong here."
+  },
+  {
+    "message": "Even so, fine grains of sand that couldn't be completely cleared away have piled up along the roadside. Maybe one reason is that Hans, the shop owner, isn't all that passionate about keeping the store running, but at this rate, won't the whole place end up buried in sand eventually?"
+  },
+  {
+    "message": "There's no sign of anyone inside though......"
+  },
+  {
+    "message": "Since the suspension bridge is in that state, the shopkeeper will probably have to stay somewhere in the village too."
+  },
+  {
+    "message": "Since business hours are already over, the door is firmly shut."
+  },
+  {
+    "message": "But since it's not exactly a sturdy wooden door, it wouldn't be hard to sneak in if someone wanted to."
+  },
+  {
+    "message": "If it's a shabby door like this, even I could easily break it down."
+  },
+  {
+    "message": "If you really have to do it, I guess it's okay to give it a try."
+  },
+  {
+    "message": "It doesn't feel like there are any customers in the shop, but it looks like they're open for business."
+  },
+  {
+    "message": "I don't think there's anything to gain from meeting Hans at this point though......"
+  },
+  {
+    "message": "There's no sign of anyone inside, but it looks like they're open for business."
+  },
+  {
+    "message": "Even if the shopkeeper Hans wasn't at the store, he probably wouldn't be careful enough to lock the door."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Are you really going in？"
+  },
+  {
+    "message": "　　　　　　　　I’m really not feeling up to this..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why not？"
+  },
+  {
+    "message": "　　　　　　　　The only shops doing business with customers in this village are the Fish Scale Inn, your pub, and this general store, right?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Aren't you all working together so you don't step into each other's business territory？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Yeah, that's true, but......"
+  },
+  {
+    "message": "　　　　　　　　I just don't really like Hans that much."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why not？"
+  },
+  {
+    "message": "　　　　　　　　Compared to the other villagers, he's a lot more friendly."
+  },
+  {
+    "name": "Cordelia",
+    "message": "That guy, he just gives off kind of a weird vibe."
+  },
+  {
+    "message": "　　　　　　　　Who even knows why he drifted into this village, you know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Are you still bothered by that？"
+  },
+  {
+    "message": "　　　　　　　　I don't think it's something you need to take so seriously..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "But..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Thinking that a guy saw me that way... there's no way I can keep a straight face."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Any regular guy would feel that way after seeing a girl like you-it’s only natural."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's just that Hans is a little more honest than the other guys."
+  },
+  {
+    "message": "　　　　　　　　If anything, I think that's a good thing, you know？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "So, you two are thinking about that stuff too？"
+  },
+  {
+    "message": "There doesn't seem to be anything particularly interesting on display."
+  },
+  {
+    "message": "With this, nobody would go so far as to break the glass just to steal something."
+  },
+  {
+    "message": "Old-fashioned, worthless goods that you hardly ever see these days are displayed carelessly."
+  },
+  {
+    "message": "Like this, it's hard to stir up anyone's urge to buy, not just mine or the villagers'."
+  },
+  {
+    "message": "Doesn't really seem like they're that into running the shop, either."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Let's hurry up and go, okay？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I really don't want to go inside the shop..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "But if it’s Hans, he might know why you were brought to Arkham."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Is that so......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Being the owner of a general store, I probably get to talk with the villagers a lot."
+  },
+  {
+    "name": "Jonathan",
+    "message": "There are people who just let things slip, you know."
+  },
+  {
+    "message": "　　　　　　　　And besides, I don't really think the stuff about your past is something that needs to be kept such a big secret."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Yeah.........."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Why do you think that？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "You said that before, didn't you?"
+  },
+  {
+    "message": "　　　　　　　　\"Tried sneaking into the Gilman House over and over,\" huh."
+  },
+  {
+    "name": "Jonathan",
+    "message": "He also said the reason he didn't do that was because the villagers cared about you a lot."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So, does that have something to do with why I was brought to Arkham......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I can't imagine the villagers of Arkham are that nice. They're not going to keep protecting you for no reason."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Hans doesn’t seem like a bad person at first glance, but sometimes he makes a really scary face."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Scary? Like, how?"
+  },
+  {
+    "message": "　　　　　　　　Like a dad scolding his kid, huh?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Do I really look that much like a kid？"
+  },
+  {
+    "message": "　　　　　　　　That's not it, it's more like a chill running down my spine......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I'm not really sure how to say it, maybe 'coldhearted' is the word, anyway, they're just scary."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Surely, if they've ended up in such a remote village as this, they must have a fitting past..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "He's really nice to me, but I just can't really like him that much."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Do you remember what Hans said the other day？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Ah, something like, 'Trying to shove me into Gilman House over and over...'　　　　　　　I think that's what was being said."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I guess that means he had feelings for you, right？"
+  },
+  {
+    "message": "　　　　　　　　Not　exactly　the　kindest　way　to　put　it,　though."
+  },
+  {
+    "name": "Cordelia",
+    "message": "No, that's not it-I was saying that everyone in the village cherishes me, remember？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "So, what's the problem with that？"
+  },
+  {
+    "message": "　　　　　　　　Doesn't it mean that the villagers were protecting the girl who lost her foster parents?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I wonder if that's really true."
+  },
+  {
+    "message": "　　　　　　　　Could it be that it's related to me being brought to Arkham？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "You look pale, are you okay？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Yeah, I'm fine now."
+  },
+  {
+    "message": "　　　　　　　　I was kind of shocked..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "If it's too much for you, it's okay to go back to Gilman House ahead of us, you know."
+  },
+  {
+    "name": "Cordelia",
+    "message": "No way... I don't wanna be alone."
+  },
+  {
+    "message": "　　　　　　　　The person who did that to Marsh is still wandering around the village, you know？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Unless we tell someone, it’ll be a long time before Marsh’s corpse is found."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So, Marsh will never even get a proper farewell, just stuck like that forever......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's sad, but it can't be helped."
+  },
+  {
+    "message": "　　　　　　　　If we report Marsh, we'll be the first ones they suspect."
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  },
+  {
+    "message": "　　　Map　　　"
+  }
 ]

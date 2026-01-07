@@ -1,335 +1,335 @@
 [
-    {
-        "message": "Cordelia wasn't at the Gilman House."
-    },
-    {
-        "message": "I wonder where they went off to at this hour of the night."
-    },
-    {
-        "message": "Around Gilman House, there aren't any houses with lights on or people walking on the streets."
-    },
-    {
-        "message": "What's up with Cordelia, who should be waiting for me, not even turning on the lights in the bar? Sure, I didn't exactly get an invitation from her tonight, but still, this is pretty cold."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Sorry I'm late."
-    },
-    {
-        "message": "Cordelia, who had changed from her bartender outfit into her casual clothes, came out from the shop."
-    },
-    {
-        "message": "Looks like she cleaned up the Glasses we drank from, and the sleeves of her clothes are a little wet."
-    },
-    {
-        "message": "It's probably not good to keep holding her up like this."
-    },
-    {
-        "message": "If we don't let her get back to the shop soon, Gilman House's business might be in trouble."
-    },
-    {
-        "message": "We're in front of Gilman House."
-    },
-    {
-        "message": "Of course the shop's closed, but wanna take a break here for a bit?"
-    },
-    {
-        "message": "Before the villagers forget about the Gilman House, let's have Cordelia open up the shop."
-    },
-    {
-        "message": "There's still nobody around on the lonely backstreet."
-    },
-    {
-        "message": "It was even worse now that the only lively place around here, the Gilman House, was closed."
-    },
-    {
-        "message": "If we don't get Cordelia to open her shop before the villagers start complaining, it's obvious the already-hostile villagers will just see us as even more of an enemy."
-    },
-    {
-        "message": "Not that they probably had the luxury, but the outside of the shop hasn't seen repairs in ages."
-    },
-    {
-        "message": "If they plan on keeping the business running for a while yet, they'd better arrange for repairs soon."
-    },
-    {
-        "message": "It's an old brick pub."
-    },
-    {
-        "message": "It looks a lot like the kind of pub you often find along highways heading out from London, serving beer and light meals, nothing you'd call fancy."
-    },
-    {
-        "message": "It's got a storefront that's unusually decent for Arkham, but judging by what happened the other day, the clientele isn't all that great."
-    },
-    {
-        "message": "Cordelia really managed to run the shop all by herself until now."
-    },
-    {
-        "message": "Or maybe the villagers are just more tolerant of young girls."
-    },
-    {
-        "message": "The shop’s name is written in plain Gothic letters."
-    },
-    {
-        "message": "Judging by how the paint is peeling off from the rust, it’s probably been left unattended for over ten years."
-    },
-    {
-        "message": "Most likely, it was Cordelia’s foster father who wrote it-the name of the Pub scrawled in rugged letters."
-    },
-    {
-        "message": "There must have been pubs other than Gilman House on this street in the past."
-    },
-    {
-        "message": "With such a low-key storefront, it's still a mystery how many customers they actually managed to attract."
-    },
-    {
-        "message": "It's pretty clear that the reason Gilman House survived in Arkham wasn't because it was popular, but just because it happened to have a successor by sheer luck."
-    },
-    {
-        "message": "Looks like the entrance door is still unlocked."
-    },
-    {
-        "message": "After seeing something like that in broad daylight, it’s a pretty reckless and stupid thing to do, but at least I don’t have to worry about being left waiting in front of a cold shop."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You don't have to look so resentful, I'll open it for you."
-    },
-    {
-        "message": "I don't think it's all that reliable, but at least it's locked for now."
-    },
-    {
-        "message": "It's not like there's anything valuable in the bar, but the villagers here wouldn't bat an eye at killing someone for just a single pint of booze."
-    },
-    {
-        "message": "Cordelia could pay more attention to the store's security."
-    },
-    {
-        "message": "He doesn’t seem to care about that at all........."
-    },
-    {
-        "name": "Cordelia",
-        "message": "What have you been staring at this whole time？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "No, I was just thinking that just a simple lock like that is way too careless."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It can't be helped, there isn't a decent carpenter in this village after all."
-    },
-    {
-        "message": "So that means the Gilman House had been left alone for quite a long time, huh."
-    },
-    {
-        "message": "If the villagers here want to repair or renovate their own houses, they have no choice but to do it themselves, huh."
-    },
-    {
-        "name": "Cordelia",
-        "message": " Jonathan, aren't you good at that kind of work？"
-    },
-    {
-        "message": "　　　　　　　　If you're worried about me, why don't you put a lock on for me?"
-    },
-    {
-        "name": "Jonathan",
-        "message": " I'd love to do that if I could, but unfortunately, I've never even owned any carpenter's tools."
-    },
-    {
-        "name": "Jonathan",
-        "message": " Maybe you should take a little break."
-    },
-    {
-        "message": "　　　　　　　　Anyone　would　feel　awful　after　seeing　something　like　that."
-    },
-    {
-        "name": "Cordelia",
-        "message": " Don't say it, it'll just make me remember."
-    },
-    {
-        "name": "Jonathan",
-        "message": " Who the heck would do something like that...."
-    },
-    {
-        "message": "　　　　　　　　Did they really have to go that far with a helpless old man?"
-    },
-    {
-        "name": "Cordelia",
-        "message": " Please, don't say anything more！"
-    },
-    {
-        "message": "　　　　　　　　I don't want to stay in Arkham anymore."
-    },
-    {
-        "name": "Cordelia",
-        "message": " For something this horrible to happen..."
-    },
-    {
-        "message": "　　　　　　　　And it's not like it doesn't have anything to do with us, you know？"
-    },
-    {
-        "name": "Jonathan",
-        "message": " How about you calm down a little."
-    },
-    {
-        "message": "　　　　　　　　You look totally worn out."
-    },
-    {
-        "name": "Cordelia",
-        "message": " Of course I am."
-    },
-    {
-        "message": "　　　　　　　　There's no way anyone could be okay after something like that！"
-    },
-    {
-        "name": "Cordelia",
-        "message": " Please, don't say anything more！"
-    },
-    {
-        "message": "　　　　　　　　I don't want to stay in Arkham anymore."
-    },
-    {
-        "name": "Jonathan",
-        "message": " Now I guess I can't ask you why you were brought to Arkham."
-    },
-    {
-        "name": "Cordelia",
-        "message": " It doesn't even matter anymore."
-    },
-    {
-        "message": "　　　　　　　　I　don't　want　to　live　in　this　village　anymore....."
-    },
-    {
-        "name": "Jonathan",
-        "message": "How about you calm down a little."
-    },
-    {
-        "message": "　　　　　　　　You look like you're totally worn out."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Of course not."
-    },
-    {
-        "message": "　　　　　　　　There's no way I could be normal after something like that happened！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "わたし、どうして村に連れてこられたのかしら。"
-    },
-    {
-        "message": "　　　　　　　　I just wish there was someone I knew."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Hey, Jonathan."
-    },
-    {
-        "message": "　　　　　　　　わたしとの約束、忘れてないわよね。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Promise？"
-    },
-    {
-        "message": "　　　　　　　　What was it again."
-    },
-    {
-        "name": "Cordelia",
-        "message": "わたしがどうしてこの村に連れてこられたのか調べて　　　　　　　　くれるって約束だったじゃないの！"
-    },
-    {
-        "message": "そう言えばそんな事もあったな。"
-    },
-    {
-        "message": "I was so wrapped up in myself that I totally forgot about that conversation."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, that's right, we need to look into that too."
-    },
-    {
-        "message": "　　　　　　　　しかし、誰に聞いたら解るんだ？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Your foster parents are no longer in this village, and I don't think any of the other villagers are going to tell us anything, either."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I guess I just have to ask Marsh again？"
-    },
-    {
-        "message": "　　　　　　　　There's　no　such　record　left　in　the　Archives,　right?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, there isn't a government office in this village, is there？"
-    },
-    {
-        "message": "　　　　　　　　I've never seen a building like that before."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I have to go all the way to Salem, huh."
-    },
-    {
-        "name": "Jonathan",
-        "message": "If that's the case, Jonathan, then we have no choice but to get information inside the village."
-    },
-    {
-        "message": "　　　　　　　　It's not that long ago, and there are probably other people who know about your foster parents too."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You haven't forgotten our promise, right?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, I remember, don't worry."
-    },
-    {
-        "message": "　　　　　　　　But who should I ask about it?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "If anyone would know about that, maybe Mr. Marsh would, since he's been coming to Gilman House for ages, right?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "That old man doesn't seem interested in that kind of thing."
-    },
-    {
-        "message": "　　　　　　　　It's not really ancient history, so I'm sure there are other people who know about your foster parents too."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I hope so......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "No need to be so pessimistic."
-    },
-    {
-        "message": "　　　　　　　　Just thinking about it won't get us anywhere."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You're right."
-    },
-    {
-        "message": "　　　　　　　　Anyway, let's head out."
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "message": "Cordelia wasn't at the Gilman House."
+  },
+  {
+    "message": "I wonder where they went off to at this hour of the night."
+  },
+  {
+    "message": "Around Gilman House, there aren't any houses with lights on or people walking on the streets."
+  },
+  {
+    "message": "What's up with Cordelia, who should be waiting for me, not even turning on the lights in the bar? Sure, I didn't exactly get an invitation from her tonight, but still, this is pretty cold."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Sorry I'm late."
+  },
+  {
+    "message": "Cordelia, who had changed from her bartender outfit into her casual clothes, came out from the shop."
+  },
+  {
+    "message": "Looks like she cleaned up the Glasses we drank from, and the sleeves of her clothes are a little wet."
+  },
+  {
+    "message": "It's probably not good to keep holding her up like this."
+  },
+  {
+    "message": "If we don't let her get back to the shop soon, Gilman House's business might be in trouble."
+  },
+  {
+    "message": "We're in front of Gilman House."
+  },
+  {
+    "message": "Of course the shop's closed, but wanna take a break here for a bit?"
+  },
+  {
+    "message": "Before the villagers forget about the Gilman House, let's have Cordelia open up the shop."
+  },
+  {
+    "message": "There's still nobody around on the lonely backstreet."
+  },
+  {
+    "message": "It was even worse now that the only lively place around here, the Gilman House, was closed."
+  },
+  {
+    "message": "If we don't get Cordelia to open her shop before the villagers start complaining, it's obvious the already-hostile villagers will just see us as even more of an enemy."
+  },
+  {
+    "message": "Not that they probably had the luxury, but the outside of the shop hasn't seen repairs in ages."
+  },
+  {
+    "message": "If they plan on keeping the business running for a while yet, they'd better arrange for repairs soon."
+  },
+  {
+    "message": "It's an old brick pub."
+  },
+  {
+    "message": "It looks a lot like the kind of pub you often find along highways heading out from London, serving beer and light meals, nothing you'd call fancy."
+  },
+  {
+    "message": "It's got a storefront that's unusually decent for Arkham, but judging by what happened the other day, the clientele isn't all that great."
+  },
+  {
+    "message": "Cordelia really managed to run the shop all by herself until now."
+  },
+  {
+    "message": "Or maybe the villagers are just more tolerant of young girls."
+  },
+  {
+    "message": "The shop’s name is written in plain Gothic letters."
+  },
+  {
+    "message": "Judging by how the paint is peeling off from the rust, it’s probably been left unattended for over ten years."
+  },
+  {
+    "message": "Most likely, it was Cordelia’s foster father who wrote it-the name of the Pub scrawled in rugged letters."
+  },
+  {
+    "message": "There must have been pubs other than Gilman House on this street in the past."
+  },
+  {
+    "message": "With such a low-key storefront, it's still a mystery how many customers they actually managed to attract."
+  },
+  {
+    "message": "It's pretty clear that the reason Gilman House survived in Arkham wasn't because it was popular, but just because it happened to have a successor by sheer luck."
+  },
+  {
+    "message": "Looks like the entrance door is still unlocked."
+  },
+  {
+    "message": "After seeing something like that in broad daylight, it’s a pretty reckless and stupid thing to do, but at least I don’t have to worry about being left waiting in front of a cold shop."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You don't have to look so resentful, I'll open it for you."
+  },
+  {
+    "message": "I don't think it's all that reliable, but at least it's locked for now."
+  },
+  {
+    "message": "It's not like there's anything valuable in the bar, but the villagers here wouldn't bat an eye at killing someone for just a single pint of booze."
+  },
+  {
+    "message": "Cordelia could pay more attention to the store's security."
+  },
+  {
+    "message": "He doesn’t seem to care about that at all........."
+  },
+  {
+    "name": "Cordelia",
+    "message": "What have you been staring at this whole time？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "No, I was just thinking that just a simple lock like that is way too careless."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It can't be helped, there isn't a decent carpenter in this village after all."
+  },
+  {
+    "message": "So that means the Gilman House had been left alone for quite a long time, huh."
+  },
+  {
+    "message": "If the villagers here want to repair or renovate their own houses, they have no choice but to do it themselves, huh."
+  },
+  {
+    "name": "Cordelia",
+    "message": " Jonathan, aren't you good at that kind of work？"
+  },
+  {
+    "message": "　　　　　　　　If you're worried about me, why don't you put a lock on for me?"
+  },
+  {
+    "name": "Jonathan",
+    "message": " I'd love to do that if I could, but unfortunately, I've never even owned any carpenter's tools."
+  },
+  {
+    "name": "Jonathan",
+    "message": " Maybe you should take a little break."
+  },
+  {
+    "message": "　　　　　　　　Anyone　would　feel　awful　after　seeing　something　like　that."
+  },
+  {
+    "name": "Cordelia",
+    "message": " Don't say it, it'll just make me remember."
+  },
+  {
+    "name": "Jonathan",
+    "message": " Who the heck would do something like that...."
+  },
+  {
+    "message": "　　　　　　　　Did they really have to go that far with a helpless old man?"
+  },
+  {
+    "name": "Cordelia",
+    "message": " Please, don't say anything more！"
+  },
+  {
+    "message": "　　　　　　　　I don't want to stay in Arkham anymore."
+  },
+  {
+    "name": "Cordelia",
+    "message": " For something this horrible to happen..."
+  },
+  {
+    "message": "　　　　　　　　And it's not like it doesn't have anything to do with us, you know？"
+  },
+  {
+    "name": "Jonathan",
+    "message": " How about you calm down a little."
+  },
+  {
+    "message": "　　　　　　　　You look totally worn out."
+  },
+  {
+    "name": "Cordelia",
+    "message": " Of course I am."
+  },
+  {
+    "message": "　　　　　　　　There's no way anyone could be okay after something like that！"
+  },
+  {
+    "name": "Cordelia",
+    "message": " Please, don't say anything more！"
+  },
+  {
+    "message": "　　　　　　　　I don't want to stay in Arkham anymore."
+  },
+  {
+    "name": "Jonathan",
+    "message": " Now I guess I can't ask you why you were brought to Arkham."
+  },
+  {
+    "name": "Cordelia",
+    "message": " It doesn't even matter anymore."
+  },
+  {
+    "message": "　　　　　　　　I　don't　want　to　live　in　this　village　anymore....."
+  },
+  {
+    "name": "Jonathan",
+    "message": "How about you calm down a little."
+  },
+  {
+    "message": "　　　　　　　　You look like you're totally worn out."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Of course not."
+  },
+  {
+    "message": "　　　　　　　　There's no way I could be normal after something like that happened！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Why was I brought to this village, I wonder."
+  },
+  {
+    "message": "　　　　　　　　I just wish there was someone I knew."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Hey, Jonathan."
+  },
+  {
+    "message": "　　　　　　　　You haven't forgotten the promise you made with me, right."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Promise？"
+  },
+  {
+    "message": "　　　　　　　　What was it again."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You promised you'd look into　　　　　　　　why I was brought to this village！"
+  },
+  {
+    "message": "Now that you mention it, that did happen."
+  },
+  {
+    "message": "I was so wrapped up in myself that I totally forgot about that conversation."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, that's right, we need to look into that too."
+  },
+  {
+    "message": "　　　　　　　　But, who should I ask to find out？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Your foster parents are no longer in this village, and I don't think any of the other villagers are going to tell us anything, either."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I guess I just have to ask Marsh again？"
+  },
+  {
+    "message": "　　　　　　　　There's　no　such　record　left　in　the　Archives,　right?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, there isn't a government office in this village, is there？"
+  },
+  {
+    "message": "　　　　　　　　I've never seen a building like that before."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I have to go all the way to Salem, huh."
+  },
+  {
+    "name": "Jonathan",
+    "message": "If that's the case, Jonathan, then we have no choice but to get information inside the village."
+  },
+  {
+    "message": "　　　　　　　　It's not that long ago, and there are probably other people who know about your foster parents too."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You haven't forgotten our promise, right?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, I remember, don't worry."
+  },
+  {
+    "message": "　　　　　　　　But who should I ask about it?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "If anyone would know about that, maybe Mr. Marsh would, since he's been coming to Gilman House for ages, right?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "That old man doesn't seem interested in that kind of thing."
+  },
+  {
+    "message": "　　　　　　　　It's not really ancient history, so I'm sure there are other people who know about your foster parents too."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I hope so......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "No need to be so pessimistic."
+  },
+  {
+    "message": "　　　　　　　　Just thinking about it won't get us anywhere."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You're right."
+  },
+  {
+    "message": "　　　　　　　　Anyway, let's head out."
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

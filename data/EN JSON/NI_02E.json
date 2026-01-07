@@ -1,274 +1,274 @@
 [
-    {
-        "message": "This is a room with what looks like a nun's corpse left behind."
-    },
-    {
-        "message": "When I came during the day, I carelessly passed out, but even now, I still don't understand why that happened to me."
-    },
-    {
-        "message": "Sure, seeing this mess doesn't exactly make me feel good, but I can't believe I'm such a coward that I'd actually lose consciousness over it."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Wh-What is...this...?"
-    },
-    {
-        "message": "In front of us as we entered the room were a charred corpse lying on the floor, and-though I can't tell how it happened-a half-mummified corpse that looks to be a woman's, fixed to the wall with handcuffs."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What kind of room is this, anyway......"
-    },
-    {
-        "message": "On the wall in front, there are clearly handcuffs and leg irons installed to take away a person's freedom."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why is there a room like this under the monastery......"
-    },
-    {
-        "message": "　　　　　　　　It's　like　a　torture　chamber　from　a　medieval　castle."
-    },
-    {
-        "message": "Maybe it's the poison in this room that's getting to me, my head hurts like hell."
-    },
-    {
-        "message": "Even so, I just can't shake the feeling that I've been in a room a lot like this before..."
-    },
-    {
-        "message": "この部屋に入ってからひどい頭痛がする‥‥‥‥"
-    },
-    {
-        "message": "The pain is so intense, it's hard to concentrate."
-    },
-    {
-        "message": "Looking carefully, there are patches blackened by fire, but in some places, it seems almost untouched by the flames."
-    },
-    {
-        "message": "The corpses lying on the floor and the area around them are especially badly burned, but other parts aren't that dirty."
-    },
-    {
-        "message": "The other black stains on the walls don't seem to be soot, but look more like old bloodstains. It's hard to imagine how it got like this, but then again, it's weird that this whole basement took so much damage from the fire in the first place."
-    },
-    {
-        "message": "Something feels off."
-    },
-    {
-        "message": "The fire that hit the Monastery... it feels like someone tampered with it somehow..."
-    },
-    {
-        "message": "I've never seen one in person, but this is clearly handcuffs used to restrain prisoners or something."
-    },
-    {
-        "message": "Iron chains hang down from metal fittings fixed to the mortar wall."
-    },
-    {
-        "message": "At the end of the chain, there's something like an iron armlet that can be locked and unlocked with a key; you can tell it's obviously a device meant to take away someone's freedom."
-    },
-    {
-        "message": "I remember seeing something very similar to this in a room of a medieval castle or inside the Tower of London. Maybe medieval witch trials were kind of like this too."
-    },
-    {
-        "message": "They would restrain captured prisoners in this device and carry out all sorts of torture."
-    },
-    {
-        "message": "Why is something like this in the basement of the Monastery?"
-    },
-    {
-        "message": "I wonder if it has something to do with the 'traitorous act' that the woman I saw in my dream last night was talking about？"
-    },
-    {
-        "message": "With a force so strong it's hard to believe a human could do it, the chain has been torn apart partway through."
-    },
-    {
-        "message": "The woman lying dead at my feet must have shown an unbelievable strength, desperately struggling to escape the flames."
-    },
-    {
-        "message": "What was connected to the broken chain halfway was probably the handcuffs attached to the left arm of the corpse at my feet."
-    },
-    {
-        "message": "If they had been chained to this wall even before the fire that struck the Monastery, and they were still alive, then while struggling to escape the approaching flames, they must have shown enough strength to break the iron chains."
-    },
-    {
-        "message": "Just thinking about being burned alive gives me chills down my spine. They probably showed a strength you couldn't imagine, desperately trying to escape."
-    },
-    {
-        "message": "I've had a terrible headache ever since I came into this room......"
-    },
-    {
-        "message": "The pain is so intense, it's hard to keep my focus."
-    },
-    {
-        "message": "The candlestick sticking out from the wall is encrusted with melted, dripped wax."
-    },
-    {
-        "message": "There was no other lighting equipment, it seemed like the only light in the room came from the candles on this candlestick."
-    },
-    {
-        "message": "With the handcuffs on the wall and only a single candle lighting the room, there was no doubt it was a pretty gloomy atmosphere."
-    },
-    {
-        "message": "It definitely feels like a prison cell, but I have no idea why a room like this exists inside the Monastery."
-    },
-    {
-        "message": "Ever since I entered this room, I've had a terrible headache......"
-    },
-    {
-        "message": "The pain is so intense that it's hard to focus my mind."
-    },
-    {
-        "message": "It's so badly burned that there's no trace left of what it looked like in life."
-    },
-    {
-        "message": "With one arm placed on the chest and the other hanging down at the side of the body, it doesn't look like they're suffering or struggling."
-    },
-    {
-        "message": "It's reasonable to think they were already dead during the fire, but what does it mean that only this corpse is so severely burned?"
-    },
-    {
-        "message": "It's like someone poured oil on this body to mourn it and set it on fire."
-    },
-    {
-        "message": "I can't believe this is just a coincidence..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "What's wrong？"
-    },
-    {
-        "message": "　　　　　　　　You look really pale..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "My head hurts so bad."
-    },
-    {
-        "message": "　　　　　　　　It's been like this ever since I came into this room."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Are you okay？"
-    },
-    {
-        "message": "　　　　　　　　Maybe you should go outside and rest..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "What's wrong... hey！"
-    },
-    {
-        "name": "Thomas",
-        "message": "What a pathetic guy."
-    },
-    {
-        "message": "　　　　　　It's just a corpse, what's so scary about it?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Yeah, if you stay in a place like this, you might get sick... Don't tell me it's some kind of plague！"
-    },
-    {
-        "name": "Gardner",
-        "message": "That's ridiculous."
-    },
-    {
-        "message": "　　　　　　　　We haven't even been in this room that long yet."
-    },
-    {
-        "name": "Gardner",
-        "message": "Even if there were bacteria from some infectious disease, there's no way you'd get sick that quickly, right？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "What should we do, he won't open his eyes."
-    },
-    {
-        "message": "　　　　　　　　He didn't die, did he？"
-    },
-    {
-        "name": "Gardner",
-        "message": "He probably just passed out."
-    },
-    {
-        "message": "　　　　　　　　No choice, looks like we'll have to carry him ourselves."
-    },
-    {
-        "name": "Thomas",
-        "message": "No way, you gotta be kidding me."
-    },
-    {
-        "message": "　　　　　　No way I'm hugging a dude."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So, you're saying you're just going to leave me here like this？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I'm staying here, you really gonna just leave a helpless girl all alone in a place like this?"
-    },
-    {
-        "name": "Thomas",
-        "message": "It'll be fine, he'll wake up soon."
-    },
-    {
-        "message": "　　　　　　Don't get so uptight about it."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Ah... Jonathan..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Please, wake up quickly..."
-    },
-    {
-        "message": "It looks like his arms and legs were fixed to the wall, like a prisoner."
-    },
-    {
-        "message": "He must have struggled to escape from the approaching flames, because the shackles on both his legs and his left hand have been torn off at the chains."
-    },
-    {
-        "message": "For some reason, the corpse doesn't look like it was burned by fire, it's half-mummified and you can clearly read the expression on its face."
-    },
-    {
-        "message": "She seems like a woman, you can picture a refined, long-faced look."
-    },
-    {
-        "message": "Their expression is twisted in pain, and their hair is frizzed up from the heat."
-    },
-    {
-        "message": "Even though she has an expression of agony on her face, the fact that the corpse shows no signs of being burned by the fire means that this woman didn’t lose her life because of the fire."
-    },
-    {
-        "message": "Probably......"
-    },
-    {
-        "message": "Someone probably killed them after the fire."
-    },
-    {
-        "message": "With the corpse in this state, it's hard to figure out the woman's cause of death, but since there's evidence that someone entered the basement after the fire, it's unlikely she was just left to starve."
-    },
-    {
-        "message": "Either way, since she was chained up, maybe she was a woman who committed some kind of crime."
-    },
-    {
-        "message": "Old monasteries have a lot of pretty grim stories."
-    },
-    {
-        "message": "There were nuns who got hooked on immoral acts and plastered babies into the walls, and apparently plenty of women who became targets of witch trials too."
-    },
-    {
-        "message": "Thinking about it like that, I guess even this scene kind of makes sense..."
-    },
-    {
-        "message": "Now that I recall, the nun who appeared in my dream said that 'betrayal' was happening at Miskatonic Monastery."
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "message": "This is a room with what looks like a nun's corpse left behind."
+  },
+  {
+    "message": "When I came during the day, I carelessly passed out, but even now, I still don't understand why that happened to me."
+  },
+  {
+    "message": "Sure, seeing this mess doesn't exactly make me feel good, but I can't believe I'm such a coward that I'd actually lose consciousness over it."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Wh-What is...this...?"
+  },
+  {
+    "message": "In front of us as we entered the room were a charred corpse lying on the floor, and-though I can't tell how it happened-a half-mummified corpse that looks to be a woman's, fixed to the wall with handcuffs."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What kind of room is this, anyway......"
+  },
+  {
+    "message": "On the wall in front, there are clearly handcuffs and leg irons installed to take away a person's freedom."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why is there a room like this under the monastery......"
+  },
+  {
+    "message": "　　　　　　　　It's　like　a　torture　chamber　from　a　medieval　castle."
+  },
+  {
+    "message": "Maybe it's the poison in this room that's getting to me, my head hurts like hell."
+  },
+  {
+    "message": "Even so, I just can't shake the feeling that I've been in a room a lot like this before..."
+  },
+  {
+    "message": "I've had a terrible headache ever since I came into this room‥‥‥‥"
+  },
+  {
+    "message": "The pain is so intense, it's hard to concentrate."
+  },
+  {
+    "message": "Looking carefully, there are patches blackened by fire, but in some places, it seems almost untouched by the flames."
+  },
+  {
+    "message": "The corpses lying on the floor and the area around them are especially badly burned, but other parts aren't that dirty."
+  },
+  {
+    "message": "The other black stains on the walls don't seem to be soot, but look more like old bloodstains. It's hard to imagine how it got like this, but then again, it's weird that this whole basement took so much damage from the fire in the first place."
+  },
+  {
+    "message": "Something feels off."
+  },
+  {
+    "message": "The fire that hit the Monastery... it feels like someone tampered with it somehow..."
+  },
+  {
+    "message": "I've never seen one in person, but this is clearly handcuffs used to restrain prisoners or something."
+  },
+  {
+    "message": "Iron chains hang down from metal fittings fixed to the mortar wall."
+  },
+  {
+    "message": "At the end of the chain, there's something like an iron armlet that can be locked and unlocked with a key; you can tell it's obviously a device meant to take away someone's freedom."
+  },
+  {
+    "message": "I remember seeing something very similar to this in a room of a medieval castle or inside the Tower of London. Maybe medieval witch trials were kind of like this too."
+  },
+  {
+    "message": "They would restrain captured prisoners in this device and carry out all sorts of torture."
+  },
+  {
+    "message": "Why is something like this in the basement of the Monastery?"
+  },
+  {
+    "message": "I wonder if it has something to do with the 'traitorous act' that the woman I saw in my dream last night was talking about？"
+  },
+  {
+    "message": "With a force so strong it's hard to believe a human could do it, the chain has been torn apart partway through."
+  },
+  {
+    "message": "The woman lying dead at my feet must have shown an unbelievable strength, desperately struggling to escape the flames."
+  },
+  {
+    "message": "What was connected to the broken chain halfway was probably the handcuffs attached to the left arm of the corpse at my feet."
+  },
+  {
+    "message": "If they had been chained to this wall even before the fire that struck the Monastery, and they were still alive, then while struggling to escape the approaching flames, they must have shown enough strength to break the iron chains."
+  },
+  {
+    "message": "Just thinking about being burned alive gives me chills down my spine. They probably showed a strength you couldn't imagine, desperately trying to escape."
+  },
+  {
+    "message": "I've had a terrible headache ever since I came into this room......"
+  },
+  {
+    "message": "The pain is so intense, it's hard to keep my focus."
+  },
+  {
+    "message": "The candlestick sticking out from the wall is encrusted with melted, dripped wax."
+  },
+  {
+    "message": "There was no other lighting equipment, it seemed like the only light in the room came from the candles on this candlestick."
+  },
+  {
+    "message": "With the handcuffs on the wall and only a single candle lighting the room, there was no doubt it was a pretty gloomy atmosphere."
+  },
+  {
+    "message": "It definitely feels like a prison cell, but I have no idea why a room like this exists inside the Monastery."
+  },
+  {
+    "message": "Ever since I entered this room, I've had a terrible headache......"
+  },
+  {
+    "message": "The pain is so intense that it's hard to focus my mind."
+  },
+  {
+    "message": "It's so badly burned that there's no trace left of what it looked like in life."
+  },
+  {
+    "message": "With one arm placed on the chest and the other hanging down at the side of the body, it doesn't look like they're suffering or struggling."
+  },
+  {
+    "message": "It's reasonable to think they were already dead during the fire, but what does it mean that only this corpse is so severely burned?"
+  },
+  {
+    "message": "It's like someone poured oil on this body to mourn it and set it on fire."
+  },
+  {
+    "message": "I can't believe this is just a coincidence..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "What's wrong？"
+  },
+  {
+    "message": "　　　　　　　　You look really pale..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "My head hurts so bad."
+  },
+  {
+    "message": "　　　　　　　　It's been like this ever since I came into this room."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Are you okay？"
+  },
+  {
+    "message": "　　　　　　　　Maybe you should go outside and rest..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "What's wrong... hey！"
+  },
+  {
+    "name": "Thomas",
+    "message": "What a pathetic guy."
+  },
+  {
+    "message": "　　　　　　It's just a corpse, what's so scary about it?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Yeah, if you stay in a place like this, you might get sick... Don't tell me it's some kind of plague！"
+  },
+  {
+    "name": "Gardner",
+    "message": "That's ridiculous."
+  },
+  {
+    "message": "　　　　　　　　We haven't even been in this room that long yet."
+  },
+  {
+    "name": "Gardner",
+    "message": "Even if there were bacteria from some infectious disease, there's no way you'd get sick that quickly, right？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "What should we do, he won't open his eyes."
+  },
+  {
+    "message": "　　　　　　　　He didn't die, did he？"
+  },
+  {
+    "name": "Gardner",
+    "message": "He probably just passed out."
+  },
+  {
+    "message": "　　　　　　　　No choice, looks like we'll have to carry him ourselves."
+  },
+  {
+    "name": "Thomas",
+    "message": "No way, you gotta be kidding me."
+  },
+  {
+    "message": "　　　　　　No way I'm hugging a dude."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So, you're saying you're just going to leave me here like this？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I'm staying here, you really gonna just leave a helpless girl all alone in a place like this?"
+  },
+  {
+    "name": "Thomas",
+    "message": "It'll be fine, he'll wake up soon."
+  },
+  {
+    "message": "　　　　　　Don't get so uptight about it."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Ah... Jonathan..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Please, wake up quickly..."
+  },
+  {
+    "message": "It looks like his arms and legs were fixed to the wall, like a prisoner."
+  },
+  {
+    "message": "He must have struggled to escape from the approaching flames, because the shackles on both his legs and his left hand have been torn off at the chains."
+  },
+  {
+    "message": "For some reason, the corpse doesn't look like it was burned by fire, it's half-mummified and you can clearly read the expression on its face."
+  },
+  {
+    "message": "She seems like a woman, you can picture a refined, long-faced look."
+  },
+  {
+    "message": "Their expression is twisted in pain, and their hair is frizzed up from the heat."
+  },
+  {
+    "message": "Even though she has an expression of agony on her face, the fact that the corpse shows no signs of being burned by the fire means that this woman didn’t lose her life because of the fire."
+  },
+  {
+    "message": "Probably......"
+  },
+  {
+    "message": "Someone probably killed them after the fire."
+  },
+  {
+    "message": "With the corpse in this state, it's hard to figure out the woman's cause of death, but since there's evidence that someone entered the basement after the fire, it's unlikely she was just left to starve."
+  },
+  {
+    "message": "Either way, since she was chained up, maybe she was a woman who committed some kind of crime."
+  },
+  {
+    "message": "Old monasteries have a lot of pretty grim stories."
+  },
+  {
+    "message": "There were nuns who got hooked on immoral acts and plastered babies into the walls, and apparently plenty of women who became targets of witch trials too."
+  },
+  {
+    "message": "Thinking about it like that, I guess even this scene kind of makes sense..."
+  },
+  {
+    "message": "Now that I recall, the nun who appeared in my dream said that 'betrayal' was happening at Miskatonic Monastery."
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

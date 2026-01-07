@@ -1,390 +1,390 @@
 [
-    {
-        "name": "Thomas",
-        "message": "Isn't this room awfully cold？"
-    },
-    {
-        "message": "　　　　　　It's not much different from being outside, is it?"
-    },
-    {
-        "name": "Gardner",
-        "message": "Maybe you feel that way because it's the room of the dead？"
-    },
-    {
-        "message": "　　　　　　　　Despite how you look, you're a cowardly guy."
-    },
-    {
-        "name": "Thomas",
-        "message": "Don’t say something so stupid."
-    },
-    {
-        "message": "　　　　　　I've even spent the night on the same Bed as a dead guy, you know？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan, is there still something you're looking for？"
-    },
-    {
-        "name": "Thomas",
-        "message": "This room sure reeks of mold."
-    },
-    {
-        "message": "　　　　　　長いこと掃除もしてないんじゃねえか？"
-    },
-    {
-        "name": "Gardner",
-        "message": "Of course, didn’t the receptionist lady tell you？"
-    },
-    {
-        "message": "　　　　　　　　Since the incident, no one has set foot in this room."
-    },
-    {
-        "name": "Cordelia",
-        "message": "But it looks like it's pretty tidy."
-    },
-    {
-        "message": "　　　　　　　　I wonder if Dollie took care of everything before causing the incident."
-    },
-    {
-        "name": "Thomas",
-        "message": "だとしたら、随分用意のいい男だぜ。"
-    },
-    {
-        "message": "　　　　　　We're gonna die anyway, so who cares, right?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Looks like there's no way we can find anything like this."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Let's just try looking anyway."
-    },
-    {
-        "message": "　　　　　　　　Everyone, split up and check around here."
-    },
-    {
-        "name": "Thomas",
-        "message": "What a pain."
-    },
-    {
-        "message": "The faded wallpaper and the completely withered plants tell of how long it's been since the owner of this room disappeared."
-    },
-    {
-        "message": "It's all neatly organized."
-    },
-    {
-        "message": "Dollie must have been a really meticulous person."
-    },
-    {
-        "message": "A thin layer of dust has settled on the floor, making it obvious that no one's entered this room for a long time."
-    },
-    {
-        "message": "It's probably the flag of Miskatonic University."
-    },
-    {
-        "message": "It looks like it was only actually used for a really short period, so there isn't much damage, but the sun and moth-eaten holes are pretty bad."
-    },
-    {
-        "message": "It's probably the flag of Miskatonic University."
-    },
-    {
-        "message": "It's securely fastened to the wall, but the sunlight has completely bleached it."
-    },
-    {
-        "message": "Both this room and the university flag on the wall were only actually put to use for less than a hundred years-just a really short time..."
-    },
-    {
-        "message": "I don't know when the chimney was last swept, but from the looks of it, it still seems plenty usable even now."
-    },
-    {
-        "message": "Just like the simple layout of the room, this mantelpiece isn't really decorative at all-it's all about practicality."
-    },
-    {
-        "message": "Inside, there's still ash from decades ago and some half-burned logs just left as they are."
-    },
-    {
-        "message": "I can almost picture Dollie carefully using the poker."
-    },
-    {
-        "name": "Cordelia",
-        "message": "If we stay here too long, that woman will show up.　　　　　　　　Maybe we should get out of here quick."
-    },
-    {
-        "name": "Jonathan",
-        "message": "No need to be so scared."
-    },
-    {
-        "message": "　　　　　　　　That woman didn't really seem that into her job to me."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You really know what you're doing, huh."
-    },
-    {
-        "message": "　　　　　　　　No way, have you ever done something sneaky like a thief like this before？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "That map looked pretty old."
-    },
-    {
-        "message": "　　　　　　　　Even in a village where nothing ever changes, there's no way it could be exactly the same as it was 50 years ago."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I don't think it's going to be much help."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Not really, all the main places were already here in this village 50 years ago."
-    },
-    {
-        "name": "Jonathan",
-        "message": "After that, we just need to write down what we know."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You planning to take it home？"
-    },
-    {
-        "message": "　　　　　　　　Then isn't that stealing? That's bad, you know."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I don't think there's any need to worry about getting found out."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Even that woman Dorothy probably hardly ever comes into this room‥‥‥"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Are you really gonna be okay？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "There's nothing to worry about."
-    },
-    {
-        "name": "Thomas",
-        "message": "You're done with what you came for, right？"
-    },
-    {
-        "message": "　　　　　　いつまでもこんな辛気くさい所にいたくないぜ。"
-    },
-    {
-        "name": "Thomas",
-        "message": "After all that searching, all we found is this filthy map?"
-    },
-    {
-        "message": "　　　　　　What a crappy job."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Is that so？"
-    },
-    {
-        "message": "　　　　　　　　I　think　that's　a　pretty　big　catch　for　me."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What kind of stuff were you expecting？"
-    },
-    {
-        "message": "　　　　　　　　There’s no way there’s anything worth money here."
-    },
-    {
-        "name": "Thomas",
-        "message": "Who said I was looking for something like that？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Wasn't the reason we came here to see if that Dollie guy left behind anything that gets to the heart of the case?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "So you actually listen seriously to people sometimes, huh？"
-    },
-    {
-        "name": "Gardner",
-        "message": "What's up, is there still something else we need to consider？"
-    },
-    {
-        "name": "Gardner",
-        "message": "So Innsmouth was Arkham's old name, huh."
-    },
-    {
-        "message": "　　　　　　　　That was kind of a blind spot, huh?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I couldn't really think straight because the villagers and people around were just freaking out way too much."
-    },
-    {
-        "name": "Gardner",
-        "message": "Well, let's just leave it at that."
-    },
-    {
-        "message": "　　　　　　　　Anyway, what are we going to do next？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I know where the Dunwich Mansion is and how to get to the old monastery site, but there's no guarantee we can get into the Mansion, and wouldn't it be smarter to go to the monastery tomorrow instead？"
-    },
-    {
-        "name": "Gardner",
-        "message": "うむ、どれくらいの規模の修道院だったのか知らんが　　　　　　　　かなり手間取る事は必至だろうからな。"
-    },
-    {
-        "name": "Gardner",
-        "message": "About the Dunwitch Mansion..."
-    },
-    {
-        "message": "　　　　　　　　Isn't　there　someone　like　a　property　manager　or　something?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "The way Marsh was talking, it sounded like he knew Dollie pretty well."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Maybe　Marsh　knows　how　to　get　into　Dunwich　Mansion."
-    },
-    {
-        "name": "Gardner",
-        "message": "Well then, let's go visit old man Marsh again."
-    },
-    {
-        "message": "Looks like I'm not gonna get much out of here anymore."
-    },
-    {
-        "message": "Gotta look somewhere else‥‥‥‥"
-    },
-    {
-        "message": "On Dollie's perfectly arranged desk, not a speck out of place, dust has piled up, showing that no one has touched it for a long time."
-    },
-    {
-        "message": "The stacked books are all ordinary academic texts you'd find anywhere, nothing particularly unusual about them."
-    },
-    {
-        "message": "It seems like Dollie didn't like bringing personal belongings into her workplace. Or maybe, anything that actually meant something has already been taken away by somebody."
-    },
-    {
-        "name": "Jonathan",
-        "message": "This is......"
-    },
-    {
-        "name": "Gardner",
-        "message": "Did you find something?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It looks like a map."
-    },
-    {
-        "message": "　　　　　　　　It says 'Innsmouth'......"
-    },
-    {
-        "name": "Gardner",
-        "message": "Innsmouth？"
-    },
-    {
-        "message": "　　　　　　　　But isn't this obviously a map of Arkham？"
-    },
-    {
-        "name": "Gardner",
-        "message": "Take a look at this."
-    },
-    {
-        "message": "　　　　　　　　A landscape like a peninsula, facing the sea in front, surrounded by rivers on all sides, cut off from the outside world."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Looks like it's something from around the mid-19th century."
-    },
-    {
-        "message": "　　　　　　　　The surveying skills are solid, and the printing isn’t all that bad either."
-    },
-    {
-        "name": "Gardner",
-        "message": "But wasn't this place already called Arkham by that time？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why did they go out of their way to write Innsmouth......"
-    },
-    {
-        "message": "　　　　　　　　Does it mean something?"
-    },
-    {
-        "name": "Gardner",
-        "message": "I don't know."
-    },
-    {
-        "message": "　　　　　　　　Maybe it was done by someone who wanted to keep the name 'Innsmouth' alive."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Could it have been Dollie who did it？"
-    },
-    {
-        "name": "Gardner",
-        "message": "Maybe so."
-    },
-    {
-        "message": "　　　　　　　　After all, this room was his workspace."
-    },
-    {
-        "message": "The Map, although it has some differences from the present-day Arkham, clearly had several of the places we're looking for marked on it."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Looks like that place in the center of the village is the Dunwitch Mansion. And up on the hills to the left, I can see what looks like the ruins of a monastery."
-    },
-    {
-        "name": "Gardner",
-        "message": "海に張り出した岬に、あの遺跡が記されている。"
-    },
-    {
-        "message": "　　　　　　　　This　is　like　a　Map　made　just　for　us."
-    },
-    {
-        "name": "Jonathan",
-        "message": "No way........."
-    },
-    {
-        "message": "　　　　　　　　Did Dollie know we were coming？"
-    },
-    {
-        "name": "Gardner",
-        "message": "Don't say stupid things."
-    },
-    {
-        "message": "　　　　　　　　Didn't he die like 60 years ago?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's true, but......"
-    },
-    {
-        "message": "　　　　　　　　Either　way,　this　Map　looks　like　it'll　be　useful."
-    },
-    {
-        "name": "Gardner",
-        "message": "If the loss is discovered, we'll probably be the first ones suspected,"
-    },
-    {
-        "message": "　　　　　　　　but I doubt anyone will even notice."
-    },
-    {
-        "name": "Gardner",
-        "message": "Let's borrow it for a while."
-    },
-    {
-        "message": "　　　　　　　　Borrowing without permission does bother my conscience a little, though."
-    },
-    {
-        "message": "　　Reception　　"
-    }
+  {
+    "name": "Thomas",
+    "message": "Isn't this room awfully cold？"
+  },
+  {
+    "message": "　　　　　　It's not much different from being outside, is it?"
+  },
+  {
+    "name": "Gardner",
+    "message": "Maybe you feel that way because it's the room of the dead？"
+  },
+  {
+    "message": "　　　　　　　　Despite how you look, you're a cowardly guy."
+  },
+  {
+    "name": "Thomas",
+    "message": "Don’t say something so stupid."
+  },
+  {
+    "message": "　　　　　　I've even spent the night on the same Bed as a dead guy, you know？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan, is there still something you're looking for？"
+  },
+  {
+    "name": "Thomas",
+    "message": "This room sure reeks of mold."
+  },
+  {
+    "message": "　　　　　　Hasn't it gone a long time without cleaning？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Of course, didn’t the receptionist lady tell you？"
+  },
+  {
+    "message": "　　　　　　　　Since the incident, no one has set foot in this room."
+  },
+  {
+    "name": "Cordelia",
+    "message": "But it looks like it's pretty tidy."
+  },
+  {
+    "message": "　　　　　　　　I wonder if Dollie took care of everything before causing the incident."
+  },
+  {
+    "name": "Thomas",
+    "message": "If that's the case, he's one hell of a prepared guy."
+  },
+  {
+    "message": "　　　　　　We're gonna die anyway, so who cares, right?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Looks like there's no way we can find anything like this."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Let's just try looking anyway."
+  },
+  {
+    "message": "　　　　　　　　Everyone, split up and check around here."
+  },
+  {
+    "name": "Thomas",
+    "message": "What a pain."
+  },
+  {
+    "message": "The faded wallpaper and the completely withered plants tell of how long it's been since the owner of this room disappeared."
+  },
+  {
+    "message": "It's all neatly organized."
+  },
+  {
+    "message": "Dollie must have been a really meticulous person."
+  },
+  {
+    "message": "A thin layer of dust has settled on the floor, making it obvious that no one's entered this room for a long time."
+  },
+  {
+    "message": "It's probably the flag of Miskatonic University."
+  },
+  {
+    "message": "It looks like it was only actually used for a really short period, so there isn't much damage, but the sun and moth-eaten holes are pretty bad."
+  },
+  {
+    "message": "It's probably the flag of Miskatonic University."
+  },
+  {
+    "message": "It's securely fastened to the wall, but the sunlight has completely bleached it."
+  },
+  {
+    "message": "Both this room and the university flag on the wall were only actually put to use for less than a hundred years-just a really short time..."
+  },
+  {
+    "message": "I don't know when the chimney was last swept, but from the looks of it, it still seems plenty usable even now."
+  },
+  {
+    "message": "Just like the simple layout of the room, this mantelpiece isn't really decorative at all-it's all about practicality."
+  },
+  {
+    "message": "Inside, there's still ash from decades ago and some half-burned logs just left as they are."
+  },
+  {
+    "message": "I can almost picture Dollie carefully using the poker."
+  },
+  {
+    "name": "Cordelia",
+    "message": "If we stay here too long, that woman will show up.　　　　　　　　Maybe we should get out of here quick."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No need to be so scared."
+  },
+  {
+    "message": "　　　　　　　　That woman didn't really seem that into her job to me."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You really know what you're doing, huh."
+  },
+  {
+    "message": "　　　　　　　　No way, have you ever done something sneaky like a thief like this before？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "That map looked pretty old."
+  },
+  {
+    "message": "　　　　　　　　Even in a village where nothing ever changes, there's no way it could be exactly the same as it was 50 years ago."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I don't think it's going to be much help."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Not really, all the main places were already here in this village 50 years ago."
+  },
+  {
+    "name": "Jonathan",
+    "message": "After that, we just need to write down what we know."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You planning to take it home？"
+  },
+  {
+    "message": "　　　　　　　　Then isn't that stealing? That's bad, you know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I don't think there's any need to worry about getting found out."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Even that woman Dorothy probably hardly ever comes into this room‥‥‥"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Are you really gonna be okay？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "There's nothing to worry about."
+  },
+  {
+    "name": "Thomas",
+    "message": "You're done with what you came for, right？"
+  },
+  {
+    "message": "　　　　　　I really don't want to stay in such a gloomy place forever."
+  },
+  {
+    "name": "Thomas",
+    "message": "After all that searching, all we found is this filthy map?"
+  },
+  {
+    "message": "　　　　　　What a crappy job."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is that so？"
+  },
+  {
+    "message": "　　　　　　　　I　think　that's　a　pretty　big　catch　for　me."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What kind of stuff were you expecting？"
+  },
+  {
+    "message": "　　　　　　　　There’s no way there’s anything worth money here."
+  },
+  {
+    "name": "Thomas",
+    "message": "Who said I was looking for something like that？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Wasn't the reason we came here to see if that Dollie guy left behind anything that gets to the heart of the case?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "So you actually listen seriously to people sometimes, huh？"
+  },
+  {
+    "name": "Gardner",
+    "message": "What's up, is there still something else we need to consider？"
+  },
+  {
+    "name": "Gardner",
+    "message": "So Innsmouth was Arkham's old name, huh."
+  },
+  {
+    "message": "　　　　　　　　That was kind of a blind spot, huh?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I couldn't really think straight because the villagers and people around were just freaking out way too much."
+  },
+  {
+    "name": "Gardner",
+    "message": "Well, let's just leave it at that."
+  },
+  {
+    "message": "　　　　　　　　Anyway, what are we going to do next？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I know where the Dunwich Mansion is and how to get to the old monastery site, but there's no guarantee we can get into the Mansion, and wouldn't it be smarter to go to the monastery tomorrow instead？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Yeah, I don't know how big the monastery was, but it's for sure going to take a lot of work."
+  },
+  {
+    "name": "Gardner",
+    "message": "About the Dunwitch Mansion..."
+  },
+  {
+    "message": "　　　　　　　　Isn't　there　someone　like　a　property　manager　or　something?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "The way Marsh was talking, it sounded like he knew Dollie pretty well."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Maybe　Marsh　knows　how　to　get　into　Dunwich　Mansion."
+  },
+  {
+    "name": "Gardner",
+    "message": "Well then, let's go visit old man Marsh again."
+  },
+  {
+    "message": "Looks like I'm not gonna get much out of here anymore."
+  },
+  {
+    "message": "Gotta look somewhere else‥‥‥‥"
+  },
+  {
+    "message": "On Dollie's perfectly arranged desk, not a speck out of place, dust has piled up, showing that no one has touched it for a long time."
+  },
+  {
+    "message": "The stacked books are all ordinary academic texts you'd find anywhere, nothing particularly unusual about them."
+  },
+  {
+    "message": "It seems like Dollie didn't like bringing personal belongings into her workplace. Or maybe, anything that actually meant something has already been taken away by somebody."
+  },
+  {
+    "name": "Jonathan",
+    "message": "This is......"
+  },
+  {
+    "name": "Gardner",
+    "message": "Did you find something?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It looks like a map."
+  },
+  {
+    "message": "　　　　　　　　It says 'Innsmouth'......"
+  },
+  {
+    "name": "Gardner",
+    "message": "Innsmouth？"
+  },
+  {
+    "message": "　　　　　　　　But isn't this obviously a map of Arkham？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Take a look at this."
+  },
+  {
+    "message": "　　　　　　　　A landscape like a peninsula, facing the sea in front, surrounded by rivers on all sides, cut off from the outside world."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Looks like it's something from around the mid-19th century."
+  },
+  {
+    "message": "　　　　　　　　The surveying skills are solid, and the printing isn’t all that bad either."
+  },
+  {
+    "name": "Gardner",
+    "message": "But wasn't this place already called Arkham by that time？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why did they go out of their way to write Innsmouth......"
+  },
+  {
+    "message": "　　　　　　　　Does it mean something?"
+  },
+  {
+    "name": "Gardner",
+    "message": "I don't know."
+  },
+  {
+    "message": "　　　　　　　　Maybe it was done by someone who wanted to keep the name 'Innsmouth' alive."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Could it have been Dollie who did it？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Maybe so."
+  },
+  {
+    "message": "　　　　　　　　After all, this room was his workspace."
+  },
+  {
+    "message": "The Map, although it has some differences from the present-day Arkham, clearly had several of the places we're looking for marked on it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Looks like that place in the center of the village is the Dunwitch Mansion. And up on the hills to the left, I can see what looks like the ruins of a monastery."
+  },
+  {
+    "name": "Gardner",
+    "message": "That ruin is marked on the cape sticking out into the sea."
+  },
+  {
+    "message": "　　　　　　　　This　is　like　a　Map　made　just　for　us."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No way........."
+  },
+  {
+    "message": "　　　　　　　　Did Dollie know we were coming？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Don't say stupid things."
+  },
+  {
+    "message": "　　　　　　　　Didn't he die like 60 years ago?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's true, but......"
+  },
+  {
+    "message": "　　　　　　　　Either　way,　this　Map　looks　like　it'll　be　useful."
+  },
+  {
+    "name": "Gardner",
+    "message": "If the loss is discovered, we'll probably be the first ones suspected,"
+  },
+  {
+    "message": "　　　　　　　　but I doubt anyone will even notice."
+  },
+  {
+    "name": "Gardner",
+    "message": "Let's borrow it for a while."
+  },
+  {
+    "message": "　　　　　　　　Borrowing without permission does bother my conscience a little, though."
+  },
+  {
+    "message": "　　Reception　　"
+  }
 ]

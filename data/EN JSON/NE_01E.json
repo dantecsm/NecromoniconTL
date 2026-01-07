@@ -1,325 +1,325 @@
 [
-    {
-        "message": "It's the central bookshelf."
-    },
-    {
-        "message": "The books stored here look a lot fancier than the ones on the other shelves."
-    },
-    {
-        "message": "I reached out for a book placed on the shelf."
-    },
-    {
-        "message": "It seems pretty old, and the leather on the gold-stamped cover is really worn out."
-    },
-    {
-        "message": "『Book of Avon』"
-    },
-    {
-        "message": "All I can make out from the faded cover is just the title, and I have no clue who wrote it or when it was published."
-    },
-    {
-        "message": "When I try taking a look inside, I can see that it's not something that's been printed, but handwritten. Looks like it's been copied from the original, just like monks used to do back in the day."
-    },
-    {
-        "message": "This book is......"
-    },
-    {
-        "message": "Looks like it's written in Latin or something."
-    },
-    {
-        "message": "The cover of the book is made by stitching together tanned sheepskin, and the title is written in black ink. You can tell it's an extremely old book, but beyond that you have no clue."
-    },
-    {
-        "message": "Even if you open the book, it's probably just a string of incomprehensible words, just like its appearance, so you don't even feel like bothering to look into it."
-    },
-    {
-        "message": "『The Nameless Cults』"
-    },
-    {
-        "message": "Written by Von Junzt"
-    },
-    {
-        "message": "I've heard about this book somewhere before..."
-    },
-    {
-        "message": "I'm pretty sure it was banned, and everything that had already been printed was supposed to have been burned."
-    },
-    {
-        "message": "I've never read it, but it's probably one of those damn books about devil worship. I don't even want to bother flipping through something like this…"
-    },
-    {
-        "message": "How did such a rare book turn up on the shelves of a backwoods Archives？"
-    },
-    {
-        "message": "I wonder who donated this."
-    },
-    {
-        "message": "『Research on Reanimating Corpses』"
-    },
-    {
-        "message": "Written by Herbert West"
-    },
-    {
-        "message": "This is....."
-    },
-    {
-        "message": "It seems to be something left behind by the only real celebrity to ever come out of Miskatonic University-a doctor who researched nightmares."
-    },
-    {
-        "message": "死体蘇生は彼のライフワークとも言える研究であり、それのもたらした忌まわしい事件の為に長い間余人の目に触れる事がなかったのだろう。"
-    },
-    {
-        "message": "『In other words, to perform the art of corpse resurrection, fresh corpses are absolutely essential, and that was exactly what troubled me the most.』"
-    },
-    {
-        "message": "You say it like it's no big deal."
-    },
-    {
-        "message": "What a terrifying way to talk about a 'fresh corpse.'"
-    },
-    {
-        "message": "この頭のおかしい医師は、自分の酔狂な研究の為に、名も知らぬ人々の亡骸をおもちゃにしていたのだ。"
-    },
-    {
-        "message": "『The fact that artificial resurrection of the dead depends solely on the condition of their tissues is without doubt, and if appropriate measures are taken with corpses whose organs have not decayed, it is possible to restore once again the activity known as life.』"
-    },
-    {
-        "message": "There's no doubt that Herbert West seriously believed in his own theories. I don't know what the results of his experiments were, but thinking about the terrifying incidents they caused, it's probably true that a body that had actually died once started moving as if it had come back to life."
-    },
-    {
-        "message": "『ミスカトニック大学１８１０〜１８６１』"
-    },
-    {
-        "message": "Apparently, these are records from the university's founding until it was shut down."
-    },
-    {
-        "message": "Judging from the title written on the cover, it seems this university only lasted 51 years. For an educational institution, I have to say that's shockingly short-lived."
-    },
-    {
-        "message": "Honestly, wasn't it a mistake to build the campus way out in a place this far from the city in the first place?"
-    },
-    {
-        "message": "It's not like there haven't been such cases in the past, but this place was just way too lonely even for students devoted to their studies, and toughing it out for four years must’ve been no ordinary struggle."
-    },
-    {
-        "message": "Maybe it's because of a place like this that an academic like Herbert West, driven to such crazy research, was born."
-    },
-    {
-        "message": "I've already seen the Dunwich family tree."
-    },
-    {
-        "message": "We should check out the Miskatonic Monastery and the Dunwich Mansion."
-    },
-    {
-        "message": "I picked up a book."
-    },
-    {
-        "message": "That book looks like hardly anyone has ever touched it, and for its age, it’s strangely brand new."
-    },
-    {
-        "message": "The binding is extravagant too, with the title and such trimmed in gold leaf in elegant decorative script. And the letters embossed in that gilt..."
-    },
-    {
-        "message": "『Dunwich family　Genealogy』"
-    },
-    {
-        "message": "It's a book that records the family tree of Dunwich family, a prominent family in the village."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Here it is, the Dunwich family's family tree."
-    },
-    {
-        "message": "　　　　　　　　Just as I thought."
-    },
-    {
-        "name": "Gardner",
-        "message": "That's a pretty luxurious thing. I don't know who it was made to show off to, but man, what a stuck-up taste."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Apparently Dunwich is from quite an old family."
-    },
-    {
-        "message": "　　　　　　　　If you believe what's written in this book, you can trace them back to the Tudor dynasty era."
-    },
-    {
-        "name": "Gardner",
-        "message": "Doesn't sound too reliable to me."
-    },
-    {
-        "message": "　　　　　　　　There are a lot of people in this world who like to brag about that kind of stuff."
-    },
-    {
-        "message": "I flipped through more entries and found the entry for Dollie Dunwich."
-    },
-    {
-        "message": "『Dollie Dunwich  Born in 1828, died in 1861』"
-    },
-    {
-        "name": "Gardner",
-        "message": "So he was 33 at the time of the incident, huh."
-    },
-    {
-        "message": "　　　　　　　　What else does it say？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Not much, really."
-    },
-    {
-        "message": "　　　　　　　　『Held　a　key　post　at　Miskatonic　University,　and　committed　suicide　with　a　pistol　due　to　mental　derangement.』"
-    },
-    {
-        "name": "Gardner",
-        "message": "Doesn't seem too helpful..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "There's something written about Dollie's father."
-    },
-    {
-        "message": "　　　　　　　　Seems like he had quite an unusual life."
-    },
-    {
-        "message": "『Philip Dunwich, born 1782......』"
-    },
-    {
-        "name": "Jonathan",
-        "message": "The year of his death isn't listed."
-    },
-    {
-        "message": "　　　　　　　　It says he went missing around 1820."
-    },
-    {
-        "name": "Gardner",
-        "message": "Missing？"
-    },
-    {
-        "message": "　　　　　　　　Another disappearance, huh."
-    },
-    {
-        "name": "Jonathan",
-        "message": "No, apparently he was a sailor."
-    },
-    {
-        "message": "　　　　　　　　It says he owns a three-masted speedboat and made a killing trading overseas."
-    },
-    {
-        "name": "Thomas",
-        "message": "Wait a sec, Dollie was born in 1827, right?　　　　　　If her dad Philip went missing around ‘20, then…‥‥‥"
-    },
-    {
-        "name": "Cordelia",
-        "message": "The math doesn't add up."
-    },
-    {
-        "message": "　　　　　　　　Dollie wasn't Philip's own child, right？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "There's no record that the Dunwich widow ever remarried. Well, I guess that's just your usual type of gossip."
-    },
-    {
-        "name": "Thomas",
-        "message": "Besides, didn’t old man Marsh say that Dollie had that classic Innsmouth look?"
-    },
-    {
-        "name": "Thomas",
-        "message": "The Innsmouth look is proof of being part of the Dunwich family, right？"
-    },
-    {
-        "message": "　　　　　　Doesn't add up."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Was Philip really missing？　　　　　　　　Maybe he just pretended to disappear, and was really just hiding somewhere　　　　　　　　the whole time？"
-    },
-    {
-        "name": "Thomas",
-        "message": "I see, it's not impossible to imagine."
-    },
-    {
-        "message": "　　　　　　Every night, he sneaks into the lady's room, getting all intimate..."
-    },
-    {
-        "name": "Gardner",
-        "message": "You don't need to say such vulgar things！"
-    },
-    {
-        "message": "　　　　　　　　Jonathan, what else does it say？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Philip was apparently an indispensable presence for Arkham's prosperity. It says here he especially made his fortune by importing a huge amount of gold."
-    },
-    {
-        "name": "Gardner",
-        "message": "So he was the one who built the refinery too."
-    },
-    {
-        "message": "　　　　　　　　He　really　seemed　like　quite　the　swindler,　didn't　he?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's also true that thanks to that gold, the village prospered.　　　　　　　　　　　　　　　  The reason a university and a train station were built in such a small village was probably because of the power of gold."
-    },
-    {
-        "name": "Gardner",
-        "message": "Maybe Philip was the one who brought in those ruins after all."
-    },
-    {
-        "name": "Jonathan",
-        "message": "As proof that he wasn't just a hustler, it seems he also made big donations to the Monastery."
-    },
-    {
-        "name": "Gardner",
-        "message": "Monastery？"
-    },
-    {
-        "message": "　　　　　　　　I've never seen anything like that."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I've heard about that before."
-    },
-    {
-        "message": "　　　　　　　　They say there's the remains of an old monastery on the hill."
-    },
-    {
-        "name": "Gardner",
-        "message": "跡という事は今は使われておらんのだな。"
-    },
-    {
-        "message": "　　　　　　　　What kind of monastery is this？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It says 'Miskatonic Monastery.'"
-    },
-    {
-        "message": "　　　　　　　　Could it be, the one from my dream..."
-    },
-    {
-        "name": "Gardner",
-        "message": "Miss, do you know where the ruins of the Monastery are？　　　　　　　　It seems like I need to look into it if it's a place connected to the Dunwich family."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I just overheard it too......"
-    },
-    {
-        "message": "　　　　　　　　Sorry, I don't know."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It'd be real convenient if I could get my hands on this village's Map..."
-    },
-    {
-        "name": "Gardner",
-        "message": "It's called the Archives, so it wouldn't be weird if there's a map somewhere. Let's look for it."
-    },
-    {
-        "message": "Go back to the archive"
-    }
+  {
+    "message": "It's the central bookshelf."
+  },
+  {
+    "message": "The books stored here look a lot fancier than the ones on the other shelves."
+  },
+  {
+    "message": "I reached out for a book placed on the shelf."
+  },
+  {
+    "message": "It seems pretty old, and the leather on the gold-stamped cover is really worn out."
+  },
+  {
+    "message": "『Book of Avon』"
+  },
+  {
+    "message": "All I can make out from the faded cover is just the title, and I have no clue who wrote it or when it was published."
+  },
+  {
+    "message": "When I try taking a look inside, I can see that it's not something that's been printed, but handwritten. Looks like it's been copied from the original, just like monks used to do back in the day."
+  },
+  {
+    "message": "This book is......"
+  },
+  {
+    "message": "Looks like it's written in Latin or something."
+  },
+  {
+    "message": "The cover of the book is made by stitching together tanned sheepskin, and the title is written in black ink. You can tell it's an extremely old book, but beyond that you have no clue."
+  },
+  {
+    "message": "Even if you open the book, it's probably just a string of incomprehensible words, just like its appearance, so you don't even feel like bothering to look into it."
+  },
+  {
+    "message": "『The Nameless Cults』"
+  },
+  {
+    "message": "Written by Von Junzt"
+  },
+  {
+    "message": "I've heard about this book somewhere before..."
+  },
+  {
+    "message": "I'm pretty sure it was banned, and everything that had already been printed was supposed to have been burned."
+  },
+  {
+    "message": "I've never read it, but it's probably one of those damn books about devil worship. I don't even want to bother flipping through something like this…"
+  },
+  {
+    "message": "How did such a rare book turn up on the shelves of a backwoods Archives？"
+  },
+  {
+    "message": "I wonder who donated this."
+  },
+  {
+    "message": "『Research on Reanimating Corpses』"
+  },
+  {
+    "message": "Written by Herbert West"
+  },
+  {
+    "message": "This is....."
+  },
+  {
+    "message": "It seems to be something left behind by the only real celebrity to ever come out of Miskatonic University-a doctor who researched nightmares."
+  },
+  {
+    "message": "Raising the dead could be called his life's work, and because of the horrible incidents it caused, it likely stayed out of the public eye for a long time."
+  },
+  {
+    "message": "『In other words, to perform the art of corpse resurrection, fresh corpses are absolutely essential, and that was exactly what troubled me the most.』"
+  },
+  {
+    "message": "You say it like it's no big deal."
+  },
+  {
+    "message": "What a terrifying way to talk about a 'fresh corpse.'"
+  },
+  {
+    "message": "This crazy doctor used the bodies of nameless people as playthings for his own eccentric research."
+  },
+  {
+    "message": "『The fact that artificial resurrection of the dead depends solely on the condition of their tissues is without doubt, and if appropriate measures are taken with corpses whose organs have not decayed, it is possible to restore once again the activity known as life.』"
+  },
+  {
+    "message": "There's no doubt that Herbert West seriously believed in his own theories. I don't know what the results of his experiments were, but thinking about the terrifying incidents they caused, it's probably true that a body that had actually died once started moving as if it had come back to life."
+  },
+  {
+    "message": "『Miskatonic University 1810 to 1861』"
+  },
+  {
+    "message": "Apparently, these are records from the university's founding until it was shut down."
+  },
+  {
+    "message": "Judging from the title written on the cover, it seems this university only lasted 51 years. For an educational institution, I have to say that's shockingly short-lived."
+  },
+  {
+    "message": "Honestly, wasn't it a mistake to build the campus way out in a place this far from the city in the first place?"
+  },
+  {
+    "message": "It's not like there haven't been such cases in the past, but this place was just way too lonely even for students devoted to their studies, and toughing it out for four years must’ve been no ordinary struggle."
+  },
+  {
+    "message": "Maybe it's because of a place like this that an academic like Herbert West, driven to such crazy research, was born."
+  },
+  {
+    "message": "I've already seen the Dunwich family tree."
+  },
+  {
+    "message": "We should check out the Miskatonic Monastery and the Dunwich Mansion."
+  },
+  {
+    "message": "I picked up a book."
+  },
+  {
+    "message": "That book looks like hardly anyone has ever touched it, and for its age, it’s strangely brand new."
+  },
+  {
+    "message": "The binding is extravagant too, with the title and such trimmed in gold leaf in elegant decorative script. And the letters embossed in that gilt..."
+  },
+  {
+    "message": "『Dunwich family　Genealogy』"
+  },
+  {
+    "message": "It's a book that records the family tree of Dunwich family, a prominent family in the village."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Here it is, the Dunwich family's family tree."
+  },
+  {
+    "message": "　　　　　　　　Just as I thought."
+  },
+  {
+    "name": "Gardner",
+    "message": "That's a pretty luxurious thing. I don't know who it was made to show off to, but man, what a stuck-up taste."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Apparently Dunwich is from quite an old family."
+  },
+  {
+    "message": "　　　　　　　　If you believe what's written in this book, you can trace them back to the Tudor dynasty era."
+  },
+  {
+    "name": "Gardner",
+    "message": "Doesn't sound too reliable to me."
+  },
+  {
+    "message": "　　　　　　　　There are a lot of people in this world who like to brag about that kind of stuff."
+  },
+  {
+    "message": "I flipped through more entries and found the entry for Dollie Dunwich."
+  },
+  {
+    "message": "『Dollie Dunwich  Born in 1828, died in 1861』"
+  },
+  {
+    "name": "Gardner",
+    "message": "So he was 33 at the time of the incident, huh."
+  },
+  {
+    "message": "　　　　　　　　What else does it say？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Not much, really."
+  },
+  {
+    "message": "　　　　　　　　『Held　a　key　post　at　Miskatonic　University,　and　committed　suicide　with　a　pistol　due　to　mental　derangement.』"
+  },
+  {
+    "name": "Gardner",
+    "message": "Doesn't seem too helpful..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "There's something written about Dollie's father."
+  },
+  {
+    "message": "　　　　　　　　Seems like he had quite an unusual life."
+  },
+  {
+    "message": "『Philip Dunwich, born 1782......』"
+  },
+  {
+    "name": "Jonathan",
+    "message": "The year of his death isn't listed."
+  },
+  {
+    "message": "　　　　　　　　It says he went missing around 1820."
+  },
+  {
+    "name": "Gardner",
+    "message": "Missing？"
+  },
+  {
+    "message": "　　　　　　　　Another disappearance, huh."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No, apparently he was a sailor."
+  },
+  {
+    "message": "　　　　　　　　It says he owns a three-masted speedboat and made a killing trading overseas."
+  },
+  {
+    "name": "Thomas",
+    "message": "Wait a sec, Dollie was born in 1827, right?　　　　　　If her dad Philip went missing around ‘20, then…‥‥‥"
+  },
+  {
+    "name": "Cordelia",
+    "message": "The math doesn't add up."
+  },
+  {
+    "message": "　　　　　　　　Dollie wasn't Philip's own child, right？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "There's no record that the Dunwich widow ever remarried. Well, I guess that's just your usual type of gossip."
+  },
+  {
+    "name": "Thomas",
+    "message": "Besides, didn’t old man Marsh say that Dollie had that classic Innsmouth look?"
+  },
+  {
+    "name": "Thomas",
+    "message": "The Innsmouth look is proof of being part of the Dunwich family, right？"
+  },
+  {
+    "message": "　　　　　　Doesn't add up."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Was Philip really missing？　　　　　　　　Maybe he just pretended to disappear, and was really just hiding somewhere　　　　　　　　the whole time？"
+  },
+  {
+    "name": "Thomas",
+    "message": "I see, it's not impossible to imagine."
+  },
+  {
+    "message": "　　　　　　Every night, he sneaks into the lady's room, getting all intimate..."
+  },
+  {
+    "name": "Gardner",
+    "message": "You don't need to say such vulgar things！"
+  },
+  {
+    "message": "　　　　　　　　Jonathan, what else does it say？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Philip was apparently an indispensable presence for Arkham's prosperity. It says here he especially made his fortune by importing a huge amount of gold."
+  },
+  {
+    "name": "Gardner",
+    "message": "So he was the one who built the refinery too."
+  },
+  {
+    "message": "　　　　　　　　He　really　seemed　like　quite　the　swindler,　didn't　he?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's also true that thanks to that gold, the village prospered.　　　　　　　　　　　　　　　  The reason a university and a train station were built in such a small village was probably because of the power of gold."
+  },
+  {
+    "name": "Gardner",
+    "message": "Maybe Philip was the one who brought in those ruins after all."
+  },
+  {
+    "name": "Jonathan",
+    "message": "As proof that he wasn't just a hustler, it seems he also made big donations to the Monastery."
+  },
+  {
+    "name": "Gardner",
+    "message": "Monastery？"
+  },
+  {
+    "message": "　　　　　　　　I've never seen anything like that."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I've heard about that before."
+  },
+  {
+    "message": "　　　　　　　　They say there's the remains of an old monastery on the hill."
+  },
+  {
+    "name": "Gardner",
+    "message": "So if it's called remains, that means it's not in use anymore."
+  },
+  {
+    "message": "　　　　　　　　What kind of monastery is this？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It says 'Miskatonic Monastery.'"
+  },
+  {
+    "message": "　　　　　　　　Could it be, the one from my dream..."
+  },
+  {
+    "name": "Gardner",
+    "message": "Miss, do you know where the ruins of the Monastery are？　　　　　　　　It seems like I need to look into it if it's a place connected to the Dunwich family."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I just overheard it too......"
+  },
+  {
+    "message": "　　　　　　　　Sorry, I don't know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It'd be real convenient if I could get my hands on this village's Map..."
+  },
+  {
+    "name": "Gardner",
+    "message": "It's called the Archives, so it wouldn't be weird if there's a map somewhere. Let's look for it."
+  },
+  {
+    "message": "Go back to the archive"
+  }
 ]

@@ -1,326 +1,326 @@
 [
-    {
-        "message": "The corpse of the monster I should've shot dead is gone."
-    },
-    {
-        "message": "Mrs. Hudson probably carried it off somewhere."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Ah......why did it have to come to this......"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Are you still planning to torment me？"
-    },
-    {
-        "name": "Gardner",
-        "message": "Sounds like he's talking to someone."
-    },
-    {
-        "name": "Jonathan",
-        "message": "But it seemed like we were the only ones in the village."
-    },
-    {
-        "message": "　　　　　　　　Besides, I can't imagine Mrs. Hudson casually inviting someone into her own room."
-    },
-    {
-        "name": "Gardner",
-        "message": "See, you can hear the voice right now！"
-    },
-    {
-        "message": "What the heck is going on......"
-    },
-    {
-        "message": "Should I try talking to them?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Hudson-san？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Who..."
-    },
-    {
-        "message": "　　　　　　　　　Is someone there？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's me, Swift！"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Don't come here！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Shit... That was close."
-    },
-    {
-        "name": "Gardner",
-        "message": "Is Hudson gonna be okay？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Mrs. Hudson！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Are you okay？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Yeah.........I'm fine."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's a relief."
-    },
-    {
-        "message": "　　　　　　　　Right now, that guy's popping up all over the village."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "That's right."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You might not know since you weren’t there, madam, but Cordelia and I almost had something really terrible happen to us."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "‥‥‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Speaking of which, where did you go, Mrs. Hudson？　　　　　　　　You’ve been gone since last night‥‥‥‥‥"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "What happened to 'that'？"
-    },
-    {
-        "message": "　　　　　　　　　It sounded like there was a gunshot."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's okay, I killed it."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "I see‥‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's safe now."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "That's right‥‥‥‥now I can feel safe‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Mrs. Hudson？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I heard you talking with someone earlier‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Were you with someone？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Yes, I was."
-    },
-    {
-        "message": "　　　　　　　　　My‥‥‥‥‥‥husband came to see me."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Your husband？"
-    },
-    {
-        "message": "　　　　　　　　What happened, I can't see him."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "‥‥‥‥‥‥"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "My husband is‥‥‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Wh‥‥‥What happened‥‥‥？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "He's dead, just now."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "The one you shot and killed earlier was my husband."
-    },
-    {
-        "name": "Jonathan",
-        "message": "No way‥‥‥‥that's a joke."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "It's not a joke."
-    },
-    {
-        "message": "　　　　　　　　　That really was my husband."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Th-this means‥‥‥um‥‥‥‥"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Ever since you all came to Arkham, I thought this day might　　　　　　　　　come."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why is that？"
-    },
-    {
-        "message": "　　　　　　　　Why are you in that kind of shape..."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "It wasn't like that at first."
-    },
-    {
-        "message": "　　　　　　　　　Back when I came to Arkham, you know."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So, what Thomas was saying was......"
-    },
-    {
-        "message": "　　　　　　　　The stuff about my master and kid that I can't tell anyone about..."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Did you see that？"
-    },
-    {
-        "message": "　　　　　　　　　There’s no point in hiding it now, right?"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "そうよ、わたくしの主人は『深きもの』だわ！"
-    },
-    {
-        "message": "　　　　　　　　　I'm a filthy woman who slept with that bizarre monster and even had its child."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "I didn't know......"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "That's what happens to people in this village when they get old."
-    },
-    {
-        "message": "　　　　　　　　　It's better to be in the sea than living on land."
-    },
-    {
-        "name": "Jonathan",
-        "message": "No way! That can't be!"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "It's true, and on top of that, it varies from person to person. For my husband, it happened when he was still young."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "でもね、それは名誉な事なのよ。"
-    },
-    {
-        "message": "　　　　　　　　　My master was happy."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "He might just be a monster to you, but　　　　　　　　　he's my master！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why did something like that‥‥‥‥"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "I don't know！"
-    },
-    {
-        "message": "　　　　　　　　　But you know, even after all that, I still love my husband.　　　　　　　　　If he wants me, I'll share the Bed with him."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What the hell are those guys?"
-    },
-    {
-        "message": "　　　　　　　　Why do the people in the village end up like that?"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "It doesn't matter."
-    },
-    {
-        "message": "　　　　　　　　　I just hate being left behind all alone, that's all."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "My husband and children are gone, so why am I the only one who has to stay here？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Hudson, come with us."
-    },
-    {
-        "message": "　　　　　　　　We're leaving this village."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "No, I have no intention of doing that, and even if I did, it would be impossible."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'll do it."
-    },
-    {
-        "message": "　　　　　　　　I'll take Cordelia and leave this village."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "It's impossible... especially for you two."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What do you mean？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Please just leave."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What's so wrong about me and Cordelia！"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Please, just leave me alone."
-    },
-    {
-        "message": "　　　　　　　　　I don't even want to see your face."
-    }
+  {
+    "message": "The corpse of the monster I should've shot dead is gone."
+  },
+  {
+    "message": "Mrs. Hudson probably carried it off somewhere."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Ah......why did it have to come to this......"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Are you still planning to torment me？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Sounds like he's talking to someone."
+  },
+  {
+    "name": "Jonathan",
+    "message": "But it seemed like we were the only ones in the village."
+  },
+  {
+    "message": "　　　　　　　　Besides, I can't imagine Mrs. Hudson casually inviting someone into her own room."
+  },
+  {
+    "name": "Gardner",
+    "message": "See, you can hear the voice right now！"
+  },
+  {
+    "message": "What the heck is going on......"
+  },
+  {
+    "message": "Should I try talking to them?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Hudson-san？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Who..."
+  },
+  {
+    "message": "　　　　　　　　　Is someone there？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's me, Swift！"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Don't come here！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Shit... That was close."
+  },
+  {
+    "name": "Gardner",
+    "message": "Is Hudson gonna be okay？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Mrs. Hudson！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Are you okay？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Yeah.........I'm fine."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's a relief."
+  },
+  {
+    "message": "　　　　　　　　Right now, that guy's popping up all over the village."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "That's right."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You might not know since you weren’t there, madam, but Cordelia and I almost had something really terrible happen to us."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "‥‥‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Speaking of which, where did you go, Mrs. Hudson？　　　　　　　　You’ve been gone since last night‥‥‥‥‥"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "What happened to 'that'？"
+  },
+  {
+    "message": "　　　　　　　　　It sounded like there was a gunshot."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's okay, I killed it."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "I see‥‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's safe now."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "That's right‥‥‥‥now I can feel safe‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Mrs. Hudson？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I heard you talking with someone earlier‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Were you with someone？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Yes, I was."
+  },
+  {
+    "message": "　　　　　　　　　My‥‥‥‥‥‥husband came to see me."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Your husband？"
+  },
+  {
+    "message": "　　　　　　　　What happened, I can't see him."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "‥‥‥‥‥‥"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "My husband is‥‥‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Wh‥‥‥What happened‥‥‥？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "He's dead, just now."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "The one you shot and killed earlier was my husband."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No way‥‥‥‥that's a joke."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "It's not a joke."
+  },
+  {
+    "message": "　　　　　　　　　That really was my husband."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Th-this means‥‥‥um‥‥‥‥"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Ever since you all came to Arkham, I thought this day might　　　　　　　　　come."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why is that？"
+  },
+  {
+    "message": "　　　　　　　　Why are you in that kind of shape..."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "It wasn't like that at first."
+  },
+  {
+    "message": "　　　　　　　　　Back when I came to Arkham, you know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So, what Thomas was saying was......"
+  },
+  {
+    "message": "　　　　　　　　The stuff about my master and kid that I can't tell anyone about..."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Did you see that？"
+  },
+  {
+    "message": "　　　　　　　　　There’s no point in hiding it now, right?"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "That』s right, my husband is a Deep One！"
+  },
+  {
+    "message": "　　　　　　　　　I'm a filthy woman who slept with that bizarre monster and even had its child."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "I didn't know......"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "That's what happens to people in this village when they get old."
+  },
+  {
+    "message": "　　　　　　　　　It's better to be in the sea than living on land."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No way! That can't be!"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "It's true, and on top of that, it varies from person to person. For my husband, it happened when he was still young."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "But you know, that's something to be proud of."
+  },
+  {
+    "message": "　　　　　　　　　My master was happy."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "He might just be a monster to you, but　　　　　　　　　he's my master！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why did something like that‥‥‥‥"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "I don't know！"
+  },
+  {
+    "message": "　　　　　　　　　But you know, even after all that, I still love my husband.　　　　　　　　　If he wants me, I'll share the Bed with him."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What the hell are those guys?"
+  },
+  {
+    "message": "　　　　　　　　Why do the people in the village end up like that?"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "It doesn't matter."
+  },
+  {
+    "message": "　　　　　　　　　I just hate being left behind all alone, that's all."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "My husband and children are gone, so why am I the only one who has to stay here？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Hudson, come with us."
+  },
+  {
+    "message": "　　　　　　　　We're leaving this village."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "No, I have no intention of doing that, and even if I did, it would be impossible."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'll do it."
+  },
+  {
+    "message": "　　　　　　　　I'll take Cordelia and leave this village."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "It's impossible... especially for you two."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What do you mean？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Please just leave."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What's so wrong about me and Cordelia！"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Please, just leave me alone."
+  },
+  {
+    "message": "　　　　　　　　　I don't even want to see your face."
+  }
 ]

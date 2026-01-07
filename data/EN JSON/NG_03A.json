@@ -1,329 +1,329 @@
 [
-    {
-        "message": "There's no one here."
-    },
-    {
-        "message": "Looks like Thomas and Nai have already gone home."
-    },
-    {
-        "message": "Even so......"
-    },
-    {
-        "message": "What on earth was that conversation between those two about earlier?"
-    },
-    {
-        "message": "Did Thomas come to Arkham looking for something, and does Nai have a clue about that 'something'？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Why the hell are you talking in such a roundabout way！"
-    },
-    {
-        "message": "　　　　　　You dragged me all the way out to a place like this......"
-    },
-    {
-        "name": "Nai",
-        "message": "It's not like I asked you to come."
-    },
-    {
-        "message": "　　　　　Isn't it just that you followed orders from up top, right？"
-    },
-    {
-        "name": "Nai",
-        "message": "Yeah, it wasn't your own will."
-    },
-    {
-        "message": "　　　　　You shouldn't have the authority to do something like that."
-    },
-    {
-        "name": "Thomas",
-        "message": "What the hell...... you bastard！"
-    },
-    {
-        "message": "Isn't that Thomas over there?"
-    },
-    {
-        "message": "And that towering Black man standing by his side is Nai."
-    },
-    {
-        "message": "They look like they're arguing about something, but I can't really hear them from here."
-    },
-    {
-        "message": "Luckily, neither of them seems to have noticed me."
-    },
-    {
-        "message": "I don't see anyone else moving besides me."
-    },
-    {
-        "message": "It feels like the usual silence has returned to the area."
-    },
-    {
-        "message": "Thomas and Nai are already gone."
-    },
-    {
-        "message": "The church and its surroundings look like they've returned to their usual silence."
-    },
-    {
-        "message": "There's no light to be seen at Nai's church."
-    },
-    {
-        "message": "So, I wonder if Thomas went back to the Fish Scale Inn."
-    },
-    {
-        "message": "This is Nai's church."
-    },
-    {
-        "message": "Looks like there aren’t any devoted believers visiting this late at night."
-    },
-    {
-        "message": "No matter how many times I look, this church has a slightly different vibe from a regular one."
-    },
-    {
-        "message": "What's most bizarre is that there isn't a single bit of decoration typical for churches here, starting with the cross."
-    },
-    {
-        "message": "The decorative plaster spread over the random-rubble stone walls is cracked and peeling here and there after all the wind and snow, exposing the insides made up of different sized stones."
-    },
-    {
-        "message": "There's a relief displayed here with exactly the same design as Thomas's ring."
-    },
-    {
-        "message": "Is Nai part of the same secret society as Thomas？"
-    },
-    {
-        "message": "There's a relief displayed here with exactly the same design as Thomas's ring."
-    },
-    {
-        "message": "The conversation between the two earlier, and now this mysterious coincidence..."
-    },
-    {
-        "message": "I can't help but think there's some sort of connection between Thomas and Nai."
-    },
-    {
-        "message": "Maybe Nai's also a member of the same secret society."
-    },
-    {
-        "message": "Looks like someone’s pretty pissed off."
-    },
-    {
-        "message": "If it were an average guy, that look alone would make him shrink back, but Nai doesn't seem fazed at all."
-    },
-    {
-        "message": "Usually, he's a guy who hardly ever shows a serious face, but for some reason, he seems really pissed off right now."
-    },
-    {
-        "message": "He looks like he's about to lunge at Nai any second, but standing in front of Nai, who's like a mountain even taller than the tall Thomas, he doesn't really seem all that intimidating."
-    },
-    {
-        "message": "Still, I wonder why I'm getting so worked up like this."
-    },
-    {
-        "message": "She doesn't seem fazed at all, even with Thomas showing his anger."
-    },
-    {
-        "message": "Like this, Thomas will probably just be spinning his wheels, getting nowhere at all."
-    },
-    {
-        "message": "今にもつかみかからん勢いのトマスを前にして、いつもどおりの涼しい顔をしている。"
-    },
-    {
-        "message": "Apparently, this guy doesn't show much emotion."
-    },
-    {
-        "message": "Or is it just that from the start, they’ve already decided Thomas is beneath them and aren’t even bothering to take him seriously?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Anyway, if what you guys are talking about... isn't the 'final key', then you'd better be ready for what's coming."
-    },
-    {
-        "name": "Thomas",
-        "message": "Cut it out already！"
-    },
-    {
-        "message": "　　　　　　I don't wanna hear your bullshit in the middle of the fucking night."
-    },
-    {
-        "name": "Thomas",
-        "message": "You bastards might think you can do whatever the hell you want out in the boonies like this, but you do know what'll happen if I contact someone on the outside, right？"
-    },
-    {
-        "name": "Nai",
-        "message": "That's pretty gutsy of you......"
-    },
-    {
-        "message": "　　　　　How are you planning to contact the outside？"
-    },
-    {
-        "name": "Nai",
-        "message": "Do you have the guts to cross that suspension bridge？"
-    },
-    {
-        "name": "Thomas",
-        "message": "‥‥‥‥‥"
-    },
-    {
-        "name": "Nai",
-        "message": "You guys can't take a single step out of this village, and there's neither a phone nor radio in this village."
-    },
-    {
-        "name": "Thomas",
-        "message": "No way......"
-    },
-    {
-        "message": "　　　　　　You didn't mess with the bridge on purpose for that, did you?"
-    },
-    {
-        "name": "Nai",
-        "message": "There's no need to do something like that."
-    },
-    {
-        "message": "　　　　　That bridge has been left abandoned for more than ten years."
-    },
-    {
-        "name": "Thomas",
-        "message": "I wish that were true......"
-    },
-    {
-        "message": "　　　　　　If you're trying to screw me over, you're not getting away with it."
-    },
-    {
-        "name": "Thomas",
-        "message": "How long do you expect me to go along with this half-assed crap?"
-    },
-    {
-        "message": "　　　　　　I'm leaving the village as soon as tomorrow."
-    },
-    {
-        "name": "Nai",
-        "message": "Oh, and how's that?"
-    },
-    {
-        "message": "　　　　　君にあの吊り橋を渡る度胸があるのかな？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Don't mess with me."
-    },
-    {
-        "message": "　　　　　　I've been in way more dangerous situations before."
-    },
-    {
-        "name": "Nai",
-        "message": "Even so, you wouldn't go."
-    },
-    {
-        "message": "　　　　　I've never seen anyone as greedy as you."
-    },
-    {
-        "name": "Thomas",
-        "message": "What did you say......"
-    },
-    {
-        "name": "Nai",
-        "message": "Even if you happened to find the 'Lost key', would you go and report it or something？"
-    },
-    {
-        "name": "Nai",
-        "message": "Even if you got your hands on some unbelievably immense power, you wouldn't be such a good person as to share it with your comrades, would you？"
-    },
-    {
-        "name": "Thomas",
-        "message": "That's something to think about after you find it."
-    },
-    {
-        "name": "Thomas",
-        "message": "Can't be helped, I'll wait a little longer for you."
-    },
-    {
-        "name": "Nai",
-        "message": "I figured you'd say that."
-    },
-    {
-        "message": "　　　　　Anyway, just make sure you stay away from that guy Jonathan."
-    },
-    {
-        "name": "Thomas",
-        "message": "Is that bastard really that important？"
-    },
-    {
-        "message": "　　　　　　He's just some spoiled rich kid."
-    },
-    {
-        "name": "Nai",
-        "message": "That guy's definitely a descendant of the 'Pactmaker'."
-    },
-    {
-        "message": "　　　　　There's no doubt this is the one we've been waiting for over a hundred years."
-    },
-    {
-        "name": "Thomas",
-        "message": "‥‥‥‥‥‥‥‥‥"
-    },
-    {
-        "name": "Nai",
-        "message": "Just go already."
-    },
-    {
-        "message": "The two disappeared into the darkness."
-    },
-    {
-        "message": "I was surprised when my name came up at the end though......"
-    },
-    {
-        "message": "I wonder what kind of scheming those two are plotting."
-    },
-    {
-        "message": "What do I even mean to them......"
-    },
-    {
-        "name": "Nai",
-        "message": "It'd be a problem if they started thinking we're being uncooperative with the Organization."
-    },
-    {
-        "message": "　　　　　There's absolutely no guarantee that what we're after is the 'Lost key' in the first place."
-    },
-    {
-        "name": "Thomas",
-        "message": "This isn't what we agreed on."
-    },
-    {
-        "message": "　　　　　　You kept leading me on with all those teasing words！"
-    },
-    {
-        "name": "Nai",
-        "message": "大体において君らは短気すぎるのだよ。"
-    },
-    {
-        "name": "Nai",
-        "message": "We've been waiting for a hundred years, you know."
-    },
-    {
-        "message": "　　　　　If you're really planning to find the so-called 'Lost key', you'd better take your time with it."
-    },
-    {
-        "name": "Thomas",
-        "message": "Tch, like I can wait that long."
-    },
-    {
-        "name": "Nai",
-        "message": "There's nothing we can do about it."
-    },
-    {
-        "message": "　　　　　We just have to wait until then."
-    },
-    {
-        "name": "Thomas",
-        "message": "What the hell."
-    },
-    {
-        "message": "　　　　　　Even though it might just be a bullshit story."
-    },
-    {
-        "name": "Thomas",
-        "message": "Why the hell do I gotta go along with such a pie-in-the-sky story?"
-    },
-    {
-        "message": "　　　Map　　　"
-    }
+  {
+    "message": "There's no one here."
+  },
+  {
+    "message": "Looks like Thomas and Nai have already gone home."
+  },
+  {
+    "message": "Even so......"
+  },
+  {
+    "message": "What on earth was that conversation between those two about earlier?"
+  },
+  {
+    "message": "Did Thomas come to Arkham looking for something, and does Nai have a clue about that 'something'？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Why the hell are you talking in such a roundabout way！"
+  },
+  {
+    "message": "　　　　　　You dragged me all the way out to a place like this......"
+  },
+  {
+    "name": "Nai",
+    "message": "It's not like I asked you to come."
+  },
+  {
+    "message": "　　　　　Isn't it just that you followed orders from up top, right？"
+  },
+  {
+    "name": "Nai",
+    "message": "Yeah, it wasn't your own will."
+  },
+  {
+    "message": "　　　　　You shouldn't have the authority to do something like that."
+  },
+  {
+    "name": "Thomas",
+    "message": "What the hell...... you bastard！"
+  },
+  {
+    "message": "Isn't that Thomas over there?"
+  },
+  {
+    "message": "And that towering Black man standing by his side is Nai."
+  },
+  {
+    "message": "They look like they're arguing about something, but I can't really hear them from here."
+  },
+  {
+    "message": "Luckily, neither of them seems to have noticed me."
+  },
+  {
+    "message": "I don't see anyone else moving besides me."
+  },
+  {
+    "message": "It feels like the usual silence has returned to the area."
+  },
+  {
+    "message": "Thomas and Nai are already gone."
+  },
+  {
+    "message": "The church and its surroundings look like they've returned to their usual silence."
+  },
+  {
+    "message": "There's no light to be seen at Nai's church."
+  },
+  {
+    "message": "So, I wonder if Thomas went back to the Fish Scale Inn."
+  },
+  {
+    "message": "This is Nai's church."
+  },
+  {
+    "message": "Looks like there aren’t any devoted believers visiting this late at night."
+  },
+  {
+    "message": "No matter how many times I look, this church has a slightly different vibe from a regular one."
+  },
+  {
+    "message": "What's most bizarre is that there isn't a single bit of decoration typical for churches here, starting with the cross."
+  },
+  {
+    "message": "The decorative plaster spread over the random-rubble stone walls is cracked and peeling here and there after all the wind and snow, exposing the insides made up of different sized stones."
+  },
+  {
+    "message": "There's a relief displayed here with exactly the same design as Thomas's ring."
+  },
+  {
+    "message": "Is Nai part of the same secret society as Thomas？"
+  },
+  {
+    "message": "There's a relief displayed here with exactly the same design as Thomas's ring."
+  },
+  {
+    "message": "The conversation between the two earlier, and now this mysterious coincidence..."
+  },
+  {
+    "message": "I can't help but think there's some sort of connection between Thomas and Nai."
+  },
+  {
+    "message": "Maybe Nai's also a member of the same secret society."
+  },
+  {
+    "message": "Looks like someone’s pretty pissed off."
+  },
+  {
+    "message": "If it were an average guy, that look alone would make him shrink back, but Nai doesn't seem fazed at all."
+  },
+  {
+    "message": "Usually, he's a guy who hardly ever shows a serious face, but for some reason, he seems really pissed off right now."
+  },
+  {
+    "message": "He looks like he's about to lunge at Nai any second, but standing in front of Nai, who's like a mountain even taller than the tall Thomas, he doesn't really seem all that intimidating."
+  },
+  {
+    "message": "Still, I wonder why I'm getting so worked up like this."
+  },
+  {
+    "message": "She doesn't seem fazed at all, even with Thomas showing his anger."
+  },
+  {
+    "message": "Like this, Thomas will probably just be spinning his wheels, getting nowhere at all."
+  },
+  {
+    "message": "Facing Thomas, who looked like he was about to pounce any second, she kept her usual calm, cool expression."
+  },
+  {
+    "message": "Apparently, this guy doesn't show much emotion."
+  },
+  {
+    "message": "Or is it just that from the start, they’ve already decided Thomas is beneath them and aren’t even bothering to take him seriously?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Anyway, if what you guys are talking about... isn't the 'final key', then you'd better be ready for what's coming."
+  },
+  {
+    "name": "Thomas",
+    "message": "Cut it out already！"
+  },
+  {
+    "message": "　　　　　　I don't wanna hear your bullshit in the middle of the fucking night."
+  },
+  {
+    "name": "Thomas",
+    "message": "You bastards might think you can do whatever the hell you want out in the boonies like this, but you do know what'll happen if I contact someone on the outside, right？"
+  },
+  {
+    "name": "Nai",
+    "message": "That's pretty gutsy of you......"
+  },
+  {
+    "message": "　　　　　How are you planning to contact the outside？"
+  },
+  {
+    "name": "Nai",
+    "message": "Do you have the guts to cross that suspension bridge？"
+  },
+  {
+    "name": "Thomas",
+    "message": "‥‥‥‥‥"
+  },
+  {
+    "name": "Nai",
+    "message": "You guys can't take a single step out of this village, and there's neither a phone nor radio in this village."
+  },
+  {
+    "name": "Thomas",
+    "message": "No way......"
+  },
+  {
+    "message": "　　　　　　You didn't mess with the bridge on purpose for that, did you?"
+  },
+  {
+    "name": "Nai",
+    "message": "There's no need to do something like that."
+  },
+  {
+    "message": "　　　　　That bridge has been left abandoned for more than ten years."
+  },
+  {
+    "name": "Thomas",
+    "message": "I wish that were true......"
+  },
+  {
+    "message": "　　　　　　If you're trying to screw me over, you're not getting away with it."
+  },
+  {
+    "name": "Thomas",
+    "message": "How long do you expect me to go along with this half-assed crap?"
+  },
+  {
+    "message": "　　　　　　I'm leaving the village as soon as tomorrow."
+  },
+  {
+    "name": "Nai",
+    "message": "Oh, and how's that?"
+  },
+  {
+    "message": "　　　　　Do you have the guts to cross that suspension bridge？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Don't mess with me."
+  },
+  {
+    "message": "　　　　　　I've been in way more dangerous situations before."
+  },
+  {
+    "name": "Nai",
+    "message": "Even so, you wouldn't go."
+  },
+  {
+    "message": "　　　　　I've never seen anyone as greedy as you."
+  },
+  {
+    "name": "Thomas",
+    "message": "What did you say......"
+  },
+  {
+    "name": "Nai",
+    "message": "Even if you happened to find the 'Lost key', would you go and report it or something？"
+  },
+  {
+    "name": "Nai",
+    "message": "Even if you got your hands on some unbelievably immense power, you wouldn't be such a good person as to share it with your comrades, would you？"
+  },
+  {
+    "name": "Thomas",
+    "message": "That's something to think about after you find it."
+  },
+  {
+    "name": "Thomas",
+    "message": "Can't be helped, I'll wait a little longer for you."
+  },
+  {
+    "name": "Nai",
+    "message": "I figured you'd say that."
+  },
+  {
+    "message": "　　　　　Anyway, just make sure you stay away from that guy Jonathan."
+  },
+  {
+    "name": "Thomas",
+    "message": "Is that bastard really that important？"
+  },
+  {
+    "message": "　　　　　　He's just some spoiled rich kid."
+  },
+  {
+    "name": "Nai",
+    "message": "That guy's definitely a descendant of the 'Pactmaker'."
+  },
+  {
+    "message": "　　　　　There's no doubt this is the one we've been waiting for over a hundred years."
+  },
+  {
+    "name": "Thomas",
+    "message": "‥‥‥‥‥‥‥‥‥"
+  },
+  {
+    "name": "Nai",
+    "message": "Just go already."
+  },
+  {
+    "message": "The two disappeared into the darkness."
+  },
+  {
+    "message": "I was surprised when my name came up at the end though......"
+  },
+  {
+    "message": "I wonder what kind of scheming those two are plotting."
+  },
+  {
+    "message": "What do I even mean to them......"
+  },
+  {
+    "name": "Nai",
+    "message": "It'd be a problem if they started thinking we're being uncooperative with the Organization."
+  },
+  {
+    "message": "　　　　　There's absolutely no guarantee that what we're after is the 'Lost key' in the first place."
+  },
+  {
+    "name": "Thomas",
+    "message": "This isn't what we agreed on."
+  },
+  {
+    "message": "　　　　　　You kept leading me on with all those teasing words！"
+  },
+  {
+    "name": "Nai",
+    "message": "You guys are just way too short-tempered, honestly."
+  },
+  {
+    "name": "Nai",
+    "message": "We've been waiting for a hundred years, you know."
+  },
+  {
+    "message": "　　　　　If you're really planning to find the so-called 'Lost key', you'd better take your time with it."
+  },
+  {
+    "name": "Thomas",
+    "message": "Tch, like I can wait that long."
+  },
+  {
+    "name": "Nai",
+    "message": "There's nothing we can do about it."
+  },
+  {
+    "message": "　　　　　We just have to wait until then."
+  },
+  {
+    "name": "Thomas",
+    "message": "What the hell."
+  },
+  {
+    "message": "　　　　　　Even though it might just be a bullshit story."
+  },
+  {
+    "name": "Thomas",
+    "message": "Why the hell do I gotta go along with such a pie-in-the-sky story?"
+  },
+  {
+    "message": "　　　Map　　　"
+  }
 ]

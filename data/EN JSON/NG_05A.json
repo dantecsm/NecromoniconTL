@@ -1,239 +1,239 @@
 [
-    {
-        "message": "It's in front of the Church of Dagon."
-    },
-    {
-        "message": "The suspicious voices of the believers that I could hear from inside the Church until just now are already gone."
-    },
-    {
-        "message": "What the hell was that......"
-    },
-    {
-        "message": "甘い香の匂いに痺れた頭を、冷たい外気が正気に戻してくれるようだ。"
-    },
-    {
-        "message": "From the Church, you can still hear the angry shouts and screams of the believers."
-    },
-    {
-        "message": "Nai said that Cordelia is an important woman for 'Master'."
-    },
-    {
-        "message": "I don't know what 'Contractor' means, but it's gotta be some kind of live sacrifice ritual straight out of medieval black magic."
-    },
-    {
-        "message": "I'm still surprised there are people who believe in that kind of thing, but thinking that they've gone out of their way to spend so many years raising Cordelia for that reason sends chills down my spine."
-    },
-    {
-        "message": "It doesn't look like they're going to start right away, but it seems best to get Cordelia out of the village as soon as possible."
-    },
-    {
-        "message": "At this rate, it's obvious she'll end up as a ritual sacrifice at the hands of those foolish, fanatical villagers."
-    },
-    {
-        "message": "In front of the Church of Dagon."
-    },
-    {
-        "message": "Normally it would be dead silent, and you wouldn't hear a single sound, but right now you can hear some suspicious voices around."
-    },
-    {
-        "message": "Looks like it's coming from inside the Church."
-    },
-    {
-        "message": "I can't really see, but it looks like there's a light on in the window."
-    },
-    {
-        "message": "It looks like something's going on inside though......"
-    },
-    {
-        "message": "What the hell is going on at this hour？"
-    },
-    {
-        "message": "I came in front of the Church of Dagon."
-    },
-    {
-        "message": "Even though the sun is still high, the heavy clouds make everything dark like night, creating a gloomy mood."
-    },
-    {
-        "message": "I arrived in front of the Church of Dagon."
-    },
-    {
-        "message": "まだ陽も高いというのに、厚くかかった雲の為にあたりは夜のように暗く、陰鬱な雰囲気だ。"
-    },
-    {
-        "message": "The building, which doesn’t look like a Church at all, gives no clue from here about what’s inside, and there’s no way to know what kind of suspicious rituals might be going on in there."
-    },
-    {
-        "message": "Cordelia still seems to get uncomfortable just standing in front of the Church, and you can see disgust all over her face."
-    },
-    {
-        "message": "There's no doubt that it's those forgotten memories from her past, ones even she doesn't remember, that make her hate this Church so much."
-    },
-    {
-        "message": "If I could just find even a fragment of those memories, uncovering Cordelia's secret past probably wouldn't be impossible."
-    },
-    {
-        "message": "There's no doubt that what Mrs. Hudson said-that Cordelia was raised here-is the reason why she feels such disgust toward the Church of Dagon."
-    },
-    {
-        "message": "What exactly used to happen here?"
-    },
-    {
-        "message": "If I can find that out, it might be the clue to unraveling the mysterious connection between Cordelia and the Dagon Cult."
-    },
-    {
-        "message": "And that might be the thing that sets off the revelation of my secrets, or this village's."
-    },
-    {
-        "message": "The thought that the strange atmosphere controlling Arkham is caused by the Dagon Cult just won't leave my mind."
-    },
-    {
-        "message": "The eerie prayers, which from inside the Church sounded like either screams or sobs, can no longer be heard now."
-    },
-    {
-        "message": "It looks like the nightmare-like black mass rituals that were said to be held frequently back in the Middle Ages are over now."
-    },
-    {
-        "message": "すると、コーデリアは家に帰ったのだろうか。"
-    },
-    {
-        "message": "Cordelia, who stood before the enormous stained glass, as tall as herself, seemed to have lost consciousness and was in a daze."
-    },
-    {
-        "message": "With that, it's no wonder you don't remember anything afterward."
-    },
-    {
-        "message": "I wonder what Nai is trying to do using Cordelia........"
-    },
-    {
-        "message": "From the Church, you can hear the screams and shrieks let out by Dagon's followers."
-    },
-    {
-        "message": "The ritual still shows no sign of ending."
-    },
-    {
-        "message": "ナイはコーデリアが彼の言う『あるじ』に対する捧物だと言っていた。ダゴンがどんな信仰を持っているのか知らないが、コーデリアを羊か鶏とでも思っているのだろうか。"
-    },
-    {
-        "message": "I want to rush into the Church right now and save Cordelia, but surrounded by so many believers, that's just not possible."
-    },
-    {
-        "message": "Luckily, Nai doesn't seem to be planning to do anything to Cordelia just yet, and she apparently got back safely last night too, so I'll wait for her return at the Pub and then escape the village."
-    },
-    {
-        "message": "It's so noisy you'd never think it's the middle of the night, thanks to the strange sounds coming from inside the Church-crying, wailing, maybe even a chorus of screams from a bunch of people."
-    },
-    {
-        "message": "教会の前である事を考えれば、祈りの声とも思えるが、回教徒達が日に５回もある祈りの時間にマッカに向かって祈る時の、流麗で詩情に溢れる美しい声とは似ても似つかない。"
-    },
-    {
-        "message": "What I feel from this voice is similar to the terrified screams of addicts trying to escape the nightmares brought on by drugs in an opium den."
-    },
-    {
-        "message": "Even though it's daytime, there's a chilling, unsettling air all around the Church."
-    },
-    {
-        "message": "Is it because of what I experienced here that gives me that kind of impression, or does this place really have an accursed past..."
-    },
-    {
-        "message": "Tall trees are standing as if they could reach the heavy, overcast sky."
-    },
-    {
-        "message": "All the trees-like firs and beeches-had grown in weird, twisted shapes from being battered by strong winds, casting an unsettling shadow on the otherwise picturesque landscape."
-    },
-    {
-        "message": "With such a creepy atmosphere, no painter would feel like picking up their brush."
-    },
-    {
-        "message": "With such a creepy atmosphere, no painter would feel like picking up their brush."
-    },
-    {
-        "message": "The commotion from earlier has died down like it was all a lie, and the usual silence is enveloping the Church."
-    },
-    {
-        "message": "Has that nightmare-like ritual that was going on inside finally ended?"
-    },
-    {
-        "message": "Then Cordelia‥‥‥‥‥‥‥"
-    },
-    {
-        "message": "Did they make it home safely, or were they taken away by Nai's hand？"
-    },
-    {
-        "message": "Last night's, Cordelia's disappearance was probably also the work of Nai and the Dagon Cult. The same kind of ritual must have been repeated many times before that, too."
-    },
-    {
-        "message": "In that case, I can't imagine any danger coming to Cordelia..."
-    },
-    {
-        "message": "It seems like the nightmarish ritual is still going on."
-    },
-    {
-        "message": "With so many followers around me, I can’t even manage to help Cordelia."
-    },
-    {
-        "message": "もしも無理矢理コーデリアを連れ出そうとしたら、私ばかりか彼女の命さえ危なくなるかもしれないのだから。"
-    },
-    {
-        "message": "Luckily, it doesn't seem like Nai is about to do something to Cordelia right now. It's probably better to wait for Cordelia to return at the pub."
-    },
-    {
-        "message": "I can't see very well from here, but it looks like the Church's windows are lit up."
-    },
-    {
-        "message": "The sound of countless people screaming, echoing all around, is definitely coming from inside the Church."
-    },
-    {
-        "message": "I wonder what this building is being used for."
-    },
-    {
-        "message": "Nai clearly said 'my Church', but it feels different from the Church I'm used to."
-    },
-    {
-        "message": "The most peculiar thing above all is that this building doesn’t have any of the decorations typical of a Church, starting with the Cross."
-    },
-    {
-        "message": "What exactly is the Dagon Cult after, and what are they trying to do here in Arkham....."
-    },
-    {
-        "message": "It looks like a pretty old building, but it’s not exactly a valuable piece of architecture or anything."
-    },
-    {
-        "message": "More than that, the atmosphere of the building stirs up a kind of hostile feeling. There's not even a shred of the grand impression that the Church usually has."
-    },
-    {
-        "message": "That spine-chilling creepy vibe would make anyone feel disgusted, not just Cordelia."
-    },
-    {
-        "message": "Above the entrance of the Church, there's an emblem bearing the same pattern as Thomas's Ring."
-    },
-    {
-        "message": "It's hard to believe this is just a coincidence."
-    },
-    {
-        "message": "Thomas denies it, but after all, the secret society he's part of and the Dagon Cult probably aren't completely unrelated."
-    },
-    {
-        "message": "What does the 'Lost key' that Thomas was blurting out mean?"
-    },
-    {
-        "message": "I wonder if it's hidden somewhere here in Arkham."
-    },
-    {
-        "message": "腕のいい石工が、慎重な作業で石版に刻み込んだ物に違いない。"
-    },
-    {
-        "message": "The shape of the crest itself isn't that complicated, but judging by how worn the surface is, there's no doubt it's been around for quite a few years."
-    },
-    {
-        "message": "Even so, the fact that it’s not cracked or chipped at all suggests the craftsman who worked on it had some extraordinary skill. Still, I don’t think this emblem is really suitable to be displayed in a Church."
-    },
-    {
-        "message": "To begin with, you could say that the stone tablet that's been put up is one of the reasons this building doesn't really look like a Church."
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "message": "It's in front of the Church of Dagon."
+  },
+  {
+    "message": "The suspicious voices of the believers that I could hear from inside the Church until just now are already gone."
+  },
+  {
+    "message": "What the hell was that......"
+  },
+  {
+    "message": "The cold outside air feels like it clears my head, which was numbed by the sweet fragrance."
+  },
+  {
+    "message": "From the Church, you can still hear the angry shouts and screams of the believers."
+  },
+  {
+    "message": "Nai said that Cordelia is an important woman for 'Master'."
+  },
+  {
+    "message": "I don't know what 'Contractor' means, but it's gotta be some kind of live sacrifice ritual straight out of medieval black magic."
+  },
+  {
+    "message": "I'm still surprised there are people who believe in that kind of thing, but thinking that they've gone out of their way to spend so many years raising Cordelia for that reason sends chills down my spine."
+  },
+  {
+    "message": "It doesn't look like they're going to start right away, but it seems best to get Cordelia out of the village as soon as possible."
+  },
+  {
+    "message": "At this rate, it's obvious she'll end up as a ritual sacrifice at the hands of those foolish, fanatical villagers."
+  },
+  {
+    "message": "In front of the Church of Dagon."
+  },
+  {
+    "message": "Normally it would be dead silent, and you wouldn't hear a single sound, but right now you can hear some suspicious voices around."
+  },
+  {
+    "message": "Looks like it's coming from inside the Church."
+  },
+  {
+    "message": "I can't really see, but it looks like there's a light on in the window."
+  },
+  {
+    "message": "It looks like something's going on inside though......"
+  },
+  {
+    "message": "What the hell is going on at this hour？"
+  },
+  {
+    "message": "I came in front of the Church of Dagon."
+  },
+  {
+    "message": "Even though the sun is still high, the heavy clouds make everything dark like night, creating a gloomy mood."
+  },
+  {
+    "message": "I arrived in front of the Church of Dagon."
+  },
+  {
+    "message": "Even though the sun is still high, thick clouds make everything as dark as night, giving it a gloomy atmosphere."
+  },
+  {
+    "message": "The building, which doesn’t look like a Church at all, gives no clue from here about what’s inside, and there’s no way to know what kind of suspicious rituals might be going on in there."
+  },
+  {
+    "message": "Cordelia still seems to get uncomfortable just standing in front of the Church, and you can see disgust all over her face."
+  },
+  {
+    "message": "There's no doubt that it's those forgotten memories from her past, ones even she doesn't remember, that make her hate this Church so much."
+  },
+  {
+    "message": "If I could just find even a fragment of those memories, uncovering Cordelia's secret past probably wouldn't be impossible."
+  },
+  {
+    "message": "There's no doubt that what Mrs. Hudson said-that Cordelia was raised here-is the reason why she feels such disgust toward the Church of Dagon."
+  },
+  {
+    "message": "What exactly used to happen here?"
+  },
+  {
+    "message": "If I can find that out, it might be the clue to unraveling the mysterious connection between Cordelia and the Dagon Cult."
+  },
+  {
+    "message": "And that might be the thing that sets off the revelation of my secrets, or this village's."
+  },
+  {
+    "message": "The thought that the strange atmosphere controlling Arkham is caused by the Dagon Cult just won't leave my mind."
+  },
+  {
+    "message": "The eerie prayers, which from inside the Church sounded like either screams or sobs, can no longer be heard now."
+  },
+  {
+    "message": "It looks like the nightmare-like black mass rituals that were said to be held frequently back in the Middle Ages are over now."
+  },
+  {
+    "message": "So, did Cordelia go home?"
+  },
+  {
+    "message": "Cordelia, who stood before the enormous stained glass, as tall as herself, seemed to have lost consciousness and was in a daze."
+  },
+  {
+    "message": "With that, it's no wonder you don't remember anything afterward."
+  },
+  {
+    "message": "I wonder what Nai is trying to do using Cordelia........"
+  },
+  {
+    "message": "From the Church, you can hear the screams and shrieks let out by Dagon's followers."
+  },
+  {
+    "message": "The ritual still shows no sign of ending."
+  },
+  {
+    "message": "Nai said Cordelia was an offering to his so-called 'master.' I don't know what kind of faith Dagon has, but do they think of Cordelia like a sheep or a chicken or something?"
+  },
+  {
+    "message": "I want to rush into the Church right now and save Cordelia, but surrounded by so many believers, that's just not possible."
+  },
+  {
+    "message": "Luckily, Nai doesn't seem to be planning to do anything to Cordelia just yet, and she apparently got back safely last night too, so I'll wait for her return at the Pub and then escape the village."
+  },
+  {
+    "message": "It's so noisy you'd never think it's the middle of the night, thanks to the strange sounds coming from inside the Church-crying, wailing, maybe even a chorus of screams from a bunch of people."
+  },
+  {
+    "message": "Considering it's in front of the Church, it might sound like a prayer, but it's nothing like the beautiful, flowing, poetic voices of Muslims praying towards Mecca five times a day."
+  },
+  {
+    "message": "What I feel from this voice is similar to the terrified screams of addicts trying to escape the nightmares brought on by drugs in an opium den."
+  },
+  {
+    "message": "Even though it's daytime, there's a chilling, unsettling air all around the Church."
+  },
+  {
+    "message": "Is it because of what I experienced here that gives me that kind of impression, or does this place really have an accursed past..."
+  },
+  {
+    "message": "Tall trees are standing as if they could reach the heavy, overcast sky."
+  },
+  {
+    "message": "All the trees-like firs and beeches-had grown in weird, twisted shapes from being battered by strong winds, casting an unsettling shadow on the otherwise picturesque landscape."
+  },
+  {
+    "message": "With such a creepy atmosphere, no painter would feel like picking up their brush."
+  },
+  {
+    "message": "With such a creepy atmosphere, no painter would feel like picking up their brush."
+  },
+  {
+    "message": "The commotion from earlier has died down like it was all a lie, and the usual silence is enveloping the Church."
+  },
+  {
+    "message": "Has that nightmare-like ritual that was going on inside finally ended?"
+  },
+  {
+    "message": "Then Cordelia‥‥‥‥‥‥‥"
+  },
+  {
+    "message": "Did they make it home safely, or were they taken away by Nai's hand？"
+  },
+  {
+    "message": "Last night's, Cordelia's disappearance was probably also the work of Nai and the Dagon Cult. The same kind of ritual must have been repeated many times before that, too."
+  },
+  {
+    "message": "In that case, I can't imagine any danger coming to Cordelia..."
+  },
+  {
+    "message": "It seems like the nightmarish ritual is still going on."
+  },
+  {
+    "message": "With so many followers around me, I can’t even manage to help Cordelia."
+  },
+  {
+    "message": "If I tried to forcefully take Cordelia out, not just me, but even her life might be in danger."
+  },
+  {
+    "message": "Luckily, it doesn't seem like Nai is about to do something to Cordelia right now. It's probably better to wait for Cordelia to return at the pub."
+  },
+  {
+    "message": "I can't see very well from here, but it looks like the Church's windows are lit up."
+  },
+  {
+    "message": "The sound of countless people screaming, echoing all around, is definitely coming from inside the Church."
+  },
+  {
+    "message": "I wonder what this building is being used for."
+  },
+  {
+    "message": "Nai clearly said 'my Church', but it feels different from the Church I'm used to."
+  },
+  {
+    "message": "The most peculiar thing above all is that this building doesn’t have any of the decorations typical of a Church, starting with the Cross."
+  },
+  {
+    "message": "What exactly is the Dagon Cult after, and what are they trying to do here in Arkham....."
+  },
+  {
+    "message": "It looks like a pretty old building, but it’s not exactly a valuable piece of architecture or anything."
+  },
+  {
+    "message": "More than that, the atmosphere of the building stirs up a kind of hostile feeling. There's not even a shred of the grand impression that the Church usually has."
+  },
+  {
+    "message": "That spine-chilling creepy vibe would make anyone feel disgusted, not just Cordelia."
+  },
+  {
+    "message": "Above the entrance of the Church, there's an emblem bearing the same pattern as Thomas's Ring."
+  },
+  {
+    "message": "It's hard to believe this is just a coincidence."
+  },
+  {
+    "message": "Thomas denies it, but after all, the secret society he's part of and the Dagon Cult probably aren't completely unrelated."
+  },
+  {
+    "message": "What does the 'Lost key' that Thomas was blurting out mean?"
+  },
+  {
+    "message": "I wonder if it's hidden somewhere here in Arkham."
+  },
+  {
+    "message": "It must have been carved into the stone tablet by a skilled stonemason through careful work."
+  },
+  {
+    "message": "The shape of the crest itself isn't that complicated, but judging by how worn the surface is, there's no doubt it's been around for quite a few years."
+  },
+  {
+    "message": "Even so, the fact that it’s not cracked or chipped at all suggests the craftsman who worked on it had some extraordinary skill. Still, I don’t think this emblem is really suitable to be displayed in a Church."
+  },
+  {
+    "message": "To begin with, you could say that the stone tablet that's been put up is one of the reasons this building doesn't really look like a Church."
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

@@ -1,211 +1,211 @@
 [
-    {
-        "message": "In front of the Archives."
-    },
-    {
-        "message": "Thomas took Cordelia and escaped from the president's office in this building."
-    },
-    {
-        "message": "No way they'd come back here again, right?"
-    },
-    {
-        "message": "Now's not the time to waste a single second. Wouldn't it be better to search places where they're more likely to be?"
-    },
-    {
-        "message": "I'm in front of the Archives again."
-    },
-    {
-        "message": "I've already checked this place so many times though......"
-    },
-    {
-        "message": "I can't find the Necronomicon anywhere, so maybe I should check inside again？"
-    },
-    {
-        "message": "Maybe it's hidden in Dollie's study at Dunwich Mansion or something, there shouldn't be any other place I haven't seen even once."
-    },
-    {
-        "message": "But that room is locked."
-    },
-    {
-        "message": "とすると書斎の鍵を先に探さなければならない。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Don't be too disappointed, okay?"
-    },
-    {
-        "message": "　　　　　　　　If　you　keep　looking　steadily,　you'll　find　it　eventually."
-    },
-    {
-        "message": "This is the village archives, which used to be called Miskatonic University."
-    },
-    {
-        "message": "There are tons of books in this building, but I've already checked out most of them before."
-    },
-    {
-        "message": "It's not impossible that someone is hiding among us, but we should probably check out some other places too."
-    },
-    {
-        "message": "For now, the president's office that Dollie used looks suspicious."
-    },
-    {
-        "message": "If Dorothy isn't at the front desk, it's not hard to sneak into the room."
-    },
-    {
-        "message": "In the sky beyond the towering brick building, thick clouds still hang, looking like they're about to crush the old building."
-    },
-    {
-        "message": "In Arkham, where most houses are at most two stories high, this Archives building is the only high-rise; it almost looks like the only pillar holding up the sky."
-    },
-    {
-        "message": "How much longer will this brick building, given a solitary and noble life, be able to fulfill its role?"
-    },
-    {
-        "message": "As if to further intensify Arkham's gloomy and damp atmosphere, the thick clouds show no sign of clearing up."
-    },
-    {
-        "message": "This must be one of the most unsuitable places for people to live even on Great Britain Island."
-    },
-    {
-        "message": "How many days in a year do the villagers living here actually get to see the sun? Or maybe this unsettling weather is because of us-out-of-place intruders who've come into Arkham."
-    },
-    {
-        "message": "A university being built in such a backwater village probably only happened thanks to the money Philip Dunwich brought in."
-    },
-    {
-        "message": "Dollie Dunwich ended up becoming the last president of the university that his father built through his own strength."
-    },
-    {
-        "message": "Maybe that was a burden for Dollie too."
-    },
-    {
-        "message": "When his father disappeared and their savings ran out, the village's wealth quickly started to decline."
-    },
-    {
-        "message": "People who had taken an interest in Arkham gradually began to leave the village......"
-    },
-    {
-        "message": "I bet the villagers probably made Dollie, the last head of the Dunwich family that supported the village, into their scapegoat."
-    },
-    {
-        "message": "The sharply slanted roof is reminiscent of the bell tower at the church."
-    },
-    {
-        "message": "Either way, it just seems way too unnatural to be a university building......"
-    },
-    {
-        "message": "What did Philip Dunwich, who established Miskatonic University here, want from the university?"
-    },
-    {
-        "message": "The steep roof and clerestory windows must have been modeled after the University Museum in Oxford where my alma mater is; they remind me of that place."
-    },
-    {
-        "message": "Did Philip Dunwich, the founder of the university, want to turn Arkham into a city like Oxford, with rows of Gothic spires?"
-    },
-    {
-        "message": "If that's the case, then he's not the kind of money-grubber I thought he was."
-    },
-    {
-        "message": "You can picture him as a decent guy, like a lord from ancient times who just wanted his land to prosper."
-    },
-    {
-        "message": "He probably used to stand proud and imposing, but looking at how some of the slate is peeling off here and there, you can’t feel any of that dignity anymore."
-    },
-    {
-        "message": "Doesn't look like there's anyone around to even close the entrance."
-    },
-    {
-        "message": "Just like when we came in, the gate is still left open."
-    },
-    {
-        "message": "コーデリアが連れ去られ、錯乱状態になった私をたったひとりで魚鱗亭まで連れていったガードナーは、見かけによらずかなりの腕力の持ち主のようだ。"
-    },
-    {
-        "message": "Passing through the massive gate, I come out into a place that used to be a courtyard. It probably used to have a corridor surrounding it, serving as a place for students to relax, but now there's not a trace left of how it used to be."
-    },
-    {
-        "message": "Even now, only a small section of the huge school building is usable, and the rest has been left to completely decay."
-    },
-    {
-        "message": "If Philip Dunwich saw this scene, he might be furious at how pathetic it is, but the reason things turned out this way lies with him."
-    },
-    {
-        "message": "They were probably afraid their wealth would be snatched away, but as for how to get money, only Philip knew the method, and once he disappeared, no one could stop Arkham's decline."
-    },
-    {
-        "message": "Passing through the door left wide open, it seems like inside is a grassy garden."
-    },
-    {
-        "message": "Judging from the outside of the building, it's easy to imagine just how run-down the garden must be too."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Let's try going inside."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I feel like it wouldn't be weird for the Archives to have a Necronomicon."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It probably won't be easy to find just one book out of that mountain of books, but I'll keep at it for as many days as it takes until I find it."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I already pretty much went through the bookshelves when I was looking for the Dunwich family tree before."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I think the Necronomicon is somewhere else."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Another place？"
-    },
-    {
-        "message": "　　　　　　　　We　even　checked　out　Dollie's　principal's　office,　didn't　we?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "それらしい本は見ていないわよ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's why I think maybe it's hidden somewhere even harder to find."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Which part is hard to understand？"
-    },
-    {
-        "message": "　　　　　　　　たとえばどんな所なのよ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, like inside the walls, or maybe peeling back the carpet to check under the floor........."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It's cold......"
-    },
-    {
-        "message": "　　　　　　　　Maybe it's because I was out in the wind for so long at the Ruins, but I'm freezing and just can't stop shivering."
-    },
-    {
-        "name": "Jonathan",
-        "message": "There was a fireplace in Dollie's headmaster's office."
-    },
-    {
-        "message": "　　　　　　　　If　that　thing's　still　usable,　we　could　warm　up."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I can't hold it anymore, let's go, okay？"
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　中に入る　　"
-    }
+  {
+    "message": "In front of the Archives."
+  },
+  {
+    "message": "Thomas took Cordelia and escaped from the president's office in this building."
+  },
+  {
+    "message": "No way they'd come back here again, right?"
+  },
+  {
+    "message": "Now's not the time to waste a single second. Wouldn't it be better to search places where they're more likely to be?"
+  },
+  {
+    "message": "I'm in front of the Archives again."
+  },
+  {
+    "message": "I've already checked this place so many times though......"
+  },
+  {
+    "message": "I can't find the Necronomicon anywhere, so maybe I should check inside again？"
+  },
+  {
+    "message": "Maybe it's hidden in Dollie's study at Dunwich Mansion or something, there shouldn't be any other place I haven't seen even once."
+  },
+  {
+    "message": "But that room is locked."
+  },
+  {
+    "message": "Which means I need to find the key to the Study first."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Don't be too disappointed, okay?"
+  },
+  {
+    "message": "　　　　　　　　If　you　keep　looking　steadily,　you'll　find　it　eventually."
+  },
+  {
+    "message": "This is the village archives, which used to be called Miskatonic University."
+  },
+  {
+    "message": "There are tons of books in this building, but I've already checked out most of them before."
+  },
+  {
+    "message": "It's not impossible that someone is hiding among us, but we should probably check out some other places too."
+  },
+  {
+    "message": "For now, the president's office that Dollie used looks suspicious."
+  },
+  {
+    "message": "If Dorothy isn't at the front desk, it's not hard to sneak into the room."
+  },
+  {
+    "message": "In the sky beyond the towering brick building, thick clouds still hang, looking like they're about to crush the old building."
+  },
+  {
+    "message": "In Arkham, where most houses are at most two stories high, this Archives building is the only high-rise; it almost looks like the only pillar holding up the sky."
+  },
+  {
+    "message": "How much longer will this brick building, given a solitary and noble life, be able to fulfill its role?"
+  },
+  {
+    "message": "As if to further intensify Arkham's gloomy and damp atmosphere, the thick clouds show no sign of clearing up."
+  },
+  {
+    "message": "This must be one of the most unsuitable places for people to live even on Great Britain Island."
+  },
+  {
+    "message": "How many days in a year do the villagers living here actually get to see the sun? Or maybe this unsettling weather is because of us-out-of-place intruders who've come into Arkham."
+  },
+  {
+    "message": "A university being built in such a backwater village probably only happened thanks to the money Philip Dunwich brought in."
+  },
+  {
+    "message": "Dollie Dunwich ended up becoming the last president of the university that his father built through his own strength."
+  },
+  {
+    "message": "Maybe that was a burden for Dollie too."
+  },
+  {
+    "message": "When his father disappeared and their savings ran out, the village's wealth quickly started to decline."
+  },
+  {
+    "message": "People who had taken an interest in Arkham gradually began to leave the village......"
+  },
+  {
+    "message": "I bet the villagers probably made Dollie, the last head of the Dunwich family that supported the village, into their scapegoat."
+  },
+  {
+    "message": "The sharply slanted roof is reminiscent of the bell tower at the church."
+  },
+  {
+    "message": "Either way, it just seems way too unnatural to be a university building......"
+  },
+  {
+    "message": "What did Philip Dunwich, who established Miskatonic University here, want from the university?"
+  },
+  {
+    "message": "The steep roof and clerestory windows must have been modeled after the University Museum in Oxford where my alma mater is; they remind me of that place."
+  },
+  {
+    "message": "Did Philip Dunwich, the founder of the university, want to turn Arkham into a city like Oxford, with rows of Gothic spires?"
+  },
+  {
+    "message": "If that's the case, then he's not the kind of money-grubber I thought he was."
+  },
+  {
+    "message": "You can picture him as a decent guy, like a lord from ancient times who just wanted his land to prosper."
+  },
+  {
+    "message": "He probably used to stand proud and imposing, but looking at how some of the slate is peeling off here and there, you can’t feel any of that dignity anymore."
+  },
+  {
+    "message": "Doesn't look like there's anyone around to even close the entrance."
+  },
+  {
+    "message": "Just like when we came in, the gate is still left open."
+  },
+  {
+    "message": "Gardner, who took Cordelia away and then somehow managed to carry me all by himself to the Fish Scale Inn while I was freaking out, must actually be a lot stronger than he looks."
+  },
+  {
+    "message": "Passing through the massive gate, I come out into a place that used to be a courtyard. It probably used to have a corridor surrounding it, serving as a place for students to relax, but now there's not a trace left of how it used to be."
+  },
+  {
+    "message": "Even now, only a small section of the huge school building is usable, and the rest has been left to completely decay."
+  },
+  {
+    "message": "If Philip Dunwich saw this scene, he might be furious at how pathetic it is, but the reason things turned out this way lies with him."
+  },
+  {
+    "message": "They were probably afraid their wealth would be snatched away, but as for how to get money, only Philip knew the method, and once he disappeared, no one could stop Arkham's decline."
+  },
+  {
+    "message": "Passing through the door left wide open, it seems like inside is a grassy garden."
+  },
+  {
+    "message": "Judging from the outside of the building, it's easy to imagine just how run-down the garden must be too."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Let's try going inside."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I feel like it wouldn't be weird for the Archives to have a Necronomicon."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It probably won't be easy to find just one book out of that mountain of books, but I'll keep at it for as many days as it takes until I find it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I already pretty much went through the bookshelves when I was looking for the Dunwich family tree before."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I think the Necronomicon is somewhere else."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Another place？"
+  },
+  {
+    "message": "　　　　　　　　We　even　checked　out　Dollie's　principal's　office,　didn't　we?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I haven't seen any books like that."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's why I think maybe it's hidden somewhere even harder to find."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Which part is hard to understand？"
+  },
+  {
+    "message": "　　　　　　　　Like,　what　kind　of　place　are　we　talking　about?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, like inside the walls, or maybe peeling back the carpet to check under the floor........."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It's cold......"
+  },
+  {
+    "message": "　　　　　　　　Maybe it's because I was out in the wind for so long at the Ruins, but I'm freezing and just can't stop shivering."
+  },
+  {
+    "name": "Jonathan",
+    "message": "There was a fireplace in Dollie's headmaster's office."
+  },
+  {
+    "message": "　　　　　　　　If　that　thing's　still　usable,　we　could　warm　up."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I can't hold it anymore, let's go, okay？"
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

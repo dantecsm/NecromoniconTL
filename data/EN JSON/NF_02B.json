@@ -1,335 +1,335 @@
 [
-    {
-        "name": "Cordelia",
-        "message": "Mr. Marsh！"
-    },
-    {
-        "message": "　　　　　　　　Where did you go? I've been looking for you the whole time."
-    },
-    {
-        "name": "Marsh",
-        "message": "Even a half-dead old geezer like me's got things he's gotta do."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I searched the whole village for you."
-    },
-    {
-        "message": "　　　　　　　　I　was　worried　you　might've　lost　it　or　something."
-    },
-    {
-        "name": "Marsh",
-        "message": "You say things that make this old man happy."
-    },
-    {
-        "message": "　　　　　　　A young lady worrying about me, huh."
-    },
-    {
-        "name": "Marsh",
-        "message": "Would've been even better if it weren't for that annoying lump behind you."
-    },
-    {
-        "message": "　　　　　　　I don't want you coming and going here too often."
-    },
-    {
-        "message": "There's absolutely nothing left in the ship's hold."
-    },
-    {
-        "message": "Wine bottles and other traces of life are scattered all over the room, but that's nothing new, and it doesn't really help figure out when the owner of the room disappeared."
-    },
-    {
-        "name": "Cordelia",
-        "message": "There's no one here."
-    },
-    {
-        "message": "　　　　　　　　Where could Mr. Marsh have gone?"
-    },
-    {
-        "name": "Gardner",
-        "message": "Maybe he went to the ruins again."
-    },
-    {
-        "message": "　　　　　　　　For me, that's the only place I can think of that old man might go."
-    },
-    {
-        "name": "Jonathan",
-        "message": "He could've gone to the Gilman House."
-    },
-    {
-        "message": "　　　　　　　　Maybe he ran out of booze."
-    },
-    {
-        "name": "Cordelia",
-        "message": "If that's the case, I feel kinda bad for Mr. Marsh."
-    },
-    {
-        "message": "Because of the unreliable boards of the ship's belly, the room feels strangely heavy and oppressive. I can't believe Marsh can live in a place like this."
-    },
-    {
-        "message": "There’s nothing in the room to prove that this is inside a ship. The walls to the left and right are rounded at the top and bottom because this is the hold, and just a single plank away on the other side is the water."
-    },
-    {
-        "message": "I can’t believe Marsh is able to sleep in a place like this."
-    },
-    {
-        "message": "From the way the ship looks, it wouldn’t be strange at all if it started flooding at any moment. There doesn’t seem to be a bathroom or a toilet either, so I wonder where Marsh does his business."
-    },
-    {
-        "message": "Even seeing us, he doesn’t look the least bit flustered."
-    },
-    {
-        "message": "Actually, if anything, he even gives off a vibe like he’s satisfied after accomplishing something."
-    },
-    {
-        "message": "Compared to when I saw him before, he looks a bit healthier now."
-    },
-    {
-        "message": "I can’t tell if his worries have been taken away, or if the alcohol is suppressing his anxiety, but it’s still better than having him faint right in front of us."
-    },
-    {
-        "message": "When something gets this dirty, no matter how hard you wash it, there’s no way to bring it back. If I were the master of this room, I’d just chuck it straight out the window."
-    },
-    {
-        "message": "It looks like the sheet hasn’t been changed for years."
-    },
-    {
-        "message": "The white linen is stained black with grime, and covered in all sorts of food stains and such."
-    },
-    {
-        "message": "Even prisoners held in jail probably live a bit cleaner than this. It's a sight that would make anyone, not just Thomas, want to look away."
-    },
-    {
-        "message": "It's not Thomas, but if I hang around a place like this too long, I'll probably catch some nasty disease."
-    },
-    {
-        "message": "Doesn't look like it's been cleaned properly at all. The floor is cluttered with all sorts of suspicious rags and empty bottles of cheap liquor scattered everywhere."
-    },
-    {
-        "message": "From this room, you can practically feel just how messed up the resident's heart is. I don't know what caused it, but Marsh probably doesn't care about being alive anymore."
-    },
-    {
-        "name": "Marsh",
-        "message": "This is really all I can do."
-    },
-    {
-        "message": "　　　　　　　I do think it's my duty to see through to the end what kind of results your investigation will bring about, but......"
-    },
-    {
-        "name": "Marsh",
-        "message": "I wonder if I'll even be alive by then..."
-    },
-    {
-        "name": "Marsh",
-        "message": "Why are you folks so hung up on something like this?"
-    },
-    {
-        "message": "　　　　　　　It's got nothing to do with you at all."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's not that it has nothing to do with me."
-    },
-    {
-        "name": "Marsh",
-        "message": "What do you mean？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "There's a woman from Arkham in my family line."
-    },
-    {
-        "message": "　　　　　　　　For　some　reason,　my　family　shunned　her,　and　even　saying　her　name　was　treated　like　a　taboo."
-    },
-    {
-        "name": "Marsh",
-        "message": "What did you say？"
-    },
-    {
-        "message": "　　　　　　　Well then........"
-    },
-    {
-        "name": "Jonathan",
-        "message": "When you looked at my face and said I looked like someone from the Dunwich family, I thought the same thing as you."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I started thinking maybe I'm the one who inherited the blood of the Dunwich family."
-    },
-    {
-        "name": "Marsh",
-        "message": "There's no way that's true......"
-    },
-    {
-        "name": "Marsh",
-        "message": "Dollie should have taken care of everything！"
-    },
-    {
-        "message": "　　　　　　　If something like that were to happen........."
-    },
-    {
-        "name": "Marsh",
-        "message": "What the hell did that guy do?"
-    },
-    {
-        "message": "　　　　　　　I’ve never believed in things like gods up until now."
-    },
-    {
-        "name": "Marsh",
-        "message": "But, if that's the case......"
-    },
-    {
-        "message": "　　　　　　　I'll probably resent God."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's why I want to look into it."
-    },
-    {
-        "message": "　　　　　　　　Whether I'm really related by blood to Dunwich."
-    },
-    {
-        "name": "Marsh",
-        "message": "Got it....."
-    },
-    {
-        "name": "Marsh",
-        "message": "Do whatever you want."
-    },
-    {
-        "message": "　　　　　　　Take this with you."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What's this？"
-    },
-    {
-        "name": "Marsh",
-        "message": "This is the key to the room at the Dunwitch Mansion that I took custody of."
-    },
-    {
-        "message": "　　　　　　　There are four, but that's not all of them."
-    },
-    {
-        "name": "Jonathan",
-        "message": "他にもまだあるんですか？"
-    },
-    {
-        "name": "Marsh",
-        "message": "わしが持っているのはこれだけじゃ。"
-    },
-    {
-        "message": "　　　　　　　I threw away the key to the other room, Dollie's study."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why is that?"
-    },
-    {
-        "name": "Marsh",
-        "message": "Because it’s Dollie’s last will."
-    },
-    {
-        "message": "　　　　　　　After my corpse gets carried out, seal up the room as soon as you can, and throw away the key."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Don't you have a spare key?"
-    },
-    {
-        "name": "Marsh",
-        "message": "いくつかあっただろうが、ドルリイが始末してしまった　　　　　　　ようだ。"
-    },
-    {
-        "name": "Marsh",
-        "message": "I don't know if it was thrown away or hidden."
-    },
-    {
-        "message": "　　　　　　　しかし、何処かにあるのではないかという気はする。"
-    },
-    {
-        "name": "Marsh",
-        "message": "What are you here for."
-    },
-    {
-        "message": "　　　　　　　Do you still need something from me？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Just like you told me, I’ve been looking into the 『Dunwich Incident’."
-    },
-    {
-        "name": "Marsh",
-        "message": "So？"
-    },
-    {
-        "message": "　　　　　　　You've already checked everything, right? Is there still something missing?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I got interested in a guy named Dollie Dunwich."
-    },
-    {
-        "message": "　　　　　　　　それと、彼の家系にもね。"
-    },
-    {
-        "name": "Marsh",
-        "message": "If you get interested in stuff like that, nothing good's gonna come of it."
-    },
-    {
-        "message": "　　　　　　　Just look at me now！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "The old man who guards the graves was saying this."
-    },
-    {
-        "message": "　　　　　　　　You and Dollie were best friends."
-    },
-    {
-        "name": "Marsh",
-        "message": "‥‥‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "So, you were really fixated on the 'Dunwich Incident,' huh."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I couldn't stand people saying my best friend Dollie was a lunatic."
-    },
-    {
-        "name": "Marsh",
-        "message": "Dollie really wasn't crazy at all."
-    },
-    {
-        "message": "　　　　　　　That guy found out."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What is it？"
-    },
-    {
-        "message": "　　　　　　　　What kind of truth is so important that you have to kill even your own wife and kids?"
-    },
-    {
-        "name": "Marsh",
-        "message": "Like I care."
-    },
-    {
-        "message": "　　　　　　　It　was　over　60　years　ago.　What's　the　point　in　digging　it　up　now,　huh."
-    },
-    {
-        "name": "Jonathan",
-        "message": "In fact, you're still hung up on the 'Dunwich Incident', aren't you?"
-    },
-    {
-        "name": "Marsh",
-        "message": "That's not it......"
-    },
-    {
-        "message": "　　　　　　　It's not over yet."
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "name": "Cordelia",
+    "message": "Mr. Marsh！"
+  },
+  {
+    "message": "　　　　　　　　Where did you go? I've been looking for you the whole time."
+  },
+  {
+    "name": "Marsh",
+    "message": "Even a half-dead old geezer like me's got things he's gotta do."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I searched the whole village for you."
+  },
+  {
+    "message": "　　　　　　　　I　was　worried　you　might've　lost　it　or　something."
+  },
+  {
+    "name": "Marsh",
+    "message": "You say things that make this old man happy."
+  },
+  {
+    "message": "　　　　　　　A young lady worrying about me, huh."
+  },
+  {
+    "name": "Marsh",
+    "message": "Would've been even better if it weren't for that annoying lump behind you."
+  },
+  {
+    "message": "　　　　　　　I don't want you coming and going here too often."
+  },
+  {
+    "message": "There's absolutely nothing left in the ship's hold."
+  },
+  {
+    "message": "Wine bottles and other traces of life are scattered all over the room, but that's nothing new, and it doesn't really help figure out when the owner of the room disappeared."
+  },
+  {
+    "name": "Cordelia",
+    "message": "There's no one here."
+  },
+  {
+    "message": "　　　　　　　　Where could Mr. Marsh have gone?"
+  },
+  {
+    "name": "Gardner",
+    "message": "Maybe he went to the ruins again."
+  },
+  {
+    "message": "　　　　　　　　For me, that's the only place I can think of that old man might go."
+  },
+  {
+    "name": "Jonathan",
+    "message": "He could've gone to the Gilman House."
+  },
+  {
+    "message": "　　　　　　　　Maybe he ran out of booze."
+  },
+  {
+    "name": "Cordelia",
+    "message": "If that's the case, I feel kinda bad for Mr. Marsh."
+  },
+  {
+    "message": "Because of the unreliable boards of the ship's belly, the room feels strangely heavy and oppressive. I can't believe Marsh can live in a place like this."
+  },
+  {
+    "message": "There’s nothing in the room to prove that this is inside a ship. The walls to the left and right are rounded at the top and bottom because this is the hold, and just a single plank away on the other side is the water."
+  },
+  {
+    "message": "I can’t believe Marsh is able to sleep in a place like this."
+  },
+  {
+    "message": "From the way the ship looks, it wouldn’t be strange at all if it started flooding at any moment. There doesn’t seem to be a bathroom or a toilet either, so I wonder where Marsh does his business."
+  },
+  {
+    "message": "Even seeing us, he doesn’t look the least bit flustered."
+  },
+  {
+    "message": "Actually, if anything, he even gives off a vibe like he’s satisfied after accomplishing something."
+  },
+  {
+    "message": "Compared to when I saw him before, he looks a bit healthier now."
+  },
+  {
+    "message": "I can’t tell if his worries have been taken away, or if the alcohol is suppressing his anxiety, but it’s still better than having him faint right in front of us."
+  },
+  {
+    "message": "When something gets this dirty, no matter how hard you wash it, there’s no way to bring it back. If I were the master of this room, I’d just chuck it straight out the window."
+  },
+  {
+    "message": "It looks like the sheet hasn’t been changed for years."
+  },
+  {
+    "message": "The white linen is stained black with grime, and covered in all sorts of food stains and such."
+  },
+  {
+    "message": "Even prisoners held in jail probably live a bit cleaner than this. It's a sight that would make anyone, not just Thomas, want to look away."
+  },
+  {
+    "message": "It's not Thomas, but if I hang around a place like this too long, I'll probably catch some nasty disease."
+  },
+  {
+    "message": "Doesn't look like it's been cleaned properly at all. The floor is cluttered with all sorts of suspicious rags and empty bottles of cheap liquor scattered everywhere."
+  },
+  {
+    "message": "From this room, you can practically feel just how messed up the resident's heart is. I don't know what caused it, but Marsh probably doesn't care about being alive anymore."
+  },
+  {
+    "name": "Marsh",
+    "message": "This is really all I can do."
+  },
+  {
+    "message": "　　　　　　　I do think it's my duty to see through to the end what kind of results your investigation will bring about, but......"
+  },
+  {
+    "name": "Marsh",
+    "message": "I wonder if I'll even be alive by then..."
+  },
+  {
+    "name": "Marsh",
+    "message": "Why are you folks so hung up on something like this?"
+  },
+  {
+    "message": "　　　　　　　It's got nothing to do with you at all."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's not that it has nothing to do with me."
+  },
+  {
+    "name": "Marsh",
+    "message": "What do you mean？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "There's a woman from Arkham in my family line."
+  },
+  {
+    "message": "　　　　　　　　For　some　reason,　my　family　shunned　her,　and　even　saying　her　name　was　treated　like　a　taboo."
+  },
+  {
+    "name": "Marsh",
+    "message": "What did you say？"
+  },
+  {
+    "message": "　　　　　　　Well then........"
+  },
+  {
+    "name": "Jonathan",
+    "message": "When you looked at my face and said I looked like someone from the Dunwich family, I thought the same thing as you."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I started thinking maybe I'm the one who inherited the blood of the Dunwich family."
+  },
+  {
+    "name": "Marsh",
+    "message": "There's no way that's true......"
+  },
+  {
+    "name": "Marsh",
+    "message": "Dollie should have taken care of everything！"
+  },
+  {
+    "message": "　　　　　　　If something like that were to happen........."
+  },
+  {
+    "name": "Marsh",
+    "message": "What the hell did that guy do?"
+  },
+  {
+    "message": "　　　　　　　I’ve never believed in things like gods up until now."
+  },
+  {
+    "name": "Marsh",
+    "message": "But, if that's the case......"
+  },
+  {
+    "message": "　　　　　　　I'll probably resent God."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's why I want to look into it."
+  },
+  {
+    "message": "　　　　　　　　Whether I'm really related by blood to Dunwich."
+  },
+  {
+    "name": "Marsh",
+    "message": "Got it....."
+  },
+  {
+    "name": "Marsh",
+    "message": "Do whatever you want."
+  },
+  {
+    "message": "　　　　　　　Take this with you."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What's this？"
+  },
+  {
+    "name": "Marsh",
+    "message": "This is the key to the room at the Dunwitch Mansion that I took custody of."
+  },
+  {
+    "message": "　　　　　　　There are four, but that's not all of them."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is there more to it？"
+  },
+  {
+    "name": "Marsh",
+    "message": "This is all I have."
+  },
+  {
+    "message": "　　　　　　　I threw away the key to the other room, Dollie's study."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why is that?"
+  },
+  {
+    "name": "Marsh",
+    "message": "Because it’s Dollie’s last will."
+  },
+  {
+    "message": "　　　　　　　After my corpse gets carried out, seal up the room as soon as you can, and throw away the key."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Don't you have a spare key?"
+  },
+  {
+    "name": "Marsh",
+    "message": "There were a few more, but Dollie seems to have taken care of them."
+  },
+  {
+    "name": "Marsh",
+    "message": "I don't know if it was thrown away or hidden."
+  },
+  {
+    "message": "　　　　　　　Still, I have a feeling there might be more somewhere."
+  },
+  {
+    "name": "Marsh",
+    "message": "What are you here for."
+  },
+  {
+    "message": "　　　　　　　Do you still need something from me？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Just like you told me, I’ve been looking into the 『Dunwich Incident’."
+  },
+  {
+    "name": "Marsh",
+    "message": "So？"
+  },
+  {
+    "message": "　　　　　　　You've already checked everything, right? Is there still something missing?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I got interested in a guy named Dollie Dunwich."
+  },
+  {
+    "message": "　　　　　　　　Also, in his family."
+  },
+  {
+    "name": "Marsh",
+    "message": "If you get interested in stuff like that, nothing good's gonna come of it."
+  },
+  {
+    "message": "　　　　　　　Just look at me now！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "The old man who guards the graves was saying this."
+  },
+  {
+    "message": "　　　　　　　　You and Dollie were best friends."
+  },
+  {
+    "name": "Marsh",
+    "message": "‥‥‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "So, you were really fixated on the 'Dunwich Incident,' huh."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I couldn't stand people saying my best friend Dollie was a lunatic."
+  },
+  {
+    "name": "Marsh",
+    "message": "Dollie really wasn't crazy at all."
+  },
+  {
+    "message": "　　　　　　　That guy found out."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What is it？"
+  },
+  {
+    "message": "　　　　　　　　What kind of truth is so important that you have to kill even your own wife and kids?"
+  },
+  {
+    "name": "Marsh",
+    "message": "Like I care."
+  },
+  {
+    "message": "　　　　　　　It　was　over　60　years　ago.　What's　the　point　in　digging　it　up　now,　huh."
+  },
+  {
+    "name": "Jonathan",
+    "message": "In fact, you're still hung up on the 'Dunwich Incident', aren't you?"
+  },
+  {
+    "name": "Marsh",
+    "message": "That's not it......"
+  },
+  {
+    "message": "　　　　　　　It's not over yet."
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

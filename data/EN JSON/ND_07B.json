@@ -1,313 +1,313 @@
 [
-    {
-        "name": "Cordelia",
-        "message": "おまちどうさま。"
-    },
-    {
-        "message": "Cordelia places a glass filled with alcohol in front of us."
-    },
-    {
-        "message": "He's still standing there in his bartender uniform."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Sorry to keep you waiting."
-    },
-    {
-        "message": "Cordelia sets glasses filled with booze in front of us."
-    },
-    {
-        "message": "Looks like there's none for himself, so he probably doesn't plan on drinking while the sun's still up."
-    },
-    {
-        "message": "Or maybe she just doesn't want to show such a shameless side of herself in front of Gardner or Thomas."
-    },
-    {
-        "message": "From the way she's smiling so innocently, she doesn't look like she's worried at all about the sleepwalking thing this morning."
-    },
-    {
-        "message": "Or maybe, this smile is just her work face she puts on while she's at the Pub. If that's the case, I should probably let her know that at least around us, she doesn't have to force herself like that."
-    },
-    {
-        "message": "On the surface, she's smiling, but deep down, she's definitely pissed that I went into the brothel."
-    },
-    {
-        "message": "Maybe it's that they don't want to argue in front of Gardner or Thomas. If that's the case, it's probably better to avoid being alone together for a while."
-    },
-    {
-        "message": "Ever since we went to the brothel together, there's been this weird sense of camaraderie, and he's been way too familiar with me, it's a pain."
-    },
-    {
-        "message": "I've heard plenty of stories about close friends going to buy a girl together just for kicks, but it'd be a pain if people thought Thomas and I were that kind of laid-back buddies."
-    },
-    {
-        "message": "I don't know what he's thinking with that cool expression, but is it really true that this guy's got a body that can't sleep with women?"
-    },
-    {
-        "message": "I don't know what you're hiding from me, but you're paying money to a whore you don't even bother to fuck, and even giving her a big tip just to keep it secret."
-    },
-    {
-        "message": "Like you said about your relationship with Nai, it's not like you're total strangers; that 'Lost key' you mentioned in front of the Church seems to have some big meaning."
-    },
-    {
-        "message": "Still keeping that clueless look on your face as always."
-    },
-    {
-        "message": "The angry look she had aimed at Nai in the church at midnight seems like a total lie now."
-    },
-    {
-        "message": "She looks pretty tired."
-    },
-    {
-        "message": "Isn't the nonstop forced march the past few days really wearing us down?"
-    },
-    {
-        "message": "If I could do that, I'd hurry up and shove them onto a bus and drop them off at the station where the train for London leaves, but I can't even do that if I don't know when the bus to Salem is coming to the village."
-    },
-    {
-        "message": "Rather than being alone in a room at the Fish Scale Inn, it's probably better to be with us, even if you have to put up with a bit of physical discomfort."
-    },
-    {
-        "message": "Because it was found out in yesterday's investigation that the ruins weren't originally in Arkham but were actually fakes brought in by someone, he doesn't seem too energetic."
-    },
-    {
-        "message": "It seems like they've already lost the motivation to investigate Arkham, but since we still don't know where those Ruins were produced or what they mean, I don't think the investigation is truly over yet..."
-    },
-    {
-        "message": "From her bright smiling expression, it doesn't look like she's bothered at all by the strange event of not even knowing where she went last night."
-    },
-    {
-        "message": "She's usually such a bright and cheerful girl, so it would be awkward if she looked too down and gloomy, but if she's just forcing a smile to spare our feelings, that's even more of a problem."
-    },
-    {
-        "message": "She's smiling brightly like nothing ever happened, but I have no idea how mad she actually is at me inside."
-    },
-    {
-        "message": "I admit that I did cheat, but it was because I was trying to find out what Thomas was up to. I can't accept being blamed one-sidedly without even being heard out."
-    },
-    {
-        "message": "After I explained why I went to the brothel, she seemed to be convinced for now."
-    },
-    {
-        "message": "The smile probably wasn't a lie, but the words she said at the end, 'That felt so good...,' are stuck in my mind."
-    },
-    {
-        "message": "I wonder if I'm still feeling jealous."
-    },
-    {
-        "message": "Women are ridiculously persistent, you know......"
-    },
-    {
-        "message": "Changing into his usual bartender outfit, he's diligently bringing us drinks."
-    },
-    {
-        "message": "客がいる前では飲まない主義なのか、自分の分のグラスはない。"
-    },
-    {
-        "message": "一度飲み始めると止まらないタイプのようだから、すっかり酔っぱらってガードナー達の前で醜態を晒される心配をしなくていいのは助かる。"
-    },
-    {
-        "name": "Thomas",
-        "message": "あんまり女を泣かせるような真似はするなよ。"
-    },
-    {
-        "message": "　　　　　　遊びとそうでないのの区別は、はっきりしとかないとな。"
-    },
-    {
-        "name": "Thomas",
-        "message": "どうだい、俺が言ったとおりだろうが。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "What？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Guys like you get addictive, you know."
-    },
-    {
-        "message": "　　　　　　Guys who look all serious are the type who, once they let loose, just can't really go back to how they were."
-    },
-    {
-        "name": "Jonathan",
-        "message": "‥‥‥‥‥‥‥‥‥"
-    },
-    {
-        "name": "Thomas",
-        "message": "If you blow through your money too much, even the girls will ditch you."
-    },
-    {
-        "message": "　　　　　　You'd better not overdo it."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I just went along because I was invited."
-    },
-    {
-        "message": "　　　　　　　　Going ahead on my own..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "私は今までそんな事に走った事はなかったんだぞ。"
-    },
-    {
-        "message": "　　　　　　　　Don't lump me in with you."
-    },
-    {
-        "name": "Thomas",
-        "message": "Are you really sure about that？"
-    },
-    {
-        "message": "　　　　　　Doesn't look that way to me."
-    },
-    {
-        "name": "Thomas",
-        "message": "Well, next time you go, invite me, alright?"
-    },
-    {
-        "message": "　　　　　　If it's that kind of invitation, I'll always be up for it."
-    },
-    {
-        "name": "Thomas",
-        "message": "So, what about what happened earlier?"
-    },
-    {
-        "message": "　　　　　　It's not like I was the one who did the inviting anyway."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That was........"
-    },
-    {
-        "name": "Thomas",
-        "message": "So that means the two youngsters have had a little taste now, huh?"
-    },
-    {
-        "message": "　　　　　　Wanna　try　being　that　Madam　this　time？"
-    },
-    {
-        "name": "Thomas",
-        "message": "I'm not into that kind of thing, but I hear older women can be pretty damn good too."
-    },
-    {
-        "name": "Gardner",
-        "message": "Let's stick together until the bus to Salem gets here.　　　　　　　  I just hope I don't slow you guys down."
-    },
-    {
-        "name": "Gardner",
-        "message": "私はもう疲れたよ、やはり君たち若い者のペースにあ　　　　　　　　わせて行動するには歳をとりすぎたようだ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I see......"
-    },
-    {
-        "message": "　　　　　　　　How about taking a rest at the Fish Scale Inn？"
-    },
-    {
-        "name": "Gardner",
-        "message": "That doesn’t really creep me out."
-    },
-    {
-        "message": "　　　　　　　　If I keep shutting myself away alone in this gloomy room, I'll end up getting depression."
-    },
-    {
-        "name": "Gardner",
-        "message": "First of all, if I just loaf around in the room every day, I'd be bothering Hudson too, since dealing with an old man like me..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So what are you gonna do？"
-    },
-    {
-        "name": "Gardner",
-        "message": "Yeah, I'll stick with you guys until the bus to Salem gets here."
-    },
-    {
-        "name": "Gardner",
-        "message": "Even if I wanted to, I can't leave the village right now.　　　　　　　　I can't stay away from the university forever either."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Please don't talk about that anymore."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Aren't you tired？"
-    },
-    {
-        "message": "　　　　　　　　You don't look so good......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "No, I'm not tired."
-    },
-    {
-        "message": "　　　　　　　　More importantly‥‥‥‥‥‥‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Are you still bothered about what happened this morning？"
-    },
-    {
-        "message": "　　　　　　　　It’s not something you have to get so worked up about, is it?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan, you can say that because it’s not happening to you, you know."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Try putting yourself in my shoes for a second."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I was walking all around the village without even realizing it myself, you know？"
-    },
-    {
-        "message": "　　　　　　　　What kind of outfit are you wearing at that time... I mean, depending on the situation, you might even be completely naked."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I see......... Sorry about that."
-    },
-    {
-        "name": "Jonathan",
-        "message": "From tonight on, I'll keep an eye on you so you don't go running off somewhere."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Thank you........."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Are you still mad？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I wonder what you're talking about."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's about the time I went to the brothel."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Ah, that thing, right."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You're keeping a cool face, but aren't you actually bothered by it？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "You really don't have to talk about that kind of thing in a place like this, do you？　　　　　　　　We're not alone here, you know."
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "name": "Cordelia",
+    "message": "Thanks for waiting."
+  },
+  {
+    "message": "Cordelia places a glass filled with alcohol in front of us."
+  },
+  {
+    "message": "He's still standing there in his bartender uniform."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Sorry to keep you waiting."
+  },
+  {
+    "message": "Cordelia sets glasses filled with booze in front of us."
+  },
+  {
+    "message": "Looks like there's none for himself, so he probably doesn't plan on drinking while the sun's still up."
+  },
+  {
+    "message": "Or maybe she just doesn't want to show such a shameless side of herself in front of Gardner or Thomas."
+  },
+  {
+    "message": "From the way she's smiling so innocently, she doesn't look like she's worried at all about the sleepwalking thing this morning."
+  },
+  {
+    "message": "Or maybe, this smile is just her work face she puts on while she's at the Pub. If that's the case, I should probably let her know that at least around us, she doesn't have to force herself like that."
+  },
+  {
+    "message": "On the surface, she's smiling, but deep down, she's definitely pissed that I went into the brothel."
+  },
+  {
+    "message": "Maybe it's that they don't want to argue in front of Gardner or Thomas. If that's the case, it's probably better to avoid being alone together for a while."
+  },
+  {
+    "message": "Ever since we went to the brothel together, there's been this weird sense of camaraderie, and he's been way too familiar with me, it's a pain."
+  },
+  {
+    "message": "I've heard plenty of stories about close friends going to buy a girl together just for kicks, but it'd be a pain if people thought Thomas and I were that kind of laid-back buddies."
+  },
+  {
+    "message": "I don't know what he's thinking with that cool expression, but is it really true that this guy's got a body that can't sleep with women?"
+  },
+  {
+    "message": "I don't know what you're hiding from me, but you're paying money to a whore you don't even bother to fuck, and even giving her a big tip just to keep it secret."
+  },
+  {
+    "message": "Like you said about your relationship with Nai, it's not like you're total strangers; that 'Lost key' you mentioned in front of the Church seems to have some big meaning."
+  },
+  {
+    "message": "Still keeping that clueless look on your face as always."
+  },
+  {
+    "message": "The angry look she had aimed at Nai in the church at midnight seems like a total lie now."
+  },
+  {
+    "message": "She looks pretty tired."
+  },
+  {
+    "message": "Isn't the nonstop forced march the past few days really wearing us down?"
+  },
+  {
+    "message": "If I could do that, I'd hurry up and shove them onto a bus and drop them off at the station where the train for London leaves, but I can't even do that if I don't know when the bus to Salem is coming to the village."
+  },
+  {
+    "message": "Rather than being alone in a room at the Fish Scale Inn, it's probably better to be with us, even if you have to put up with a bit of physical discomfort."
+  },
+  {
+    "message": "Because it was found out in yesterday's investigation that the ruins weren't originally in Arkham but were actually fakes brought in by someone, he doesn't seem too energetic."
+  },
+  {
+    "message": "It seems like they've already lost the motivation to investigate Arkham, but since we still don't know where those Ruins were produced or what they mean, I don't think the investigation is truly over yet..."
+  },
+  {
+    "message": "From her bright smiling expression, it doesn't look like she's bothered at all by the strange event of not even knowing where she went last night."
+  },
+  {
+    "message": "She's usually such a bright and cheerful girl, so it would be awkward if she looked too down and gloomy, but if she's just forcing a smile to spare our feelings, that's even more of a problem."
+  },
+  {
+    "message": "She's smiling brightly like nothing ever happened, but I have no idea how mad she actually is at me inside."
+  },
+  {
+    "message": "I admit that I did cheat, but it was because I was trying to find out what Thomas was up to. I can't accept being blamed one-sidedly without even being heard out."
+  },
+  {
+    "message": "After I explained why I went to the brothel, she seemed to be convinced for now."
+  },
+  {
+    "message": "The smile probably wasn't a lie, but the words she said at the end, 'That felt so good...,' are stuck in my mind."
+  },
+  {
+    "message": "I wonder if I'm still feeling jealous."
+  },
+  {
+    "message": "Women are ridiculously persistent, you know......"
+  },
+  {
+    "message": "Changing into his usual bartender outfit, he's diligently bringing us drinks."
+  },
+  {
+    "message": "Maybe she has a rule about not drinking in front of customers, so there's no glass for herself."
+  },
+  {
+    "message": "Seems like if she starts drinking, she can't stop, so at least we don't have to worry about her getting wasted and making a scene in front of Gardner and the others."
+  },
+  {
+    "name": "Thomas",
+    "message": "Don't go making girls cry too much, alright?"
+  },
+  {
+    "message": "　　　　　　You gotta be clear about the difference between just fooling around and when it's not."
+  },
+  {
+    "name": "Thomas",
+    "message": "See, I told you so, didn't I?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "What？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Guys like you get addictive, you know."
+  },
+  {
+    "message": "　　　　　　Guys who look all serious are the type who, once they let loose, just can't really go back to how they were."
+  },
+  {
+    "name": "Jonathan",
+    "message": "‥‥‥‥‥‥‥‥‥"
+  },
+  {
+    "name": "Thomas",
+    "message": "If you blow through your money too much, even the girls will ditch you."
+  },
+  {
+    "message": "　　　　　　You'd better not overdo it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I just went along because I was invited."
+  },
+  {
+    "message": "　　　　　　　　Going ahead on my own..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I've never gotten involved in that kind of thing before, you know."
+  },
+  {
+    "message": "　　　　　　　　Don't lump me in with you."
+  },
+  {
+    "name": "Thomas",
+    "message": "Are you really sure about that？"
+  },
+  {
+    "message": "　　　　　　Doesn't look that way to me."
+  },
+  {
+    "name": "Thomas",
+    "message": "Well, next time you go, invite me, alright?"
+  },
+  {
+    "message": "　　　　　　If it's that kind of invitation, I'll always be up for it."
+  },
+  {
+    "name": "Thomas",
+    "message": "So, what about what happened earlier?"
+  },
+  {
+    "message": "　　　　　　It's not like I was the one who did the inviting anyway."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That was........"
+  },
+  {
+    "name": "Thomas",
+    "message": "So that means the two youngsters have had a little taste now, huh?"
+  },
+  {
+    "message": "　　　　　　Wanna　try　being　that　Madam　this　time？"
+  },
+  {
+    "name": "Thomas",
+    "message": "I'm not into that kind of thing, but I hear older women can be pretty damn good too."
+  },
+  {
+    "name": "Gardner",
+    "message": "Let's stick together until the bus to Salem gets here.　　　　　　　  I just hope I don't slow you guys down."
+  },
+  {
+    "name": "Gardner",
+    "message": "I'm just worn out. I guess I'm too old to keep up with you young folks' pace."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I see......"
+  },
+  {
+    "message": "　　　　　　　　How about taking a rest at the Fish Scale Inn？"
+  },
+  {
+    "name": "Gardner",
+    "message": "That doesn’t really creep me out."
+  },
+  {
+    "message": "　　　　　　　　If I keep shutting myself away alone in this gloomy room, I'll end up getting depression."
+  },
+  {
+    "name": "Gardner",
+    "message": "First of all, if I just loaf around in the room every day, I'd be bothering Hudson too, since dealing with an old man like me..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So what are you gonna do？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Yeah, I'll stick with you guys until the bus to Salem gets here."
+  },
+  {
+    "name": "Gardner",
+    "message": "Even if I wanted to, I can't leave the village right now.　　　　　　　　I can't stay away from the university forever either."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Please don't talk about that anymore."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Aren't you tired？"
+  },
+  {
+    "message": "　　　　　　　　You don't look so good......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "No, I'm not tired."
+  },
+  {
+    "message": "　　　　　　　　More importantly‥‥‥‥‥‥‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Are you still bothered about what happened this morning？"
+  },
+  {
+    "message": "　　　　　　　　It’s not something you have to get so worked up about, is it?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan, you can say that because it’s not happening to you, you know."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Try putting yourself in my shoes for a second."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I was walking all around the village without even realizing it myself, you know？"
+  },
+  {
+    "message": "　　　　　　　　What kind of outfit are you wearing at that time... I mean, depending on the situation, you might even be completely naked."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I see......... Sorry about that."
+  },
+  {
+    "name": "Jonathan",
+    "message": "From tonight on, I'll keep an eye on you so you don't go running off somewhere."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Thank you........."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Are you still mad？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I wonder what you're talking about."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's about the time I went to the brothel."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Ah, that thing, right."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You're keeping a cool face, but aren't you actually bothered by it？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "You really don't have to talk about that kind of thing in a place like this, do you？　　　　　　　　We're not alone here, you know."
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

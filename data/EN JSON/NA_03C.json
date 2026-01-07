@@ -1,355 +1,355 @@
 [
-    {
-        "message": "It looks like both the lodgers and Mrs. Hudson have already fallen asleep, and there's not a single sound in the room. It's so quiet you could almost hear the sound of the waves from the distant shore."
-    },
-    {
-        "message": "The cafeteria, freed from its duties for a while after the greedy customers' stomachs were satisfied, is empty of people and completely silent."
-    },
-    {
-        "message": "Only the faint lingering smell of the food drifts around, as if it's proof that just a moment ago this room was full of life."
-    },
-    {
-        "message": "There are already dishes prepared on the Table."
-    },
-    {
-        "message": "Gardner and Thomas, who quickly took their seats, silently started focusing on their own plates without waiting for me to sit down."
-    },
-    {
-        "message": "There's no one else in the room but me. My footsteps on the wooden floor and the creaking of the floor echo through the room in such a heavy way, it's almost ominous."
-    },
-    {
-        "message": "What the hell am I doing? At this rate, it's like I'm some servant sneaking around just to get leftovers from dinner."
-    },
-    {
-        "message": "You can't really call this place spacious, but with just the three of us in a dining hall that could fit twenty, it sure feels lonely."
-    },
-    {
-        "message": "I bet even Mrs. Hudson doesn't find it very rewarding to just cook our meals."
-    },
-    {
-        "message": "The room with the fireplace lit is warm, and when you're surrounded by sturdy walls, even the sound of the wind raging outside feels like some empty, made-up thing."
-    },
-    {
-        "message": "Why is it that before I know it, being at the Fish Scale Inn makes me feel so content, like I've come back home?"
-    },
-    {
-        "message": "どうやらガードナーは、パブで女が私の耳元に囁きかけた科白を聞いていなかったようだ。私が今晩あの女と会う約束をしている事はもう少し黙っておこう。大学教授だからと言って、全てが思い通りになると思ったらおおまちがいだ。"
-    },
-    {
-        "message": "She’s pretending to focus on her meal, but she still looks like she’s lost in thought. There’s no way she could even taste the food like that."
-    },
-    {
-        "message": "Well, I can pretty much guess what Gardner is thinking."
-    },
-    {
-        "message": "The ruins and a mysterious old man, plus a woman at the pub who seems to know something about that old man. That's about it, right?"
-    },
-    {
-        "message": "Damn Thomas, when did he end up alone with the lady?"
-    },
-    {
-        "message": "There's no way the madam would willingly be alone with this guy-wasn't she thinking of doing something bad？"
-    },
-    {
-        "message": "They’re acting like nothing happened and totally absorbed in their meal, but there’s no telling what kind of shit they’re up to when I’m not looking."
-    },
-    {
-        "message": "Eating quietly."
-    },
-    {
-        "message": "Saying, 'The only thing to enjoy at this inn is the food,' doesn't seem to be a total lie."
-    },
-    {
-        "message": "Come to think of it, what was that weird tension between Thomas and Mrs. Hudson just now? What I saw in her eyes at that moment was hatred, fear, resentment, a desperate plea for help... yeah, it looked like that."
-    },
-    {
-        "name": "Gardner",
-        "message": "Looks like I've got no choice but to brace myself for this now."
-    },
-    {
-        "message": "　　　　　　　　I　hope　someone　outside　realizes　something's　wrong　here　soon."
-    },
-    {
-        "message": "It's just impossible to tell me not to be pessimistic about this."
-    },
-    {
-        "message": "We're completely cut off from the outside world with no clue when things will get back to normal. Depending on how things go, we might end up stuck in Arkham for months."
-    },
-    {
-        "name": "Thomas",
-        "message": "Ahhh... I ate so much."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You're awfully calm, aren't you?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Look who's talking. What's with that serious look on your face?"
-    },
-    {
-        "message": "　　　　　　No matter how long you keep brooding over it, the result ain't gonna change."
-    },
-    {
-        "name": "Gardner",
-        "message": "That's how it is."
-    },
-    {
-        "message": "　　　　　　　　Jonathan, I'm not really a religious person or even very faithful, but... when it comes to this whole thing, I kinda feel like it's fate or something."
-    },
-    {
-        "message": "Fate, huh. To me, it just feels like destiny, like I'm being controlled by a wicked angel or something."
-    },
-    {
-        "name": "Thomas",
-        "message": "I'm heading back to my room. Once I've eaten, there's nothing else to do, so I might as well sleep."
-    },
-    {
-        "name": "Gardner",
-        "message": "Fortunately,　we've　got　plenty　of　time　on　our　side."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah......"
-    },
-    {
-        "message": "　　　　　　　　Shall we take it easy and rest up?"
-    },
-    {
-        "name": "Gardner",
-        "message": "We've got a bit of a problem here."
-    },
-    {
-        "message": "　　　　　　　　I was planning to stay here for a while anyway, so it's no big deal, but are you okay with your job？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'll manage somehow. Still, how are we supposed to get in touch with the outside, I wonder？"
-    },
-    {
-        "name": "Gardner",
-        "message": "Yeah, that's true......"
-    },
-    {
-        "message": "　　　　　　　　Seems like there's not even a phone in this village, after all."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So that means we're totally isolated and on our own, huh."
-    },
-    {
-        "message": "　　　　　　　　It'd be nice if this only lasted a day or two, but if it stays like this for a whole month..."
-    },
-    {
-        "name": "Gardner",
-        "message": "Don't get too down about it. Thinking about it won't change a damn thing."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What a shitty experience..."
-    },
-    {
-        "name": "Thomas",
-        "message": "いいじゃねえか。かえって踏ん切りがついたってもんだ。　　　　　　そうだろう？　これで帰りたくてもロンドンにたどり着く　　　　　　道は閉ざされたって訳なんだからよ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "What's there to be so happy about?"
-    },
-    {
-        "name": "Thomas",
-        "message": "That's why. I ended up having to take it easy and rest my bones whether I like it or not.　　　　　　If we're doing this anyway, let's at least have some fun."
-    },
-    {
-        "name": "Gardner",
-        "message": "This is completely pointless."
-    },
-    {
-        "message": "　　　　　　　　But I'm not giving up. I'm definitely going to expose the secrets of this village, no matter what."
-    },
-    {
-        "name": "Gardner",
-        "message": "What a shitty village this is！"
-    },
-    {
-        "message": "Gardner shouted."
-    },
-    {
-        "message": "They must be talking about the villagers who think it's bad for outsiders to walk around the village."
-    },
-    {
-        "name": "Gardner",
-        "message": "I'm surprised a place like this still exists in the world today！"
-    },
-    {
-        "message": "　　　　　　　　Doesn't this make us look just like some primitive tribe living deep in the jungle?"
-    },
-    {
-        "name": "Thomas",
-        "message": "I'll be counting on you."
-    },
-    {
-        "name": "Thomas",
-        "message": "Speaking of which, I just asked the lady earlier, and it looks like that suspension bridge really is out."
-    },
-    {
-        "name": "Jonathan",
-        "message": "'Out'? ...What do you mean by that?"
-    },
-    {
-        "name": "Thomas",
-        "message": "What do you mean, 'what do you mean'？ There ain't nothin' else to it."
-    },
-    {
-        "message": "　　　　　　That bridge's the only way connecting here to the outside, y'know."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Can't we get through？"
-    },
-    {
-        "message": "　　　　　　　　If the bus is no good, we can just walk across."
-    },
-    {
-        "name": "Thomas",
-        "message": "Apparently, the suspension bridge wires haven't been replaced in decades."
-    },
-    {
-        "message": "　　　　　　It might be completely falling apart inside from rust and corrosion."
-    },
-    {
-        "name": "Gardner",
-        "message": "So you're saying it could go out at any moment."
-    },
-    {
-        "name": "Jonathan",
-        "message": "他につながっている道はないのか？"
-    },
-    {
-        "message": "　　　　　　　　そうだ、確か鉄橋があったじゃないか、昔ここを走っ　　　　　　　　ていた列車があったはずだ。"
-    },
-    {
-        "name": "Thomas",
-        "message": "I’m not even sure if it’s still connected to the mainland right now."
-    },
-    {
-        "message": "　　　　　　Besides, just thinking about accidentally tripping over a rotten railroad tie and falling to your death gives me the creeps."
-    },
-    {
-        "name": "Jonathan",
-        "message": "‥‥‥‥‥‥‥‥‥"
-    },
-    {
-        "name": "Thomas",
-        "message": "If you really want to, I'm not gonna stop you."
-    },
-    {
-        "name": "Gardner",
-        "message": "So basically, that means we're gonna be stuck here for a while."
-    },
-    {
-        "name": "Thomas",
-        "message": "Well, that's how it is."
-    },
-    {
-        "name": "Jonathan",
-        "message": "......When did you manage to hear about that？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Who cares about that crap, anyway?"
-    },
-    {
-        "message": "　　　　　　Anyway, we still have to live face-to-face with each other for a while longer"
-    },
-    {
-        "message": "　　　　　　That's why I gotta do it."
-    },
-    {
-        "message": "It looks like the leftover plates have been cleaned up completely."
-    },
-    {
-        "message": "Now, there's no trace at all that food was ever placed on top of this."
-    },
-    {
-        "message": "No matter how much I'm encouraged, I just can't bring myself to put it in my mouth."
-    },
-    {
-        "message": "Just like Gardner said, even though I know if I got sick in a place like this, it wouldn't end well..."
-    },
-    {
-        "message": "I started eating the food on my plate."
-    },
-    {
-        "message": "Yesterday, I thought it was so delicious, but now I don't think it's all that great."
-    },
-    {
-        "message": "Is it that I've gotten bored from eating nothing but fish all the time, or was I just really that hungry last night......"
-    },
-    {
-        "message": "Doesn't seem like it'll go down my throat very well."
-    },
-    {
-        "message": "I forced down the dry, tasteless food I had in my mouth."
-    },
-    {
-        "name": "Gardner",
-        "message": "You don't seem to have much of an appetite."
-    },
-    {
-        "message": "　　　　　　　　少しでも口に入れておいた方がいいぞ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "No, that's enough."
-    },
-    {
-        "message": "　　　　　　　　なんだか食欲がなくって。"
-    },
-    {
-        "name": "Gardner",
-        "message": "Just eat it already."
-    },
-    {
-        "message": "　　　　　　　　こんな所で倒れでもしてみろ、まともな医療を受けら　　　　　　　　れる保証なぞどこにもありゃせんのだぞ。"
-    },
-    {
-        "name": "Thomas",
-        "message": "Not gonna eat？"
-    },
-    {
-        "message": "　　　　　　What's wrong, did a bug get in your food or something?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "No, that's not what I mean."
-    },
-    {
-        "name": "Thomas",
-        "message": "Then eat it."
-    },
-    {
-        "name": "Gardner",
-        "message": "Exactly right. Hudson is putting out food you can actually eat, you know, isn't it kinda rude to just stare at it and stuff？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "That’s not what I meant, I was just lost in thought for a bit."
-    },
-    {
-        "name": "Thomas",
-        "message": "If you don't eat your meals happily, it's bad for your digestion."
-    },
-    {
-        "message": "Entrance hall"
-    },
-    {
-        "message": "The lady's room"
-    },
-    {
-        "message": "Madam's room"
-    },
-    {
-        "message": "My room"
-    }
+  {
+    "message": "It looks like both the lodgers and Mrs. Hudson have already fallen asleep, and there's not a single sound in the room. It's so quiet you could almost hear the sound of the waves from the distant shore."
+  },
+  {
+    "message": "The cafeteria, freed from its duties for a while after the greedy customers' stomachs were satisfied, is empty of people and completely silent."
+  },
+  {
+    "message": "Only the faint lingering smell of the food drifts around, as if it's proof that just a moment ago this room was full of life."
+  },
+  {
+    "message": "There are already dishes prepared on the Table."
+  },
+  {
+    "message": "Gardner and Thomas, who quickly took their seats, silently started focusing on their own plates without waiting for me to sit down."
+  },
+  {
+    "message": "There's no one else in the room but me. My footsteps on the wooden floor and the creaking of the floor echo through the room in such a heavy way, it's almost ominous."
+  },
+  {
+    "message": "What the hell am I doing? At this rate, it's like I'm some servant sneaking around just to get leftovers from dinner."
+  },
+  {
+    "message": "You can't really call this place spacious, but with just the three of us in a dining hall that could fit twenty, it sure feels lonely."
+  },
+  {
+    "message": "I bet even Mrs. Hudson doesn't find it very rewarding to just cook our meals."
+  },
+  {
+    "message": "The room with the fireplace lit is warm, and when you're surrounded by sturdy walls, even the sound of the wind raging outside feels like some empty, made-up thing."
+  },
+  {
+    "message": "Why is it that before I know it, being at the Fish Scale Inn makes me feel so content, like I've come back home?"
+  },
+  {
+    "message": "Apparently, Gardner didn't hear the words that woman whispered in my ear at the pub. I’ll keep quiet a bit longer about the fact that I promised to meet her tonight. Just because you’re a university professor doesn’t mean you get your way all the time."
+  },
+  {
+    "message": "She’s pretending to focus on her meal, but she still looks like she’s lost in thought. There’s no way she could even taste the food like that."
+  },
+  {
+    "message": "Well, I can pretty much guess what Gardner is thinking."
+  },
+  {
+    "message": "The ruins and a mysterious old man, plus a woman at the pub who seems to know something about that old man. That's about it, right?"
+  },
+  {
+    "message": "Damn Thomas, when did he end up alone with the lady?"
+  },
+  {
+    "message": "There's no way the madam would willingly be alone with this guy-wasn't she thinking of doing something bad？"
+  },
+  {
+    "message": "They’re acting like nothing happened and totally absorbed in their meal, but there’s no telling what kind of shit they’re up to when I’m not looking."
+  },
+  {
+    "message": "Eating quietly."
+  },
+  {
+    "message": "Saying, 'The only thing to enjoy at this inn is the food,' doesn't seem to be a total lie."
+  },
+  {
+    "message": "Come to think of it, what was that weird tension between Thomas and Mrs. Hudson just now? What I saw in her eyes at that moment was hatred, fear, resentment, a desperate plea for help... yeah, it looked like that."
+  },
+  {
+    "name": "Gardner",
+    "message": "Looks like I've got no choice but to brace myself for this now."
+  },
+  {
+    "message": "　　　　　　　　I　hope　someone　outside　realizes　something's　wrong　here　soon."
+  },
+  {
+    "message": "It's just impossible to tell me not to be pessimistic about this."
+  },
+  {
+    "message": "We're completely cut off from the outside world with no clue when things will get back to normal. Depending on how things go, we might end up stuck in Arkham for months."
+  },
+  {
+    "name": "Thomas",
+    "message": "Ahhh... I ate so much."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You're awfully calm, aren't you?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Look who's talking. What's with that serious look on your face?"
+  },
+  {
+    "message": "　　　　　　No matter how long you keep brooding over it, the result ain't gonna change."
+  },
+  {
+    "name": "Gardner",
+    "message": "That's how it is."
+  },
+  {
+    "message": "　　　　　　　　Jonathan, I'm not really a religious person or even very faithful, but... when it comes to this whole thing, I kinda feel like it's fate or something."
+  },
+  {
+    "message": "Fate, huh. To me, it just feels like destiny, like I'm being controlled by a wicked angel or something."
+  },
+  {
+    "name": "Thomas",
+    "message": "I'm heading back to my room. Once I've eaten, there's nothing else to do, so I might as well sleep."
+  },
+  {
+    "name": "Gardner",
+    "message": "Fortunately,　we've　got　plenty　of　time　on　our　side."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah......"
+  },
+  {
+    "message": "　　　　　　　　Shall we take it easy and rest up?"
+  },
+  {
+    "name": "Gardner",
+    "message": "We've got a bit of a problem here."
+  },
+  {
+    "message": "　　　　　　　　I was planning to stay here for a while anyway, so it's no big deal, but are you okay with your job？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'll manage somehow. Still, how are we supposed to get in touch with the outside, I wonder？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Yeah, that's true......"
+  },
+  {
+    "message": "　　　　　　　　Seems like there's not even a phone in this village, after all."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So that means we're totally isolated and on our own, huh."
+  },
+  {
+    "message": "　　　　　　　　It'd be nice if this only lasted a day or two, but if it stays like this for a whole month..."
+  },
+  {
+    "name": "Gardner",
+    "message": "Don't get too down about it. Thinking about it won't change a damn thing."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What a shitty experience..."
+  },
+  {
+    "name": "Thomas",
+    "message": "Hey, isn’t it fine? Actually helped me make up my mind, you know? Right? Now even if we wanna go back, there’s no way to get to London-that’s how it is."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What's there to be so happy about?"
+  },
+  {
+    "name": "Thomas",
+    "message": "That's why. I ended up having to take it easy and rest my bones whether I like it or not.　　　　　　If we're doing this anyway, let's at least have some fun."
+  },
+  {
+    "name": "Gardner",
+    "message": "This is completely pointless."
+  },
+  {
+    "message": "　　　　　　　　But I'm not giving up. I'm definitely going to expose the secrets of this village, no matter what."
+  },
+  {
+    "name": "Gardner",
+    "message": "What a shitty village this is！"
+  },
+  {
+    "message": "Gardner shouted."
+  },
+  {
+    "message": "They must be talking about the villagers who think it's bad for outsiders to walk around the village."
+  },
+  {
+    "name": "Gardner",
+    "message": "I'm surprised a place like this still exists in the world today！"
+  },
+  {
+    "message": "　　　　　　　　Doesn't this make us look just like some primitive tribe living deep in the jungle?"
+  },
+  {
+    "name": "Thomas",
+    "message": "I'll be counting on you."
+  },
+  {
+    "name": "Thomas",
+    "message": "Speaking of which, I just asked the lady earlier, and it looks like that suspension bridge really is out."
+  },
+  {
+    "name": "Jonathan",
+    "message": "'Out'? ...What do you mean by that?"
+  },
+  {
+    "name": "Thomas",
+    "message": "What do you mean, 'what do you mean'？ There ain't nothin' else to it."
+  },
+  {
+    "message": "　　　　　　That bridge's the only way connecting here to the outside, y'know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Can't we get through？"
+  },
+  {
+    "message": "　　　　　　　　If the bus is no good, we can just walk across."
+  },
+  {
+    "name": "Thomas",
+    "message": "Apparently, the suspension bridge wires haven't been replaced in decades."
+  },
+  {
+    "message": "　　　　　　It might be completely falling apart inside from rust and corrosion."
+  },
+  {
+    "name": "Gardner",
+    "message": "So you're saying it could go out at any moment."
+  },
+  {
+    "name": "Jonathan",
+    "message": "There’s no other way out？"
+  },
+  {
+    "message": "　　　　　　　　That’s right, wasn’t there a railway bridge? There should’ve been a train running through here back in the day."
+  },
+  {
+    "name": "Thomas",
+    "message": "I’m not even sure if it’s still connected to the mainland right now."
+  },
+  {
+    "message": "　　　　　　Besides, just thinking about accidentally tripping over a rotten railroad tie and falling to your death gives me the creeps."
+  },
+  {
+    "name": "Jonathan",
+    "message": "‥‥‥‥‥‥‥‥‥"
+  },
+  {
+    "name": "Thomas",
+    "message": "If you really want to, I'm not gonna stop you."
+  },
+  {
+    "name": "Gardner",
+    "message": "So basically, that means we're gonna be stuck here for a while."
+  },
+  {
+    "name": "Thomas",
+    "message": "Well, that's how it is."
+  },
+  {
+    "name": "Jonathan",
+    "message": "......When did you manage to hear about that？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Who cares about that crap, anyway?"
+  },
+  {
+    "message": "　　　　　　Anyway, we still have to live face-to-face with each other for a while longer"
+  },
+  {
+    "message": "　　　　　　That's why I gotta do it."
+  },
+  {
+    "message": "It looks like the leftover plates have been cleaned up completely."
+  },
+  {
+    "message": "Now, there's no trace at all that food was ever placed on top of this."
+  },
+  {
+    "message": "No matter how much I'm encouraged, I just can't bring myself to put it in my mouth."
+  },
+  {
+    "message": "Just like Gardner said, even though I know if I got sick in a place like this, it wouldn't end well..."
+  },
+  {
+    "message": "I started eating the food on my plate."
+  },
+  {
+    "message": "Yesterday, I thought it was so delicious, but now I don't think it's all that great."
+  },
+  {
+    "message": "Is it that I've gotten bored from eating nothing but fish all the time, or was I just really that hungry last night......"
+  },
+  {
+    "message": "Doesn't seem like it'll go down my throat very well."
+  },
+  {
+    "message": "I forced down the dry, tasteless food I had in my mouth."
+  },
+  {
+    "name": "Gardner",
+    "message": "You don't seem to have much of an appetite."
+  },
+  {
+    "message": "　　　　　　　　You　should　at　least　put　something　in　your　mouth."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No, that's enough."
+  },
+  {
+    "message": "　　　　　　　　I just don’t have much of an appetite."
+  },
+  {
+    "name": "Gardner",
+    "message": "Just eat it already."
+  },
+  {
+    "message": "　　　　　　　　If you collapse in a place like this, there’s no guarantee you’ll get proper medical care, you know."
+  },
+  {
+    "name": "Thomas",
+    "message": "Not gonna eat？"
+  },
+  {
+    "message": "　　　　　　What's wrong, did a bug get in your food or something?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "No, that's not what I mean."
+  },
+  {
+    "name": "Thomas",
+    "message": "Then eat it."
+  },
+  {
+    "name": "Gardner",
+    "message": "Exactly right. Hudson is putting out food you can actually eat, you know, isn't it kinda rude to just stare at it and stuff？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "That’s not what I meant, I was just lost in thought for a bit."
+  },
+  {
+    "name": "Thomas",
+    "message": "If you don't eat your meals happily, it's bad for your digestion."
+  },
+  {
+    "message": "Entrance hall"
+  },
+  {
+    "message": "The lady's room"
+  },
+  {
+    "message": "Madam's room"
+  },
+  {
+    "message": "My room"
+  }
 ]

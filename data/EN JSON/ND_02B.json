@@ -1,609 +1,609 @@
 [
-    {
-        "message": "Not here."
-    },
-    {
-        "message": "I wonder where they went this late at night."
-    },
-    {
-        "message": "There doesn't seem to be anything unusual inside the shop, but......"
-    },
-    {
-        "message": "二階の自室にいるのかもしれないな。"
-    },
-    {
-        "message": "When I opened the door and went inside, the place was filled with that distinctive melancholy of a Tavern that had suddenly lost all its energy after closing for the night."
-    },
-    {
-        "message": "The smell of spilled sour beer fills the air around the table, and the embers in the fireplace keep radiating gentle warmth. The villagers who sat on the stool during the day and glared at us are gone without a trace-not even a sign remains that they were ever there."
-    },
-    {
-        "message": "While I'm at it, looks like the Bartender isn't around either..."
-    },
-    {
-        "message": "Since the door was unlocked, I just assumed you were waiting for me, but maybe you just didn't bother locking it because that's the usual way in the countryside."
-    },
-    {
-        "name": "Bartender",
-        "message": "You're really taking your time, huh！"
-    },
-    {
-        "message": "　　　　　　　It's pretty bold of you to keep people waiting like that."
-    },
-    {
-        "message": "She's the woman from earlier."
-    },
-    {
-        "message": "Looks like you got completely drunk while waiting for me. I wonder if we can even have a proper conversation like this."
-    },
-    {
-        "name": "Bartender",
-        "message": "Hey, are you not even gonna apologize for keeping me waiting？"
-    },
-    {
-        "message": "　　　　　　　As expected of a London gentleman, huh. There's no way you'd bow your head to a foreign woman like me."
-    },
-    {
-        "message": "Apparently, I was a clingy drunk."
-    },
-    {
-        "message": "You sure do say some harsh things, huh. But I'm the one in the wrong, and if I piss off a girl here, there’s no point in coming all the way out to a place like this."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That wasn’t what I meant, I just got caught by some weirdo along the way."
-    },
-    {
-        "name": "Bartender",
-        "message": "『Weird guy,' you say？"
-    },
-    {
-        "message": "　　　　　　　No way, the villagers didn't treat you horribly, did they..."
-    },
-    {
-        "name": "Bartender",
-        "message": "That's why I told you！"
-    },
-    {
-        "message": "　　　　　　　あなた達みたいなよそ者はろくな目にあわないって。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "No, that's not it."
-    },
-    {
-        "message": "　　　　　　　　I got lost and ended up in front of this weird church, and then some guy who looked like a Black priest showed up....."
-    },
-    {
-        "name": "Bartender",
-        "message": "You're talking about Nai, right."
-    },
-    {
-        "message": "　　　　　　　I don't like that guy either. He acts all gentle with that fake sweet voice, but he looks at people with such pervy eyes."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's the same with my buddy from earlier today, too. The way that guy was grinning-it looked like he had his eyes on you."
-    },
-    {
-        "name": "Bartender",
-        "message": "So all guys are the same, huh."
-    },
-    {
-        "message": "Doesn't seem like as uncomfortable a place as I first thought."
-    },
-    {
-        "message": "If only there weren't villagers who openly show hostility toward me, I'd come here every day."
-    },
-    {
-        "message": "With no one in the place but me, the tavern was dead quiet-not lively by any means, and so much more desolate than the bare minimum bustle you’d expect even in the afternoon."
-    },
-    {
-        "message": "The fireplace, its coals barely glowing, cast a warm, embracing light, different from the cold, hard glow of the electric lights. The well-used tables, the scant furniture, and the sooty walls all gave a reassuring feeling, as if promising the tavern would still be here tomorrow just like always."
-    },
-    {
-        "message": "When I came by during the day, the place felt weirdly distant and awkward, but looking at it now, I somehow feel totally at ease. I wonder why that is."
-    },
-    {
-        "message": "Most of the drinks are gin, rum, and other kinds of liquor that get you drunk fast, almost nothing you'd drink just to enjoy."
-    },
-    {
-        "message": "On the built-in shelf behind the counter, there are all sorts of bottles lined up. Most of them are cheap liquor you can find anywhere, which makes it pretty easy to guess how much the regulars here can actually afford."
-    },
-    {
-        "message": "At the very least, they're not the kind of people who sip and savor their drinks-instead, it seems like most of the customers down the strong stuff just to get drunk as fast as possible."
-    },
-    {
-        "message": "Seeing Cordelia's face looking like she's about to cry, I got flustered."
-    },
-    {
-        "message": "There's nothing more troublesome than having a woman cry right in front of you......"
-    },
-    {
-        "message": "Looks like she's pretty drunk."
-    },
-    {
-        "message": "Her face is red, and even the hand holding her Glass looks unsteady."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Hey, why do you keep staring at my face?　　　　　　　　Is an Oriental woman really that unusual for you?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "No, that's not it......."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You seem to be feeling pretty good, so I thought maybe it's about time you head home."
-    },
-    {
-        "message": "Cordelia suddenly looked like she was about to cry and swung the glass she was holding around. The strong smell of alcohol filled the air, and a good amount of booze splashed onto my clothes."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Why would you say something like that！"
-    },
-    {
-        "message": "　　　　　　　　Don't go... Is it boring being with me？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "そうじゃないよ、しかし‥‥‥‥‥"
-    },
-    {
-        "message": "When I first saw him, he only had an unfriendly, businesslike look on his face, like a clerk at a government office, but now he's got a cheerful expression."
-    },
-    {
-        "message": "Maybe I just don't like working at the tavern."
-    },
-    {
-        "message": "Maybe she's a cheerful and open woman when she's not at work."
-    },
-    {
-        "message": "Looks like you've had quite a bit to drink before I got here."
-    },
-    {
-        "message": "During the day, she only ever showed a sour, grumpy face like she'd bitten into a lemon, but now she looks like she's completely let her guard down around me."
-    },
-    {
-        "message": "Maybe she was a lonely woman with no one to talk to. Sure, she doesn't seem to enjoy talking with the gloomy villagers. Maybe it's easier for her to chat with an outsider like me without having to put on an act."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Hey, it's fine, right？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Hey, you have a drink too."
-    },
-    {
-        "message": "　　　　　　　　This isn't the best place, so I'll make an exception and invite you to my room！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Is my room far from here？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "It's on the second floor here."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Are you living alone in a lonely place like this？"
-    },
-    {
-        "message": "　　　　　　　　A girl like you must get pretty lonely all by yourself."
-    },
-    {
-        "name": "Cordelia",
-        "message": "See, I told you-I can't sleep unless I drink."
-    },
-    {
-        "message": "　　　　　　　　Hey, what are you gonna do? Don't you wanna see my room?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "But... letting a guy like me into your room this late at night, I hope it doesn’t get you a bad reputation."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I'm fine, you don't have to worry about me！"
-    },
-    {
-        "message": "Yeah, I guess it wouldn't feel right to just leave her all alone in a lonely place like this. It probably wouldn't hurt to stay with her for a bit."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Is that all there is to the story？"
-    },
-    {
-        "message": "　　　　　　　　Let's talk about something more fun."
-    },
-    {
-        "message": "There are only a few hours left until morning now, I wonder if I'll even be able to get into bed tonight......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's already late. Don't you have work to do too？"
-    },
-    {
-        "message": "　　　　　　　　I'm about to‥‥‥‥"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Aahn, what are you talking about."
-    },
-    {
-        "message": "　　　　　　　　There　are　still　hours　until　morning,　aren't　there?　Hey,　don't　you　have　any　other　stories　or　something?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "And？"
-    },
-    {
-        "message": "　　　　　　　　Didn't　you　have　something　you　wanted　to　ask　me?"
-    },
-    {
-        "message": "Oh yeah, I totally forgot."
-    },
-    {
-        "message": "If I went back empty-handed like this, who knows what Gardner would say to me."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's about that old man I met at the ruins at noon."
-    },
-    {
-        "message": "　　　　　　　　He looked really old, so at first I honestly wondered if he might be kinda senile."
-    },
-    {
-        "name": "Cordelia",
-        "message": "The ruins, you mean that thing on top of the cape, right? I don't know why anyone would go to a place like that, but even the villagers don't go near there."
-    },
-    {
-        "name": "Jonathan",
-        "message": "There he was, that old man."
-    },
-    {
-        "message": "　　　　　　　　The people around here don’t look very well put together, but that person looked even worse, like some kind of homeless bum."
-    },
-    {
-        "name": "Cordelia",
-        "message": "この村には浮浪者なんていないわ。"
-    },
-    {
-        "message": "　　　　　　　　But you pretty much have an idea, right? That person reeked of alcohol, didn't they?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I couldn't really tell because the wind was so strong, but he definitely seemed drunk or something, and he also looked like he was scared of something."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Maybe it's Marsh-san, I think......"
-    },
-    {
-        "message": "　　　　　　　　He's an old man who lives in a derelict ship at the harbor, but he always seems like he's scared of something."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Are you sure about that？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Probably."
-    },
-    {
-        "name": "Cordelia",
-        "message": "He often comes to the shop to buy booze, but he never drinks it here. It's like he's jumpy, always worried the villagers might do something to him, you know？"
-    },
-    {
-        "message": "A derelict ship at the harbor, huh."
-    },
-    {
-        "message": "I don't even know where the harbor is, but Gardner should know the geography around here better than I do. He'll probably figure it out."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Isn't there anything else？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Oh yeah, what was with the weird reaction from the villagers earlier when I blurted out 'Innsmouth face'？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Yeah, I don't really know the details either...　　　　　　　　　But you know, the people in this village have kind of unusual faces, right？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Now that you mention it, it did feel like everyone’s eyes were popping out and their cheekbones were kinda crazy developed..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "They call that an 'Innsmouth face'."
-    },
-    {
-        "message": "　　　　　　　　Isn't it like the kind of slur people from other towns use to make fun of folks from the village?"
-    },
-    {
-        "message": "An old man named Marsh said that I have an Innsmouth face."
-    },
-    {
-        "message": "Is he saying I look like the villagers here too？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Do I look like I have an 'Innsmouth face' too？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "You？"
-    },
-    {
-        "message": "　　　　　　　　That's totally not it. You don't have to worry, you know. You're way more handsome than you think you are."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Uh......thanks, I guess."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You don't have to be embarrassed, you know."
-    },
-    {
-        "message": "　　　　　　　　I don't hate your face."
-    },
-    {
-        "message": "That's a pretty explicit way of putting it."
-    },
-    {
-        "message": "Even so, I wonder why Marsh called me an Innsmouth-face. I really can't see any resemblance at all......"
-    },
-    {
-        "message": "I wonder what exactly 'Innsmouth' means."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'm really sorry for being so late."
-    },
-    {
-        "message": "　　　　　　　　Judging　from　the　look　of　things,　I　guess　I　made　you　wait　for　quite　a　while,　huh."
-    },
-    {
-        "name": "Bartender",
-        "message": "Nah, don't worry about it."
-    },
-    {
-        "message": "　　　　　　　I'm always like this. If I don't drink, I can't sleep well, you know."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Are you running this shop all by yourself？"
-    },
-    {
-        "message": "　　　　　　　　Since you seem to like booze, I guess it's your calling, but it must be tough to run the Tavern all by yourself."
-    },
-    {
-        "name": "Bartender",
-        "message": "It's not like I actually like you or anything..."
-    },
-    {
-        "message": "　　　　　　　There are times when you just can't help but drink, you know."
-    },
-    {
-        "message": "When he said that, the woman's expression clouded over."
-    },
-    {
-        "name": "Jonathan",
-        "message": "自己紹介がまだだった、私はジョナサン。昼間の連れ　　　　　　　　は年寄りの方がガードナーと言って大学で民族学を教　　　　　　　　えている教授だ。"
-    },
-    {
-        "name": "Bartender",
-        "message": "Huh... So they were that important, huh."
-    },
-    {
-        "name": "Jonathan",
-        "message": "The other nicotine fiend is Thomas. I have no idea who the hell this guy even is."
-    },
-    {
-        "name": "Bartender",
-        "message": "I'm Cordelia."
-    },
-    {
-        "message": "　　　　　　　Everyone here calls me 'Koty' though."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's a British-sounding name, but who gave it to you？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "When I was a kid, I was adopted by my foster parents. By the original owners of Gilman House. I don’t remember anything before that, so this village is all I know."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So, that means you took over this place from your foster parents, huh."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Yeah. Did you know？"
-    },
-    {
-        "message": "　　　　　　　　'Cordelia' is the name of a princess that appears in Shakespeare, right? When I heard that, I was so embarrassed, thinking there's no name less suited to me than this."
-    },
-    {
-        "name": "Jonathan",
-        "message": "そんな事はないさ。"
-    },
-    {
-        "message": "　　　　　　　　I think it suits you."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Thanks."
-    },
-    {
-        "message": "　　　　　　　　When you put it like that, it doesn't sound so bad. My foster father will probably be happy about it too."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So what happened to your foster parents？"
-    },
-    {
-        "message": "　　　　　　　　I guess I've retired now and left this place in your hands."
-    },
-    {
-        "name": "Cordelia",
-        "message": "‥‥‥‥‥‥‥行方不明なの。"
-    },
-    {
-        "message": "　　　　　　　　One day, she suddenly vanished without a trace."
-    },
-    {
-        "message": "Did I overhear something bad?"
-    },
-    {
-        "message": "Cordelia doesn’t seem bothered by my slip of the tongue, but she probably isn’t feeling great about it."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I heard you run this place all by yourself."
-    },
-    {
-        "message": "　　　　　　　　Running a tavern as a woman must not be easy."
-    },
-    {
-        "name": "Bartender",
-        "message": "Who told you about that？"
-    },
-    {
-        "message": "　　　　　　　How do you know something like that?"
-    },
-    {
-        "message": "Seems like they're a bit offended."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I heard about it from Mrs. Hudson, the Fish Scale Inn."
-    },
-    {
-        "message": "　　　　　　　　The lady praised you, saying, 'Cordelia is a strong-willed girl.'"
-    },
-    {
-        "name": "Bartender",
-        "message": "I see... Hudson said that."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's not like she was talking bad about you or anything. The lady was really praising you."
-    },
-    {
-        "message": "Cordelia looked down and went completely silent."
-    },
-    {
-        "message": "Sure, it's not exactly a past I'd want to go around bragging about, but it's a problem if that makes me end up distancing myself from my wife and treating her like a troublesome gossip."
-    },
-    {
-        "name": "Cordelia",
-        "message": "‥‥‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia, please don't think badly of the lady. I'm the one who insisted on asking her."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I don't really think badly of that person or anything."
-    },
-    {
-        "message": "　　　　　　　　In this village, the only one who cares about me is Hudson."
-    },
-    {
-        "name": "Cordelia",
-        "message": "And besides, it's not like I'm hiding it or anything."
-    },
-    {
-        "message": "　　　　　　　　この村の人間なら誰でも知っている事だわ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Thank goodness. If my actions somehow made things worse between you and the lady, that'd be bad for both of you."
-    },
-    {
-        "name": "Cordelia",
-        "message": "The fact that you worry about stuff like that, you're actually a pretty good person, huh, um......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Jonathan Swift. Just call me Jonathan."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You　can　call　me　Koty　too,　everyone　here　does."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I prefer 'Cordelia.' Wasn't that the name of King Lear's third daughter in Shakespeare？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "You must have liked your adoptive father, huh."
-    },
-    {
-        "message": "　　　　　　　　I wonder how many years it's been since those people disappeared..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Did they die？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "No. She disappeared, you know, suddenly one morning."
-    },
-    {
-        "message": "　　　　　　　　I don't have any memories from before I was taken in by my adoptive parents. I just had to get by somehow in the village."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I　heard　Hudson's　husband　disappeared　just　like　that　too."
-    },
-    {
-        "name": "Jonathan",
-        "message": "The lady's husband is missing？"
-    },
-    {
-        "message": "　　　　　　　　I also just assumed you had died..."
-    },
-    {
-        "message": "She’s not the kind whose curves bulge up from under her clothes."
-    },
-    {
-        "message": "I won't know until I get her clothes off, but I can imagine her having small, nicely-shaped boobs."
-    },
-    {
-        "message": "The cleavage peeking out from her collar isn't as big as a white woman's, but it's perky, and looks like it belongs to a not-yet-fully matured girl."
-    },
-    {
-        "message": "She seems to be so drunk that she doesn't care at all about her disheveled clothes. Her fine, smooth skin is slightly flushed from the effect of Alcohol, and there's a faint sheen of sweat."
-    },
-    {
-        "message": "Despite her slender figure, she gives off an almost seductive allure. It's a real struggle to fight off the urge to sneak a peek at what's hidden under her clothes."
-    },
-    {
-        "message": "If she's not going to drink quietly, maybe it'd just be better to take it away from her. I can't stand having any more booze spilled all over my clothes."
-    },
-    {
-        "message": "Every time she talks, she waves the hand holding the glass around so dramatically that most of the drink ends up raining down on the counter or my clothes rather than going into her mouth."
-    },
-    {
-        "message": "Her slender fingers gripping the glass so tightly that they're turning white shows just how drunk she is. Does she drink like this every night?"
-    },
-    {
-        "message": "　　　Second floor　　　"
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "message": "Not here."
+  },
+  {
+    "message": "I wonder where they went this late at night."
+  },
+  {
+    "message": "There doesn't seem to be anything unusual inside the shop, but......"
+  },
+  {
+    "message": "Maybe they're up in their own room on the second floor."
+  },
+  {
+    "message": "When I opened the door and went inside, the place was filled with that distinctive melancholy of a Tavern that had suddenly lost all its energy after closing for the night."
+  },
+  {
+    "message": "The smell of spilled sour beer fills the air around the table, and the embers in the fireplace keep radiating gentle warmth. The villagers who sat on the stool during the day and glared at us are gone without a trace-not even a sign remains that they were ever there."
+  },
+  {
+    "message": "While I'm at it, looks like the Bartender isn't around either..."
+  },
+  {
+    "message": "Since the door was unlocked, I just assumed you were waiting for me, but maybe you just didn't bother locking it because that's the usual way in the countryside."
+  },
+  {
+    "name": "Bartender",
+    "message": "You're really taking your time, huh！"
+  },
+  {
+    "message": "　　　　　　　It's pretty bold of you to keep people waiting like that."
+  },
+  {
+    "message": "She's the woman from earlier."
+  },
+  {
+    "message": "Looks like you got completely drunk while waiting for me. I wonder if we can even have a proper conversation like this."
+  },
+  {
+    "name": "Bartender",
+    "message": "Hey, are you not even gonna apologize for keeping me waiting？"
+  },
+  {
+    "message": "　　　　　　　As expected of a London gentleman, huh. There's no way you'd bow your head to a foreign woman like me."
+  },
+  {
+    "message": "Apparently, I was a clingy drunk."
+  },
+  {
+    "message": "You sure do say some harsh things, huh. But I'm the one in the wrong, and if I piss off a girl here, there’s no point in coming all the way out to a place like this."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That wasn’t what I meant, I just got caught by some weirdo along the way."
+  },
+  {
+    "name": "Bartender",
+    "message": "『Weird guy,' you say？"
+  },
+  {
+    "message": "　　　　　　　No way, the villagers didn't treat you horribly, did they..."
+  },
+  {
+    "name": "Bartender",
+    "message": "That's why I told you！"
+  },
+  {
+    "message": "　　　　　　　Outsiders like you folks never have anything good happen to them."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No, that's not it."
+  },
+  {
+    "message": "　　　　　　　　I got lost and ended up in front of this weird church, and then some guy who looked like a Black priest showed up....."
+  },
+  {
+    "name": "Bartender",
+    "message": "You're talking about Nai, right."
+  },
+  {
+    "message": "　　　　　　　I don't like that guy either. He acts all gentle with that fake sweet voice, but he looks at people with such pervy eyes."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's the same with my buddy from earlier today, too. The way that guy was grinning-it looked like he had his eyes on you."
+  },
+  {
+    "name": "Bartender",
+    "message": "So all guys are the same, huh."
+  },
+  {
+    "message": "Doesn't seem like as uncomfortable a place as I first thought."
+  },
+  {
+    "message": "If only there weren't villagers who openly show hostility toward me, I'd come here every day."
+  },
+  {
+    "message": "With no one in the place but me, the tavern was dead quiet-not lively by any means, and so much more desolate than the bare minimum bustle you’d expect even in the afternoon."
+  },
+  {
+    "message": "The fireplace, its coals barely glowing, cast a warm, embracing light, different from the cold, hard glow of the electric lights. The well-used tables, the scant furniture, and the sooty walls all gave a reassuring feeling, as if promising the tavern would still be here tomorrow just like always."
+  },
+  {
+    "message": "When I came by during the day, the place felt weirdly distant and awkward, but looking at it now, I somehow feel totally at ease. I wonder why that is."
+  },
+  {
+    "message": "Most of the drinks are gin, rum, and other kinds of liquor that get you drunk fast, almost nothing you'd drink just to enjoy."
+  },
+  {
+    "message": "On the built-in shelf behind the counter, there are all sorts of bottles lined up. Most of them are cheap liquor you can find anywhere, which makes it pretty easy to guess how much the regulars here can actually afford."
+  },
+  {
+    "message": "At the very least, they're not the kind of people who sip and savor their drinks-instead, it seems like most of the customers down the strong stuff just to get drunk as fast as possible."
+  },
+  {
+    "message": "Seeing Cordelia's face looking like she's about to cry, I got flustered."
+  },
+  {
+    "message": "There's nothing more troublesome than having a woman cry right in front of you......"
+  },
+  {
+    "message": "Looks like she's pretty drunk."
+  },
+  {
+    "message": "Her face is red, and even the hand holding her Glass looks unsteady."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Hey, why do you keep staring at my face?　　　　　　　　Is an Oriental woman really that unusual for you?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "No, that's not it......."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You seem to be feeling pretty good, so I thought maybe it's about time you head home."
+  },
+  {
+    "message": "Cordelia suddenly looked like she was about to cry and swung the glass she was holding around. The strong smell of alcohol filled the air, and a good amount of booze splashed onto my clothes."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Why would you say something like that！"
+  },
+  {
+    "message": "　　　　　　　　Don't go... Is it boring being with me？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "No, that's not it, but..."
+  },
+  {
+    "message": "When I first saw him, he only had an unfriendly, businesslike look on his face, like a clerk at a government office, but now he's got a cheerful expression."
+  },
+  {
+    "message": "Maybe I just don't like working at the tavern."
+  },
+  {
+    "message": "Maybe she's a cheerful and open woman when she's not at work."
+  },
+  {
+    "message": "Looks like you've had quite a bit to drink before I got here."
+  },
+  {
+    "message": "During the day, she only ever showed a sour, grumpy face like she'd bitten into a lemon, but now she looks like she's completely let her guard down around me."
+  },
+  {
+    "message": "Maybe she was a lonely woman with no one to talk to. Sure, she doesn't seem to enjoy talking with the gloomy villagers. Maybe it's easier for her to chat with an outsider like me without having to put on an act."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Hey, it's fine, right？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Hey, you have a drink too."
+  },
+  {
+    "message": "　　　　　　　　This isn't the best place, so I'll make an exception and invite you to my room！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is my room far from here？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "It's on the second floor here."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Are you living alone in a lonely place like this？"
+  },
+  {
+    "message": "　　　　　　　　A girl like you must get pretty lonely all by yourself."
+  },
+  {
+    "name": "Cordelia",
+    "message": "See, I told you-I can't sleep unless I drink."
+  },
+  {
+    "message": "　　　　　　　　Hey, what are you gonna do? Don't you wanna see my room?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "But... letting a guy like me into your room this late at night, I hope it doesn’t get you a bad reputation."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I'm fine, you don't have to worry about me！"
+  },
+  {
+    "message": "Yeah, I guess it wouldn't feel right to just leave her all alone in a lonely place like this. It probably wouldn't hurt to stay with her for a bit."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Is that all there is to the story？"
+  },
+  {
+    "message": "　　　　　　　　Let's talk about something more fun."
+  },
+  {
+    "message": "There are only a few hours left until morning now, I wonder if I'll even be able to get into bed tonight......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's already late. Don't you have work to do too？"
+  },
+  {
+    "message": "　　　　　　　　I'm about to‥‥‥‥"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Aahn, what are you talking about."
+  },
+  {
+    "message": "　　　　　　　　There　are　still　hours　until　morning,　aren't　there?　Hey,　don't　you　have　any　other　stories　or　something?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "And？"
+  },
+  {
+    "message": "　　　　　　　　Didn't　you　have　something　you　wanted　to　ask　me?"
+  },
+  {
+    "message": "Oh yeah, I totally forgot."
+  },
+  {
+    "message": "If I went back empty-handed like this, who knows what Gardner would say to me."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's about that old man I met at the ruins at noon."
+  },
+  {
+    "message": "　　　　　　　　He looked really old, so at first I honestly wondered if he might be kinda senile."
+  },
+  {
+    "name": "Cordelia",
+    "message": "The ruins, you mean that thing on top of the cape, right? I don't know why anyone would go to a place like that, but even the villagers don't go near there."
+  },
+  {
+    "name": "Jonathan",
+    "message": "There he was, that old man."
+  },
+  {
+    "message": "　　　　　　　　The people around here don’t look very well put together, but that person looked even worse, like some kind of homeless bum."
+  },
+  {
+    "name": "Cordelia",
+    "message": "There aren't any vagrants in this village."
+  },
+  {
+    "message": "　　　　　　　　But you pretty much have an idea, right? That person reeked of alcohol, didn't they?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I couldn't really tell because the wind was so strong, but he definitely seemed drunk or something, and he also looked like he was scared of something."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Maybe it's Marsh-san, I think......"
+  },
+  {
+    "message": "　　　　　　　　He's an old man who lives in a derelict ship at the harbor, but he always seems like he's scared of something."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Are you sure about that？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Probably."
+  },
+  {
+    "name": "Cordelia",
+    "message": "He often comes to the shop to buy booze, but he never drinks it here. It's like he's jumpy, always worried the villagers might do something to him, you know？"
+  },
+  {
+    "message": "A derelict ship at the harbor, huh."
+  },
+  {
+    "message": "I don't even know where the harbor is, but Gardner should know the geography around here better than I do. He'll probably figure it out."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Isn't there anything else？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Oh yeah, what was with the weird reaction from the villagers earlier when I blurted out 'Innsmouth face'？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Yeah, I don't really know the details either...　　　　　　　　　But you know, the people in this village have kind of unusual faces, right？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Now that you mention it, it did feel like everyone’s eyes were popping out and their cheekbones were kinda crazy developed..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "They call that an 'Innsmouth face'."
+  },
+  {
+    "message": "　　　　　　　　Isn't it like the kind of slur people from other towns use to make fun of folks from the village?"
+  },
+  {
+    "message": "An old man named Marsh said that I have an Innsmouth face."
+  },
+  {
+    "message": "Is he saying I look like the villagers here too？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Do I look like I have an 'Innsmouth face' too？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "You？"
+  },
+  {
+    "message": "　　　　　　　　That's totally not it. You don't have to worry, you know. You're way more handsome than you think you are."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Uh......thanks, I guess."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You don't have to be embarrassed, you know."
+  },
+  {
+    "message": "　　　　　　　　I don't hate your face."
+  },
+  {
+    "message": "That's a pretty explicit way of putting it."
+  },
+  {
+    "message": "Even so, I wonder why Marsh called me an Innsmouth-face. I really can't see any resemblance at all......"
+  },
+  {
+    "message": "I wonder what exactly 'Innsmouth' means."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'm really sorry for being so late."
+  },
+  {
+    "message": "　　　　　　　　Judging　from　the　look　of　things,　I　guess　I　made　you　wait　for　quite　a　while,　huh."
+  },
+  {
+    "name": "Bartender",
+    "message": "Nah, don't worry about it."
+  },
+  {
+    "message": "　　　　　　　I'm always like this. If I don't drink, I can't sleep well, you know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Are you running this shop all by yourself？"
+  },
+  {
+    "message": "　　　　　　　　Since you seem to like booze, I guess it's your calling, but it must be tough to run the Tavern all by yourself."
+  },
+  {
+    "name": "Bartender",
+    "message": "It's not like I actually like you or anything..."
+  },
+  {
+    "message": "　　　　　　　There are times when you just can't help but drink, you know."
+  },
+  {
+    "message": "When he said that, the woman's expression clouded over."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I haven't introduced myself yet-I'm Jonathan. The old man I was with earlier today is Professor Gardner, he teaches anthropology at the university."
+  },
+  {
+    "name": "Bartender",
+    "message": "Huh... So they were that important, huh."
+  },
+  {
+    "name": "Jonathan",
+    "message": "The other nicotine fiend is Thomas. I have no idea who the hell this guy even is."
+  },
+  {
+    "name": "Bartender",
+    "message": "I'm Cordelia."
+  },
+  {
+    "message": "　　　　　　　Everyone here calls me 'Koty' though."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's a British-sounding name, but who gave it to you？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "When I was a kid, I was adopted by my foster parents. By the original owners of Gilman House. I don’t remember anything before that, so this village is all I know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So, that means you took over this place from your foster parents, huh."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Yeah. Did you know？"
+  },
+  {
+    "message": "　　　　　　　　'Cordelia' is the name of a princess that appears in Shakespeare, right? When I heard that, I was so embarrassed, thinking there's no name less suited to me than this."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's not like that at all."
+  },
+  {
+    "message": "　　　　　　　　I think it suits you."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Thanks."
+  },
+  {
+    "message": "　　　　　　　　When you put it like that, it doesn't sound so bad. My foster father will probably be happy about it too."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So what happened to your foster parents？"
+  },
+  {
+    "message": "　　　　　　　　I guess I've retired now and left this place in your hands."
+  },
+  {
+    "name": "Cordelia",
+    "message": "......They're missing."
+  },
+  {
+    "message": "　　　　　　　　One day, she suddenly vanished without a trace."
+  },
+  {
+    "message": "Did I overhear something bad?"
+  },
+  {
+    "message": "Cordelia doesn’t seem bothered by my slip of the tongue, but she probably isn’t feeling great about it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I heard you run this place all by yourself."
+  },
+  {
+    "message": "　　　　　　　　Running a tavern as a woman must not be easy."
+  },
+  {
+    "name": "Bartender",
+    "message": "Who told you about that？"
+  },
+  {
+    "message": "　　　　　　　How do you know something like that?"
+  },
+  {
+    "message": "Seems like they're a bit offended."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I heard about it from Mrs. Hudson, the Fish Scale Inn."
+  },
+  {
+    "message": "　　　　　　　　The lady praised you, saying, 'Cordelia is a strong-willed girl.'"
+  },
+  {
+    "name": "Bartender",
+    "message": "I see... Hudson said that."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's not like she was talking bad about you or anything. The lady was really praising you."
+  },
+  {
+    "message": "Cordelia looked down and went completely silent."
+  },
+  {
+    "message": "Sure, it's not exactly a past I'd want to go around bragging about, but it's a problem if that makes me end up distancing myself from my wife and treating her like a troublesome gossip."
+  },
+  {
+    "name": "Cordelia",
+    "message": "‥‥‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia, please don't think badly of the lady. I'm the one who insisted on asking her."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I don't really think badly of that person or anything."
+  },
+  {
+    "message": "　　　　　　　　In this village, the only one who cares about me is Hudson."
+  },
+  {
+    "name": "Cordelia",
+    "message": "And besides, it's not like I'm hiding it or anything."
+  },
+  {
+    "message": "　　　　　　　　Everyone in this village knows about it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Thank goodness. If my actions somehow made things worse between you and the lady, that'd be bad for both of you."
+  },
+  {
+    "name": "Cordelia",
+    "message": "The fact that you worry about stuff like that, you're actually a pretty good person, huh, um......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Jonathan Swift. Just call me Jonathan."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You　can　call　me　Koty　too,　everyone　here　does."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I prefer 'Cordelia.' Wasn't that the name of King Lear's third daughter in Shakespeare？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "You must have liked your adoptive father, huh."
+  },
+  {
+    "message": "　　　　　　　　I wonder how many years it's been since those people disappeared..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Did they die？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "No. She disappeared, you know, suddenly one morning."
+  },
+  {
+    "message": "　　　　　　　　I don't have any memories from before I was taken in by my adoptive parents. I just had to get by somehow in the village."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I　heard　Hudson's　husband　disappeared　just　like　that　too."
+  },
+  {
+    "name": "Jonathan",
+    "message": "The lady's husband is missing？"
+  },
+  {
+    "message": "　　　　　　　　I also just assumed you had died..."
+  },
+  {
+    "message": "She’s not the kind whose curves bulge up from under her clothes."
+  },
+  {
+    "message": "I won't know until I get her clothes off, but I can imagine her having small, nicely-shaped boobs."
+  },
+  {
+    "message": "The cleavage peeking out from her collar isn't as big as a white woman's, but it's perky, and looks like it belongs to a not-yet-fully matured girl."
+  },
+  {
+    "message": "She seems to be so drunk that she doesn't care at all about her disheveled clothes. Her fine, smooth skin is slightly flushed from the effect of Alcohol, and there's a faint sheen of sweat."
+  },
+  {
+    "message": "Despite her slender figure, she gives off an almost seductive allure. It's a real struggle to fight off the urge to sneak a peek at what's hidden under her clothes."
+  },
+  {
+    "message": "If she's not going to drink quietly, maybe it'd just be better to take it away from her. I can't stand having any more booze spilled all over my clothes."
+  },
+  {
+    "message": "Every time she talks, she waves the hand holding the glass around so dramatically that most of the drink ends up raining down on the counter or my clothes rather than going into her mouth."
+  },
+  {
+    "message": "Her slender fingers gripping the glass so tightly that they're turning white shows just how drunk she is. Does she drink like this every night?"
+  },
+  {
+    "message": "　　　Second floor　　　"
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

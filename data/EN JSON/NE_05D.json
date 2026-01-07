@@ -1,161 +1,161 @@
 [
-    {
-        "message": "Looks like the Necronomicon isn't in this bookshelf."
-    },
-    {
-        "message": "Maybe I should try looking on another bookshelf."
-    },
-    {
-        "message": "It's the bookshelf on the left."
-    },
-    {
-        "message": "It's true that there are a lot of old books, but none of the books on the shelves have particularly fancy bindings, and it doesn't look like there are any rare books like you'd find in a collector's library."
-    },
-    {
-        "message": "As far as I can tell at a glance, I don't see the name Necronomicon anywhere."
-    },
-    {
-        "message": "I wonder if it's not in here."
-    },
-    {
-        "message": "This book is......"
-    },
-    {
-        "message": "『About the trend of fish catches in the North Strait and its nearby waters』"
-    },
-    {
-        "message": "１８５０年出版とある。"
-    },
-    {
-        "message": "It's a fishing village, so it's not surprising that there are books like this..."
-    },
-    {
-        "message": "ここいらあたりでどんな魚が捕れるのかなんて、全く興味が沸かない。"
-    },
-    {
-        "message": "Let's take a look at this."
-    },
-    {
-        "message": "『Airshire State, Tourist Guidebook』"
-    },
-    {
-        "message": "Published in 1870"
-    },
-    {
-        "message": "What could you possibly understand by looking at a tourist guide from 50 years ago?"
-    },
-    {
-        "message": "First, I don't think Arkham is in this book."
-    },
-    {
-        "message": "Some high-up state official selfishly made it into a book and went around distributing it to every town and village, right? Seriously, talk about a pain in the ass."
-    },
-    {
-        "message": "『1850-1900 Arkham Village Treasury Records』"
-    },
-    {
-        "message": "Published in 1900"
-    },
-    {
-        "message": "Arkham's financial records, huh? Even a village like this has a proper office. Still, it doesn't look like anyone's ever bothered to read them..."
-    },
-    {
-        "message": "The book is yellowed and full of wormholes, but it's not torn or creased. The villagers didn't seem to care about the government at all."
-    },
-    {
-        "message": "『ミスカトニック裁判所　判例集』"
-    },
-    {
-        "message": "Published in 1890"
-    },
-    {
-        "message": "This is the case law book I saw before when I looked into the 'Dunwich Incident'."
-    },
-    {
-        "message": "It contains records of cases that occurred in the Miskatonic Court's jurisdiction, including Arkham, up until about 50 years ago."
-    },
-    {
-        "message": "Let's take a look at the case law book for a bit."
-    },
-    {
-        "message": "1862, November 10"
-    },
-    {
-        "message": "This records the trial of a murder case that happened exactly one year before in Arkham Village, under the jurisdiction of the Miskatonic Court."
-    },
-    {
-        "message": "It should also be noted that in this trial, both plaintiff and defendant were already deceased, so it became an unusual case decided only on the prosecutor's evidence and witness statements from villagers."
-    },
-    {
-        "message": "The incident occurred around 1 a.m. on November 10, 1861."
-    },
-    {
-        "message": "There was a report from villagers that they heard multiple screams and several gunshots at Dunwich Mansion, located almost at the center of Arkham Village."
-    },
-    {
-        "message": "When the local police officers broke into the mansion, they discovered the bodies of the male and female residents and organized an investigation team on suspicion of murder."
-    },
-    {
-        "message": "There are five dead. Eva, the wife of the late Philip, the former head of the Dunwich family, Gene, wife of the current Dunwich family head Dollie, their daughters Lorina, and Hannah........."
-    },
-    {
-        "message": "Dollie Dunwich has been charged for the murder of these four people."
-    },
-    {
-        "message": "The Dunwich family is among the most prestigious in the village, and the defendant Dollie was a respected figure who also served as president of Miskatonic University."
-    },
-    {
-        "message": "Dollie's mother, Eva, was shot in the head at close range with a shotgun in the kitchen, and his wife, Gene, was shot through the head in the basement in the same manner. Since burns and heavy gunpowder stains were found on the back of Eva's head and Gene's forehead, it was determined that Dollie shot them both from very close range."
-    },
-    {
-        "message": "The two daughters, Lorina and Hannah, were killed with a heavy, sharp blade. In particular, it is assumed that Lorina's arms and legs were severed before her direct cause of death-a laceration to the chest-was inflicted."
-    },
-    {
-        "message": "The only one found in recognizable form was Hannah, who seemed to have been attacked while sleeping in the children's room, and is believed to have died from a single blow to the chest."
-    },
-    {
-        "message": "Also, since an axe covered in a large amount of blood was found in the first-floor living room of the Dunwich Mansion, it is assumed that this axe was the murder weapon used to kill the two daughters."
-    },
-    {
-        "message": "Dollie Dunwich was found dead in the first-floor study, her head blown out by a small caliber pistol."
-    },
-    {
-        "message": "A pistol was gripped in the right hand, and as a result of ballistic testing, it was confirmed that the bullet extracted from inside Dollie's skull had been fired from the same pistol."
-    },
-    {
-        "message": "Based on the above, it is believed that for some reason Dollie, who suffered a mental breakdown, killed every member of her family within the mansion, and then shot herself in the head, committing suicide. This court has reached the same conclusion."
-    },
-    {
-        "message": "The actions of the defendant, Dollie Dunwich, naturally warrant the death penalty, but since the defendant is already deceased, no sentence is sought, and this court is engaged solely in the confirmation of the fact that the above four murders were committed by Dollie, and with this conclusion, the session was adjourned."
-    },
-    {
-        "message": "『Arkham's Industry』"
-    },
-    {
-        "message": "Published in 1890"
-    },
-    {
-        "message": "It sounds like the title of a pamphlet the publicity section at city hall might make. It feels more like a book to promote the village than a pure record."
-    },
-    {
-        "message": "There's nothing written about Philip's Refinery."
-    },
-    {
-        "message": "By the time this book was published, the gold reserves had probably already run dry and they weren't shipping any gold anymore."
-    },
-    {
-        "message": "『Records of Public Works from 1850 to 1900』"
-    },
-    {
-        "message": "Published in 1901"
-    },
-    {
-        "message": "Just how many public works do they claim happened in this village anyway？"
-    },
-    {
-        "message": "There's really no book more useless than this."
-    },
-    {
-        "message": "Return to the archive"
-    }
+  {
+    "message": "Looks like the Necronomicon isn't in this bookshelf."
+  },
+  {
+    "message": "Maybe I should try looking on another bookshelf."
+  },
+  {
+    "message": "It's the bookshelf on the left."
+  },
+  {
+    "message": "It's true that there are a lot of old books, but none of the books on the shelves have particularly fancy bindings, and it doesn't look like there are any rare books like you'd find in a collector's library."
+  },
+  {
+    "message": "As far as I can tell at a glance, I don't see the name Necronomicon anywhere."
+  },
+  {
+    "message": "I wonder if it's not in here."
+  },
+  {
+    "message": "This book is......"
+  },
+  {
+    "message": "『About the trend of fish catches in the North Strait and its nearby waters』"
+  },
+  {
+    "message": "It says it was published in 1850."
+  },
+  {
+    "message": "It's a fishing village, so it's not surprising that there are books like this..."
+  },
+  {
+    "message": "I seriously couldn't care less about what kind of fish get caught around here."
+  },
+  {
+    "message": "Let's take a look at this."
+  },
+  {
+    "message": "『Airshire State, Tourist Guidebook』"
+  },
+  {
+    "message": "Published in 1870"
+  },
+  {
+    "message": "What could you possibly understand by looking at a tourist guide from 50 years ago?"
+  },
+  {
+    "message": "First, I don't think Arkham is in this book."
+  },
+  {
+    "message": "Some high-up state official selfishly made it into a book and went around distributing it to every town and village, right? Seriously, talk about a pain in the ass."
+  },
+  {
+    "message": "『1850-1900 Arkham Village Treasury Records』"
+  },
+  {
+    "message": "Published in 1900"
+  },
+  {
+    "message": "Arkham's financial records, huh? Even a village like this has a proper office. Still, it doesn't look like anyone's ever bothered to read them..."
+  },
+  {
+    "message": "The book is yellowed and full of wormholes, but it's not torn or creased. The villagers didn't seem to care about the government at all."
+  },
+  {
+    "message": "『Miskatonic Court Case law book』"
+  },
+  {
+    "message": "Published in 1890"
+  },
+  {
+    "message": "This is the case law book I saw before when I looked into the 'Dunwich Incident'."
+  },
+  {
+    "message": "It contains records of cases that occurred in the Miskatonic Court's jurisdiction, including Arkham, up until about 50 years ago."
+  },
+  {
+    "message": "Let's take a look at the case law book for a bit."
+  },
+  {
+    "message": "1862, November 10"
+  },
+  {
+    "message": "This records the trial of a murder case that happened exactly one year before in Arkham Village, under the jurisdiction of the Miskatonic Court."
+  },
+  {
+    "message": "It should also be noted that in this trial, both plaintiff and defendant were already deceased, so it became an unusual case decided only on the prosecutor's evidence and witness statements from villagers."
+  },
+  {
+    "message": "The incident occurred around 1 a.m. on November 10, 1861."
+  },
+  {
+    "message": "There was a report from villagers that they heard multiple screams and several gunshots at Dunwich Mansion, located almost at the center of Arkham Village."
+  },
+  {
+    "message": "When the local police officers broke into the mansion, they discovered the bodies of the male and female residents and organized an investigation team on suspicion of murder."
+  },
+  {
+    "message": "There are five dead. Eva, the wife of the late Philip, the former head of the Dunwich family, Gene, wife of the current Dunwich family head Dollie, their daughters Lorina, and Hannah........."
+  },
+  {
+    "message": "Dollie Dunwich has been charged for the murder of these four people."
+  },
+  {
+    "message": "The Dunwich family is among the most prestigious in the village, and the defendant Dollie was a respected figure who also served as president of Miskatonic University."
+  },
+  {
+    "message": "Dollie's mother, Eva, was shot in the head at close range with a shotgun in the kitchen, and his wife, Gene, was shot through the head in the basement in the same manner. Since burns and heavy gunpowder stains were found on the back of Eva's head and Gene's forehead, it was determined that Dollie shot them both from very close range."
+  },
+  {
+    "message": "The two daughters, Lorina and Hannah, were killed with a heavy, sharp blade. In particular, it is assumed that Lorina's arms and legs were severed before her direct cause of death-a laceration to the chest-was inflicted."
+  },
+  {
+    "message": "The only one found in recognizable form was Hannah, who seemed to have been attacked while sleeping in the children's room, and is believed to have died from a single blow to the chest."
+  },
+  {
+    "message": "Also, since an axe covered in a large amount of blood was found in the first-floor living room of the Dunwich Mansion, it is assumed that this axe was the murder weapon used to kill the two daughters."
+  },
+  {
+    "message": "Dollie Dunwich was found dead in the first-floor study, her head blown out by a small caliber pistol."
+  },
+  {
+    "message": "A pistol was gripped in the right hand, and as a result of ballistic testing, it was confirmed that the bullet extracted from inside Dollie's skull had been fired from the same pistol."
+  },
+  {
+    "message": "Based on the above, it is believed that for some reason Dollie, who suffered a mental breakdown, killed every member of her family within the mansion, and then shot herself in the head, committing suicide. This court has reached the same conclusion."
+  },
+  {
+    "message": "The actions of the defendant, Dollie Dunwich, naturally warrant the death penalty, but since the defendant is already deceased, no sentence is sought, and this court is engaged solely in the confirmation of the fact that the above four murders were committed by Dollie, and with this conclusion, the session was adjourned."
+  },
+  {
+    "message": "『Arkham's Industry』"
+  },
+  {
+    "message": "Published in 1890"
+  },
+  {
+    "message": "It sounds like the title of a pamphlet the publicity section at city hall might make. It feels more like a book to promote the village than a pure record."
+  },
+  {
+    "message": "There's nothing written about Philip's Refinery."
+  },
+  {
+    "message": "By the time this book was published, the gold reserves had probably already run dry and they weren't shipping any gold anymore."
+  },
+  {
+    "message": "『Records of Public Works from 1850 to 1900』"
+  },
+  {
+    "message": "Published in 1901"
+  },
+  {
+    "message": "Just how many public works do they claim happened in this village anyway？"
+  },
+  {
+    "message": "There's really no book more useless than this."
+  },
+  {
+    "message": "Return to the archive"
+  }
 ]

@@ -1,96 +1,96 @@
 [
-    {
-        "message": "No matter how many times I come, it's always the same. The store probably won't open until tomorrow morning."
-    },
-    {
-        "message": "Just where the hell did that shopkeeper go?"
-    },
-    {
-        "message": "The shop has its doors tightly shut, and there's no sign of anyone inside."
-    },
-    {
-        "message": "I wonder if that young shopkeeper doesn't actually sleep at the store."
-    },
-    {
-        "message": "If you’re not doing it, then it feels like there’s no point in staying in a place like this."
-    },
-    {
-        "message": "Let's come back again tomorrow morning. If the shopkeeper's a decent guy, he might tell us things that the villagers won't talk about."
-    },
-    {
-        "message": "It's the only general store in Arkham. It looks like they've got everything from sundries to groceries, but it seems they're closed right now. You'll have to wait until tomorrow morning to shop."
-    },
-    {
-        "message": "That said, I don't really need anything in particular, though."
-    },
-    {
-        "message": "It looks like a young owner, probably in his early 30s, is running the shop all by himself."
-    },
-    {
-        "message": "何度やっても無駄のようだ。"
-    },
-    {
-        "message": "元々たいした用がある訳でもない、明日の朝出直して来るとしよう。"
-    },
-    {
-        "message": "It's not like I've got any business that would make me go out of my way to wake up the shop owner..."
-    },
-    {
-        "message": "I knocked loudly on the shop's entrance."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Hey, is anybody here？"
-    },
-    {
-        "message": "　　　　　　　　Master, could you open this for me？"
-    },
-    {
-        "message": "No one comes out from inside the shop."
-    },
-    {
-        "message": "ノックの音に気づかないほど熟睡してしまっているのか、店には誰もいないのか、定かではないが、とりあえず誰も出てくる気配はない。"
-    },
-    {
-        "message": "Doesn't seem like there's anyone inside, though......"
-    },
-    {
-        "message": "Since the suspension bridge is in that state, the shopkeeper will have to stay somewhere in the village too."
-    },
-    {
-        "message": "Since you didn't see them at the only inn in the village, the Fish Scale Inn, there's a high chance they're sleeping in the back of the shop."
-    },
-    {
-        "message": "Since business hours are already over, the door is tightly shut."
-    },
-    {
-        "message": "しかし、あまり頑丈とは言えない木の扉だから、忍び込もうと思えば訳ない。扉をぶち破れば済むことだ。"
-    },
-    {
-        "message": "There’s nothing on display here that’s worth going out of your way to steal."
-    },
-    {
-        "message": "ひょっとすると、ショーウインドーの中の品物はもう何年も交換されていないのかもしれない。"
-    },
-    {
-        "message": "It's not like they've put up shutters or anything, the products are still out on display just like in the daytime."
-    },
-    {
-        "message": "不用心といえば、これほどいい加減な店の管理の仕方もめずらしい。このあたりではガラスを破って中の品物を持っていくような盗難はおこらないのだろうか。"
-    },
-    {
-        "message": "For me, there isn't a single item worth going through the trouble to steal, but I guess there must be some fools who'd risk it all even for cheap crap like this."
-    },
-    {
-        "message": "Fish Scale Inn"
-    },
-    {
-        "message": "　　　Square　　　"
-    },
-    {
-        "message": "　　　Ruins　　　"
-    },
-    {
-        "message": "Gilman House"
-    }
+  {
+    "message": "No matter how many times I come, it's always the same. The store probably won't open until tomorrow morning."
+  },
+  {
+    "message": "Just where the hell did that shopkeeper go?"
+  },
+  {
+    "message": "The shop has its doors tightly shut, and there's no sign of anyone inside."
+  },
+  {
+    "message": "I wonder if that young shopkeeper doesn't actually sleep at the store."
+  },
+  {
+    "message": "If you’re not doing it, then it feels like there’s no point in staying in a place like this."
+  },
+  {
+    "message": "Let's come back again tomorrow morning. If the shopkeeper's a decent guy, he might tell us things that the villagers won't talk about."
+  },
+  {
+    "message": "It's the only general store in Arkham. It looks like they've got everything from sundries to groceries, but it seems they're closed right now. You'll have to wait until tomorrow morning to shop."
+  },
+  {
+    "message": "That said, I don't really need anything in particular, though."
+  },
+  {
+    "message": "It looks like a young owner, probably in his early 30s, is running the shop all by himself."
+  },
+  {
+    "message": "No matter how many times we try, it seems useless."
+  },
+  {
+    "message": "It's not like we've got any urgent business anyway, so let's just come back tomorrow morning."
+  },
+  {
+    "message": "It's not like I've got any business that would make me go out of my way to wake up the shop owner..."
+  },
+  {
+    "message": "I knocked loudly on the shop's entrance."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Hey, is anybody here？"
+  },
+  {
+    "message": "　　　　　　　　Master, could you open this for me？"
+  },
+  {
+    "message": "No one comes out from inside the shop."
+  },
+  {
+    "message": "Maybe they're sleeping so deeply they can't even hear the knock, or maybe there's just nobody in the shop-either way, there's no sign of anyone coming out."
+  },
+  {
+    "message": "Doesn't seem like there's anyone inside, though......"
+  },
+  {
+    "message": "Since the suspension bridge is in that state, the shopkeeper will have to stay somewhere in the village too."
+  },
+  {
+    "message": "Since you didn't see them at the only inn in the village, the Fish Scale Inn, there's a high chance they're sleeping in the back of the shop."
+  },
+  {
+    "message": "Since business hours are already over, the door is tightly shut."
+  },
+  {
+    "message": "Still, the wooden door isn't exactly sturdy, so sneaking in would be easy if we wanted to. We could just bust down the door and be done with it."
+  },
+  {
+    "message": "There’s nothing on display here that’s worth going out of your way to steal."
+  },
+  {
+    "message": "Maybe the stuff inside the show window hasn't been replaced for years."
+  },
+  {
+    "message": "It's not like they've put up shutters or anything, the products are still out on display just like in the daytime."
+  },
+  {
+    "message": "Speaking of careless, it's rare to see a shop this sloppy with its security. Don't they ever have thieves around here smashing the glass and taking stuff?"
+  },
+  {
+    "message": "For me, there isn't a single item worth going through the trouble to steal, but I guess there must be some fools who'd risk it all even for cheap crap like this."
+  },
+  {
+    "message": "Fish Scale Inn"
+  },
+  {
+    "message": "　　　Square　　　"
+  },
+  {
+    "message": "　　　Ruins　　　"
+  },
+  {
+    "message": "Gilman House"
+  }
 ]

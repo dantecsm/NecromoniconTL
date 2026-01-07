@@ -1,90 +1,90 @@
 [
-    {
-        "message": "Gilman House is right in front of me, standing at the end point of what was once a bustling back alley."
-    },
-    {
-        "message": "There's still no sign of people around, and the atmosphere really screams deserted back street."
-    },
-    {
-        "message": "We entered the back alley the owner of the general store told us about, and made our way to the corner shop at the end. The area used to have people passing through and seemed to be doing well enough, with several stylish-looking storefronts, but now, most of the shops appear to be closed."
-    },
-    {
-        "message": "It looks like the only place open is the shop right in front of me, and this must be the very Gilman House the general store owner talked about. Unlike the usual sailor pubs you find in port towns, the place has a different vibe-it's more like one of those unpretentious, slightly shabby hangouts you see on the outskirts of London."
-    },
-    {
-        "message": "There's still not a single person around."
-    },
-    {
-        "message": "No matter how deserted it is, this kind of empty street atmosphere is just not normal."
-    },
-    {
-        "message": "きちんと舗装された道はこのギルマンハウスの前で終わる。数十年を経てなお往時のままの状態が保たれているところや、錆が浮き出ているものの、今でも使用可能であると思われるガス灯からは敷設工事を計画した人間の熱意が感じられる。"
-    },
-    {
-        "message": "Still, part of the reason it’s managed to stay the same as back then is because this place was used."
-    },
-    {
-        "message": "Currently using"
-    },
-    {
-        "message": "I feel like this proves that the number of humans is really small."
-    },
-    {
-        "message": "Sure, you could say it's a modern and decent building by Arkham's standards, but it's not exactly the kind of place that's fun to look at. At the end of the day, pubs like this are just about everywhere."
-    },
-    {
-        "message": "It's a solid, handsome building, like something you'd find in the backstreets of London back when horse-drawn carriages were the main way to get around. The discolored brick walls and the rust blooming on the metal make the old, worn-out vibe of the building even more real."
-    },
-    {
-        "message": "The glass window occupying an entire wall seems to be well maintained, but even so, because of the inevitable aging of the material itself, you can't see inside. The surface seems wavy, probably due to the crude technology of the time."
-    },
-    {
-        "message": "In contrast to the elaborate construction of the building, the lettering on the sign is just plain boring."
-    },
-    {
-        "message": "The owners of the shop are a timid elderly couple, and it feels like they just let the pushy architect do whatever he wanted, so the end result turned out way different from what was originally expected."
-    },
-    {
-        "message": "The shop's name is written in plain Gothic lettering."
-    },
-    {
-        "message": "Judging by the way the paint is bubbling up from all the rust, it probably hasn't been touched in over ten years."
-    },
-    {
-        "message": "That said, the villagers should already know what this shop is doing, and it's gotta be super rare for outsiders to come to a place like this. Makes you wonder if there's even any need for a sign at all."
-    },
-    {
-        "message": "I just came out right now. With things inside like that, it'd be better not to go back into the shop again so soon."
-    },
-    {
-        "message": "Even if that's not the case, it seems like all the villagers here have rough tempers."
-    },
-    {
-        "message": "You never know what they might do to you."
-    },
-    {
-        "name": "Thomas",
-        "message": "How much longer do I have to just sit here and watch with my thumb up my ass？"
-    },
-    {
-        "message": "　　　　　　I can smell the booze from all the way out here, let's hurry up and go in."
-    },
-    {
-        "message": "You can't see what's going on inside from the outside, but it kinda feels like there's someone in there. Beyond the tightly shut door, there's gotta be a cozy, perfectly warmed shop waiting."
-    },
-    {
-        "message": "Fish Scale Inn"
-    },
-    {
-        "message": "　　　Plaza　　　"
-    },
-    {
-        "message": "General store"
-    },
-    {
-        "message": "　　　Ruins　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "message": "Gilman House is right in front of me, standing at the end point of what was once a bustling back alley."
+  },
+  {
+    "message": "There's still no sign of people around, and the atmosphere really screams deserted back street."
+  },
+  {
+    "message": "We entered the back alley the owner of the general store told us about, and made our way to the corner shop at the end. The area used to have people passing through and seemed to be doing well enough, with several stylish-looking storefronts, but now, most of the shops appear to be closed."
+  },
+  {
+    "message": "It looks like the only place open is the shop right in front of me, and this must be the very Gilman House the general store owner talked about. Unlike the usual sailor pubs you find in port towns, the place has a different vibe-it's more like one of those unpretentious, slightly shabby hangouts you see on the outskirts of London."
+  },
+  {
+    "message": "There's still not a single person around."
+  },
+  {
+    "message": "No matter how deserted it is, this kind of empty street atmosphere is just not normal."
+  },
+  {
+    "message": "The properly paved road ends in front of the Gilman House. Some sections have been preserved just as they were decades ago, and although rust has appeared, the gas lamps-still apparently functional-show the dedication of whoever planned their installation."
+  },
+  {
+    "message": "Still, part of the reason it’s managed to stay the same as back then is because this place was used."
+  },
+  {
+    "message": "Currently using"
+  },
+  {
+    "message": "I feel like this proves that the number of humans is really small."
+  },
+  {
+    "message": "Sure, you could say it's a modern and decent building by Arkham's standards, but it's not exactly the kind of place that's fun to look at. At the end of the day, pubs like this are just about everywhere."
+  },
+  {
+    "message": "It's a solid, handsome building, like something you'd find in the backstreets of London back when horse-drawn carriages were the main way to get around. The discolored brick walls and the rust blooming on the metal make the old, worn-out vibe of the building even more real."
+  },
+  {
+    "message": "The glass window occupying an entire wall seems to be well maintained, but even so, because of the inevitable aging of the material itself, you can't see inside. The surface seems wavy, probably due to the crude technology of the time."
+  },
+  {
+    "message": "In contrast to the elaborate construction of the building, the lettering on the sign is just plain boring."
+  },
+  {
+    "message": "The owners of the shop are a timid elderly couple, and it feels like they just let the pushy architect do whatever he wanted, so the end result turned out way different from what was originally expected."
+  },
+  {
+    "message": "The shop's name is written in plain Gothic lettering."
+  },
+  {
+    "message": "Judging by the way the paint is bubbling up from all the rust, it probably hasn't been touched in over ten years."
+  },
+  {
+    "message": "That said, the villagers should already know what this shop is doing, and it's gotta be super rare for outsiders to come to a place like this. Makes you wonder if there's even any need for a sign at all."
+  },
+  {
+    "message": "I just came out right now. With things inside like that, it'd be better not to go back into the shop again so soon."
+  },
+  {
+    "message": "Even if that's not the case, it seems like all the villagers here have rough tempers."
+  },
+  {
+    "message": "You never know what they might do to you."
+  },
+  {
+    "name": "Thomas",
+    "message": "How much longer do I have to just sit here and watch with my thumb up my ass？"
+  },
+  {
+    "message": "　　　　　　I can smell the booze from all the way out here, let's hurry up and go in."
+  },
+  {
+    "message": "You can't see what's going on inside from the outside, but it kinda feels like there's someone in there. Beyond the tightly shut door, there's gotta be a cozy, perfectly warmed shop waiting."
+  },
+  {
+    "message": "Fish Scale Inn"
+  },
+  {
+    "message": "　　　Plaza　　　"
+  },
+  {
+    "message": "General store"
+  },
+  {
+    "message": "　　　Ruins　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

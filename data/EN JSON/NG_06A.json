@@ -1,213 +1,213 @@
 [
-    {
-        "message": "I'm in front of the Church of Dagon."
-    },
-    {
-        "message": "It's so quiet you'd think last night's commotion never happened."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Isn't there nothing left here anymore？"
-    },
-    {
-        "message": "　　　　　　　　他にいくらでも怪しい所があるじゃないの。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Where is this......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "This isn't the Church of Dagon！"
-    },
-    {
-        "message": "　　　　　　　　Why　are　you　coming　to　a　place　like　this？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "仕方がないじゃないか、ネクロノミコンはダゴン教団　　　　　　　　と関わりが深い、もしかするとこの教会の何処かに隠　　　　　　　　されている可能性がある。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "But there are lots of Dagon's followers here, you know？"
-    },
-    {
-        "message": "　　　　　　　　If I get caught, I'll be killed."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's okay, just hide around here."
-    },
-    {
-        "message": "　　　　　　　　I'll go check it out myself."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Really？"
-    },
-    {
-        "message": "　　　　　　　　Please, come back soon, okay?"
-    },
-    {
-        "message": "The thick, overgrown trees are stretching their branches out, as if they're about to completely cover the Church building."
-    },
-    {
-        "message": "All of them have grown twisted by the strong wind, making the atmosphere around here even creepier."
-    },
-    {
-        "message": "Unlike last night, those unpleasant voices that could've been either the faithful's cries of joy or muffled sobs can't be heard at all today."
-    },
-    {
-        "message": "There’s not a single follower in sight, so there’s no need to worry about anyone catching me."
-    },
-    {
-        "message": "The feeling that 'it's like all the villagers have disappeared' has grown even stronger, and now it's almost becoming a certainty."
-    },
-    {
-        "message": "教会の中はもぬけの空で、しかも建物の中にネクロノミコンがあるような形跡はなかった。"
-    },
-    {
-        "message": "I figured it wouldn't be weird for the Church of Dagon to have books hidden away..."
-    },
-    {
-        "message": "There weren't any followers of Dagon, and neither Thomas nor Cordelia were here."
-    },
-    {
-        "message": "This isn't getting us anywhere."
-    },
-    {
-        "message": "Wouldn't it be better to check out the Dunwich family's study before looking for Cordelia?"
-    },
-    {
-        "message": "Just like last night's ruckus was a lie, everything around me is dead quiet."
-    },
-    {
-        "message": "The sweet, nose-tingling scent and the spine-chillingly evil vibe that the Church building used to give off have disappeared like it was all a lie."
-    },
-    {
-        "message": "どうやらダゴンの信者達はここにはいないようだが、中を調べてみる価値はありそうだ。"
-    },
-    {
-        "message": "Last time I saw it, it was terribly bleak, and I remember there was almost no furniture or decor at all."
-    },
-    {
-        "message": "The floor was paved with stone, and the surrounding walls were plastered; there shouldn’t be anywhere you could hide something."
-    },
-    {
-        "message": "I can’t imagine there’s any way you could hide a book inside the pipe organ, though..."
-    },
-    {
-        "message": "If that monster and the Necronomicon are closely connected, and if the monster is closely tied to Dagon, it wouldn't be strange for the book to be in the Church."
-    },
-    {
-        "message": "It doesn't look like there are any followers of Dagon here though..."
-    },
-    {
-        "message": "I wonder if Thomas and Cordelia are in here."
-    },
-    {
-        "message": "If the 'Lost key' that Thomas is looking for is the Necronomicon, then the Church of Dagon, which is closely related to that book, might be the most suitable place to perform the ritual."
-    },
-    {
-        "message": "Anyway, there's no point in staying here."
-    },
-    {
-        "message": "I've got no choice but to go check it out."
-    },
-    {
-        "message": "Even when searching for Cordelia's whereabouts, just running aimlessly around the village would be a waste of time."
-    },
-    {
-        "message": "Maybe we should check out Dollie's study in the Dunwich family's place."
-    },
-    {
-        "message": "Maybe we can find a clue about where Dagon's ritual is going to take place..."
-    },
-    {
-        "message": "教会の入り口の上には、トマスの指輪と同じ模様を型どった紋章がかかげられている。"
-    },
-    {
-        "message": "Now it's an undeniable fact that the secret society Thomas belongs to isn't unrelated, but it's also definitely true that greedy, self-centered Thomas doesn't give a damn about the society's interests as a whole."
-    },
-    {
-        "message": "トマスはネクロノミコンが『失われた鍵』に違いないと思っているようだが、ナイはそれを否定していたようだし、どちらの言う事を信じていいのか迷うところだ。"
-    },
-    {
-        "message": "It must have been carved into the stone slab by a skilled stonemason, working carefully."
-    },
-    {
-        "message": "The crest's shape itself isn't all that complicated, but judging by the wear on the surface, there's no doubt it's something that's been around for quite a few years."
-    },
-    {
-        "message": "Even so, the fact that there are still no cracks or chips suggests that the craftsman who made this had extraordinary skills."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It's dangerous to be in a place like this."
-    },
-    {
-        "message": "　　　　　　　　Who knows what they'll do to me if those people find me......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I really hate coming here..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So, how was I last night？"
-    },
-    {
-        "message": "　　　　　　　　I　wonder　what　was　being　done　here　last　night."
-    },
-    {
-        "message": "I wonder if it's okay to tell the truth."
-    },
-    {
-        "message": "In front of the audience, I was shamelessly showing off my naked body and all..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It was no big deal."
-    },
-    {
-        "message": "　　　　　　　　I was just standing there on the stage like a stick."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Really？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, seems like you're really important to Dagon.　　　　　　　　Nai told the believers not to lay a finger on you,　　　　　　　　didn't he?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Yeah, that's right......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I can't believe I was raised in this Church.　　　　　　　　I don't have any memories of that at all."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's not all. The reason you were brought to Arkham was because Nai planned to use you for Dagon's ritual."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I think I was about five years old when I was brought to this village."
-    },
-    {
-        "name": "Cordelia",
-        "message": "For over ten years, you've been watching me and doing all sorts of things behind my back in places I didn't even know about, huh."
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "message": "I'm in front of the Church of Dagon."
+  },
+  {
+    "message": "It's so quiet you'd think last night's commotion never happened."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Isn't there nothing left here anymore？"
+  },
+  {
+    "message": "　　　　　　　　There　are　tons　of　other　shady　places,　aren't　there."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Where is this......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "This isn't the Church of Dagon！"
+  },
+  {
+    "message": "　　　　　　　　Why　are　you　coming　to　a　place　like　this？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It can't be helped-the Necronomicon is deeply connected to the Dagon Cult, and there's a chance it might be hidden somewhere in this Church."
+  },
+  {
+    "name": "Cordelia",
+    "message": "But there are lots of Dagon's followers here, you know？"
+  },
+  {
+    "message": "　　　　　　　　If I get caught, I'll be killed."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's okay, just hide around here."
+  },
+  {
+    "message": "　　　　　　　　I'll go check it out myself."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Really？"
+  },
+  {
+    "message": "　　　　　　　　Please, come back soon, okay?"
+  },
+  {
+    "message": "The thick, overgrown trees are stretching their branches out, as if they're about to completely cover the Church building."
+  },
+  {
+    "message": "All of them have grown twisted by the strong wind, making the atmosphere around here even creepier."
+  },
+  {
+    "message": "Unlike last night, those unpleasant voices that could've been either the faithful's cries of joy or muffled sobs can't be heard at all today."
+  },
+  {
+    "message": "There’s not a single follower in sight, so there’s no need to worry about anyone catching me."
+  },
+  {
+    "message": "The feeling that 'it's like all the villagers have disappeared' has grown even stronger, and now it's almost becoming a certainty."
+  },
+  {
+    "message": "Inside the Church was completely empty, and there wasn't any sign that the Necronomicon was in the building either."
+  },
+  {
+    "message": "I figured it wouldn't be weird for the Church of Dagon to have books hidden away..."
+  },
+  {
+    "message": "There weren't any followers of Dagon, and neither Thomas nor Cordelia were here."
+  },
+  {
+    "message": "This isn't getting us anywhere."
+  },
+  {
+    "message": "Wouldn't it be better to check out the Dunwich family's study before looking for Cordelia?"
+  },
+  {
+    "message": "Just like last night's ruckus was a lie, everything around me is dead quiet."
+  },
+  {
+    "message": "The sweet, nose-tingling scent and the spine-chillingly evil vibe that the Church building used to give off have disappeared like it was all a lie."
+  },
+  {
+    "message": "Looks like Dagon's followers aren't here, but it's probably worth checking inside."
+  },
+  {
+    "message": "Last time I saw it, it was terribly bleak, and I remember there was almost no furniture or decor at all."
+  },
+  {
+    "message": "The floor was paved with stone, and the surrounding walls were plastered; there shouldn’t be anywhere you could hide something."
+  },
+  {
+    "message": "I can’t imagine there’s any way you could hide a book inside the pipe organ, though..."
+  },
+  {
+    "message": "If that monster and the Necronomicon are closely connected, and if the monster is closely tied to Dagon, it wouldn't be strange for the book to be in the Church."
+  },
+  {
+    "message": "It doesn't look like there are any followers of Dagon here though..."
+  },
+  {
+    "message": "I wonder if Thomas and Cordelia are in here."
+  },
+  {
+    "message": "If the 'Lost key' that Thomas is looking for is the Necronomicon, then the Church of Dagon, which is closely related to that book, might be the most suitable place to perform the ritual."
+  },
+  {
+    "message": "Anyway, there's no point in staying here."
+  },
+  {
+    "message": "I've got no choice but to go check it out."
+  },
+  {
+    "message": "Even when searching for Cordelia's whereabouts, just running aimlessly around the village would be a waste of time."
+  },
+  {
+    "message": "Maybe we should check out Dollie's study in the Dunwich family's place."
+  },
+  {
+    "message": "Maybe we can find a clue about where Dagon's ritual is going to take place..."
+  },
+  {
+    "message": "Above the entrance to the Church, there's an emblem with the same pattern as Thomas's Ring."
+  },
+  {
+    "message": "Now it's an undeniable fact that the secret society Thomas belongs to isn't unrelated, but it's also definitely true that greedy, self-centered Thomas doesn't give a damn about the society's interests as a whole."
+  },
+  {
+    "message": "Thomas seems to be convinced that the Necronomicon is the 'Lost key,' but Nai seemed to deny that, so I'm not sure which one to believe."
+  },
+  {
+    "message": "It must have been carved into the stone slab by a skilled stonemason, working carefully."
+  },
+  {
+    "message": "The crest's shape itself isn't all that complicated, but judging by the wear on the surface, there's no doubt it's something that's been around for quite a few years."
+  },
+  {
+    "message": "Even so, the fact that there are still no cracks or chips suggests that the craftsman who made this had extraordinary skills."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It's dangerous to be in a place like this."
+  },
+  {
+    "message": "　　　　　　　　Who knows what they'll do to me if those people find me......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I really hate coming here..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So, how was I last night？"
+  },
+  {
+    "message": "　　　　　　　　I　wonder　what　was　being　done　here　last　night."
+  },
+  {
+    "message": "I wonder if it's okay to tell the truth."
+  },
+  {
+    "message": "In front of the audience, I was shamelessly showing off my naked body and all..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It was no big deal."
+  },
+  {
+    "message": "　　　　　　　　I was just standing there on the stage like a stick."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Really？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, seems like you're really important to Dagon.　　　　　　　　Nai told the believers not to lay a finger on you,　　　　　　　　didn't he?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Yeah, that's right......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I can't believe I was raised in this Church.　　　　　　　　I don't have any memories of that at all."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's not all. The reason you were brought to Arkham was because Nai planned to use you for Dagon's ritual."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I think I was about five years old when I was brought to this village."
+  },
+  {
+    "name": "Cordelia",
+    "message": "For over ten years, you've been watching me and doing all sorts of things behind my back in places I didn't even know about, huh."
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

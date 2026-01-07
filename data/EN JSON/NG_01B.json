@@ -1,227 +1,227 @@
 [
-    {
-        "message": "The Church's pews are packed with villagers praying earnestly."
-    },
-    {
-        "message": "The one on the stage must be the Black priest, Nai."
-    },
-    {
-        "message": "The area is wrapped in a solemn atmosphere, and as we stand there dumbfounded, we're suddenly hit with the feeling that we seriously don't belong here."
-    },
-    {
-        "message": "Even so, since coming to Arkham, this is the first time I've seen so many people gathered in one place."
-    },
-    {
-        "message": "Inside the empty church, neither the Black priest Nai nor the figure of any devoted worshipper can be seen."
-    },
-    {
-        "message": "The stained glass shining with beautiful light and the elaborate pipe organ barely keep up the appearance of a Church, but there’s not a single Christ statue, cross, or baptismal font here like you’d expect."
-    },
-    {
-        "message": "Looking at it, it’s obvious this isn’t a Church for Christianity believers, but it seems like there’s nothing here that reminds me of any religion I know, either."
-    },
-    {
-        "message": "There are rows of hard wooden benches."
-    },
-    {
-        "message": "If I could help it, I’d rather not end up stuck here listening to boring lectures for hours."
-    },
-    {
-        "message": "Hard wooden benches are lined up neatly."
-    },
-    {
-        "message": "The floor is made of roughly hewn stone, and it's polished nicely."
-    },
-    {
-        "message": "Both are unique to the Church, but they seem to make the chilly atmosphere even worse, so I don't think I can like them much."
-    },
-    {
-        "message": "My belief that the Church is a place to build endurance seems to have been proven here, too."
-    },
-    {
-        "message": "There aren’t any decorations around the podium, and it feels more barren than simple-almost a little lonely."
-    },
-    {
-        "message": "It's one step higher than the benches where the other believers sit."
-    },
-    {
-        "message": "They were probably aiming for some kind of intimidating effect, but for the exceptionally tall Nai, it doesn't seem to matter much."
-    },
-    {
-        "message": "Even so, normally there should be things like a Baptismal font or a Christ statue around here, but instead there's just a single, extremely plain desk with no decorations at all, just like a teacher's desk at school."
-    },
-    {
-        "message": "I wonder if this Church isn't very wealthy？"
-    },
-    {
-        "message": "It's a beautiful thing, but it doesn't feel all that old."
-    },
-    {
-        "message": "It seems a bit different from the kind of pictures you usually see in the Church, though......"
-    },
-    {
-        "message": "A stained glass, about as tall as a person, skillfully crafted with beautiful colored glass pieces fitted together."
-    },
-    {
-        "message": "In this bleak Church, it's the only thing that gives off a sense of splendor, but it's so out of place compared to the surroundings that it actually feels awkward."
-    },
-    {
-        "message": "何百本もの大小のパイプを組み合わせたオルガンだ。"
-    },
-    {
-        "message": "この教会で価値があるものと言ったら、左右の窓にはめ込まれた巨大なステンドグラスと、このパイプオルガンぐらいのものだろう。"
-    },
-    {
-        "message": "It looks like an organ that produces sound by sending steam into big and small pipes, but judging by its massive size, it must be a pretty expensive piece of equipment."
-    },
-    {
-        "message": "It almost feels out of place in such a tiny Church..."
-    },
-    {
-        "message": "First of all, it's questionable whether it's really being used to play hymns."
-    },
-    {
-        "message": "She keeps lecturing us, not caring about us at all."
-    },
-    {
-        "message": "That expressionless face, unique to black people, is creepy because you can't tell what they're really thinking."
-    },
-    {
-        "message": "Nai glanced at us as we entered the Church, but didn’t seem to care much and just kept preaching."
-    },
-    {
-        "message": "That cocky attitude is really starting to get on my nerves, but I can't exactly grab Nai by the collar in the middle of a church packed with believers."
-    },
-    {
-        "message": "The people who go out of their way to come to this Church might still be people who haven't quite given up on life yet. I wonder if Mrs. Hudson or the general store owner could be among them？"
-    },
-    {
-        "message": "I wonder if everyone here is a villager."
-    },
-    {
-        "message": "Even someone as apathetic as a hermit can't throw away their faith, huh？"
-    },
-    {
-        "message": "Even so, it looks like everyone’s really praying with all they've got..."
-    },
-    {
-        "message": "I wonder what kind of god these people believe in."
-    },
-    {
-        "name": "Female believer",
-        "message": "Shut up！"
-    },
-    {
-        "message": "　　　　　　　I　can't　focus　on　Nai-sama's　story,　you　know."
-    },
-    {
-        "name": "Female believer",
-        "message": "Who the hell are you guys？"
-    },
-    {
-        "message": "　　　　　　　What are you doing in a place like this?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Excuse me, can I ask you something..."
-    },
-    {
-        "message": "　　　　　　　　That guy Nai, is he really a priest？"
-    },
-    {
-        "name": "Female believer",
-        "message": "Father？"
-    },
-    {
-        "message": "　　　　　　　Now that you mention it, I guess I could say that..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's a pretty evasive way of putting it."
-    },
-    {
-        "message": "　　　　　　　　This church belongs to that guy, right？"
-    },
-    {
-        "name": "Female believer",
-        "message": "Nai is the 'last one left.'"
-    },
-    {
-        "message": "　　　　　　　It's in your best interest not to say such rude things."
-    },
-    {
-        "message": "『The 'last one left,' huh？\""
-    },
-    {
-        "message": "What on earth does that mean.............."
-    },
-    {
-        "message": "Is it some kind of code that only works among people who believe in the same god？"
-    },
-    {
-        "message": "From the woman's enraptured expression, I can sense something like a deep respect for Nai."
-    },
-    {
-        "message": "If I say something too provocative, who knows what she might do."
-    },
-    {
-        "message": "If I don't watch what I say, things could get really bad."
-    },
-    {
-        "message": "It might have something to do with the words 'chosen ones' that the villagers who picked a fight with us in the plaza were muttering about."
-    },
-    {
-        "message": "I don't know what exactly 'the chosen one' is, but after someone gets picked and disappears somewhere, is Nai, 'the last one left,' really that important...?"
-    },
-    {
-        "message": "そう考えると辻褄があわない事もないな。"
-    },
-    {
-        "message": "Does this woman know about the connection between those two?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "『最後に残された者』とはどういう意味なんです？"
-    },
-    {
-        "message": "　　　　　　　　Literally, even after everyone else has gone somewhere, you're just left there alone？"
-    },
-    {
-        "name": "Female believer",
-        "message": "There's no need to tell someone who's not a believer that much."
-    },
-    {
-        "message": "　　　　　　　Just know, if you're rude to Nai-sama, you won't get away with it."
-    },
-    {
-        "name": "Male believer",
-        "message": "I told you to shut up."
-    },
-    {
-        "name": "Male believer",
-        "message": "Who are you guys?！"
-    },
-    {
-        "message": "　　　　　　　This is a Church for the believers of Dagon."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What kind of religion is 'Dagon'？"
-    },
-    {
-        "name": "Male believer",
-        "message": "Dagon is Dagon."
-    },
-    {
-        "message": "　　　　　　　This　has　nothing　to　do　with　you　guys."
-    },
-    {
-        "message": "I'm being completely ignored."
-    },
-    {
-        "message": "Looks like it'd be better to try someone else."
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "message": "The Church's pews are packed with villagers praying earnestly."
+  },
+  {
+    "message": "The one on the stage must be the Black priest, Nai."
+  },
+  {
+    "message": "The area is wrapped in a solemn atmosphere, and as we stand there dumbfounded, we're suddenly hit with the feeling that we seriously don't belong here."
+  },
+  {
+    "message": "Even so, since coming to Arkham, this is the first time I've seen so many people gathered in one place."
+  },
+  {
+    "message": "Inside the empty church, neither the Black priest Nai nor the figure of any devoted worshipper can be seen."
+  },
+  {
+    "message": "The stained glass shining with beautiful light and the elaborate pipe organ barely keep up the appearance of a Church, but there’s not a single Christ statue, cross, or baptismal font here like you’d expect."
+  },
+  {
+    "message": "Looking at it, it’s obvious this isn’t a Church for Christianity believers, but it seems like there’s nothing here that reminds me of any religion I know, either."
+  },
+  {
+    "message": "There are rows of hard wooden benches."
+  },
+  {
+    "message": "If I could help it, I’d rather not end up stuck here listening to boring lectures for hours."
+  },
+  {
+    "message": "Hard wooden benches are lined up neatly."
+  },
+  {
+    "message": "The floor is made of roughly hewn stone, and it's polished nicely."
+  },
+  {
+    "message": "Both are unique to the Church, but they seem to make the chilly atmosphere even worse, so I don't think I can like them much."
+  },
+  {
+    "message": "My belief that the Church is a place to build endurance seems to have been proven here, too."
+  },
+  {
+    "message": "There aren’t any decorations around the podium, and it feels more barren than simple-almost a little lonely."
+  },
+  {
+    "message": "It's one step higher than the benches where the other believers sit."
+  },
+  {
+    "message": "They were probably aiming for some kind of intimidating effect, but for the exceptionally tall Nai, it doesn't seem to matter much."
+  },
+  {
+    "message": "Even so, normally there should be things like a Baptismal font or a Christ statue around here, but instead there's just a single, extremely plain desk with no decorations at all, just like a teacher's desk at school."
+  },
+  {
+    "message": "I wonder if this Church isn't very wealthy？"
+  },
+  {
+    "message": "It's a beautiful thing, but it doesn't feel all that old."
+  },
+  {
+    "message": "It seems a bit different from the kind of pictures you usually see in the Church, though......"
+  },
+  {
+    "message": "A stained glass, about as tall as a person, skillfully crafted with beautiful colored glass pieces fitted together."
+  },
+  {
+    "message": "In this bleak Church, it's the only thing that gives off a sense of splendor, but it's so out of place compared to the surroundings that it actually feels awkward."
+  },
+  {
+    "message": "It's an organ made by combining hundreds of pipes, large and small."
+  },
+  {
+    "message": "If we're talking about valuable things in this church, it'd probably be the huge stained glass windows set in on both sides, and this pipe organ."
+  },
+  {
+    "message": "It looks like an organ that produces sound by sending steam into big and small pipes, but judging by its massive size, it must be a pretty expensive piece of equipment."
+  },
+  {
+    "message": "It almost feels out of place in such a tiny Church..."
+  },
+  {
+    "message": "First of all, it's questionable whether it's really being used to play hymns."
+  },
+  {
+    "message": "She keeps lecturing us, not caring about us at all."
+  },
+  {
+    "message": "That expressionless face, unique to black people, is creepy because you can't tell what they're really thinking."
+  },
+  {
+    "message": "Nai glanced at us as we entered the Church, but didn’t seem to care much and just kept preaching."
+  },
+  {
+    "message": "That cocky attitude is really starting to get on my nerves, but I can't exactly grab Nai by the collar in the middle of a church packed with believers."
+  },
+  {
+    "message": "The people who go out of their way to come to this Church might still be people who haven't quite given up on life yet. I wonder if Mrs. Hudson or the general store owner could be among them？"
+  },
+  {
+    "message": "I wonder if everyone here is a villager."
+  },
+  {
+    "message": "Even someone as apathetic as a hermit can't throw away their faith, huh？"
+  },
+  {
+    "message": "Even so, it looks like everyone’s really praying with all they've got..."
+  },
+  {
+    "message": "I wonder what kind of god these people believe in."
+  },
+  {
+    "name": "Female believer",
+    "message": "Shut up！"
+  },
+  {
+    "message": "　　　　　　　I　can't　focus　on　Nai-sama's　story,　you　know."
+  },
+  {
+    "name": "Female believer",
+    "message": "Who the hell are you guys？"
+  },
+  {
+    "message": "　　　　　　　What are you doing in a place like this?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Excuse me, can I ask you something..."
+  },
+  {
+    "message": "　　　　　　　　That guy Nai, is he really a priest？"
+  },
+  {
+    "name": "Female believer",
+    "message": "Father？"
+  },
+  {
+    "message": "　　　　　　　Now that you mention it, I guess I could say that..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's a pretty evasive way of putting it."
+  },
+  {
+    "message": "　　　　　　　　This church belongs to that guy, right？"
+  },
+  {
+    "name": "Female believer",
+    "message": "Nai is the 'last one left.'"
+  },
+  {
+    "message": "　　　　　　　It's in your best interest not to say such rude things."
+  },
+  {
+    "message": "『The 'last one left,' huh？\""
+  },
+  {
+    "message": "What on earth does that mean.............."
+  },
+  {
+    "message": "Is it some kind of code that only works among people who believe in the same god？"
+  },
+  {
+    "message": "From the woman's enraptured expression, I can sense something like a deep respect for Nai."
+  },
+  {
+    "message": "If I say something too provocative, who knows what she might do."
+  },
+  {
+    "message": "If I don't watch what I say, things could get really bad."
+  },
+  {
+    "message": "It might have something to do with the words 'chosen ones' that the villagers who picked a fight with us in the plaza were muttering about."
+  },
+  {
+    "message": "I don't know what exactly 'the chosen one' is, but after someone gets picked and disappears somewhere, is Nai, 'the last one left,' really that important...?"
+  },
+  {
+    "message": "If you think of it that way, it doesn't not make sense."
+  },
+  {
+    "message": "Does this woman know about the connection between those two?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "What does 'the last one left' mean？"
+  },
+  {
+    "message": "　　　　　　　　Literally, even after everyone else has gone somewhere, you're just left there alone？"
+  },
+  {
+    "name": "Female believer",
+    "message": "There's no need to tell someone who's not a believer that much."
+  },
+  {
+    "message": "　　　　　　　Just know, if you're rude to Nai-sama, you won't get away with it."
+  },
+  {
+    "name": "Male believer",
+    "message": "I told you to shut up."
+  },
+  {
+    "name": "Male believer",
+    "message": "Who are you guys?！"
+  },
+  {
+    "message": "　　　　　　　This is a Church for the believers of Dagon."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What kind of religion is 'Dagon'？"
+  },
+  {
+    "name": "Male believer",
+    "message": "Dagon is Dagon."
+  },
+  {
+    "message": "　　　　　　　This　has　nothing　to　do　with　you　guys."
+  },
+  {
+    "message": "I'm being completely ignored."
+  },
+  {
+    "message": "Looks like it'd be better to try someone else."
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

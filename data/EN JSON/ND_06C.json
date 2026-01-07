@@ -1,331 +1,331 @@
 [
-    {
-        "message": "Looks like Cordelia hasn’t come back yet."
-    },
-    {
-        "message": "What should I do......"
-    },
-    {
-        "message": "Just waiting for her to come back in this room like this, my heart feels like it's going to burst."
-    },
-    {
-        "message": "汚らわしい悪魔崇拝の愚か者どもめ‥‥‥‥"
-    },
-    {
-        "message": "If anything happens to her, I won't forgive a single one of those bastards."
-    },
-    {
-        "message": "No matter what happens, I'm gonna rip out all your guts and feed them to the sharks."
-    },
-    {
-        "message": "マーシュにしたのと同じ目にあわせてやる‥‥‥‥‥"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan........."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I-I... Again tonight too......"
-    },
-    {
-        "message": "Cordelia doesn't seem to know what happened to her."
-    },
-    {
-        "message": "突然自分の部屋に現れた私を見て、今夜もまた意識がないまま村を徘徊していたのだと思ったのだろう。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia, that's not it, it's not like that！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "What？ What's up with that face..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "違うんだ！"
-    },
-    {
-        "message": "　　　　　　　　You're not some kind of sleepwalker."
-    },
-    {
-        "name": "Jonathan",
-        "message": "No... I wish that's how it had been. It would've saved me so much."
-    },
-    {
-        "name": "Cordelia",
-        "message": "What is it......? What's wrong?"
-    },
-    {
-        "message": "　　　　　　　　Hey, your face is totally pale."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I saw it... you in the Church of Dagon！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "The Church, you say？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "そんな馬鹿な‥‥‥わたしがそんな所に行く訳がない　　　　　　　　でしょう？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "君は‥‥‥ダゴンの生けにえにされる所だったんだ。　　　　　　　　意識を失ったまま、悪魔崇拝の黒ミサの贄にされてい　　　　　　　　たんだよ。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "What the hell... I don't get it at all..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "これで全て解ったよ。"
-    },
-    {
-        "message": "　　　　　　　　Why were you brought to Arkham, huh?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "‥‥‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "You were brought here by Nai to be sacrificed to Dagon！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "N-no way......I can't believe it！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "知らないだろうけど、養父母が失踪した後、君は教会　　　　　　　　で育てられていたんだそうだ。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Me？"
-    },
-    {
-        "message": "　　　　　　　　She says she was raised in the Church of Dagon."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Ah, that's right."
-    },
-    {
-        "message": "　　　　　　　　All of this is for the sake of sacrificing you."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You brought me here from somewhere just for that？"
-    },
-    {
-        "message": "　　　　　　　　You　say　you've　been　raising　me　all　this　time..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's right."
-    },
-    {
-        "name": "Cordelia",
-        "message": "No way... I can't believe something like that！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I can't stay in Arkham like this."
-    },
-    {
-        "message": "　　　　　　　　Get out of here right now."
-    },
-    {
-        "name": "Cordelia",
-        "message": "逃げるって‥‥‥何処に行けばいいのよ‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Let's go to London with me."
-    },
-    {
-        "message": "　　　　　　　　Once we leave this village, those guys won't be able to reach us."
-    },
-    {
-        "name": "Cordelia",
-        "message": "How am I supposed to do that."
-    },
-    {
-        "message": "　　　　　　　　村から出るためには吊り橋を渡らなければならないの　　　　　　　　に、その橋は‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "No point in just thinking about it！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "今すぐ出かけよう。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "だ、だって‥‥‥荷物はどうするの？"
-    },
-    {
-        "message": "　　　　　　　　There’s no change of clothes, and your stuff’s gone too."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What the hell are you talking about?！"
-    },
-    {
-        "message": "　　　　　　　　I don't give a damn about that stuff, once we get to London I'll buy you as many new ones as you want！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Got it... Yeah, let's go..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You should wear a coat."
-    },
-    {
-        "message": "　　　　　　　　Anyway, I gotta walk all the way to Salem for now."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I have to make it there by the time the first train leaves, no matter what."
-    },
-    {
-        "message": "　　　　　　　　It might be tough, but do your best."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Yes......"
-    },
-    {
-        "message": "Looks like Cordelia hasn't come back yet."
-    },
-    {
-        "message": "Just where could she have gone......"
-    },
-    {
-        "message": "If she's wandering around at this hour, and in that strange state, who knows what could happen to her."
-    },
-    {
-        "message": "Cordelia isn't in this room either."
-    },
-    {
-        "message": "Just like last night, I can only think that she's wandering all over the village in a trance like a sleepwalker."
-    },
-    {
-        "message": "Looks like all I can do is check every place that comes to mind..."
-    },
-    {
-        "message": "Even if the village is small, searching the whole place alone is a pretty tough job."
-    },
-    {
-        "message": "Unless luck is on my side, finding her is impossible."
-    },
-    {
-        "message": "Even so, we just have to keep looking. We can't just leave things like this."
-    },
-    {
-        "message": "This is the bed where Cordelia sleeps."
-    },
-    {
-        "message": "The last time I saw this room was last night, and the sheet was neatly arranged with no sign that anyone had slept in it."
-    },
-    {
-        "message": "Of course, Cordelia should be making the bed every morning, so I can't say for sure that no one's slept in it since yesterday."
-    },
-    {
-        "message": "At the very least, all I know is that nobody's used the Bed tonight."
-    },
-    {
-        "message": "It's just like last night-Cordelia is probably wandering the village again tonight, unconscious."
-    },
-    {
-        "message": "There's no sign that Cordelia slept."
-    },
-    {
-        "message": "Am I wandering around the village again, unconscious like last night?"
-    },
-    {
-        "message": "A place Cordelia might go to........."
-    },
-    {
-        "message": "Looks like I'll just have to check out everything that comes to mind."
-    },
-    {
-        "message": "It doesn't look like it gets much sunlight."
-    },
-    {
-        "message": "It's a window that's there just for show, to let some air into the room."
-    },
-    {
-        "message": "It looks like this room doesn't have anything like a terrace, but I wonder if Cordelia doesn't mind."
-    },
-    {
-        "message": "It's a just-barely-big-enough window for letting the breeze through."
-    },
-    {
-        "message": "Maybe that's all you really need for this room that exists pretty much just for sleeping."
-    },
-    {
-        "message": "In this room that's lacking in things like decorations, it's the only thing that gives off any personality."
-    },
-    {
-        "message": "It doesn't look like a reproduction from a famous artist, but it doesn’t seem worth much either."
-    },
-    {
-        "message": "It's probably something an unknown painter, visiting the Pub, painted for fun in exchange for drinks."
-    },
-    {
-        "message": "It doesn't really match Cordelia’s tastes either."
-    },
-    {
-        "message": "It’s not like she really likes it, but it’s not like she can just throw it out, so there’s this vibe of her reluctantly putting it up in the room…"
-    },
-    {
-        "message": "It’s not a reproduction, but it doesn’t really seem all that valuable either."
-    },
-    {
-        "message": "It doesn’t really suit Cordelia’s tastes either…"
-    },
-    {
-        "message": "Everything is tidy, so you can’t really tell what kinds of makeup Cordelia usually uses."
-    },
-    {
-        "message": "I could try opening the drawers and looking inside, but I doubt there's anything that interesting in there anyway."
-    },
-    {
-        "message": "Originally, Cordelia doesn't really seem to put much effort into making herself look beautiful."
-    },
-    {
-        "message": "It's just an ordinary dressing table."
-    },
-    {
-        "message": "きちんと片づいていて、コーデリアが普段どんな化粧品を使っているのかを知る事は出来ない。"
-    },
-    {
-        "message": "中にはコーデリアの衣類などが入っているのだろう。"
-    },
-    {
-        "message": "It's not like I want to peek or anything though........."
-    },
-    {
-        "message": "But it's not like I'm totally uninterested either."
-    },
-    {
-        "message": "Still, isn't rummaging around a place like this when the owner isn't here kind of a pervy thing to do?"
-    },
-    {
-        "message": "No matter how close we are, it's probably wise not to trample all over Cordelia's privacy like that."
-    },
-    {
-        "message": "Go back to the Pub"
-    }
+  {
+    "message": "Looks like Cordelia hasn’t come back yet."
+  },
+  {
+    "message": "What should I do......"
+  },
+  {
+    "message": "Just waiting for her to come back in this room like this, my heart feels like it's going to burst."
+  },
+  {
+    "message": "Filthy fools worshiping devilish stuff......"
+  },
+  {
+    "message": "If anything happens to her, I won't forgive a single one of those bastards."
+  },
+  {
+    "message": "No matter what happens, I'm gonna rip out all your guts and feed them to the sharks."
+  },
+  {
+    "message": "I'll give them the same fate as I did Marsh......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan........."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I-I... Again tonight too......"
+  },
+  {
+    "message": "Cordelia doesn't seem to know what happened to her."
+  },
+  {
+    "message": "Seeing me suddenly appear in my room, she probably thought I'd been wandering the village again tonight without being conscious."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia, that's not it, it's not like that！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "What？ What's up with that face..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's not it！"
+  },
+  {
+    "message": "　　　　　　　　You're not some kind of sleepwalker."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No... I wish that's how it had been. It would've saved me so much."
+  },
+  {
+    "name": "Cordelia",
+    "message": "What is it......? What's wrong?"
+  },
+  {
+    "message": "　　　　　　　　Hey, your face is totally pale."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I saw it... you in the Church of Dagon！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "The Church, you say？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "No way... there's no way I'd ever go to a place like that, right？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "You were... about to be sacrificed to Dagon. While you were unconscious, they were making you the victim at a devil worship black mass."
+  },
+  {
+    "name": "Cordelia",
+    "message": "What the hell... I don't get it at all..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Now I understand everything."
+  },
+  {
+    "message": "　　　　　　　　Why were you brought to Arkham, huh?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "‥‥‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "You were brought here by Nai to be sacrificed to Dagon！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "N-no way......I can't believe it！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "You probably don't know, but after your foster parents disappeared, you were apparently raised at the Church."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Me？"
+  },
+  {
+    "message": "　　　　　　　　She says she was raised in the Church of Dagon."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Ah, that's right."
+  },
+  {
+    "message": "　　　　　　　　All of this is for the sake of sacrificing you."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You brought me here from somewhere just for that？"
+  },
+  {
+    "message": "　　　　　　　　You　say　you've　been　raising　me　all　this　time..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's right."
+  },
+  {
+    "name": "Cordelia",
+    "message": "No way... I can't believe something like that！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I can't stay in Arkham like this."
+  },
+  {
+    "message": "　　　　　　　　Get out of here right now."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Run away... Where am I even supposed to go...?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Let's go to London with me."
+  },
+  {
+    "message": "　　　　　　　　Once we leave this village, those guys won't be able to reach us."
+  },
+  {
+    "name": "Cordelia",
+    "message": "How am I supposed to do that."
+  },
+  {
+    "message": "　　　　　　　　To leave the village, we have to cross the suspension bridge, but that bridge..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No point in just thinking about it！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Let's head out right now."
+  },
+  {
+    "name": "Cordelia",
+    "message": "B-but... what about our stuff？"
+  },
+  {
+    "message": "　　　　　　　　There’s no change of clothes, and your stuff’s gone too."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What the hell are you talking about?！"
+  },
+  {
+    "message": "　　　　　　　　I don't give a damn about that stuff, once we get to London I'll buy you as many new ones as you want！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Got it... Yeah, let's go..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You should wear a coat."
+  },
+  {
+    "message": "　　　　　　　　Anyway, I gotta walk all the way to Salem for now."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I have to make it there by the time the first train leaves, no matter what."
+  },
+  {
+    "message": "　　　　　　　　It might be tough, but do your best."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Yes......"
+  },
+  {
+    "message": "Looks like Cordelia hasn't come back yet."
+  },
+  {
+    "message": "Just where could she have gone......"
+  },
+  {
+    "message": "If she's wandering around at this hour, and in that strange state, who knows what could happen to her."
+  },
+  {
+    "message": "Cordelia isn't in this room either."
+  },
+  {
+    "message": "Just like last night, I can only think that she's wandering all over the village in a trance like a sleepwalker."
+  },
+  {
+    "message": "Looks like all I can do is check every place that comes to mind..."
+  },
+  {
+    "message": "Even if the village is small, searching the whole place alone is a pretty tough job."
+  },
+  {
+    "message": "Unless luck is on my side, finding her is impossible."
+  },
+  {
+    "message": "Even so, we just have to keep looking. We can't just leave things like this."
+  },
+  {
+    "message": "This is the bed where Cordelia sleeps."
+  },
+  {
+    "message": "The last time I saw this room was last night, and the sheet was neatly arranged with no sign that anyone had slept in it."
+  },
+  {
+    "message": "Of course, Cordelia should be making the bed every morning, so I can't say for sure that no one's slept in it since yesterday."
+  },
+  {
+    "message": "At the very least, all I know is that nobody's used the Bed tonight."
+  },
+  {
+    "message": "It's just like last night-Cordelia is probably wandering the village again tonight, unconscious."
+  },
+  {
+    "message": "There's no sign that Cordelia slept."
+  },
+  {
+    "message": "Am I wandering around the village again, unconscious like last night?"
+  },
+  {
+    "message": "A place Cordelia might go to........."
+  },
+  {
+    "message": "Looks like I'll just have to check out everything that comes to mind."
+  },
+  {
+    "message": "It doesn't look like it gets much sunlight."
+  },
+  {
+    "message": "It's a window that's there just for show, to let some air into the room."
+  },
+  {
+    "message": "It looks like this room doesn't have anything like a terrace, but I wonder if Cordelia doesn't mind."
+  },
+  {
+    "message": "It's a just-barely-big-enough window for letting the breeze through."
+  },
+  {
+    "message": "Maybe that's all you really need for this room that exists pretty much just for sleeping."
+  },
+  {
+    "message": "In this room that's lacking in things like decorations, it's the only thing that gives off any personality."
+  },
+  {
+    "message": "It doesn't look like a reproduction from a famous artist, but it doesn’t seem worth much either."
+  },
+  {
+    "message": "It's probably something an unknown painter, visiting the Pub, painted for fun in exchange for drinks."
+  },
+  {
+    "message": "It doesn't really match Cordelia’s tastes either."
+  },
+  {
+    "message": "It’s not like she really likes it, but it’s not like she can just throw it out, so there’s this vibe of her reluctantly putting it up in the room…"
+  },
+  {
+    "message": "It’s not a reproduction, but it doesn’t really seem all that valuable either."
+  },
+  {
+    "message": "It doesn’t really suit Cordelia’s tastes either…"
+  },
+  {
+    "message": "Everything is tidy, so you can’t really tell what kinds of makeup Cordelia usually uses."
+  },
+  {
+    "message": "I could try opening the drawers and looking inside, but I doubt there's anything that interesting in there anyway."
+  },
+  {
+    "message": "Originally, Cordelia doesn't really seem to put much effort into making herself look beautiful."
+  },
+  {
+    "message": "It's just an ordinary dressing table."
+  },
+  {
+    "message": "It's all neatly put away, so I can't tell what kind of makeup Cordelia usually uses."
+  },
+  {
+    "message": "There's probably Cordelia's clothes and stuff inside."
+  },
+  {
+    "message": "It's not like I want to peek or anything though........."
+  },
+  {
+    "message": "But it's not like I'm totally uninterested either."
+  },
+  {
+    "message": "Still, isn't rummaging around a place like this when the owner isn't here kind of a pervy thing to do?"
+  },
+  {
+    "message": "No matter how close we are, it's probably wise not to trample all over Cordelia's privacy like that."
+  },
+  {
+    "message": "Go back to the Pub"
+  }
 ]

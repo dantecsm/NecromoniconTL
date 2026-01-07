@@ -1,374 +1,374 @@
 [
-    {
-        "message": "In front of the lady's room."
-    },
-    {
-        "message": "Looks like you were still waiting for me, and I can see light spilling out from the crack in the door."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Mr. Hudson......Sorry I'm late."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Are you Swift？"
-    },
-    {
-        "message": "　　　　　　　　　Please, come on in."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Is your body doing alright now？"
-    },
-    {
-        "message": "　　　　　　　　　When Gardner and Thomas brought you in, I was totally shocked."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Sorry for making you worry‥‥‥‥‥‥‥"
-    },
-    {
-        "message": "　　　　　　　　I'm totally fine now."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Oh, that's a relief."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I feel bad for what I did to those two."
-    },
-    {
-        "message": "　　　　　　　　Didn't you say something？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "You two didn't do anything."
-    },
-    {
-        "message": "　　　　　　　　　Cordelia seemed really worried about you."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I ended up showing you how pathetic I am."
-    },
-    {
-        "message": "　　　　　　　　Normally, I can handle most things just fine......"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "You don't need to worry about it anymore."
-    },
-    {
-        "message": "　　　　　　　　　Anyway, how about some tea？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Or would you like some alcohol？"
-    },
-    {
-        "message": "　　　　　　　　　I　have　a　little　bit　of　port　or　brandy,　though."
-    },
-    {
-        "name": "Jonathan",
-        "message": "No, really, I'm fine. Thanks for your kindness."
-    },
-    {
-        "message": "　　　　　　　　Do you drink alcohol, Mr. Hudson?"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "It's just a little bit."
-    },
-    {
-        "message": "　　　　　　　　　Just a little nightcap before bed, that's all it is."
-    },
-    {
-        "message": "The wine bottle placed on the table-is it the one the lady loves to drink?"
-    },
-    {
-        "message": "I've never heard that the lady likes to drink..."
-    },
-    {
-        "message": "And looking at the label, it seems like a pretty expensive brandy."
-    },
-    {
-        "message": "Even if she does drink a little, would a woman really drink something like that?"
-    },
-    {
-        "message": "Normally, it's usually something like sherry or wine."
-    },
-    {
-        "message": "So, does that mean there's a guy who drank alcohol in this room？"
-    },
-    {
-        "message": "It looks like it was just recently opened, and the Bottle is still more than half full."
-    },
-    {
-        "message": "The room was as plain as ever, with nothing that gave any sense of Mrs. Hudson's personality."
-    },
-    {
-        "message": "Judging by the fact that the fireplace is packed full of firewood, it looks like the lady doesn’t plan on resting anytime soon."
-    },
-    {
-        "message": "Could it be that you've been waiting for me all this time, expecting that I would come to your room?"
-    },
-    {
-        "message": "For some reason, it looks like her eyes are a little watery."
-    },
-    {
-        "message": "There's a seductive vibe coming from her that you could never imagine from her usual self."
-    },
-    {
-        "message": "What the hell is with this sudden change?"
-    },
-    {
-        "message": "You've never acted this defenseless in front of me before."
-    },
-    {
-        "message": "The lady is staring at me intently."
-    },
-    {
-        "message": "She probably doesn’t mean it that way, but I end up feeling like a cheating husband or a kid who did something bad."
-    },
-    {
-        "message": "Even though she should be tired from working at the Fish Scale Inn during the day, she doesn't show any sign of it at all."
-    },
-    {
-        "message": "The way she seems a bit shadowed-I don't really know, but maybe that's something unique to widows."
-    },
-    {
-        "message": "Changing from her rather plain, if anything, stiff-looking work clothes to a neat but mature dress, her demeanor shifts from distant politeness to a casual attitude like a real sister being friendly to her little brother."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "I'm jealous of Cordelia."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Doing all that just for Cordelia."
-    },
-    {
-        "message": "　　　　　　　　Was she someone special?"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "ダゴンに属する人達はコーデリアを『巫女』だって　　　　　　　　　言っているみたいね、本人は何も知らないでしょう　　　　　　　　　けど。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "What does 'miko' mean？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Well, I don't know either."
-    },
-    {
-        "message": "　　　　　　　　　If you take it literally, that would mean Cordelia is an important figure in the Dagon Cult..."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Honestly, doesn't it just mean she was raised at the church for a short while?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Is that really all there is......"
-    },
-    {
-        "message": "　　　　　　　　That guy Nai, I have no clue what he's thinking."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Are you that worried？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Of course I am."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "I'm jealous of Cordelia."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Huh......"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "There are people who really worry about me."
-    },
-    {
-        "message": "　　　　　　　　　But,　I　don't　think　you　need　to　worry　about　it　too　much,　because　that's　just　how　it　is,　right？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "そんなに大切な娘だとしたら、誰かがコーデリアに　　　　　　　　　悪さでもしよう物ならただでは済まないでしょうか　　　　　　　　　らね。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "‥‥‥‥‥‥‥‥‥‥"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "If only you had come to this village sooner..."
-    },
-    {
-        "message": "I wonder what she means."
-    },
-    {
-        "message": "No way, Hudson... just like Thomas said..."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Sorry for saying something weird."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "それで、何のお話でしたかしら？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's about Cordelia."
-    },
-    {
-        "message": "　　　　　　　　I was supposed to talk about what she was like when she was brought to Arkham."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Ah, that's right."
-    },
-    {
-        "message": "　　　　　　　　　あの娘がアーカムに来たのは、わたくしがここに来　　　　　　　　　るほんの数年前だったはずです。"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Was the first time we met when you came to eat at the Fish Scale Inn together with your spouse？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "How was Cordelia acting at that time？"
-    },
-    {
-        "message": "　　　　　　　　Do you remember anything unusual?"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Yeah, I hadn't ever met an Oriental until then."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "I just got completely absorbed watching out of curiosity."
-    },
-    {
-        "message": "　　　　　　　　　That girl didn't seem very happy, did she."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "After　all,　the　couple　had　never　had　a　child　before,　so　they　probably　didn’t　know　how　to　handle　it."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia doesn't even seem to remember that time."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Because the couple suddenly went missing one morning, it must have been a huge shock for such a young girl."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What happened to her after her foster parents disappeared？"
-    },
-    {
-        "message": "　　　　　　　　Someone had to take care of it, right?"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "The Dagon Church was taking care of her."
-    },
-    {
-        "message": "　　　　　　　　　At that time, Cordelia was in a state of mental confusion from the shock."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia at the Church of Dagon？"
-    },
-    {
-        "message": "　　　　　　　　So　that's　why　she　hated　going　to　that　Church."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "コーデリアはその事を覚えていないでしょう。"
-    },
-    {
-        "message": "　　　　　　　　　After that, everyone worked together to rebuild Gilman House so that she could become independent."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So basically, Fish Scale Inn and the general store don't sell booze..."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "That's not all, they shut down every other tavern around here too."
-    },
-    {
-        "name": "Jonathan",
-        "message": "How could you do something like that."
-    },
-    {
-        "message": "　　　　　　　　It's not like everyone in the village is a follower of Dagon, right?"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Those shops weren’t run by people from this village, so I guess they just paid them enough money to get them to leave."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Mr. Hudson......"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "No way, you already belong to Cordelia."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Hurry up and go to that girl's place."
-    },
-    {
-        "message": "　　　　　　　　　From how things looked during the day, it seemed like they were really worried about you."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "‥‥‥‥‥‥‥‥"
-    },
-    {
-        "message": "Mrs. Hudson isn't resisting at all, just letting me do as I please."
-    },
-    {
-        "message": "Could this possibly be......"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "What's the matter, Mr. Swift？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Jonathan is fine, Hudson."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "‥‥‥‥‥‥‥"
-    },
-    {
-        "message": "Without trying to push me away, Mrs. Hudson just looks at my hand over hers, seeming to be deep in thought about something."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Is there something you want to talk about？"
-    },
-    {
-        "message": "　　　　　　　　　If you don't hurry, the sun will come up."
-    },
-    {
-        "message": "　Thomas's room　"
-    }
+  {
+    "message": "In front of the lady's room."
+  },
+  {
+    "message": "Looks like you were still waiting for me, and I can see light spilling out from the crack in the door."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Mr. Hudson......Sorry I'm late."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Are you Swift？"
+  },
+  {
+    "message": "　　　　　　　　　Please, come on in."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Is your body doing alright now？"
+  },
+  {
+    "message": "　　　　　　　　　When Gardner and Thomas brought you in, I was totally shocked."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Sorry for making you worry‥‥‥‥‥‥‥"
+  },
+  {
+    "message": "　　　　　　　　I'm totally fine now."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Oh, that's a relief."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I feel bad for what I did to those two."
+  },
+  {
+    "message": "　　　　　　　　Didn't you say something？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "You two didn't do anything."
+  },
+  {
+    "message": "　　　　　　　　　Cordelia seemed really worried about you."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I ended up showing you how pathetic I am."
+  },
+  {
+    "message": "　　　　　　　　Normally, I can handle most things just fine......"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "You don't need to worry about it anymore."
+  },
+  {
+    "message": "　　　　　　　　　Anyway, how about some tea？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Or would you like some alcohol？"
+  },
+  {
+    "message": "　　　　　　　　　I　have　a　little　bit　of　port　or　brandy,　though."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No, really, I'm fine. Thanks for your kindness."
+  },
+  {
+    "message": "　　　　　　　　Do you drink alcohol, Mr. Hudson?"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "It's just a little bit."
+  },
+  {
+    "message": "　　　　　　　　　Just a little nightcap before bed, that's all it is."
+  },
+  {
+    "message": "The wine bottle placed on the table-is it the one the lady loves to drink?"
+  },
+  {
+    "message": "I've never heard that the lady likes to drink..."
+  },
+  {
+    "message": "And looking at the label, it seems like a pretty expensive brandy."
+  },
+  {
+    "message": "Even if she does drink a little, would a woman really drink something like that?"
+  },
+  {
+    "message": "Normally, it's usually something like sherry or wine."
+  },
+  {
+    "message": "So, does that mean there's a guy who drank alcohol in this room？"
+  },
+  {
+    "message": "It looks like it was just recently opened, and the Bottle is still more than half full."
+  },
+  {
+    "message": "The room was as plain as ever, with nothing that gave any sense of Mrs. Hudson's personality."
+  },
+  {
+    "message": "Judging by the fact that the fireplace is packed full of firewood, it looks like the lady doesn’t plan on resting anytime soon."
+  },
+  {
+    "message": "Could it be that you've been waiting for me all this time, expecting that I would come to your room?"
+  },
+  {
+    "message": "For some reason, it looks like her eyes are a little watery."
+  },
+  {
+    "message": "There's a seductive vibe coming from her that you could never imagine from her usual self."
+  },
+  {
+    "message": "What the hell is with this sudden change?"
+  },
+  {
+    "message": "You've never acted this defenseless in front of me before."
+  },
+  {
+    "message": "The lady is staring at me intently."
+  },
+  {
+    "message": "She probably doesn’t mean it that way, but I end up feeling like a cheating husband or a kid who did something bad."
+  },
+  {
+    "message": "Even though she should be tired from working at the Fish Scale Inn during the day, she doesn't show any sign of it at all."
+  },
+  {
+    "message": "The way she seems a bit shadowed-I don't really know, but maybe that's something unique to widows."
+  },
+  {
+    "message": "Changing from her rather plain, if anything, stiff-looking work clothes to a neat but mature dress, her demeanor shifts from distant politeness to a casual attitude like a real sister being friendly to her little brother."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "I'm jealous of Cordelia."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Doing all that just for Cordelia."
+  },
+  {
+    "message": "　　　　　　　　Was she someone special?"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "People　belonging　to　Dagon　seem　to　call　Cordelia　a　'priestess,'　though　I　doubt　she　knows　anything　about　it　herself."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What does 'miko' mean？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Well, I don't know either."
+  },
+  {
+    "message": "　　　　　　　　　If you take it literally, that would mean Cordelia is an important figure in the Dagon Cult..."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Honestly, doesn't it just mean she was raised at the church for a short while?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is that really all there is......"
+  },
+  {
+    "message": "　　　　　　　　That guy Nai, I have no clue what he's thinking."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Are you that worried？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Of course I am."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "I'm jealous of Cordelia."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Huh......"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "There are people who really worry about me."
+  },
+  {
+    "message": "　　　　　　　　　But,　I　don't　think　you　need　to　worry　about　it　too　much,　because　that's　just　how　it　is,　right？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "If she's that important, then if anyone tries anything bad to Cordelia, I bet they won't get away with it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "‥‥‥‥‥‥‥‥‥‥"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "If only you had come to this village sooner..."
+  },
+  {
+    "message": "I wonder what she means."
+  },
+  {
+    "message": "No way, Hudson... just like Thomas said..."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Sorry for saying something weird."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "So, what were we talking about again？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's about Cordelia."
+  },
+  {
+    "message": "　　　　　　　　I was supposed to talk about what she was like when she was brought to Arkham."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Ah, that's right."
+  },
+  {
+    "message": "　　　　　　　　　That girl came to Arkham just a few years before I got here myself, if I recall correctly."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Was the first time we met when you came to eat at the Fish Scale Inn together with your spouse？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "How was Cordelia acting at that time？"
+  },
+  {
+    "message": "　　　　　　　　Do you remember anything unusual?"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Yeah, I hadn't ever met an Oriental until then."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "I just got completely absorbed watching out of curiosity."
+  },
+  {
+    "message": "　　　　　　　　　That girl didn't seem very happy, did she."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "After　all,　the　couple　had　never　had　a　child　before,　so　they　probably　didn’t　know　how　to　handle　it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia doesn't even seem to remember that time."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Because the couple suddenly went missing one morning, it must have been a huge shock for such a young girl."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What happened to her after her foster parents disappeared？"
+  },
+  {
+    "message": "　　　　　　　　Someone had to take care of it, right?"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "The Dagon Church was taking care of her."
+  },
+  {
+    "message": "　　　　　　　　　At that time, Cordelia was in a state of mental confusion from the shock."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia at the Church of Dagon？"
+  },
+  {
+    "message": "　　　　　　　　So　that's　why　she　hated　going　to　that　Church."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Cordelia probably doesn't remember any of that."
+  },
+  {
+    "message": "　　　　　　　　　After that, everyone worked together to rebuild Gilman House so that she could become independent."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So basically, Fish Scale Inn and the general store don't sell booze..."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "That's not all, they shut down every other tavern around here too."
+  },
+  {
+    "name": "Jonathan",
+    "message": "How could you do something like that."
+  },
+  {
+    "message": "　　　　　　　　It's not like everyone in the village is a follower of Dagon, right?"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Those shops weren’t run by people from this village, so I guess they just paid them enough money to get them to leave."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Mr. Hudson......"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "No way, you already belong to Cordelia."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Hurry up and go to that girl's place."
+  },
+  {
+    "message": "　　　　　　　　　From how things looked during the day, it seemed like they were really worried about you."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "‥‥‥‥‥‥‥‥"
+  },
+  {
+    "message": "Mrs. Hudson isn't resisting at all, just letting me do as I please."
+  },
+  {
+    "message": "Could this possibly be......"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "What's the matter, Mr. Swift？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Jonathan is fine, Hudson."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "‥‥‥‥‥‥‥"
+  },
+  {
+    "message": "Without trying to push me away, Mrs. Hudson just looks at my hand over hers, seeming to be deep in thought about something."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Is there something you want to talk about？"
+  },
+  {
+    "message": "　　　　　　　　　If you don't hurry, the sun will come up."
+  },
+  {
+    "message": "　Thomas's room　"
+  }
 ]

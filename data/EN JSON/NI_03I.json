@@ -1,102 +1,102 @@
 [
-    {
-        "message": "I made it to the end of the passage that leads to the sea."
-    },
-    {
-        "message": "It's several miles from the underground of the monastery on the hills to here."
-    },
-    {
-        "message": "It wouldn't be impossible to walk, but hauling heavy stuff back and forth would be pretty tough."
-    },
-    {
-        "message": "It's more reasonable to think that people who used this passage back then traveled by boat after all."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's the sea."
-    },
-    {
-        "message": "　　　　　　　　So this corridor really was meant to go out to the sea, huh."
-    },
-    {
-        "name": "Gardner",
-        "message": "おそらく、密輸をしていた人間が人目に触れずに荷物　　　　　　　　を運び込む為に使っていたのだろうな。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "If that's the case, he's a pretty smart guy."
-    },
-    {
-        "message": "　　　　　　　　Nobody would ever think that stuff like that would be taken out from the Monastery."
-    },
-    {
-        "message": "The moment I said that, a certain man's face popped into my head."
-    },
-    {
-        "message": "勇猛果敢で頭の切れる山師のような男、しかもその男は海外との貿易を生業としていたはずだ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Maybe Philip was the one who had this passage built, you know."
-    },
-    {
-        "message": "Looks like this is a pretty deep spot inside the bay."
-    },
-    {
-        "message": "This place, past the cape with the Ruins and even farther than the harbor where Marsh's abandoned ship is anchored, is probably somewhere even the fishermen don't go near."
-    },
-    {
-        "message": "If the entrance is this small, it probably won't catch anyone's eye, and even if someone does see it, no villager would ever object to something done by Philip Dunwich."
-    },
-    {
-        "message": "The officials probably wouldn't bother to pay attention to somewhere like this."
-    },
-    {
-        "message": "Like Gardner said, it's probably more reasonable to think they dug a tunnel to the monastery's underground to bring up the smuggled goods onto the hill."
-    },
-    {
-        "message": "The end of the passage is just about the same height as the sea level."
-    },
-    {
-        "message": "If it’s a small boat, you can come and go just fine."
-    },
-    {
-        "message": "積み荷を満載した船が誰にも見とがめられる事なく修道院の地下まで行き来出来る訳だ。"
-    },
-    {
-        "message": "It ends at the seaside cliff, with an opening gaping wide."
-    },
-    {
-        "message": "Looking from inside the passage, it's obvious that it's a hole dug by someone, but just seeing it from outside, you might think it's a naturally formed cave."
-    },
-    {
-        "message": "Whoever thought about building a passage like this must've been a pretty smart guy."
-    },
-    {
-        "message": "This is the end of the line."
-    },
-    {
-        "message": "後は修道院の地下まで引き返すしかない。"
-    },
-    {
-        "message": "The surface of the stone wall is covered in slimy moss."
-    },
-    {
-        "message": "The constant dampness from being underground, and getting submerged at high tide and always wet, is probably what makes this place perfect for moss to live."
-    },
-    {
-        "message": "Those thickly grown plants don't come off easily, even when I touch them with my hand."
-    },
-    {
-        "message": "Even if someone was still using this passage right now and accidentally put their hand on the wall, there probably wouldn't be any trace left behind."
-    },
-    {
-        "message": "Thick, densely packed moss covers the surface of the wall."
-    },
-    {
-        "message": "It won't come off easily just from me touching it."
-    },
-    {
-        "message": "Go back down the corridor"
-    }
+  {
+    "message": "I made it to the end of the passage that leads to the sea."
+  },
+  {
+    "message": "It's several miles from the underground of the monastery on the hills to here."
+  },
+  {
+    "message": "It wouldn't be impossible to walk, but hauling heavy stuff back and forth would be pretty tough."
+  },
+  {
+    "message": "It's more reasonable to think that people who used this passage back then traveled by boat after all."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's the sea."
+  },
+  {
+    "message": "　　　　　　　　So this corridor really was meant to go out to the sea, huh."
+  },
+  {
+    "name": "Gardner",
+    "message": "Probably, the people who were smuggling used it to bring in their cargo without being seen by anyone."
+  },
+  {
+    "name": "Jonathan",
+    "message": "If that's the case, he's a pretty smart guy."
+  },
+  {
+    "message": "　　　　　　　　Nobody would ever think that stuff like that would be taken out from the Monastery."
+  },
+  {
+    "message": "The moment I said that, a certain man's face popped into my head."
+  },
+  {
+    "message": "A man like a bold, sharp-witted adventurer, and on top of that, he made his living in overseas trade."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Maybe Philip was the one who had this passage built, you know."
+  },
+  {
+    "message": "Looks like this is a pretty deep spot inside the bay."
+  },
+  {
+    "message": "This place, past the cape with the Ruins and even farther than the harbor where Marsh's abandoned ship is anchored, is probably somewhere even the fishermen don't go near."
+  },
+  {
+    "message": "If the entrance is this small, it probably won't catch anyone's eye, and even if someone does see it, no villager would ever object to something done by Philip Dunwich."
+  },
+  {
+    "message": "The officials probably wouldn't bother to pay attention to somewhere like this."
+  },
+  {
+    "message": "Like Gardner said, it's probably more reasonable to think they dug a tunnel to the monastery's underground to bring up the smuggled goods onto the hill."
+  },
+  {
+    "message": "The end of the passage is just about the same height as the sea level."
+  },
+  {
+    "message": "If it’s a small boat, you can come and go just fine."
+  },
+  {
+    "message": "A ship loaded with cargo can come and go to the underground of the Monastery without anyone noticing."
+  },
+  {
+    "message": "It ends at the seaside cliff, with an opening gaping wide."
+  },
+  {
+    "message": "Looking from inside the passage, it's obvious that it's a hole dug by someone, but just seeing it from outside, you might think it's a naturally formed cave."
+  },
+  {
+    "message": "Whoever thought about building a passage like this must've been a pretty smart guy."
+  },
+  {
+    "message": "This is the end of the line."
+  },
+  {
+    "message": "All that's left is to go back down to the monastery's basement."
+  },
+  {
+    "message": "The surface of the stone wall is covered in slimy moss."
+  },
+  {
+    "message": "The constant dampness from being underground, and getting submerged at high tide and always wet, is probably what makes this place perfect for moss to live."
+  },
+  {
+    "message": "Those thickly grown plants don't come off easily, even when I touch them with my hand."
+  },
+  {
+    "message": "Even if someone was still using this passage right now and accidentally put their hand on the wall, there probably wouldn't be any trace left behind."
+  },
+  {
+    "message": "Thick, densely packed moss covers the surface of the wall."
+  },
+  {
+    "message": "It won't come off easily just from me touching it."
+  },
+  {
+    "message": "Go back down the corridor"
+  }
 ]

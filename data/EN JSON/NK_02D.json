@@ -1,234 +1,234 @@
 [
-    {
-        "message": "This is the Laboratory in Dunwich."
-    },
-    {
-        "message": "On the desk, a bunch of experimental equipment I, as an outsider, have no clue what they're used for are lined up so tightly there's barely any space."
-    },
-    {
-        "message": "The sheer number of those items, a bit too extreme for a rich guy's hobby, makes you imagine what kind of shady experiments were being done in the laboratory."
-    },
-    {
-        "message": "Opening the thick metal door and stepping inside, I found myself in a room that gave off the vibe of a scientist's Laboratory."
-    },
-    {
-        "message": "In the not-so-spacious room, there's a large desk taking up most of the space in the center, with all kinds of experimental equipment lined up, crowding the place."
-    },
-    {
-        "message": "It's Dunwich's Laboratory."
-    },
-    {
-        "message": "On top of the desk, a bunch of experimental equipment whose purpose I have no idea about as a layman are crammed together."
-    },
-    {
-        "message": "I honestly can't tell if it was Dollie who used these tools, or if it was an earlier head of the Dunwich family."
-    },
-    {
-        "name": "Gardner",
-        "message": "なんだ、これは‥‥‥"
-    },
-    {
-        "message": "　　　　　　　　It's just like a laboratory."
-    },
-    {
-        "message": "The room is crowded with equipment for science experiments, and in the cupboard in the corner are bottles of chemicals I've never even heard the names of."
-    },
-    {
-        "message": "The experimental equipment on the table is thickly covered with dust, and since these tools have hardly changed shape for centuries, it's impossible to tell what era they're from."
-    },
-    {
-        "message": "When you think about how long before the Industrial Revolution, collecting minerals and doing chemistry experiments had already spread as classy hobbies among nobles and the rich, it gets even harder to tell just how many heads of the family ago someone was really using these tools."
-    },
-    {
-        "name": "Thomas",
-        "message": "Hmph, that's quite a nice hobby you've got there."
-    },
-    {
-        "message": "　　　　　　All of these look pretty old, you know. The ones they're selling now are a bit easier to use."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Do you have any idea where this thing's from？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Now then......"
-    },
-    {
-        "message": "　　　　　　I'm　not　that　knowledgeable　about　it　either."
-    },
-    {
-        "message": "I don't know what kind of dangerous stuff could be in there."
-    },
-    {
-        "message": "It's way too dangerous to touch it directly with your hands."
-    },
-    {
-        "message": "Glass bottles are lined up."
-    },
-    {
-        "message": "Inside, there are unknown chemicals packed in, and when you bring your face close, there's a weird, pungent chemical smell that stings your nose."
-    },
-    {
-        "message": "I don't know what kind of dangerous stuff might be in there."
-    },
-    {
-        "message": "Touching it directly with your hands would be way too dangerous, right?"
-    },
-    {
-        "message": "For someone like me who's clueless about science, I don't think I could understand it even if I read it."
-    },
-    {
-        "message": "For now, let's just leave this book as it is."
-    },
-    {
-        "message": "Dust has piled up on the books lined up on the shelf, making you hesitate to touch them."
-    },
-    {
-        "message": "I can't tell what it's about just from the title on the spine, but judging from the state of this room, it's probably a book related to science experiments."
-    },
-    {
-        "message": "With the experimental equipment on the desk and all, it kind of feels like a slightly modern alchemist's room, but maybe that's just what a scientist's room is like."
-    },
-    {
-        "message": "It's a candlestick for holding candles."
-    },
-    {
-        "message": "It's an elaborate costume, but with just this light, the room doesn't get very bright."
-    },
-    {
-        "message": "Looks like there aren't any electrical appliances at all in the Dunwich family."
-    },
-    {
-        "message": "このランプもガスを使って明かりを得るための物で、一般の家庭にガスが引かれるようになって真っ先に備え付けた物のようだ。"
-    },
-    {
-        "message": "It's true that for doing experiments, just the light of candles seems way too dark, but especially here in Arkham, there probably weren’t many contractors willing to take on the job."
-    },
-    {
-        "message": "There are things like Glass bottles and Flasks for storing chemicals, and gas burners for heating them."
-    },
-    {
-        "message": "There are things like a burette stuck in a glass bottle and a gas burner heating a flask."
-    },
-    {
-        "message": "今と違って、ガラスの試験管やフラスコなどはかなり高価なものだったのではないだろうか。"
-    },
-    {
-        "message": "I can't believe someone would set up this much equipment just for fun."
-    },
-    {
-        "message": "Dollie was a scholarly guy serving as the president of Miskatonic University, but I get more of a literary type vibe from him than a scientist."
-    },
-    {
-        "message": "I'm not really sure what these tools are used for."
-    },
-    {
-        "message": "Maybe I should've studied a little more in this field too........."
-    },
-    {
-        "message": "どういう実験に使われる物なのか解らない様々な器具が置いてある。"
-    },
-    {
-        "message": "I don't know what kind of research the head of the Dunwich family was doing in this room, but I can't imagine they'd spend this much money just for a hobby."
-    },
-    {
-        "message": "These glass instruments must have been pretty expensive back in the day."
-    },
-    {
-        "message": "Ordinary people probably couldn't afford them."
-    },
-    {
-        "message": "I'm pretty sure I remember seeing something like a beaker that melted and became useless down in the basement of the old Monastery."
-    },
-    {
-        "message": "I always thought it was weird that something like that was in the monastery..."
-    },
-    {
-        "message": "Speaking of which, I wonder if Philip Dunwich ever mastered the technique to turn that gold-like substance he got from the south into real gold."
-    },
-    {
-        "message": "If that technology was discovered in this laboratory, then it means Philip was the one using these instruments."
-    },
-    {
-        "message": "Who was doing research in this dark and gloomy laboratory, and what kind of research was it anyway?"
-    },
-    {
-        "message": "A scientist doing mysterious experiments night after night in a room of an old mansion-it's just like a little horror story."
-    },
-    {
-        "message": "Still, even looking around the room, I can't seem to find the reason why the door was replaced with such a sturdy iron one......"
-    },
-    {
-        "message": "It's a letter sent from someone named Joseph C to someone in the mansion."
-    },
-    {
-        "message": "It uses pretty old-fashioned language, so it's a struggle to read."
-    },
-    {
-        "message": "I have no clue who this 'wise brother' mentioned in the letter is, but by 'a new place for experiments' do they mean this laboratory？"
-    },
-    {
-        "message": "What on earth do things like 'the seed of the old ones' and 'those who look back at the past' even mean?"
-    },
-    {
-        "message": "It's like solving a crossword puzzle-my head is starting to hurt."
-    },
-    {
-        "message": "I felt like this was a good example of how language in English-speaking countries keeps changing, and just going back a hundred years could turn it into something totally incomprehensible."
-    },
-    {
-        "message": "I picked up the folded parchment, brushed off the dust, and opened it up."
-    },
-    {
-        "message": "Even after many long years, the sturdy leather has not yet lost its elasticity or strength."
-    },
-    {
-        "message": "The Parchment is filled with fluent writing, and although it is written in English, the expressions differ a bit from modern phrasing."
-    },
-    {
-        "message": "『My honored and venerable elder brother――"
-    },
-    {
-        "message": "　First, let us offer proper respect and prayers to the eternal power to which we devote ourselves.』"
-    },
-    {
-        "message": "『To state the conclusion in advance, I have no intention of acting together with you; considering the strict crackdown on people like us these days, I plan to relocate for a while and live a life in hiding.』"
-    },
-    {
-        "message": "『Fortunately, I managed to receive help from the organization known as Tan Tavan, and given the circumstances, I can only think of it as good luck.』"
-    },
-    {
-        "message": "『I feel nothing but longing and envy toward the new place for experiments and the many test subjects you have obtained, and now that I have ended up in this situation, you alone are qualified as a contractor.』"
-    },
-    {
-        "message": "『Just as it was in that handwritten book in your collection, thus from the seed of the old ones-those who look back at the past-will be born, not even knowing what they themselves are supposed to do.』"
-    },
-    {
-        "message": "『If you believe those words, then I think eventually the wish will be fulfilled. After I’m gone, I leave it to you that someone called Naiarlathotep will become your advisor, my wise elder brother.』"
-    },
-    {
-        "message": "『This man, though his true nature is unknown, will surely bring good fortune to my wise brother. He has already set off toward that land, and it seems he'll be able to arrive there in a few months.』"
-    },
-    {
-        "message": "『The eternally unchanging wise brother's loyal friend"
-    },
-    {
-        "message": "　　　　　　　　　　ジョゼフ・Ｃ』"
-    },
-    {
-        "message": "It's like folded tanned leather."
-    },
-    {
-        "message": "The surface is dirty with fingerprints, and judging by how carefully it's folded, it must've been something really important."
-    },
-    {
-        "message": "I thought it might be deerskin for polishing furniture or metal, but then I remembered that in the past, parchment, which is a paper made from tanned sheep skin, was used to preserve important documents."
-    },
-    {
-        "message": "Maybe this tanned leather is actually a letter someone sent to me."
-    },
-    {
-        "message": "　　Second floor hallway　　"
-    }
+  {
+    "message": "This is the Laboratory in Dunwich."
+  },
+  {
+    "message": "On the desk, a bunch of experimental equipment I, as an outsider, have no clue what they're used for are lined up so tightly there's barely any space."
+  },
+  {
+    "message": "The sheer number of those items, a bit too extreme for a rich guy's hobby, makes you imagine what kind of shady experiments were being done in the laboratory."
+  },
+  {
+    "message": "Opening the thick metal door and stepping inside, I found myself in a room that gave off the vibe of a scientist's Laboratory."
+  },
+  {
+    "message": "In the not-so-spacious room, there's a large desk taking up most of the space in the center, with all kinds of experimental equipment lined up, crowding the place."
+  },
+  {
+    "message": "It's Dunwich's Laboratory."
+  },
+  {
+    "message": "On top of the desk, a bunch of experimental equipment whose purpose I have no idea about as a layman are crammed together."
+  },
+  {
+    "message": "I honestly can't tell if it was Dollie who used these tools, or if it was an earlier head of the Dunwich family."
+  },
+  {
+    "name": "Gardner",
+    "message": "What the... is this..."
+  },
+  {
+    "message": "　　　　　　　　It's just like a laboratory."
+  },
+  {
+    "message": "The room is crowded with equipment for science experiments, and in the cupboard in the corner are bottles of chemicals I've never even heard the names of."
+  },
+  {
+    "message": "The experimental equipment on the table is thickly covered with dust, and since these tools have hardly changed shape for centuries, it's impossible to tell what era they're from."
+  },
+  {
+    "message": "When you think about how long before the Industrial Revolution, collecting minerals and doing chemistry experiments had already spread as classy hobbies among nobles and the rich, it gets even harder to tell just how many heads of the family ago someone was really using these tools."
+  },
+  {
+    "name": "Thomas",
+    "message": "Hmph, that's quite a nice hobby you've got there."
+  },
+  {
+    "message": "　　　　　　All of these look pretty old, you know. The ones they're selling now are a bit easier to use."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Do you have any idea where this thing's from？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Now then......"
+  },
+  {
+    "message": "　　　　　　I'm　not　that　knowledgeable　about　it　either."
+  },
+  {
+    "message": "I don't know what kind of dangerous stuff could be in there."
+  },
+  {
+    "message": "It's way too dangerous to touch it directly with your hands."
+  },
+  {
+    "message": "Glass bottles are lined up."
+  },
+  {
+    "message": "Inside, there are unknown chemicals packed in, and when you bring your face close, there's a weird, pungent chemical smell that stings your nose."
+  },
+  {
+    "message": "I don't know what kind of dangerous stuff might be in there."
+  },
+  {
+    "message": "Touching it directly with your hands would be way too dangerous, right?"
+  },
+  {
+    "message": "For someone like me who's clueless about science, I don't think I could understand it even if I read it."
+  },
+  {
+    "message": "For now, let's just leave this book as it is."
+  },
+  {
+    "message": "Dust has piled up on the books lined up on the shelf, making you hesitate to touch them."
+  },
+  {
+    "message": "I can't tell what it's about just from the title on the spine, but judging from the state of this room, it's probably a book related to science experiments."
+  },
+  {
+    "message": "With the experimental equipment on the desk and all, it kind of feels like a slightly modern alchemist's room, but maybe that's just what a scientist's room is like."
+  },
+  {
+    "message": "It's a candlestick for holding candles."
+  },
+  {
+    "message": "It's an elaborate costume, but with just this light, the room doesn't get very bright."
+  },
+  {
+    "message": "Looks like there aren't any electrical appliances at all in the Dunwich family."
+  },
+  {
+    "message": "This lamp is also for getting light using gas, and it seems like it was the very first thing installed when people started getting gas service in their homes."
+  },
+  {
+    "message": "It's true that for doing experiments, just the light of candles seems way too dark, but especially here in Arkham, there probably weren’t many contractors willing to take on the job."
+  },
+  {
+    "message": "There are things like Glass bottles and Flasks for storing chemicals, and gas burners for heating them."
+  },
+  {
+    "message": "There are things like a burette stuck in a glass bottle and a gas burner heating a flask."
+  },
+  {
+    "message": "Unlike now, glass test tubes and flasks were probably pretty expensive."
+  },
+  {
+    "message": "I can't believe someone would set up this much equipment just for fun."
+  },
+  {
+    "message": "Dollie was a scholarly guy serving as the president of Miskatonic University, but I get more of a literary type vibe from him than a scientist."
+  },
+  {
+    "message": "I'm not really sure what these tools are used for."
+  },
+  {
+    "message": "Maybe I should've studied a little more in this field too........."
+  },
+  {
+    "message": "There are all kinds of pieces of equipment sitting around, and I have no idea what sort of experiments they’re used for."
+  },
+  {
+    "message": "I don't know what kind of research the head of the Dunwich family was doing in this room, but I can't imagine they'd spend this much money just for a hobby."
+  },
+  {
+    "message": "These glass instruments must have been pretty expensive back in the day."
+  },
+  {
+    "message": "Ordinary people probably couldn't afford them."
+  },
+  {
+    "message": "I'm pretty sure I remember seeing something like a beaker that melted and became useless down in the basement of the old Monastery."
+  },
+  {
+    "message": "I always thought it was weird that something like that was in the monastery..."
+  },
+  {
+    "message": "Speaking of which, I wonder if Philip Dunwich ever mastered the technique to turn that gold-like substance he got from the south into real gold."
+  },
+  {
+    "message": "If that technology was discovered in this laboratory, then it means Philip was the one using these instruments."
+  },
+  {
+    "message": "Who was doing research in this dark and gloomy laboratory, and what kind of research was it anyway?"
+  },
+  {
+    "message": "A scientist doing mysterious experiments night after night in a room of an old mansion-it's just like a little horror story."
+  },
+  {
+    "message": "Still, even looking around the room, I can't seem to find the reason why the door was replaced with such a sturdy iron one......"
+  },
+  {
+    "message": "It's a letter sent from someone named Joseph C to someone in the mansion."
+  },
+  {
+    "message": "It uses pretty old-fashioned language, so it's a struggle to read."
+  },
+  {
+    "message": "I have no clue who this 'wise brother' mentioned in the letter is, but by 'a new place for experiments' do they mean this laboratory？"
+  },
+  {
+    "message": "What on earth do things like 'the seed of the old ones' and 'those who look back at the past' even mean?"
+  },
+  {
+    "message": "It's like solving a crossword puzzle-my head is starting to hurt."
+  },
+  {
+    "message": "I felt like this was a good example of how language in English-speaking countries keeps changing, and just going back a hundred years could turn it into something totally incomprehensible."
+  },
+  {
+    "message": "I picked up the folded parchment, brushed off the dust, and opened it up."
+  },
+  {
+    "message": "Even after many long years, the sturdy leather has not yet lost its elasticity or strength."
+  },
+  {
+    "message": "The Parchment is filled with fluent writing, and although it is written in English, the expressions differ a bit from modern phrasing."
+  },
+  {
+    "message": "『My honored and venerable elder brother――"
+  },
+  {
+    "message": "　First, let us offer proper respect and prayers to the eternal power to which we devote ourselves.』"
+  },
+  {
+    "message": "『To state the conclusion in advance, I have no intention of acting together with you; considering the strict crackdown on people like us these days, I plan to relocate for a while and live a life in hiding.』"
+  },
+  {
+    "message": "『Fortunately, I managed to receive help from the organization known as Tan Tavan, and given the circumstances, I can only think of it as good luck.』"
+  },
+  {
+    "message": "『I feel nothing but longing and envy toward the new place for experiments and the many test subjects you have obtained, and now that I have ended up in this situation, you alone are qualified as a contractor.』"
+  },
+  {
+    "message": "『Just as it was in that handwritten book in your collection, thus from the seed of the old ones-those who look back at the past-will be born, not even knowing what they themselves are supposed to do.』"
+  },
+  {
+    "message": "『If you believe those words, then I think eventually the wish will be fulfilled. After I’m gone, I leave it to you that someone called Naiarlathotep will become your advisor, my wise elder brother.』"
+  },
+  {
+    "message": "『This man, though his true nature is unknown, will surely bring good fortune to my wise brother. He has already set off toward that land, and it seems he'll be able to arrive there in a few months.』"
+  },
+  {
+    "message": "『The eternally unchanging wise brother's loyal friend"
+  },
+  {
+    "message": "　　　　　　　　　　Joseph C."
+  },
+  {
+    "message": "It's like folded tanned leather."
+  },
+  {
+    "message": "The surface is dirty with fingerprints, and judging by how carefully it's folded, it must've been something really important."
+  },
+  {
+    "message": "I thought it might be deerskin for polishing furniture or metal, but then I remembered that in the past, parchment, which is a paper made from tanned sheep skin, was used to preserve important documents."
+  },
+  {
+    "message": "Maybe this tanned leather is actually a letter someone sent to me."
+  },
+  {
+    "message": "　　Second floor hallway　　"
+  }
 ]

@@ -1,192 +1,192 @@
 [
-    {
-        "name": "Gardner",
-        "message": "I've gotten completely relaxed, but it's about time we really got down to business."
-    },
-    {
-        "name": "Thomas",
-        "message": "Are we still going somewhere?"
-    },
-    {
-        "message": "　　　　　　I'm already worn out, so I'll just wait for you at the pub with a drink."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What are you saying, like a kid?"
-    },
-    {
-        "message": "　　　　　　　　First of all, there's no way I can leave the store unattended with a dangerous guy like you left alone."
-    },
-    {
-        "name": "Thomas",
-        "message": "That's a harsh thing to say."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Sorry to keep you waiting."
-    },
-    {
-        "message": "　　　　　　　　Shall we get going soon?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Are you really going？"
-    },
-    {
-        "message": "　　　　　　Honestly, I think just having some drinks here would be a hell of a lot more worthwhile."
-    },
-    {
-        "name": "Thomas",
-        "message": "Hey, what's going on?"
-    },
-    {
-        "message": "　　　　　　Drinking again？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "どうしたの、こんなところに来て。"
-    },
-    {
-        "message": "　　　　　　　　If you're planning to have a drink, I'll open up the shop..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "いや、まだやらなければならない事もあるし‥‥‥"
-    },
-    {
-        "name": "Thomas",
-        "message": "Then why'd you come to a place like this？"
-    },
-    {
-        "message": "　　　　　　You shouldn't push yourself too hard."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You don't have to worry about me."
-    },
-    {
-        "message": "　　　　　　　　I haven't prepared anything, so I can't serve any food."
-    },
-    {
-        "message": "Before the villagers forget about Gilman House, let's have Cordelia open up the shop."
-    },
-    {
-        "message": "There's still nobody around on the lonely back street."
-    },
-    {
-        "message": "All the more so since Gilman House, the only lively spot around here, is closed for business."
-    },
-    {
-        "message": "村人から苦情が出る前にコーデリアに店を開業させないと、ただでさえ敵意に満ちた村人が、さらに我々を目の敵にすることは明白だ。"
-    },
-    {
-        "message": "Probably didn't have the luxury for that, but the outside of the shop hasn't had any repairs done in ages."
-    },
-    {
-        "message": "If you still plan to keep the business running for a while, shouldn't you arrange repairs as soon as possible?"
-    },
-    {
-        "message": "The only inheritance Cordelia’s foster parents left her is the Gilman House."
-    },
-    {
-        "message": "Right now, the shop is closed, so there aren't any customers around."
-    },
-    {
-        "message": "It's not all that impressive, but I wonder if it's a pretty heavy load for Cordelia's slender arms to hold up."
-    },
-    {
-        "message": "The shop's name is written in plain Gothic letters."
-    },
-    {
-        "message": "Judging by the way the paint is peeling from rust, it looks like it's been left alone for over ten years."
-    },
-    {
-        "message": "The shop's name is written in spelling that can't really be called good."
-    },
-    {
-        "message": "I wonder where the name 'Gilman House' comes from？"
-    },
-    {
-        "message": "Come to think of it, I've never heard it, but I wonder what Cordelia's last name is."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You don’t have to make such a pouty face, I’ll open it for you."
-    },
-    {
-        "message": "At a glance, you can’t tell if it’s open or not."
-    },
-    {
-        "message": "The villagers who came hoping to get some cheap liquor from midday must have been pretty disappointed when they noticed the door was locked."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Are you planning to just stand here and talk forever？"
-    },
-    {
-        "message": "　　　　　　　　If you drop by the shop, I'll treat you to at least a drink."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Are you closed right now？"
-    },
-    {
-        "message": "　　　　　　　　This is probably the only place in the village where you can get booze, so it feels like the villagers are gonna end up hating us."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It can't be helped."
-    },
-    {
-        "message": "　　　　　　　　I'm the only employee, after all."
-    },
-    {
-        "name": "Jonathan",
-        "message": "If that's the case, why not just hire someone temporarily?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "この村で気軽に店を任せられる人なんていないわ。"
-    },
-    {
-        "message": "　　　　　　　　I　don't　want　people　handing　out　free　drinks　or　skimming　cash　from　the　register　without　my　permission."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I guess it's better than having the shop door busted up by some drunk wanting booze."
-    },
-    {
-        "name": "Cordelia",
-        "message": "No one would go out of their way to do something that much of a hassle. If you're gonna do all that, you'd probably just flop down on the street somewhere and wait for me to come back."
-    },
-    {
-        "message": "　　　Plaza　　　"
-    },
-    {
-        "message": "Fish Scale Inn"
-    },
-    {
-        "message": "General store"
-    },
-    {
-        "message": "　　　Ruins　　　"
-    },
-    {
-        "message": "Archives"
-    },
-    {
-        "message": "　Church　of　Dagon　"
-    },
-    {
-        "message": "Harbor"
-    },
-    {
-        "message": "　　Go inside　　"
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "name": "Gardner",
+    "message": "I've gotten completely relaxed, but it's about time we really got down to business."
+  },
+  {
+    "name": "Thomas",
+    "message": "Are we still going somewhere?"
+  },
+  {
+    "message": "　　　　　　I'm already worn out, so I'll just wait for you at the pub with a drink."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What are you saying, like a kid?"
+  },
+  {
+    "message": "　　　　　　　　First of all, there's no way I can leave the store unattended with a dangerous guy like you left alone."
+  },
+  {
+    "name": "Thomas",
+    "message": "That's a harsh thing to say."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Sorry to keep you waiting."
+  },
+  {
+    "message": "　　　　　　　　Shall we get going soon?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Are you really going？"
+  },
+  {
+    "message": "　　　　　　Honestly, I think just having some drinks here would be a hell of a lot more worthwhile."
+  },
+  {
+    "name": "Thomas",
+    "message": "Hey, what's going on?"
+  },
+  {
+    "message": "　　　　　　Drinking again？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "What's wrong, coming to a place like this?"
+  },
+  {
+    "message": "　　　　　　　　If you're planning to have a drink, I'll open up the shop..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Nah, there's still stuff I have to do..."
+  },
+  {
+    "name": "Thomas",
+    "message": "Then why'd you come to a place like this？"
+  },
+  {
+    "message": "　　　　　　You shouldn't push yourself too hard."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You don't have to worry about me."
+  },
+  {
+    "message": "　　　　　　　　I haven't prepared anything, so I can't serve any food."
+  },
+  {
+    "message": "Before the villagers forget about Gilman House, let's have Cordelia open up the shop."
+  },
+  {
+    "message": "There's still nobody around on the lonely back street."
+  },
+  {
+    "message": "All the more so since Gilman House, the only lively spot around here, is closed for business."
+  },
+  {
+    "message": "If we don't get Cordelia to open the shop before the villagers start complaining, it's obvious that the already hostile villagers will make us even more of a target."
+  },
+  {
+    "message": "Probably didn't have the luxury for that, but the outside of the shop hasn't had any repairs done in ages."
+  },
+  {
+    "message": "If you still plan to keep the business running for a while, shouldn't you arrange repairs as soon as possible?"
+  },
+  {
+    "message": "The only inheritance Cordelia’s foster parents left her is the Gilman House."
+  },
+  {
+    "message": "Right now, the shop is closed, so there aren't any customers around."
+  },
+  {
+    "message": "It's not all that impressive, but I wonder if it's a pretty heavy load for Cordelia's slender arms to hold up."
+  },
+  {
+    "message": "The shop's name is written in plain Gothic letters."
+  },
+  {
+    "message": "Judging by the way the paint is peeling from rust, it looks like it's been left alone for over ten years."
+  },
+  {
+    "message": "The shop's name is written in spelling that can't really be called good."
+  },
+  {
+    "message": "I wonder where the name 'Gilman House' comes from？"
+  },
+  {
+    "message": "Come to think of it, I've never heard it, but I wonder what Cordelia's last name is."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You don’t have to make such a pouty face, I’ll open it for you."
+  },
+  {
+    "message": "At a glance, you can’t tell if it’s open or not."
+  },
+  {
+    "message": "The villagers who came hoping to get some cheap liquor from midday must have been pretty disappointed when they noticed the door was locked."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Are you planning to just stand here and talk forever？"
+  },
+  {
+    "message": "　　　　　　　　If you drop by the shop, I'll treat you to at least a drink."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Are you closed right now？"
+  },
+  {
+    "message": "　　　　　　　　This is probably the only place in the village where you can get booze, so it feels like the villagers are gonna end up hating us."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It can't be helped."
+  },
+  {
+    "message": "　　　　　　　　I'm the only employee, after all."
+  },
+  {
+    "name": "Jonathan",
+    "message": "If that's the case, why not just hire someone temporarily?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "There's nobody in this village I can easily trust to run the shop."
+  },
+  {
+    "message": "　　　　　　　　I　don't　want　people　handing　out　free　drinks　or　skimming　cash　from　the　register　without　my　permission."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I guess it's better than having the shop door busted up by some drunk wanting booze."
+  },
+  {
+    "name": "Cordelia",
+    "message": "No one would go out of their way to do something that much of a hassle. If you're gonna do all that, you'd probably just flop down on the street somewhere and wait for me to come back."
+  },
+  {
+    "message": "　　　Plaza　　　"
+  },
+  {
+    "message": "Fish Scale Inn"
+  },
+  {
+    "message": "General store"
+  },
+  {
+    "message": "　　　Ruins　　　"
+  },
+  {
+    "message": "Archives"
+  },
+  {
+    "message": "　Church　of　Dagon　"
+  },
+  {
+    "message": "Harbor"
+  },
+  {
+    "message": "　　Go inside　　"
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

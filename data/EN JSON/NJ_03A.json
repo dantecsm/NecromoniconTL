@@ -1,269 +1,269 @@
 [
-    {
-        "message": "It's the only cemetery in Arkham."
-    },
-    {
-        "message": "弱い風が小さな窪地のような墓地の中を吹き抜け、茂った大木の枝を揺するたびに、不気味なざわざわという音を立てている。"
-    },
-    {
-        "message": "Being alone in a place like this makes me feel like one of those crazy scientists from back in the day who kept digging up fresh corpses for their own research."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "You folks are still hanging around in Arkham, huh."
-    },
-    {
-        "message": "　　　　　You come to this cemetery-a place barely even visited by the villagers-all the time,　　　　　so what exactly are you up to?"
-    },
-    {
-        "message": "I'm the gravekeeper who manages the Arkham cemetery all by myself."
-    },
-    {
-        "message": "I'm pretty sure this gravekeeper said he'd known Marsh since they were just kids."
-    },
-    {
-        "message": "It's the Arkham graveyard."
-    },
-    {
-        "message": "Because it's away from the sea and located in a sort of basin that's a bit lower than the surrounding areas, the strong winds from the sea that blow everywhere else in the village aren't here."
-    },
-    {
-        "message": "Evergreen trees grow thick, and though winter has withered them, fine lawns are laid out-this cemetery, for Arkham, is honestly one of the few quiet, harmless, and even comfortable spots one could find."
-    },
-    {
-        "message": "Ominous black clouds are hanging low in the sky."
-    },
-    {
-        "message": "Even the wind shaking the branches of the trees doesn’t seem to be any good at driving away the rain clouds overhead."
-    },
-    {
-        "message": "At this hour, you can't even see a bird flying in the sky."
-    },
-    {
-        "message": "The blue moonlight peeking through the clouds feels like it's trying to purify the unholy land of Arkham."
-    },
-    {
-        "message": "It’s like it's trying to freeze every living thing on this land solid with its cold light."
-    },
-    {
-        "message": "Black clouds with an ominous vibe are hanging low in the sky."
-    },
-    {
-        "message": "Even the wind shaking the branches of the trees doesn't seem to be any help in driving away the rain clouds up in the sky."
-    },
-    {
-        "message": "Through the gaps in the trees, I can see the sky thickly covered with clouds."
-    },
-    {
-        "message": "The hills visible in the distance are carrying black clouds on their backs, looking just like the most ominous sort of landscape painting."
-    },
-    {
-        "message": "It's definitely fitting for a cemetery, but even so, this place still has a relatively comfortable and fresh image for Arkham."
-    },
-    {
-        "message": "They're the only trees in Arkham, which isn't exactly lush, that give me any sense of peace."
-    },
-    {
-        "message": "Maybe because they're sheltered from the strong sea wind, the tall trees inside the graveyard grounds all grow straight up."
-    },
-    {
-        "message": "If it were summer, they’d make just the right shade, and you’d feel like taking a break under them, but in this season when you’re about to freeze, nobody even pays any attention to those trees."
-    },
-    {
-        "message": "The grass is neatly trimmed, and you don't see a single fallen leaf around."
-    },
-    {
-        "message": "Even though not a single person visits these graves, the groundskeeper still does his job with care."
-    },
-    {
-        "message": "In the withered winter grass, gravestones are neatly lined up in an orderly arrangement."
-    },
-    {
-        "message": "There probably isn't any other cemetery in Arkham, but there aren't that many gravestones lined up here."
-    },
-    {
-        "message": "I sure hope the villagers here aren’t still keeping up with those old savage customs. If it turned out the local fish are feeding on the corpses of villagers who got washed out to sea, I probably wouldn't ever want to eat fish again."
-    },
-    {
-        "message": "The area carpeted with grass and surrounded by trees is so refreshingly pleasant that it's hard to believe this is really part of Arkham, but once you realize it’s a cemetery, you don’t really feel like sticking around for long."
-    },
-    {
-        "message": "From gravestones aged hundreds of years, to brand new ones that look like they were put up just recently, they’re all lined up in neat rows."
-    },
-    {
-        "message": "このあたりで産した物なのだろうか、普通の墓石よりも黒ずんだ石で造られた墓標は、どれもこれも測ったように同様の形をしている。"
-    },
-    {
-        "message": "It seems like there are hardly any people in Arkham rich enough to spend money on their own gravestone."
-    },
-    {
-        "message": "He looks like he's depressed from losing an old friend, which by now is probably a rare thing."
-    },
-    {
-        "message": "His face, covered in scruffy stubble, showed no expression, and the way he leaned forward staring at the grass at his feet gave the impression that he'd suddenly grown old."
-    },
-    {
-        "message": "この老人もマーシュと同じように、生きている事があまり面白くないように見える。"
-    },
-    {
-        "message": "If there's just one thing that sets him apart from Marsh, it's probably that the old man is passionate about keeping the graveyard in pristine condition."
-    },
-    {
-        "message": "I always believed that anyone who chooses a job like gravekeeper must have an atmosphere or appearance that's somehow different from ordinary people, and this gravekeeper seems like the textbook example of that."
-    },
-    {
-        "message": "His clothes are closer to those of a plainclothes cop in the yard than a 'gravekeeper', and his sloppy face with the unshaven stubble has features you wouldn't usually see in a gardener or anyone doing precise work like that."
-    },
-    {
-        "message": "People from Arkham are generally all expressionless, and you can never tell what they're thinking, but the gravedigger shouldn't be from this village."
-    },
-    {
-        "message": "Maybe spending so much time with the villagers rubbed off on me and I picked up some of their traits."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Marsh knew from the start it would end up like this."
-    },
-    {
-        "message": "　　　　　It's a terrible thing, but all we can do is wait for someone to find it."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Why'd you come tell me first？"
-    },
-    {
-        "message": "　　　　　What do you want me to do?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "私たちはこの村の人間ではありません、マーシュの屍　　　　　　　　体を見つけたと通報すれば真っ先に疑われます。"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "Everyone in the village knew you guys were skulking around Marsh, after all."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "No way, you didn't kill them, did you？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I have no reason to do something like that."
-    },
-    {
-        "message": "　　　　　　　　I　still　had　things　I　wanted　to　ask　Marsh..."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "It's not a great reason, but alright, I'll believe you."
-    },
-    {
-        "message": "　　　　　So, why did you decide to confess that to me?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "屍体をあのままにしておくのは忍びないと思って。"
-    },
-    {
-        "message": "　　　　　　　　あなたなら、誰にも見つからずにマーシュをこの墓地　　　　　　　　に埋葬する事が出来るでしょう？"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "それは断る。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why is that？"
-    },
-    {
-        "message": "　　　　　　　　You and Marsh go way back, don't you?"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "No way, I just can't do it."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You said that Marsh being killed was his own fault, but does that have anything to do with this?"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "That's right."
-    },
-    {
-        "message": "　　　　　マーシュは最初からこうなる事が解っていて、それでもなお　　　　　何もしようとしなかった。"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "That's why I can't help Marsh."
-    },
-    {
-        "message": "　　　　　It's awful, but all we can do is wait until someone finds out."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "What have you come for this time？"
-    },
-    {
-        "message": "　　　　　This graveyard isn't the kind of place to stir up your lot's curiosity much, is it?"
-    },
-    {
-        "message": "It should be fine to talk about Marsh with this gravedigger."
-    },
-    {
-        "message": "At the very least, they don't seem hostile toward us, and since they're in the job of gravekeeper, they could probably hold a funeral for Marsh's body without anyone noticing."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "What's wrong, what are you lost in thought about?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Marsh... was murdered."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "What？"
-    },
-    {
-        "message": "　　　　　Right out of the blue, I wondered what you were going to say..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's not a lie, when we asked about the ship, it had already... stopped breathing."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It was like half his body had been bitten off by a shark, and there was a harpoon stuck in his mouth."
-    },
-    {
-        "name": "Gravedigger",
-        "message": "No doubt about it, someone killed him."
-    },
-    {
-        "message": "　　　　　But I guess that's just how it is."
-    },
-    {
-        "name": "Jonathan",
-        "message": "どういう事です？"
-    },
-    {
-        "name": "Gravedigger",
-        "message": "That old man was always saying."
-    },
-    {
-        "message": "　　　　　I always figured I'd get killed someday......"
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "message": "It's the only cemetery in Arkham."
+  },
+  {
+    "message": "A weak wind blows through the small hollow-like graveyard, and every time it shakes the branches of the thick, grown trees, it makes an eerie rustling sound."
+  },
+  {
+    "message": "Being alone in a place like this makes me feel like one of those crazy scientists from back in the day who kept digging up fresh corpses for their own research."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "You folks are still hanging around in Arkham, huh."
+  },
+  {
+    "message": "　　　　　You come to this cemetery-a place barely even visited by the villagers-all the time,　　　　　so what exactly are you up to?"
+  },
+  {
+    "message": "I'm the gravekeeper who manages the Arkham cemetery all by myself."
+  },
+  {
+    "message": "I'm pretty sure this gravekeeper said he'd known Marsh since they were just kids."
+  },
+  {
+    "message": "It's the Arkham graveyard."
+  },
+  {
+    "message": "Because it's away from the sea and located in a sort of basin that's a bit lower than the surrounding areas, the strong winds from the sea that blow everywhere else in the village aren't here."
+  },
+  {
+    "message": "Evergreen trees grow thick, and though winter has withered them, fine lawns are laid out-this cemetery, for Arkham, is honestly one of the few quiet, harmless, and even comfortable spots one could find."
+  },
+  {
+    "message": "Ominous black clouds are hanging low in the sky."
+  },
+  {
+    "message": "Even the wind shaking the branches of the trees doesn’t seem to be any good at driving away the rain clouds overhead."
+  },
+  {
+    "message": "At this hour, you can't even see a bird flying in the sky."
+  },
+  {
+    "message": "The blue moonlight peeking through the clouds feels like it's trying to purify the unholy land of Arkham."
+  },
+  {
+    "message": "It’s like it's trying to freeze every living thing on this land solid with its cold light."
+  },
+  {
+    "message": "Black clouds with an ominous vibe are hanging low in the sky."
+  },
+  {
+    "message": "Even the wind shaking the branches of the trees doesn't seem to be any help in driving away the rain clouds up in the sky."
+  },
+  {
+    "message": "Through the gaps in the trees, I can see the sky thickly covered with clouds."
+  },
+  {
+    "message": "The hills visible in the distance are carrying black clouds on their backs, looking just like the most ominous sort of landscape painting."
+  },
+  {
+    "message": "It's definitely fitting for a cemetery, but even so, this place still has a relatively comfortable and fresh image for Arkham."
+  },
+  {
+    "message": "They're the only trees in Arkham, which isn't exactly lush, that give me any sense of peace."
+  },
+  {
+    "message": "Maybe because they're sheltered from the strong sea wind, the tall trees inside the graveyard grounds all grow straight up."
+  },
+  {
+    "message": "If it were summer, they’d make just the right shade, and you’d feel like taking a break under them, but in this season when you’re about to freeze, nobody even pays any attention to those trees."
+  },
+  {
+    "message": "The grass is neatly trimmed, and you don't see a single fallen leaf around."
+  },
+  {
+    "message": "Even though not a single person visits these graves, the groundskeeper still does his job with care."
+  },
+  {
+    "message": "In the withered winter grass, gravestones are neatly lined up in an orderly arrangement."
+  },
+  {
+    "message": "There probably isn't any other cemetery in Arkham, but there aren't that many gravestones lined up here."
+  },
+  {
+    "message": "I sure hope the villagers here aren’t still keeping up with those old savage customs. If it turned out the local fish are feeding on the corpses of villagers who got washed out to sea, I probably wouldn't ever want to eat fish again."
+  },
+  {
+    "message": "The area carpeted with grass and surrounded by trees is so refreshingly pleasant that it's hard to believe this is really part of Arkham, but once you realize it’s a cemetery, you don’t really feel like sticking around for long."
+  },
+  {
+    "message": "From gravestones aged hundreds of years, to brand new ones that look like they were put up just recently, they’re all lined up in neat rows."
+  },
+  {
+    "message": "I wonder if these were produced around here; the gravestones, made from stones darker than ordinary gravestones, all have the same shape, as if they were measured and made alike."
+  },
+  {
+    "message": "It seems like there are hardly any people in Arkham rich enough to spend money on their own gravestone."
+  },
+  {
+    "message": "He looks like he's depressed from losing an old friend, which by now is probably a rare thing."
+  },
+  {
+    "message": "His face, covered in scruffy stubble, showed no expression, and the way he leaned forward staring at the grass at his feet gave the impression that he'd suddenly grown old."
+  },
+  {
+    "message": "This old man, just like Marsh, doesn't seem to find much fun in being alive."
+  },
+  {
+    "message": "If there's just one thing that sets him apart from Marsh, it's probably that the old man is passionate about keeping the graveyard in pristine condition."
+  },
+  {
+    "message": "I always believed that anyone who chooses a job like gravekeeper must have an atmosphere or appearance that's somehow different from ordinary people, and this gravekeeper seems like the textbook example of that."
+  },
+  {
+    "message": "His clothes are closer to those of a plainclothes cop in the yard than a 'gravekeeper', and his sloppy face with the unshaven stubble has features you wouldn't usually see in a gardener or anyone doing precise work like that."
+  },
+  {
+    "message": "People from Arkham are generally all expressionless, and you can never tell what they're thinking, but the gravedigger shouldn't be from this village."
+  },
+  {
+    "message": "Maybe spending so much time with the villagers rubbed off on me and I picked up some of their traits."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Marsh knew from the start it would end up like this."
+  },
+  {
+    "message": "　　　　　It's a terrible thing, but all we can do is wait for someone to find it."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Why'd you come tell me first？"
+  },
+  {
+    "message": "　　　　　What do you want me to do?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "We're not from this village. If we report that we found Marsh's corpse, we'll be the first suspects."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "Everyone in the village knew you guys were skulking around Marsh, after all."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "No way, you didn't kill them, did you？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I have no reason to do something like that."
+  },
+  {
+    "message": "　　　　　　　　I　still　had　things　I　wanted　to　ask　Marsh..."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "It's not a great reason, but alright, I'll believe you."
+  },
+  {
+    "message": "　　　　　So, why did you decide to confess that to me?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I just couldn't bear to leave the corpse like that."
+  },
+  {
+    "message": "　　　　　　　　You could bury Marsh in this graveyard without anyone ever finding out, right？"
+  },
+  {
+    "name": "Gravedigger",
+    "message": "I refuse."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why is that？"
+  },
+  {
+    "message": "　　　　　　　　You and Marsh go way back, don't you?"
+  },
+  {
+    "name": "Gravedigger",
+    "message": "No way, I just can't do it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You said that Marsh being killed was his own fault, but does that have anything to do with this?"
+  },
+  {
+    "name": "Gravedigger",
+    "message": "That's right."
+  },
+  {
+    "message": "　　　　　Marsh knew from the start that things would end up like this, and even so, still didn't try to do anything."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "That's why I can't help Marsh."
+  },
+  {
+    "message": "　　　　　It's awful, but all we can do is wait until someone finds out."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "What have you come for this time？"
+  },
+  {
+    "message": "　　　　　This graveyard isn't the kind of place to stir up your lot's curiosity much, is it?"
+  },
+  {
+    "message": "It should be fine to talk about Marsh with this gravedigger."
+  },
+  {
+    "message": "At the very least, they don't seem hostile toward us, and since they're in the job of gravekeeper, they could probably hold a funeral for Marsh's body without anyone noticing."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "What's wrong, what are you lost in thought about?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Marsh... was murdered."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "What？"
+  },
+  {
+    "message": "　　　　　Right out of the blue, I wondered what you were going to say..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's not a lie, when we asked about the ship, it had already... stopped breathing."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It was like half his body had been bitten off by a shark, and there was a harpoon stuck in his mouth."
+  },
+  {
+    "name": "Gravedigger",
+    "message": "No doubt about it, someone killed him."
+  },
+  {
+    "message": "　　　　　But I guess that's just how it is."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What do you mean？"
+  },
+  {
+    "name": "Gravedigger",
+    "message": "That old man was always saying."
+  },
+  {
+    "message": "　　　　　I always figured I'd get killed someday......"
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

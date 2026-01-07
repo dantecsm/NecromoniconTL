@@ -1,456 +1,456 @@
 [
-    {
-        "name": "Madam",
-        "message": "You sure were quick......"
-    },
-    {
-        "name": "Madam",
-        "message": "With that face, looks like you had plenty of fun."
-    },
-    {
-        "message": "スウ"
-    },
-    {
-        "message": "Mabel"
-    },
-    {
-        "message": "はお気に召したかしら？"
-    },
-    {
-        "name": "Madam",
-        "message": "Your friend Thomas went home a little earlier."
-    },
-    {
-        "message": "　　　　　　Shouldn’t　you　get　a　move　on　too？"
-    },
-    {
-        "name": "Madam",
-        "message": "Oh, you came again？"
-    },
-    {
-        "message": "　　　　　　お店は儲かるしあたしも嬉しいけど、若いうちからこうい　　　　　　う遊びに溺れるのはよくないわよ。"
-    },
-    {
-        "name": "Madam",
-        "message": "Both Sue and Mabel have already had a taste......"
-    },
-    {
-        "name": "Madam",
-        "message": "Is it finally my turn next, I wonder？"
-    },
-    {
-        "name": "Madam",
-        "message": "Jonathan, you came again."
-    },
-    {
-        "message": "　　　　　　I'm happy, but if you indulge too much, it's not good for your body, you know."
-    },
-    {
-        "name": "Madam",
-        "message": "How long are you planning to stay in Arkham？"
-    },
-    {
-        "message": "　　　　　　I want to take my time and keep you company, without any business involved."
-    },
-    {
-        "name": "Thomas",
-        "message": "Yo, have you been doing well while I was gone?"
-    },
-    {
-        "message": "　　　　　　Just　like　you　wanted,　I　came　again."
-    },
-    {
-        "name": "Madam",
-        "message": "Oh, welcome."
-    },
-    {
-        "message": "　　　　　　Visiting a brothel at this hour, huh? Must be nice living the good life."
-    },
-    {
-        "name": "Thomas",
-        "message": "What the hell, I went out of my way to come, you know."
-    },
-    {
-        "message": "　　　　　　If you're gonna make snide remarks, I'll just go home, you know."
-    },
-    {
-        "name": "Madam",
-        "message": "No way I'm being sarcastic."
-    },
-    {
-        "message": "　　　　　　I just said exactly what I was thinking."
-    },
-    {
-        "name": "Madam",
-        "message": "That gentleman left in a hurry last night... Are you going to take it easy and stay a while today？"
-    },
-    {
-        "name": "Thomas",
-        "message": "I'd really like to, but I'm making my companion wait. We dropped by because he insisted on it."
-    },
-    {
-        "name": "Madam",
-        "message": "If you pick up these kinds of habits when you're young, you'll never turn out to be any good as an adult."
-    },
-    {
-        "name": "Thomas",
-        "message": "For sure."
-    },
-    {
-        "message": "　　　　　　But, you know, it's usually the serious guys like this who lose all self-control once they let loose even once."
-    },
-    {
-        "name": "Madam",
-        "message": "You must really"
-    },
-    {
-        "message": "Mabel"
-    },
-    {
-        "message": "Sue"
-    },
-    {
-        "message": "like them, huh."
-    },
-    {
-        "message": "　　　　　　So,　what　are　you　gonna　do　today？"
-    },
-    {
-        "name": "Madam",
-        "message": "Do you want"
-    },
-    {
-        "message": "Mabel"
-    },
-    {
-        "message": "Sue"
-    },
-    {
-        "message": "again？"
-    },
-    {
-        "message": "Aside from giving off a slightly quirky vibe, the lush decor here could pass for a room in a mid-tier hotel in London."
-    },
-    {
-        "message": "I've never been to a brothel before, but I wonder if they're all like this everywhere."
-    },
-    {
-        "message": "It's got flashy decorations all over the place."
-    },
-    {
-        "message": "There's a heavy smell of perfume in the air, and it's almost enough to make me feel sick."
-    },
-    {
-        "message": "The place is decked out with some pretty stylish ornaments."
-    },
-    {
-        "message": "Maybe paying attention to details like this is a sign they take their business seriously."
-    },
-    {
-        "message": "It probably wasn't easy to set up a shop this big in Arkham; maybe the lady owner here is pretty savvy."
-    },
-    {
-        "message": "It seems like they're more proactive about investing in facilities compared to places like the Fish Scale Inn or the Gilman House."
-    },
-    {
-        "message": "That just means there's that much profit to be made."
-    },
-    {
-        "name": "Sue",
-        "message": "That was awesome, Jonathan."
-    },
-    {
-        "message": "　　　　　You'll come again, right?"
-    },
-    {
-        "name": "Sue",
-        "message": "I feel like I won't be able to forget you."
-    },
-    {
-        "name": "Madam",
-        "message": "You're picking Sue, right？"
-    },
-    {
-        "message": "　　　　　　This girl is quite something."
-    },
-    {
-        "name": "Madam",
-        "message": "She looks like a kid, but when it comes to that side of things, she's more grown-up than most adults, you know."
-    },
-    {
-        "name": "Sue",
-        "message": "Stop it, even though you went out of your way to choose me！"
-    },
-    {
-        "message": "　　　　　Guys like this are totally my type."
-    },
-    {
-        "name": "Madam",
-        "message": "Well, that's great for you."
-    },
-    {
-        "message": "　　　　　　You better do your best to serve them."
-    },
-    {
-        "name": "Sue",
-        "message": "Shall we go？"
-    },
-    {
-        "message": "　　　　　My room's over there."
-    },
-    {
-        "name": "Madam",
-        "message": "I gave Sue plenty of love last night, didn't I?　　　　　　Why don't you try enjoying a different girl for a change?"
-    },
-    {
-        "name": "Sue",
-        "message": "Aah, even though you went out of your way to pick me, don’t say stuff like that‥‥‥‥"
-    },
-    {
-        "name": "Madam",
-        "message": "You have a habit of getting too fired up when it's a guy you like."
-    },
-    {
-        "message": "　　　　　　まだ陽も高いんだ、お客はこの人だけじゃないんだ。"
-    },
-    {
-        "name": "Sue",
-        "message": "But..."
-    },
-    {
-        "name": "Madam",
-        "message": "Don't give me that."
-    },
-    {
-        "message": "　　　　　　If you want this person to do it for you that badly, then just ask her to come back again tonight."
-    },
-    {
-        "message": "She only looks a little older than Cordelia, but with her heavy makeup, she totally looks like a working girl."
-    },
-    {
-        "message": "With such a cute face, she doesn't look like the type of girl who'd be a prostitute, and honestly, she doesn't really fit in here in Arkham either, but the way she's sitting with her legs crossed, leaning back on the armrest and giving me that look with her eyes-it's a pose clearly drilled into her to attract men."
-    },
-    {
-        "message": "The curvy lines of her body show through her thin gown, which kinda clashes with her baby-faced look, but I bet some people would actually find that appealing."
-    },
-    {
-        "message": "She probably lets a bunch of men have her every night and gets called a lowly working girl by society, but there's no gloominess at all in her expression."
-    },
-    {
-        "message": "She seems completely different from the women in London who turn to prostitution out of desperation."
-    },
-    {
-        "name": "Madam",
-        "message": "You've been watching Sue for a while now, huh? You're interested?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Maybe, I do think she's cute..."
-    },
-    {
-        "name": "Madam",
-        "message": "Sue is from Norway, you know. Have you ever been with a Scandinavian woman？ Their skin is so beautiful, it rivals Oriental women."
-    },
-    {
-        "name": "Mabel",
-        "message": "Master......"
-    },
-    {
-        "name": "Mabel",
-        "message": "You'll come visit me again, right?"
-    },
-    {
-        "message": "　　　　　　　I can't go on without you anymore........"
-    },
-    {
-        "name": "Madam",
-        "message": "メーベル、ジョナサンさんがお呼びよ。"
-    },
-    {
-        "name": "Mabel",
-        "message": "Yes, Madam............"
-    },
-    {
-        "name": "Madam",
-        "message": "Come on, hurry up and take them to the room！"
-    },
-    {
-        "message": "　　　　　　Make sure to have plenty of fun, okay?"
-    },
-    {
-        "name": "Madam",
-        "message": "Even though this girl looks so meek, when it comes to that stuff, she's actually super intense."
-    },
-    {
-        "name": "Madam",
-        "message": "Be careful not to get your important bits bitten off."
-    },
-    {
-        "name": "Mabel",
-        "message": "No way, that's not...‥‥‥‥‥"
-    },
-    {
-        "name": "Madam",
-        "message": "Isn't it the truth?"
-    },
-    {
-        "message": "　　　　　　Even the other day, you wouldn't let go while you were sucking on that young fisherman's thing, right？"
-    },
-    {
-        "name": "Mabel",
-        "message": "止めて下さい‥‥‥‥"
-    },
-    {
-        "name": "Madam",
-        "message": "Well, fine, go ahead and enjoy yourself to the fullest."
-    },
-    {
-        "name": "Mabel",
-        "message": "Jonathan, over here."
-    },
-    {
-        "name": "Mabel",
-        "message": "Ah......"
-    },
-    {
-        "name": "Mabel",
-        "message": "I'm so happy, you chose me again, didn't you?　　　　　　　I'll do my very best to serve you."
-    },
-    {
-        "name": "Madam",
-        "message": "But Mabel, didn't I spoil you plenty last night too?"
-    },
-    {
-        "name": "Madam",
-        "message": "If you're going to do it, wouldn't it be nice to try tasting Sue too？"
-    },
-    {
-        "name": "Mabel",
-        "message": "No, why would you say something like that?"
-    },
-    {
-        "name": "Madam",
-        "message": "Looks like this girl’s seriously fallen for you."
-    },
-    {
-        "message": "　　　　　　If that's the case, why don't you take your time and spoil her tonight or something？"
-    },
-    {
-        "message": "She seems somewhat older than the girl next door, and in contrast to the lively, schoolgirl-like Sue, she gives off a calm and intelligent vibe."
-    },
-    {
-        "message": "Her black hair, as beautiful as Cordelia's, is trimmed evenly at the shoulders and just barely falls over her face, which is better described as well-formed and beautiful rather than cute."
-    },
-    {
-        "message": "Unlike Sue, who's openly flirty with men, she's a bit shy, and only her toes are peeking out from the modest gown she's wearing."
-    },
-    {
-        "message": "The eyes looking at me seem afraid that customers will be disappointed if they pick me, almost like they don't really want to be chosen themselves."
-    },
-    {
-        "message": "Since she's holed up in a place like this, she's probably got a dark past that's still casting a shadow over her now, but it'd be pretty tactless to ask about it."
-    },
-    {
-        "name": "Madam",
-        "message": "Seems like you’ve taken a liking to Mabel."
-    },
-    {
-        "name": "Jonathan",
-        "message": "She's a pretty quiet girl."
-    },
-    {
-        "name": "Madam",
-        "message": "I'm not that jaded for someone who grew up in London, right？"
-    },
-    {
-        "message": "　　　　　　But I'm not as well-behaved in bed as I look！"
-    },
-    {
-        "name": "Madam",
-        "message": "If you’re not careful, you’ll get sucked dry until you can’t stand up anymore.　　　　　　You better watch yourself."
-    },
-    {
-        "name": "Madam",
-        "message": "Now I totally get why my girls are so crazy about you."
-    },
-    {
-        "message": "　　　　　　You don’t think we’re hookers or anything, do you？"
-    },
-    {
-        "name": "Madam",
-        "message": "We’re total suckers for that kind of kindness…‥‥‥‥‥‥"
-    },
-    {
-        "name": "Madam",
-        "message": "I want to be with you without any business involved. How about we close the shop and all have fun together？"
-    },
-    {
-        "name": "Madam",
-        "message": "I think you'll definitely like it......"
-    },
-    {
-        "name": "Madam",
-        "message": "The person you're with is waiting, right？"
-    },
-    {
-        "message": "　　　　　　Maybe　you　should　go　to　them　sooner."
-    },
-    {
-        "name": "Madam",
-        "message": "Lost again？"
-    },
-    {
-        "message": "　　　　　　You"
-    },
-    {
-        "message": "Mabel"
-    },
-    {
-        "message": "Sue"
-    },
-    {
-        "message": "That's after you've tasted it, right？"
-    },
-    {
-        "name": "Madam",
-        "message": "Then there's no need to worry about it, right?"
-    },
-    {
-        "message": "　　　　　　If it were me, I'd try out the other daughter too."
-    },
-    {
-        "name": "Madam",
-        "message": "That's just like Thomas said."
-    },
-    {
-        "message": "　　　　　　Serious people like you tend to get sucked into this kind of fun pretty easily."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's not like I‥‥‥‥"
-    },
-    {
-        "name": "Madam",
-        "message": "There's no need to be embarrassed."
-    },
-    {
-        "message": "　　　　　　It's　something　every　guy　does,　you　know."
-    },
-    {
-        "name": "Madam",
-        "message": "Come on, pick the girl you like."
-    },
-    {
-        "message": "　　　　　　Indulging in debauchery in broad daylight, that's its own kind of thrill too, isn't it?"
-    },
-    {
-        "name": "Madam",
-        "message": "I won't blame you for something like that."
-    },
-    {
-        "message": "　　　　　　Life's short, so you gotta enjoy it while you can."
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "name": "Madam",
+    "message": "You sure were quick......"
+  },
+  {
+    "name": "Madam",
+    "message": "With that face, looks like you had plenty of fun."
+  },
+  {
+    "message": "Sue"
+  },
+  {
+    "message": "Mabel"
+  },
+  {
+    "message": "Did she please you？"
+  },
+  {
+    "name": "Madam",
+    "message": "Your friend Thomas went home a little earlier."
+  },
+  {
+    "message": "　　　　　　Shouldn’t　you　get　a　move　on　too？"
+  },
+  {
+    "name": "Madam",
+    "message": "Oh, you came again？"
+  },
+  {
+    "message": "　　　　　　The shop makes money and I'm happy too, but it's not good to get hooked on this kind of play from such a young age."
+  },
+  {
+    "name": "Madam",
+    "message": "Both Sue and Mabel have already had a taste......"
+  },
+  {
+    "name": "Madam",
+    "message": "Is it finally my turn next, I wonder？"
+  },
+  {
+    "name": "Madam",
+    "message": "Jonathan, you came again."
+  },
+  {
+    "message": "　　　　　　I'm happy, but if you indulge too much, it's not good for your body, you know."
+  },
+  {
+    "name": "Madam",
+    "message": "How long are you planning to stay in Arkham？"
+  },
+  {
+    "message": "　　　　　　I want to take my time and keep you company, without any business involved."
+  },
+  {
+    "name": "Thomas",
+    "message": "Yo, have you been doing well while I was gone?"
+  },
+  {
+    "message": "　　　　　　Just　like　you　wanted,　I　came　again."
+  },
+  {
+    "name": "Madam",
+    "message": "Oh, welcome."
+  },
+  {
+    "message": "　　　　　　Visiting a brothel at this hour, huh? Must be nice living the good life."
+  },
+  {
+    "name": "Thomas",
+    "message": "What the hell, I went out of my way to come, you know."
+  },
+  {
+    "message": "　　　　　　If you're gonna make snide remarks, I'll just go home, you know."
+  },
+  {
+    "name": "Madam",
+    "message": "No way I'm being sarcastic."
+  },
+  {
+    "message": "　　　　　　I just said exactly what I was thinking."
+  },
+  {
+    "name": "Madam",
+    "message": "That gentleman left in a hurry last night... Are you going to take it easy and stay a while today？"
+  },
+  {
+    "name": "Thomas",
+    "message": "I'd really like to, but I'm making my companion wait. We dropped by because he insisted on it."
+  },
+  {
+    "name": "Madam",
+    "message": "If you pick up these kinds of habits when you're young, you'll never turn out to be any good as an adult."
+  },
+  {
+    "name": "Thomas",
+    "message": "For sure."
+  },
+  {
+    "message": "　　　　　　But, you know, it's usually the serious guys like this who lose all self-control once they let loose even once."
+  },
+  {
+    "name": "Madam",
+    "message": "You must really"
+  },
+  {
+    "message": "Mabel"
+  },
+  {
+    "message": "Sue"
+  },
+  {
+    "message": "like them, huh."
+  },
+  {
+    "message": "　　　　　　So,　what　are　you　gonna　do　today？"
+  },
+  {
+    "name": "Madam",
+    "message": "Do you want"
+  },
+  {
+    "message": "Mabel"
+  },
+  {
+    "message": "Sue"
+  },
+  {
+    "message": "again？"
+  },
+  {
+    "message": "Aside from giving off a slightly quirky vibe, the lush decor here could pass for a room in a mid-tier hotel in London."
+  },
+  {
+    "message": "I've never been to a brothel before, but I wonder if they're all like this everywhere."
+  },
+  {
+    "message": "It's got flashy decorations all over the place."
+  },
+  {
+    "message": "There's a heavy smell of perfume in the air, and it's almost enough to make me feel sick."
+  },
+  {
+    "message": "The place is decked out with some pretty stylish ornaments."
+  },
+  {
+    "message": "Maybe paying attention to details like this is a sign they take their business seriously."
+  },
+  {
+    "message": "It probably wasn't easy to set up a shop this big in Arkham; maybe the lady owner here is pretty savvy."
+  },
+  {
+    "message": "It seems like they're more proactive about investing in facilities compared to places like the Fish Scale Inn or the Gilman House."
+  },
+  {
+    "message": "That just means there's that much profit to be made."
+  },
+  {
+    "name": "Sue",
+    "message": "That was awesome, Jonathan."
+  },
+  {
+    "message": "　　　　　You'll come again, right?"
+  },
+  {
+    "name": "Sue",
+    "message": "I feel like I won't be able to forget you."
+  },
+  {
+    "name": "Madam",
+    "message": "You're picking Sue, right？"
+  },
+  {
+    "message": "　　　　　　This girl is quite something."
+  },
+  {
+    "name": "Madam",
+    "message": "She looks like a kid, but when it comes to that side of things, she's more grown-up than most adults, you know."
+  },
+  {
+    "name": "Sue",
+    "message": "Stop it, even though you went out of your way to choose me！"
+  },
+  {
+    "message": "　　　　　Guys like this are totally my type."
+  },
+  {
+    "name": "Madam",
+    "message": "Well, that's great for you."
+  },
+  {
+    "message": "　　　　　　You better do your best to serve them."
+  },
+  {
+    "name": "Sue",
+    "message": "Shall we go？"
+  },
+  {
+    "message": "　　　　　My room's over there."
+  },
+  {
+    "name": "Madam",
+    "message": "I gave Sue plenty of love last night, didn't I?　　　　　　Why don't you try enjoying a different girl for a change?"
+  },
+  {
+    "name": "Sue",
+    "message": "Aah, even though you went out of your way to pick me, don’t say stuff like that‥‥‥‥"
+  },
+  {
+    "name": "Madam",
+    "message": "You have a habit of getting too fired up when it's a guy you like."
+  },
+  {
+    "message": "　　　　　　The sun's still up, and this isn't our only customer."
+  },
+  {
+    "name": "Sue",
+    "message": "But..."
+  },
+  {
+    "name": "Madam",
+    "message": "Don't give me that."
+  },
+  {
+    "message": "　　　　　　If you want this person to do it for you that badly, then just ask her to come back again tonight."
+  },
+  {
+    "message": "She only looks a little older than Cordelia, but with her heavy makeup, she totally looks like a working girl."
+  },
+  {
+    "message": "With such a cute face, she doesn't look like the type of girl who'd be a prostitute, and honestly, she doesn't really fit in here in Arkham either, but the way she's sitting with her legs crossed, leaning back on the armrest and giving me that look with her eyes-it's a pose clearly drilled into her to attract men."
+  },
+  {
+    "message": "The curvy lines of her body show through her thin gown, which kinda clashes with her baby-faced look, but I bet some people would actually find that appealing."
+  },
+  {
+    "message": "She probably lets a bunch of men have her every night and gets called a lowly working girl by society, but there's no gloominess at all in her expression."
+  },
+  {
+    "message": "She seems completely different from the women in London who turn to prostitution out of desperation."
+  },
+  {
+    "name": "Madam",
+    "message": "You've been watching Sue for a while now, huh? You're interested?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Maybe, I do think she's cute..."
+  },
+  {
+    "name": "Madam",
+    "message": "Sue is from Norway, you know. Have you ever been with a Scandinavian woman？ Their skin is so beautiful, it rivals Oriental women."
+  },
+  {
+    "name": "Mabel",
+    "message": "Master......"
+  },
+  {
+    "name": "Mabel",
+    "message": "You'll come visit me again, right?"
+  },
+  {
+    "message": "　　　　　　　I can't go on without you anymore........"
+  },
+  {
+    "name": "Madam",
+    "message": "Mabel, Jonathan is calling you."
+  },
+  {
+    "name": "Mabel",
+    "message": "Yes, Madam............"
+  },
+  {
+    "name": "Madam",
+    "message": "Come on, hurry up and take them to the room！"
+  },
+  {
+    "message": "　　　　　　Make sure to have plenty of fun, okay?"
+  },
+  {
+    "name": "Madam",
+    "message": "Even though this girl looks so meek, when it comes to that stuff, she's actually super intense."
+  },
+  {
+    "name": "Madam",
+    "message": "Be careful not to get your important bits bitten off."
+  },
+  {
+    "name": "Mabel",
+    "message": "No way, that's not...‥‥‥‥‥"
+  },
+  {
+    "name": "Madam",
+    "message": "Isn't it the truth?"
+  },
+  {
+    "message": "　　　　　　Even the other day, you wouldn't let go while you were sucking on that young fisherman's thing, right？"
+  },
+  {
+    "name": "Mabel",
+    "message": "Please stop......"
+  },
+  {
+    "name": "Madam",
+    "message": "Well, fine, go ahead and enjoy yourself to the fullest."
+  },
+  {
+    "name": "Mabel",
+    "message": "Jonathan, over here."
+  },
+  {
+    "name": "Mabel",
+    "message": "Ah......"
+  },
+  {
+    "name": "Mabel",
+    "message": "I'm so happy, you chose me again, didn't you?　　　　　　　I'll do my very best to serve you."
+  },
+  {
+    "name": "Madam",
+    "message": "But Mabel, didn't I spoil you plenty last night too?"
+  },
+  {
+    "name": "Madam",
+    "message": "If you're going to do it, wouldn't it be nice to try tasting Sue too？"
+  },
+  {
+    "name": "Mabel",
+    "message": "No, why would you say something like that?"
+  },
+  {
+    "name": "Madam",
+    "message": "Looks like this girl’s seriously fallen for you."
+  },
+  {
+    "message": "　　　　　　If that's the case, why don't you take your time and spoil her tonight or something？"
+  },
+  {
+    "message": "She seems somewhat older than the girl next door, and in contrast to the lively, schoolgirl-like Sue, she gives off a calm and intelligent vibe."
+  },
+  {
+    "message": "Her black hair, as beautiful as Cordelia's, is trimmed evenly at the shoulders and just barely falls over her face, which is better described as well-formed and beautiful rather than cute."
+  },
+  {
+    "message": "Unlike Sue, who's openly flirty with men, she's a bit shy, and only her toes are peeking out from the modest gown she's wearing."
+  },
+  {
+    "message": "The eyes looking at me seem afraid that customers will be disappointed if they pick me, almost like they don't really want to be chosen themselves."
+  },
+  {
+    "message": "Since she's holed up in a place like this, she's probably got a dark past that's still casting a shadow over her now, but it'd be pretty tactless to ask about it."
+  },
+  {
+    "name": "Madam",
+    "message": "Seems like you’ve taken a liking to Mabel."
+  },
+  {
+    "name": "Jonathan",
+    "message": "She's a pretty quiet girl."
+  },
+  {
+    "name": "Madam",
+    "message": "I'm not that jaded for someone who grew up in London, right？"
+  },
+  {
+    "message": "　　　　　　But I'm not as well-behaved in bed as I look！"
+  },
+  {
+    "name": "Madam",
+    "message": "If you’re not careful, you’ll get sucked dry until you can’t stand up anymore.　　　　　　You better watch yourself."
+  },
+  {
+    "name": "Madam",
+    "message": "Now I totally get why my girls are so crazy about you."
+  },
+  {
+    "message": "　　　　　　You don’t think we’re hookers or anything, do you？"
+  },
+  {
+    "name": "Madam",
+    "message": "We’re total suckers for that kind of kindness…‥‥‥‥‥‥"
+  },
+  {
+    "name": "Madam",
+    "message": "I want to be with you without any business involved. How about we close the shop and all have fun together？"
+  },
+  {
+    "name": "Madam",
+    "message": "I think you'll definitely like it......"
+  },
+  {
+    "name": "Madam",
+    "message": "The person you're with is waiting, right？"
+  },
+  {
+    "message": "　　　　　　Maybe　you　should　go　to　them　sooner."
+  },
+  {
+    "name": "Madam",
+    "message": "Lost again？"
+  },
+  {
+    "message": "　　　　　　You"
+  },
+  {
+    "message": "Mabel"
+  },
+  {
+    "message": "Sue"
+  },
+  {
+    "message": "That's after you've tasted it, right？"
+  },
+  {
+    "name": "Madam",
+    "message": "Then there's no need to worry about it, right?"
+  },
+  {
+    "message": "　　　　　　If it were me, I'd try out the other daughter too."
+  },
+  {
+    "name": "Madam",
+    "message": "That's just like Thomas said."
+  },
+  {
+    "message": "　　　　　　Serious people like you tend to get sucked into this kind of fun pretty easily."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's not like I‥‥‥‥"
+  },
+  {
+    "name": "Madam",
+    "message": "There's no need to be embarrassed."
+  },
+  {
+    "message": "　　　　　　It's　something　every　guy　does,　you　know."
+  },
+  {
+    "name": "Madam",
+    "message": "Come on, pick the girl you like."
+  },
+  {
+    "message": "　　　　　　Indulging in debauchery in broad daylight, that's its own kind of thrill too, isn't it?"
+  },
+  {
+    "name": "Madam",
+    "message": "I won't blame you for something like that."
+  },
+  {
+    "message": "　　　　　　Life's short, so you gotta enjoy it while you can."
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

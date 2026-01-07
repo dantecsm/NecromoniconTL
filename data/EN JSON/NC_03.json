@@ -1,293 +1,293 @@
 [
-    {
-        "message": "It's the Ruins at the tip of the cape."
-    },
-    {
-        "message": "Marsh said in a hesitant tone that these ruins were something someone brought here."
-    },
-    {
-        "message": "It's tough for Gardner, but there's no doubt that these ruins aren't worth anything anymore."
-    },
-    {
-        "message": "It's the Ruins on the cape."
-    },
-    {
-        "message": "The ruins are silent, and not only is Old man Marsh nowhere to be seen, but you can’t even spot the shadow of any living creature moving around."
-    },
-    {
-        "message": "Where could Marsh have gone?"
-    },
-    {
-        "message": "Just where could an old man, who’s cut himself off from the world out of fear of something, possibly go...?"
-    },
-    {
-        "message": "We stood in front of the ruins once again."
-    },
-    {
-        "message": "Gardner seemed completely put off by Marsh the old man's vague way of talking, staring intently at the ruins as if deep in thought."
-    },
-    {
-        "message": "It seems he's completely overwhelmed by the shocking fact the old man mentioned, that someone brought these ruins here from some unknown place."
-    },
-    {
-        "message": "The wind blowing through the notoriously tough North Strait is as cold as ever, stinging my cheeks. If the weather were better, I could probably see the tail end of Northern Ireland and feel a bit like a tourist, but with the weather this bad, that's just not happening."
-    },
-    {
-        "message": "The ruins are quiet, and there isn't even a hint of any living creature moving around, let alone old man Marsh. I was kind of hoping I might be able to meet the old man if I came here, but..."
-    },
-    {
-        "message": "Looks like I was wrong about that."
-    },
-    {
-        "message": "There's carving on the pillars."
-    },
-    {
-        "message": "The style is somewhat reminiscent of that of the Mediterranean, but the material seems to be different from limestone, which is easy to work with."
-    },
-    {
-        "message": "It's a stone pillar, not sure from what era."
-    },
-    {
-        "message": "I have no idea what material it's made of, but the way the damp sea breeze leaves condensation on its surface makes it seem like this stone pillar is alive."
-    },
-    {
-        "message": "The sight brings to mind the skin of a newborn just delivered from someone's womb, still slick with amniotic fluid and blood."
-    },
-    {
-        "message": "Even so, I wonder why these Ruins have been left untouched and unnoticed by anyone until now."
-    },
-    {
-        "message": "It's not something to be compared with the Temples dedicated to the gods of the Mediterranean, but it's clearly the ruins of a Temple that looks like proof of someone's faith."
-    },
-    {
-        "message": "What kind of gods did the people who built these stone Temples believe in, I wonder."
-    },
-    {
-        "message": "The sky is still covered with heavy clouds as usual."
-    },
-    {
-        "message": "The islands that should be visible in the distance if only the weather were good aren’t showing themselves at all today."
-    },
-    {
-        "name": "Thomas",
-        "message": "You heard from that old man that this guy's a fake, right？"
-    },
-    {
-        "message": "　　　　　　There's no point in just hanging around a place like this, is there?"
-    },
-    {
-        "name": "Thomas",
-        "message": "もう帰ろうぜ。"
-    },
-    {
-        "name": "Thomas",
-        "message": "Why the hell do I have to run around all over the place looking for some old geezer."
-    },
-    {
-        "name": "Thomas",
-        "message": "Who gives a shit where that bastard kicks the bucket."
-    },
-    {
-        "message": "　　　　　　I just wanna go home already."
-    },
-    {
-        "name": "Thomas",
-        "message": "Looks like there’s nothing rare here anymore."
-    },
-    {
-        "message": "　　　　　　Let's hurry up and move on."
-    },
-    {
-        "name": "Thomas",
-        "message": "No matter how many times I look, I just can't get interested."
-    },
-    {
-        "message": "　　　　　　何て言うか‥‥‥すごく嘘っぽいんだよな。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "What do you mean？"
-    },
-    {
-        "name": "Thomas",
-        "message": "I can't help but feel like this is just someone's shitty prank or something."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You shouldn't say stuff like that in front of the Professor."
-    },
-    {
-        "message": "　　　　　　　　もしも私がその張本人だとしても、今となっては彼に　　　　　　　　真実を打ち明ける気はないだろうね。"
-    },
-    {
-        "name": "Thomas",
-        "message": "別に気にする事はねえよ。"
-    },
-    {
-        "message": "　　　　　　That old man isn't doing it out of charity either."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Even if that's true......"
-    },
-    {
-        "name": "Thomas",
-        "message": "You're too soft. Guys like that deserve to get taught a really harsh lesson at least once."
-    },
-    {
-        "name": "Thomas",
-        "message": "What a freaking joke."
-    },
-    {
-        "message": "　　　　　　I don't know who the hell went to all this trouble, but it's gotta be one hell of a nasty piece of work."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Don't you think there might be some deeper reason behind this？"
-    },
-    {
-        "message": "　　　　　　　　ただの冗談で、こんなにでかい石の塊を運んで来るな　　　　　　　　んて、私には考えられないね。"
-    },
-    {
-        "name": "Thomas",
-        "message": "You can never tell what rich guys are thinking."
-    },
-    {
-        "message": "　　　　　　Actually, Brits really love collecting junk like this."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's true, but......"
-    },
-    {
-        "name": "Thomas",
-        "message": "If it were possible, the pyramids and the Sphinx would definitely be sitting next to the British Museum by now."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Is that really all there is...?"
-    },
-    {
-        "name": "Gardner",
-        "message": "‥‥‥‥‥‥‥"
-    },
-    {
-        "name": "Gardner",
-        "message": "Looks like Old Man Marsh isn't here."
-    },
-    {
-        "message": "　　　　　　　　Where could they have gone......"
-    },
-    {
-        "name": "Gardner",
-        "message": "Anyway, let's go see Old man Marsh."
-    },
-    {
-        "name": "Gardner",
-        "message": "Looks like I'll need to stay in Arkham for a while longer.　　　　　　　　My investigation isn't over yet."
-    },
-    {
-        "name": "Gardner",
-        "message": "No matter how many times I see it, these ruins are mysterious."
-    },
-    {
-        "message": "　　　　　　　　I　can't　even　begin　to　imagine　why　something　like　this　would　be　in　a　place　like　this."
-    },
-    {
-        "name": "Jonathan",
-        "message": "If we ask that old man Marsh, won’t we be able to figure at least a little bit out？"
-    },
-    {
-        "name": "Gardner",
-        "message": "Yeah, that's right."
-    },
-    {
-        "message": "　　　　　　　　If I can get a solid impression from talking with that old man, then we could go ahead with a full-scale investigation."
-    },
-    {
-        "name": "Gardner",
-        "message": "Don't you start getting excited thinking about what kind of relics are sleeping under these ruins？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Are you planning to dig this place up？"
-    },
-    {
-        "message": "　　　　　　　　Isn't it kinda risky to send a big exploration team to Arkham...?"
-    },
-    {
-        "name": "Gardner",
-        "message": "What, there are tons of precedents like that."
-    },
-    {
-        "message": "　　　　　　　　When we try to excavate the Ruins, we tend to butt heads with the superstitious locals."
-    },
-    {
-        "name": "Gardner",
-        "message": "I can't believe this ruins was just a nasty prank...... What the hell have I been doing until now."
-    },
-    {
-        "name": "Jonathan",
-        "message": "そう悲観する事もないでしょう。"
-    },
-    {
-        "message": "　　　　　　　　Even if these Ruins were brought here from somewhere else, I don't think the uniqueness of these relics would be diminished in the slightest."
-    },
-    {
-        "name": "Gardner",
-        "message": "That's true, but......"
-    },
-    {
-        "message": "　　　　　　　　If that's the case, then I gotta track down where this thing got delivered to."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Hey, let's go already？"
-    },
-    {
-        "message": "　　　　　　　　This　place　just　has　such　a　really　bad　vibe."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It's terribly lonely here, you can't even hear the seagulls.　　　　　　It feels like we're the only living things around here."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, you might be right. This place is just way too lonely."
-    },
-    {
-        "message": "　　　　　　　　It's like even the animals can instinctively tell how ominous this place is　　　　　　　　and they're staying the hell away from it."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I also feel like there's a weird vibe coming from here. Honestly, walking alone in the graveyard seems better than this."
-    },
-    {
-        "name": "Jonathan",
-        "message": "一体この神殿にはどんな神が奉られていたんだろう。　　　　　　　　私たちはどうしてこうも恐怖を覚えるのか‥‥‥"
-    },
-    {
-        "message": "Fish Scale Inn"
-    },
-    {
-        "message": "　　　Plaza　　　"
-    },
-    {
-        "message": "General store"
-    },
-    {
-        "message": "Gilman House"
-    },
-    {
-        "message": "　Church　of　Dagon　"
-    },
-    {
-        "message": "Port"
-    },
-    {
-        "message": "Archives"
-    },
-    {
-        "message": "　　　Map　　　"
-    }
+  {
+    "message": "It's the Ruins at the tip of the cape."
+  },
+  {
+    "message": "Marsh said in a hesitant tone that these ruins were something someone brought here."
+  },
+  {
+    "message": "It's tough for Gardner, but there's no doubt that these ruins aren't worth anything anymore."
+  },
+  {
+    "message": "It's the Ruins on the cape."
+  },
+  {
+    "message": "The ruins are silent, and not only is Old man Marsh nowhere to be seen, but you can’t even spot the shadow of any living creature moving around."
+  },
+  {
+    "message": "Where could Marsh have gone?"
+  },
+  {
+    "message": "Just where could an old man, who’s cut himself off from the world out of fear of something, possibly go...?"
+  },
+  {
+    "message": "We stood in front of the ruins once again."
+  },
+  {
+    "message": "Gardner seemed completely put off by Marsh the old man's vague way of talking, staring intently at the ruins as if deep in thought."
+  },
+  {
+    "message": "It seems he's completely overwhelmed by the shocking fact the old man mentioned, that someone brought these ruins here from some unknown place."
+  },
+  {
+    "message": "The wind blowing through the notoriously tough North Strait is as cold as ever, stinging my cheeks. If the weather were better, I could probably see the tail end of Northern Ireland and feel a bit like a tourist, but with the weather this bad, that's just not happening."
+  },
+  {
+    "message": "The ruins are quiet, and there isn't even a hint of any living creature moving around, let alone old man Marsh. I was kind of hoping I might be able to meet the old man if I came here, but..."
+  },
+  {
+    "message": "Looks like I was wrong about that."
+  },
+  {
+    "message": "There's carving on the pillars."
+  },
+  {
+    "message": "The style is somewhat reminiscent of that of the Mediterranean, but the material seems to be different from limestone, which is easy to work with."
+  },
+  {
+    "message": "It's a stone pillar, not sure from what era."
+  },
+  {
+    "message": "I have no idea what material it's made of, but the way the damp sea breeze leaves condensation on its surface makes it seem like this stone pillar is alive."
+  },
+  {
+    "message": "The sight brings to mind the skin of a newborn just delivered from someone's womb, still slick with amniotic fluid and blood."
+  },
+  {
+    "message": "Even so, I wonder why these Ruins have been left untouched and unnoticed by anyone until now."
+  },
+  {
+    "message": "It's not something to be compared with the Temples dedicated to the gods of the Mediterranean, but it's clearly the ruins of a Temple that looks like proof of someone's faith."
+  },
+  {
+    "message": "What kind of gods did the people who built these stone Temples believe in, I wonder."
+  },
+  {
+    "message": "The sky is still covered with heavy clouds as usual."
+  },
+  {
+    "message": "The islands that should be visible in the distance if only the weather were good aren’t showing themselves at all today."
+  },
+  {
+    "name": "Thomas",
+    "message": "You heard from that old man that this guy's a fake, right？"
+  },
+  {
+    "message": "　　　　　　There's no point in just hanging around a place like this, is there?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Let’s just go home already."
+  },
+  {
+    "name": "Thomas",
+    "message": "Why the hell do I have to run around all over the place looking for some old geezer."
+  },
+  {
+    "name": "Thomas",
+    "message": "Who gives a shit where that bastard kicks the bucket."
+  },
+  {
+    "message": "　　　　　　I just wanna go home already."
+  },
+  {
+    "name": "Thomas",
+    "message": "Looks like there’s nothing rare here anymore."
+  },
+  {
+    "message": "　　　　　　Let's hurry up and move on."
+  },
+  {
+    "name": "Thomas",
+    "message": "No matter how many times I look, I just can't get interested."
+  },
+  {
+    "message": "　　　　　　I dunno how to put it... it just feels super fake, you know?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "What do you mean？"
+  },
+  {
+    "name": "Thomas",
+    "message": "I can't help but feel like this is just someone's shitty prank or something."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You shouldn't say stuff like that in front of the Professor."
+  },
+  {
+    "message": "　　　　　　　　Even if I was the one responsible, by now, I probably wouldn’t feel like telling him the truth anyway."
+  },
+  {
+    "name": "Thomas",
+    "message": "It's not really something you need to worry about."
+  },
+  {
+    "message": "　　　　　　That old man isn't doing it out of charity either."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Even if that's true......"
+  },
+  {
+    "name": "Thomas",
+    "message": "You're too soft. Guys like that deserve to get taught a really harsh lesson at least once."
+  },
+  {
+    "name": "Thomas",
+    "message": "What a freaking joke."
+  },
+  {
+    "message": "　　　　　　I don't know who the hell went to all this trouble, but it's gotta be one hell of a nasty piece of work."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Don't you think there might be some deeper reason behind this？"
+  },
+  {
+    "message": "　　　　　　　　Just as a joke, bringing in such a huge chunk of stone like this-I can’t even imagine doing that myself."
+  },
+  {
+    "name": "Thomas",
+    "message": "You can never tell what rich guys are thinking."
+  },
+  {
+    "message": "　　　　　　Actually, Brits really love collecting junk like this."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's true, but......"
+  },
+  {
+    "name": "Thomas",
+    "message": "If it were possible, the pyramids and the Sphinx would definitely be sitting next to the British Museum by now."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is that really all there is...?"
+  },
+  {
+    "name": "Gardner",
+    "message": "‥‥‥‥‥‥‥"
+  },
+  {
+    "name": "Gardner",
+    "message": "Looks like Old Man Marsh isn't here."
+  },
+  {
+    "message": "　　　　　　　　Where could they have gone......"
+  },
+  {
+    "name": "Gardner",
+    "message": "Anyway, let's go see Old man Marsh."
+  },
+  {
+    "name": "Gardner",
+    "message": "Looks like I'll need to stay in Arkham for a while longer.　　　　　　　　My investigation isn't over yet."
+  },
+  {
+    "name": "Gardner",
+    "message": "No matter how many times I see it, these ruins are mysterious."
+  },
+  {
+    "message": "　　　　　　　　I　can't　even　begin　to　imagine　why　something　like　this　would　be　in　a　place　like　this."
+  },
+  {
+    "name": "Jonathan",
+    "message": "If we ask that old man Marsh, won’t we be able to figure at least a little bit out？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Yeah, that's right."
+  },
+  {
+    "message": "　　　　　　　　If I can get a solid impression from talking with that old man, then we could go ahead with a full-scale investigation."
+  },
+  {
+    "name": "Gardner",
+    "message": "Don't you start getting excited thinking about what kind of relics are sleeping under these ruins？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Are you planning to dig this place up？"
+  },
+  {
+    "message": "　　　　　　　　Isn't it kinda risky to send a big exploration team to Arkham...?"
+  },
+  {
+    "name": "Gardner",
+    "message": "What, there are tons of precedents like that."
+  },
+  {
+    "message": "　　　　　　　　When we try to excavate the Ruins, we tend to butt heads with the superstitious locals."
+  },
+  {
+    "name": "Gardner",
+    "message": "I can't believe this ruins was just a nasty prank...... What the hell have I been doing until now."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It’s not something you need to be so pessimistic about."
+  },
+  {
+    "message": "　　　　　　　　Even if these Ruins were brought here from somewhere else, I don't think the uniqueness of these relics would be diminished in the slightest."
+  },
+  {
+    "name": "Gardner",
+    "message": "That's true, but......"
+  },
+  {
+    "message": "　　　　　　　　If that's the case, then I gotta track down where this thing got delivered to."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Hey, let's go already？"
+  },
+  {
+    "message": "　　　　　　　　This　place　just　has　such　a　really　bad　vibe."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It's terribly lonely here, you can't even hear the seagulls.　　　　　　It feels like we're the only living things around here."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, you might be right. This place is just way too lonely."
+  },
+  {
+    "message": "　　　　　　　　It's like even the animals can instinctively tell how ominous this place is　　　　　　　　and they're staying the hell away from it."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I also feel like there's a weird vibe coming from here. Honestly, walking alone in the graveyard seems better than this."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I wonder what kind of god was worshipped at this temple. Why do we feel so scared...?"
+  },
+  {
+    "message": "Fish Scale Inn"
+  },
+  {
+    "message": "　　　Plaza　　　"
+  },
+  {
+    "message": "General store"
+  },
+  {
+    "message": "Gilman House"
+  },
+  {
+    "message": "　Church　of　Dagon　"
+  },
+  {
+    "message": "Port"
+  },
+  {
+    "message": "Archives"
+  },
+  {
+    "message": "　　　Map　　　"
+  }
 ]

@@ -1,80 +1,80 @@
 [
-    {
-        "message": "The faint light of the gas lamp, which is miraculously still working, illuminates the surroundings. The brick-paved street doesn't reflect that light, and if you go just a little farther away, even that unreliable light doesn't reach."
-    },
-    {
-        "message": "You could just say it's the typical scene of a country town late at night, but there's not a soul in the square, and it looks like there aren't even any homeless people, which you normally find in big cities, in this poor fishing village."
-    },
-    {
-        "message": "遥か彼方の浜の波音が、母親の子宮に宿っていた頃の胎児記憶を呼び覚ますように、延々と単調なリズムで繰り返されている。"
-    },
-    {
-        "message": "A still-active Gas lamp is casting a soft light."
-    },
-    {
-        "message": "Normally, I’d think of it as a nostalgic mood that reminds me of London in its heyday, but as long as I’m here in Arkham, the faint light of the gas lamp just feels miserable."
-    },
-    {
-        "message": "It feels like something not human is baring its fangs and attacking me from the darkness. Maybe this weird, unreal feeling is because of how damp this place is."
-    },
-    {
-        "message": "After midnight, the cold wind from the sea seemed to have somewhat calmed down."
-    },
-    {
-        "message": "Instead, the humidity-saturated air has reached its limit, creating a thick fog. This area seems to be pretty damp in general, but if it's like this every night, I'm gonna start feeling sick."
-    },
-    {
-        "message": "Looking closer, even the bricks underfoot are faintly mossy, making it unbelievably hard to walk. Even if it’s practically an abandoned village, the fact that the plaza connected to what should be the busiest street is in this state makes you really wonder if anyone actually lives here."
-    },
-    {
-        "message": "I still have that itchy feeling on my back, like someone’s watching me. With some of the villagers who seem to think that guests like me at the Fish Scale Inn are a bunch of troublemakers trying to expose the village’s secrets, maybe it’s no wonder I’m starting to get paranoid like this."
-    },
-    {
-        "message": "It doesn't seem like a good idea to stay here too long, but even if I go back to the Fish Scale Inn, there's no way I can sleep comfortably while still feeling this uneasy. If I get into bed like this, I'll probably just toss and turn until morning without getting a wink of sleep."
-    },
-    {
-        "message": "Buildings that were built around the plaza, now practically abandoned and unused, are dimly looming in the twilight."
-    },
-    {
-        "message": "That hateful gaze I’ve been feeling on my back for a while now-am I really just imagining it?"
-    },
-    {
-        "message": "Or maybe, while I wasn’t looking, someone’s been watching me through a window somewhere in this abandoned house."
-    },
-    {
-        "message": "Wandering around the village so scared like this just seems terribly ridiculous and pointless. It's not like being inside the Fish Scale Inn is really safe either, but it's at least a little better than just standing out here like this."
-    },
-    {
-        "message": "忍び寄る濃霧と全てを包み込む闇のせいで、その姿はおぼろげにしか見る事が出来ない。あの頼りない宿が私にとってこの村での唯一の拠り所だと思うと、たまらなく不安な気持ちになってしまう。"
-    },
-    {
-        "message": "おかしな事だが、今まで何十年もの間ああしてあそこに建っていたはずなのに、明日まであそこに存在しているかどうか確信が持てない。"
-    },
-    {
-        "message": "Come to think of it, since the suspension bridge that connects the village to the outside world is so dangerous that nobody can cross it, that shop owner should be sleeping at the store tonight too."
-    },
-    {
-        "message": "It's not like I have any particular reason or anything..."
-    },
-    {
-        "message": "When it gets this lonely, I just want to see someone's face, doesn't matter who."
-    },
-    {
-        "message": "村で唯一の雑貨店も、この時間では堅く門を閉ざして明日の朝まで誰の進入をも許さない構えをしている。"
-    },
-    {
-        "message": "I wonder if that young shopkeeper sleeps in the store, or maybe after closing up, he lives outside the village. If it were me, no matter how much money I was offered, I wouldn't feel like settling down in this village for good."
-    },
-    {
-        "message": "Fish Scale Inn"
-    },
-    {
-        "message": "General store"
-    },
-    {
-        "message": "　　　Ruins　　　"
-    },
-    {
-        "message": "Gilman House"
-    }
+  {
+    "message": "The faint light of the gas lamp, which is miraculously still working, illuminates the surroundings. The brick-paved street doesn't reflect that light, and if you go just a little farther away, even that unreliable light doesn't reach."
+  },
+  {
+    "message": "You could just say it's the typical scene of a country town late at night, but there's not a soul in the square, and it looks like there aren't even any homeless people, which you normally find in big cities, in this poor fishing village."
+  },
+  {
+    "message": "The sound of waves from a distant shore keeps repeating in an endless, monotonous rhythm, as if awakening fetal memories from when I was in my mother's womb."
+  },
+  {
+    "message": "A still-active Gas lamp is casting a soft light."
+  },
+  {
+    "message": "Normally, I’d think of it as a nostalgic mood that reminds me of London in its heyday, but as long as I’m here in Arkham, the faint light of the gas lamp just feels miserable."
+  },
+  {
+    "message": "It feels like something not human is baring its fangs and attacking me from the darkness. Maybe this weird, unreal feeling is because of how damp this place is."
+  },
+  {
+    "message": "After midnight, the cold wind from the sea seemed to have somewhat calmed down."
+  },
+  {
+    "message": "Instead, the humidity-saturated air has reached its limit, creating a thick fog. This area seems to be pretty damp in general, but if it's like this every night, I'm gonna start feeling sick."
+  },
+  {
+    "message": "Looking closer, even the bricks underfoot are faintly mossy, making it unbelievably hard to walk. Even if it’s practically an abandoned village, the fact that the plaza connected to what should be the busiest street is in this state makes you really wonder if anyone actually lives here."
+  },
+  {
+    "message": "I still have that itchy feeling on my back, like someone’s watching me. With some of the villagers who seem to think that guests like me at the Fish Scale Inn are a bunch of troublemakers trying to expose the village’s secrets, maybe it’s no wonder I’m starting to get paranoid like this."
+  },
+  {
+    "message": "It doesn't seem like a good idea to stay here too long, but even if I go back to the Fish Scale Inn, there's no way I can sleep comfortably while still feeling this uneasy. If I get into bed like this, I'll probably just toss and turn until morning without getting a wink of sleep."
+  },
+  {
+    "message": "Buildings that were built around the plaza, now practically abandoned and unused, are dimly looming in the twilight."
+  },
+  {
+    "message": "That hateful gaze I’ve been feeling on my back for a while now-am I really just imagining it?"
+  },
+  {
+    "message": "Or maybe, while I wasn’t looking, someone’s been watching me through a window somewhere in this abandoned house."
+  },
+  {
+    "message": "Wandering around the village so scared like this just seems terribly ridiculous and pointless. It's not like being inside the Fish Scale Inn is really safe either, but it's at least a little better than just standing out here like this."
+  },
+  {
+    "message": "Because of the creeping thick fog and the all-encompassing darkness, I can only barely make out its shape. Thinking that unreliable inn is my only refuge in this village makes me unbearably anxious."
+  },
+  {
+    "message": "It's weird, but even though that place has been standing there like that for decades, I can't be sure it'll still be there tomorrow."
+  },
+  {
+    "message": "Come to think of it, since the suspension bridge that connects the village to the outside world is so dangerous that nobody can cross it, that shop owner should be sleeping at the store tonight too."
+  },
+  {
+    "message": "It's not like I have any particular reason or anything..."
+  },
+  {
+    "message": "When it gets this lonely, I just want to see someone's face, doesn't matter who."
+  },
+  {
+    "message": "Even the village's only general store has its gates firmly shut at this hour, making it clear that no one will be allowed in until tomorrow morning."
+  },
+  {
+    "message": "I wonder if that young shopkeeper sleeps in the store, or maybe after closing up, he lives outside the village. If it were me, no matter how much money I was offered, I wouldn't feel like settling down in this village for good."
+  },
+  {
+    "message": "Fish Scale Inn"
+  },
+  {
+    "message": "General store"
+  },
+  {
+    "message": "　　　Ruins　　　"
+  },
+  {
+    "message": "Gilman House"
+  }
 ]

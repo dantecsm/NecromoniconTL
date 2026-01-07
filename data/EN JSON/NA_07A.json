@@ -1,248 +1,248 @@
 [
-    {
-        "message": "There's nobody here."
-    },
-    {
-        "message": "There's no way Thomas would come back to a place like this with Cordelia in tow, huh."
-    },
-    {
-        "message": "I'm in front of the Fish Scale Inn."
-    },
-    {
-        "message": "There's no sign that Mrs. Hudson has come back."
-    },
-    {
-        "message": "No, in fact, I can't even see a single villager anywhere."
-    },
-    {
-        "message": "It's like all the villagers have gone somewhere, and we're the only ones left in the village."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Where are you going？"
-    },
-    {
-        "message": "Cordelia has a frightened look in her eyes."
-    },
-    {
-        "message": "It's only natural to wonder where Dagon's followers might be hiding."
-    },
-    {
-        "message": "If a whole crowd of believers suddenly showed up in front of us, could we really protect Cordelia with just the two of us?"
-    },
-    {
-        "message": "Even if that creepy monster from last night comes rushing at us again？"
-    },
-    {
-        "message": "I have to find the 'Necronomicon' as soon as possible."
-    },
-    {
-        "message": "If we can get those monsters on our side, we should be able to escape Arkham safely."
-    },
-    {
-        "message": "But even if we manage to get out of Arkham, will that really solve everything？"
-    },
-    {
-        "message": "It's true that Dagon's followers might not try to leave the village."
-    },
-    {
-        "message": "But what about that monster, though? Just looking at it, with its appearance somewhere between a fish and a human, it's clearly some kind of sea creature."
-    },
-    {
-        "message": "あれがダゴンの味方をしている限り、私たちに平安は訪れない。"
-    },
-    {
-        "message": "The sea is everywhere, and maybe as long as there's water, they can survive even if it's not the sea."
-    },
-    {
-        "message": "Can you really live your whole life afraid to go near the water？"
-    },
-    {
-        "message": "Even if we manage to leave this village safely, we'll probably never be able to go back to who we were before."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "‥‥‥‥‥‥"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Are you... okay？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It’s nothing."
-    },
-    {
-        "message": "　　　　　　　　We　should　get　going　soon,　we　have　to　hurry."
-    },
-    {
-        "message": "The Fish Scale Inn, having lost its one and probably last master, suddenly looks like it’s aged all at once, as if it could collapse at any moment."
-    },
-    {
-        "message": "There's probably no one left who would want to take over this shop, and now that Mrs. Hudson is gone, it doesn't seem like there's anyone left to mourn or miss it, so it's pretty much certain it'll just end up an abandoned building like the other shops around here."
-    },
-    {
-        "message": "The Fish Scale Inn, having lost its one and probably last master, suddenly looks like it's aged all at once, seeming like it could collapse at any moment."
-    },
-    {
-        "message": "There’s probably no one left who’d want to take over this shop, and now that Mrs. Hudson is gone, there’s not even anyone left to mourn its loss, so it’s pretty much guaranteed to end up an abandoned building like the other shops around here."
-    },
-    {
-        "message": "Even though there were hardly any customers, I wonder what the villagers plan to do now that they’ve lost the only inn in the whole village."
-    },
-    {
-        "message": "I might never come back to the Fish Scale Inn again."
-    },
-    {
-        "message": "I don't really care what happens to the stuff I just left lying around in the room, but even though it was only for a few days, it feels a little hard to leave the inn where I slept and woke up."
-    },
-    {
-        "message": "Where did Mrs. Hudson go?"
-    },
-    {
-        "message": "このままアーカムに残るぐらいなら、私たちと一緒にここを出た方が賢明なのは間違いないのに。"
-    },
-    {
-        "message": "Left empty and unlocked."
-    },
-    {
-        "message": "I doubt anyone's going to sneak in, but I still feel kind of bad for leaving it like this for Mrs. Hudson."
-    },
-    {
-        "message": "But it's not like I know where the key is, so there's really nothing I can do......"
-    },
-    {
-        "message": "Not knowing where the key is, we have no choice but to leave it as is. I doubt anyone will come back and notice it anyway, but I can't say I don't feel a bit of guilt."
-    },
-    {
-        "message": "The shops around the Fish Scale Inn were probably abandoned by their owners in the same way, eventually turning into deserted buildings."
-    },
-    {
-        "message": "The Fish Scale Inn, which the lady kept going with all her heart and soul, I just can't bear to see it end up like that......"
-    },
-    {
-        "message": "Looking around nervously, like she's scared."
-    },
-    {
-        "message": "どこにダゴンの信者が隠れているかもしれない、当然の事だ。"
-    },
-    {
-        "message": "If a horde of followers suddenly appeared before us, could we really protect Cordelia with just the two of us?"
-    },
-    {
-        "message": "昨晩の得体の知れない怪物が押し寄せて来ても？"
-    },
-    {
-        "message": "I have to find the Necronomicon as soon as possible."
-    },
-    {
-        "message": "昨晩もあまり眠れなかったようだ。"
-    },
-    {
-        "message": "You look pale, and you’ve got dark circles under your eyes."
-    },
-    {
-        "message": "I can't push her too hard."
-    },
-    {
-        "message": "Her natural stubbornness is the only thing keeping her going-she could collapse at any moment."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I wonder where the 'Necronomicon' is."
-    },
-    {
-        "message": "　　　　　　　　I hope we find it soon."
-    },
-    {
-        "name": "Cordelia",
-        "message": "If I do that, I can go to London too, right？　　　　　　　　I want to live in Jonathan's room as soon as possible."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan,　if　we　somehow　manage　to　escape　Arkham　safely......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's not 'if'-I'm definitely getting out of here."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So then, where am I supposed to go？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Of course that's obvious."
-    },
-    {
-        "message": "　　　　　　　　I'm gonna live in my apartment in London."
-    },
-    {
-        "name": "Cordelia",
-        "message": "London, what kind of place is it？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, that's right......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "There are just tons of people, and cars and horse-drawn carriages are always running around day and night‥‥‥"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Hmm‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "The factories are always belching out black smoke, and sometimes it's so filthy you can't even see the sky."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Doesn't sound like a very nice place."
-    },
-    {
-        "name": "Jonathan",
-        "message": "But it's lively and always bustling."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Even at night, it's so brightly lit that it's almost brighter than the daytime, and people from all over the world gather here."
-    },
-    {
-        "name": "Jonathan",
-        "message": "いい奴も悪い奴もね。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "So that means I don't have to feel lonely anymore, right？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I don't have time to feel lonely."
-    },
-    {
-        "message": "　　　　　　　　I'm so busy, my head's spinning."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Sounds nice...... I wanna go to London."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Just hang in there a little longer."
-    },
-    {
-        "message": "　　　　　　　　In another day or two, you'll also......"
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "message": "There's nobody here."
+  },
+  {
+    "message": "There's no way Thomas would come back to a place like this with Cordelia in tow, huh."
+  },
+  {
+    "message": "I'm in front of the Fish Scale Inn."
+  },
+  {
+    "message": "There's no sign that Mrs. Hudson has come back."
+  },
+  {
+    "message": "No, in fact, I can't even see a single villager anywhere."
+  },
+  {
+    "message": "It's like all the villagers have gone somewhere, and we're the only ones left in the village."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Where are you going？"
+  },
+  {
+    "message": "Cordelia has a frightened look in her eyes."
+  },
+  {
+    "message": "It's only natural to wonder where Dagon's followers might be hiding."
+  },
+  {
+    "message": "If a whole crowd of believers suddenly showed up in front of us, could we really protect Cordelia with just the two of us?"
+  },
+  {
+    "message": "Even if that creepy monster from last night comes rushing at us again？"
+  },
+  {
+    "message": "I have to find the 'Necronomicon' as soon as possible."
+  },
+  {
+    "message": "If we can get those monsters on our side, we should be able to escape Arkham safely."
+  },
+  {
+    "message": "But even if we manage to get out of Arkham, will that really solve everything？"
+  },
+  {
+    "message": "It's true that Dagon's followers might not try to leave the village."
+  },
+  {
+    "message": "But what about that monster, though? Just looking at it, with its appearance somewhere between a fish and a human, it's clearly some kind of sea creature."
+  },
+  {
+    "message": "As long as they're siding with Dagon, peace will never come to us."
+  },
+  {
+    "message": "The sea is everywhere, and maybe as long as there's water, they can survive even if it's not the sea."
+  },
+  {
+    "message": "Can you really live your whole life afraid to go near the water？"
+  },
+  {
+    "message": "Even if we manage to leave this village safely, we'll probably never be able to go back to who we were before."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "‥‥‥‥‥‥"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Are you... okay？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It’s nothing."
+  },
+  {
+    "message": "　　　　　　　　We　should　get　going　soon,　we　have　to　hurry."
+  },
+  {
+    "message": "The Fish Scale Inn, having lost its one and probably last master, suddenly looks like it’s aged all at once, as if it could collapse at any moment."
+  },
+  {
+    "message": "There's probably no one left who would want to take over this shop, and now that Mrs. Hudson is gone, it doesn't seem like there's anyone left to mourn or miss it, so it's pretty much certain it'll just end up an abandoned building like the other shops around here."
+  },
+  {
+    "message": "The Fish Scale Inn, having lost its one and probably last master, suddenly looks like it's aged all at once, seeming like it could collapse at any moment."
+  },
+  {
+    "message": "There’s probably no one left who’d want to take over this shop, and now that Mrs. Hudson is gone, there’s not even anyone left to mourn its loss, so it’s pretty much guaranteed to end up an abandoned building like the other shops around here."
+  },
+  {
+    "message": "Even though there were hardly any customers, I wonder what the villagers plan to do now that they’ve lost the only inn in the whole village."
+  },
+  {
+    "message": "I might never come back to the Fish Scale Inn again."
+  },
+  {
+    "message": "I don't really care what happens to the stuff I just left lying around in the room, but even though it was only for a few days, it feels a little hard to leave the inn where I slept and woke up."
+  },
+  {
+    "message": "Where did Mrs. Hudson go?"
+  },
+  {
+    "message": "If you're just going to stay here in Arkham, it's definitely smarter to leave with us."
+  },
+  {
+    "message": "Left empty and unlocked."
+  },
+  {
+    "message": "I doubt anyone's going to sneak in, but I still feel kind of bad for leaving it like this for Mrs. Hudson."
+  },
+  {
+    "message": "But it's not like I know where the key is, so there's really nothing I can do......"
+  },
+  {
+    "message": "Not knowing where the key is, we have no choice but to leave it as is. I doubt anyone will come back and notice it anyway, but I can't say I don't feel a bit of guilt."
+  },
+  {
+    "message": "The shops around the Fish Scale Inn were probably abandoned by their owners in the same way, eventually turning into deserted buildings."
+  },
+  {
+    "message": "The Fish Scale Inn, which the lady kept going with all her heart and soul, I just can't bear to see it end up like that......"
+  },
+  {
+    "message": "Looking around nervously, like she's scared."
+  },
+  {
+    "message": "Who knows where Dagon’s followers might be hiding, so of course we have to be careful."
+  },
+  {
+    "message": "If a horde of followers suddenly appeared before us, could we really protect Cordelia with just the two of us?"
+  },
+  {
+    "message": "Even if that weird monster from last night comes rushing in？"
+  },
+  {
+    "message": "I have to find the Necronomicon as soon as possible."
+  },
+  {
+    "message": "Looks like you couldn't sleep much last night either."
+  },
+  {
+    "message": "You look pale, and you’ve got dark circles under your eyes."
+  },
+  {
+    "message": "I can't push her too hard."
+  },
+  {
+    "message": "Her natural stubbornness is the only thing keeping her going-she could collapse at any moment."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I wonder where the 'Necronomicon' is."
+  },
+  {
+    "message": "　　　　　　　　I hope we find it soon."
+  },
+  {
+    "name": "Cordelia",
+    "message": "If I do that, I can go to London too, right？　　　　　　　　I want to live in Jonathan's room as soon as possible."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan,　if　we　somehow　manage　to　escape　Arkham　safely......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's not 'if'-I'm definitely getting out of here."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So then, where am I supposed to go？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Of course that's obvious."
+  },
+  {
+    "message": "　　　　　　　　I'm gonna live in my apartment in London."
+  },
+  {
+    "name": "Cordelia",
+    "message": "London, what kind of place is it？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, that's right......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "There are just tons of people, and cars and horse-drawn carriages are always running around day and night‥‥‥"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Hmm‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "The factories are always belching out black smoke, and sometimes it's so filthy you can't even see the sky."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Doesn't sound like a very nice place."
+  },
+  {
+    "name": "Jonathan",
+    "message": "But it's lively and always bustling."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Even at night, it's so brightly lit that it's almost brighter than the daytime, and people from all over the world gather here."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, whether they're good guys or bad guys."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So that means I don't have to feel lonely anymore, right？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I don't have time to feel lonely."
+  },
+  {
+    "message": "　　　　　　　　I'm so busy, my head's spinning."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Sounds nice...... I wanna go to London."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Just hang in there a little longer."
+  },
+  {
+    "message": "　　　　　　　　In another day or two, you'll also......"
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

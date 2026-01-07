@@ -1,243 +1,243 @@
 [
-    {
-        "message": "Cordelia is nowhere to be seen around here."
-    },
-    {
-        "message": "No way... did she go inside the mansion...?"
-    },
-    {
-        "message": "At night, Dunwich Mansion gives off an eerie atmosphere, like a haunted house straight out of a legend."
-    },
-    {
-        "message": "It feels like the door could swing open at any moment and a hunchbacked man serving his immortal master could come out."
-    },
-    {
-        "message": "I'm standing in front of Dunwich Mansion."
-    },
-    {
-        "message": "There's no sign of people either around the building or inside the mansion."
-    },
-    {
-        "message": "This is Dunwich Mansion, where a gruesome murder happened 60 years ago."
-    },
-    {
-        "message": "Naturally, no one wants to come close to this mansion, so it's in ruins, practically abandoned."
-    },
-    {
-        "message": "The shrubs that were probably planted in the front yard of the mansion have grown abnormally, and now they've covered up almost half of the place. I bet they used to be carefully maintained, but now, nobody's going to bother."
-    },
-    {
-        "message": "Maybe it's because of the memory of that incident, but it really is like a haunted house."
-    },
-    {
-        "message": "Maybe the only reason it hasn't collapsed is that the Dunwich family, one of the most prominent in the village, poured a ton of money into it."
-    },
-    {
-        "message": "I kind of feel like it would be a shame to just let this place rot away, but since it's the Mansion where that gruesome incident happened, I doubt there’s anyone crazy enough to want to rent a room here or even buy the place."
-    },
-    {
-        "message": "It's an old gas lamp."
-    },
-    {
-        "message": "Because the chance of a serious accident is really high, they've completely disappeared from the city of London, but apparently in Arkham they're still in use."
-    },
-    {
-        "message": "It's an old gas lamp."
-    },
-    {
-        "message": "Looks like it hasn't been cleaned in ages, the glass is all dirty with soot."
-    },
-    {
-        "message": "It's not clear whether it was something personally owned by the Dunwich family, or one of Arkham's few public facilities."
-    },
-    {
-        "message": "If the inside's been neglected just as much as the outside, there's no telling when it's gonna blow up. Maybe it's better not to get too close."
-    },
-    {
-        "message": "It doesn't seem like anyone's been coming and going from the mansion for quite a while, but I wonder if the door's unlocked."
-    },
-    {
-        "message": "For what's supposed to be the richest house in the village, it's not really all that fancy."
-    },
-    {
-        "message": "The thoroughly ordinary door has completely lost its shine and looks like it's starting to rot from the edges."
-    },
-    {
-        "message": "It looks like nobody's been in and out of the mansion for quite a while, but I wonder if the door is unlocked."
-    },
-    {
-        "message": "The spaces between the windows seem to be wider than in the other rooms."
-    },
-    {
-        "message": "It must've been a room like a study or a living room, used for some special purpose."
-    },
-    {
-        "message": "I can't see what's going on inside from here."
-    },
-    {
-        "message": "It's about half-hidden by the trees, but judging from the spacing of the windows, it seems to be bigger than the other rooms."
-    },
-    {
-        "message": "Considering that it's located on the first floor, it must have been used as a living room, study, or maybe even a dining room."
-    },
-    {
-        "message": "I wonder what it's like inside."
-    },
-    {
-        "message": "If I carelessly look away, it feels like someone is peeking at me."
-    },
-    {
-        "message": "Because of the fear, I can't look away instead."
-    },
-    {
-        "message": "The shutters are left open, but because it's dark inside the mansion, I can't see what's going on inside."
-    },
-    {
-        "message": "Does this mansion look like empty eye sockets in a ruined house because of its past?"
-    },
-    {
-        "message": "It's an attic room that doesn't look very comfortable to live in."
-    },
-    {
-        "message": "It was probably being used as a storage room or something."
-    },
-    {
-        "message": "Is this an attic room? It's got a fancy structure, but it doesn't look all that comfortable to live in."
-    },
-    {
-        "message": "It's pretty common in places like hotels, but you can't really say it's suited for a regular house. Maybe it was used as a storage room or a guest room or something？"
-    },
-    {
-        "message": "The thick, overgrown trees seem to stubbornly refuse any outsiders from entering the Dunwitch Mansion."
-    },
-    {
-        "message": "屋敷の前庭に植えられていた潅木が、いつの間にか成長してしまった物らしい。今では屋敷の半分ほどを覆い隠すまでになっている。"
-    },
-    {
-        "message": "奇妙にねじくれた枝が、ダニッジ邸の妖しい雰囲気をさらに増長させているようだ。"
-    },
-    {
-        "message": "With this, even if someone had business at the mansion, wouldn't they get cold feet just by looking at the outside?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "This house feels kinda creepy."
-    },
-    {
-        "name": "Cordelia",
-        "message": "This house gives me the creeps."
-    },
-    {
-        "message": "　　　　　　　　So this is the house in Dunwich where that incident happened？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Looks like it."
-    },
-    {
-        "message": "　　　　　　　　Yeah, knowing what happened in this house doesn't exactly make me feel great."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I doubt even a thief would want to break into a house like this."
-    },
-    {
-        "message": "　　　　　　　　It's　nice　that　you　don't　have　to　lock　it."
-    },
-    {
-        "name": "Jonathan",
-        "message": "しかし、これほど大きな屋敷だからな、中には高価な　　　　　　　　品で一杯なんじゃないかな。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "この家にあった物だと解ったら、誰もそんな物引き取　　　　　　　　ろうとはしないでしょうに。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "You just don't have to tell them."
-    },
-    {
-        "name": "Thomas",
-        "message": "Let's hurry up and go."
-    },
-    {
-        "message": "　　　　　　Aren't　you　excited　to　see　what's　inside?"
-    },
-    {
-        "name": "Thomas",
-        "message": "This house is just my type."
-    },
-    {
-        "message": "　　　　　　It's nice that nobody comes near here thanks to the incident."
-    },
-    {
-        "name": "Jonathan",
-        "message": "If you know what happened in this house and still want to do something anyway, I'm not gonna stop you."
-    },
-    {
-        "name": "Thomas",
-        "message": "Huh？"
-    },
-    {
-        "message": "　　　　　　Are you saying the murdered people come back to haunt the place?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Didn't know you were that superstitious, man."
-    },
-    {
-        "message": "　　　　　　You won't make any money thinking like that, y'know."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Not like I want to, anyway."
-    },
-    {
-        "message": "　　　　　　　　If you don't keep it in check, you'll end up being targeted by the living too, not just ghosts."
-    },
-    {
-        "name": "Gardner",
-        "message": "Anyway, standing around here gets us nowhere."
-    },
-    {
-        "message": "　　　　　　　　Let's go inside Dunwitch Mansion."
-    },
-    {
-        "name": "Gardner",
-        "message": "So this is Dunwitch Mansion."
-    },
-    {
-        "message": "　　　　　　　　Sure does feel like something could happen here, doesn't it?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "You're being pretty timid, huh?"
-    },
-    {
-        "message": "　　　　　　　　Probably just 'cause we know about the incident, that's why we feel that way."
-    },
-    {
-        "name": "Gardner",
-        "message": "Nah, not really."
-    },
-    {
-        "message": "　　　　　　　　A house can have a decent impact on the people living in it, you know."
-    },
-    {
-        "name": "Gardner",
-        "message": "Maybe it's because of this house that Dollie suddenly lost her mind."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's ridiculous."
-    },
-    {
-        "message": "　　　　　　　　For one thing, there's no proof anywhere that she was actually mentally unstable."
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "message": "Cordelia is nowhere to be seen around here."
+  },
+  {
+    "message": "No way... did she go inside the mansion...?"
+  },
+  {
+    "message": "At night, Dunwich Mansion gives off an eerie atmosphere, like a haunted house straight out of a legend."
+  },
+  {
+    "message": "It feels like the door could swing open at any moment and a hunchbacked man serving his immortal master could come out."
+  },
+  {
+    "message": "I'm standing in front of Dunwich Mansion."
+  },
+  {
+    "message": "There's no sign of people either around the building or inside the mansion."
+  },
+  {
+    "message": "This is Dunwich Mansion, where a gruesome murder happened 60 years ago."
+  },
+  {
+    "message": "Naturally, no one wants to come close to this mansion, so it's in ruins, practically abandoned."
+  },
+  {
+    "message": "The shrubs that were probably planted in the front yard of the mansion have grown abnormally, and now they've covered up almost half of the place. I bet they used to be carefully maintained, but now, nobody's going to bother."
+  },
+  {
+    "message": "Maybe it's because of the memory of that incident, but it really is like a haunted house."
+  },
+  {
+    "message": "Maybe the only reason it hasn't collapsed is that the Dunwich family, one of the most prominent in the village, poured a ton of money into it."
+  },
+  {
+    "message": "I kind of feel like it would be a shame to just let this place rot away, but since it's the Mansion where that gruesome incident happened, I doubt there’s anyone crazy enough to want to rent a room here or even buy the place."
+  },
+  {
+    "message": "It's an old gas lamp."
+  },
+  {
+    "message": "Because the chance of a serious accident is really high, they've completely disappeared from the city of London, but apparently in Arkham they're still in use."
+  },
+  {
+    "message": "It's an old gas lamp."
+  },
+  {
+    "message": "Looks like it hasn't been cleaned in ages, the glass is all dirty with soot."
+  },
+  {
+    "message": "It's not clear whether it was something personally owned by the Dunwich family, or one of Arkham's few public facilities."
+  },
+  {
+    "message": "If the inside's been neglected just as much as the outside, there's no telling when it's gonna blow up. Maybe it's better not to get too close."
+  },
+  {
+    "message": "It doesn't seem like anyone's been coming and going from the mansion for quite a while, but I wonder if the door's unlocked."
+  },
+  {
+    "message": "For what's supposed to be the richest house in the village, it's not really all that fancy."
+  },
+  {
+    "message": "The thoroughly ordinary door has completely lost its shine and looks like it's starting to rot from the edges."
+  },
+  {
+    "message": "It looks like nobody's been in and out of the mansion for quite a while, but I wonder if the door is unlocked."
+  },
+  {
+    "message": "The spaces between the windows seem to be wider than in the other rooms."
+  },
+  {
+    "message": "It must've been a room like a study or a living room, used for some special purpose."
+  },
+  {
+    "message": "I can't see what's going on inside from here."
+  },
+  {
+    "message": "It's about half-hidden by the trees, but judging from the spacing of the windows, it seems to be bigger than the other rooms."
+  },
+  {
+    "message": "Considering that it's located on the first floor, it must have been used as a living room, study, or maybe even a dining room."
+  },
+  {
+    "message": "I wonder what it's like inside."
+  },
+  {
+    "message": "If I carelessly look away, it feels like someone is peeking at me."
+  },
+  {
+    "message": "Because of the fear, I can't look away instead."
+  },
+  {
+    "message": "The shutters are left open, but because it's dark inside the mansion, I can't see what's going on inside."
+  },
+  {
+    "message": "Does this mansion look like empty eye sockets in a ruined house because of its past?"
+  },
+  {
+    "message": "It's an attic room that doesn't look very comfortable to live in."
+  },
+  {
+    "message": "It was probably being used as a storage room or something."
+  },
+  {
+    "message": "Is this an attic room? It's got a fancy structure, but it doesn't look all that comfortable to live in."
+  },
+  {
+    "message": "It's pretty common in places like hotels, but you can't really say it's suited for a regular house. Maybe it was used as a storage room or a guest room or something？"
+  },
+  {
+    "message": "The thick, overgrown trees seem to stubbornly refuse any outsiders from entering the Dunwitch Mansion."
+  },
+  {
+    "message": "The shrubs that had been planted in the front garden of the Mansion must have grown before anyone noticed. Now, they've gotten big enough to cover about half of the Mansion."
+  },
+  {
+    "message": "Strangely twisted branches seem to further enhance the eerie atmosphere of Dunwitch Mansion."
+  },
+  {
+    "message": "With this, even if someone had business at the mansion, wouldn't they get cold feet just by looking at the outside?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "This house feels kinda creepy."
+  },
+  {
+    "name": "Cordelia",
+    "message": "This house gives me the creeps."
+  },
+  {
+    "message": "　　　　　　　　So this is the house in Dunwich where that incident happened？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Looks like it."
+  },
+  {
+    "message": "　　　　　　　　Yeah, knowing what happened in this house doesn't exactly make me feel great."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I doubt even a thief would want to break into a house like this."
+  },
+  {
+    "message": "　　　　　　　　It's　nice　that　you　don't　have　to　lock　it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "But, since it's such a huge mansion, I bet the inside is packed with expensive stuff."
+  },
+  {
+    "name": "Cordelia",
+    "message": "If people find out that stuff belonged to this house, nobody's gonna want to take it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You just don't have to tell them."
+  },
+  {
+    "name": "Thomas",
+    "message": "Let's hurry up and go."
+  },
+  {
+    "message": "　　　　　　Aren't　you　excited　to　see　what's　inside?"
+  },
+  {
+    "name": "Thomas",
+    "message": "This house is just my type."
+  },
+  {
+    "message": "　　　　　　It's nice that nobody comes near here thanks to the incident."
+  },
+  {
+    "name": "Jonathan",
+    "message": "If you know what happened in this house and still want to do something anyway, I'm not gonna stop you."
+  },
+  {
+    "name": "Thomas",
+    "message": "Huh？"
+  },
+  {
+    "message": "　　　　　　Are you saying the murdered people come back to haunt the place?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Didn't know you were that superstitious, man."
+  },
+  {
+    "message": "　　　　　　You won't make any money thinking like that, y'know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Not like I want to, anyway."
+  },
+  {
+    "message": "　　　　　　　　If you don't keep it in check, you'll end up being targeted by the living too, not just ghosts."
+  },
+  {
+    "name": "Gardner",
+    "message": "Anyway, standing around here gets us nowhere."
+  },
+  {
+    "message": "　　　　　　　　Let's go inside Dunwitch Mansion."
+  },
+  {
+    "name": "Gardner",
+    "message": "So this is Dunwitch Mansion."
+  },
+  {
+    "message": "　　　　　　　　Sure does feel like something could happen here, doesn't it?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "You're being pretty timid, huh?"
+  },
+  {
+    "message": "　　　　　　　　Probably just 'cause we know about the incident, that's why we feel that way."
+  },
+  {
+    "name": "Gardner",
+    "message": "Nah, not really."
+  },
+  {
+    "message": "　　　　　　　　A house can have a decent impact on the people living in it, you know."
+  },
+  {
+    "name": "Gardner",
+    "message": "Maybe it's because of this house that Dollie suddenly lost her mind."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's ridiculous."
+  },
+  {
+    "message": "　　　　　　　　For one thing, there's no proof anywhere that she was actually mentally unstable."
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

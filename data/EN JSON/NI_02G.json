@@ -1,149 +1,149 @@
 [
-    {
-        "message": "It's a room at the end of the hallway, like a warehouse."
-    },
-    {
-        "message": "Inside, everything is blackened and stained with soot."
-    },
-    {
-        "message": "It looks like this place has been hit by the fire even worse than anywhere else."
-    },
-    {
-        "message": "It's weird that the room furthest from the entrance stairs is the most badly burned, but......"
-    },
-    {
-        "message": "It's the room at the end of the hallway."
-    },
-    {
-        "message": "The entire room is charred black, and all sorts of debris are scattered across the floor."
-    },
-    {
-        "message": "圧倒的な残骸の量を考えると、この部屋は倉庫のような使われ方をしていたに違いない。"
-    },
-    {
-        "message": "他の場所より一層ひどく火災の影響を受けているようだ。"
-    },
-    {
-        "message": "It's weird that the room farthest from the entrance stairs is the most badly burned though......"
-    },
-    {
-        "message": "Even compared to other places closer to the entrance, there's no doubt this room took the worst hit from the fire."
-    },
-    {
-        "message": "Cracks run all over the place, and a lot of the plaster has fallen off."
-    },
-    {
-        "message": "With things like this, the mortar inside must have taken a lot of damage too."
-    },
-    {
-        "message": "I wonder which part of the Monastery is above this ceiling."
-    },
-    {
-        "message": "Even if there were no ruins left on the ground, just having the floor stones fall would wipe you out in an instant."
-    },
-    {
-        "message": "Looking at how wrecked this room is, you’d never want to stay here for long."
-    },
-    {
-        "message": "There's no sign that anyone's been in the room."
-    },
-    {
-        "message": "もっとも、一目見ただけで、室内にまともな物が残っている訳がないと判断できるから当然かもしれない。"
-    },
-    {
-        "message": "The whole surface is burnt black, and you can't see any of the original white plaster at all."
-    },
-    {
-        "message": "Judging by the amount of stuff scattered around, it’s pretty clear this room was being used like a storage space."
-    },
-    {
-        "message": "If someone had snuck into this room, there’d definitely be traces left behind."
-    },
-    {
-        "message": "But since there’s no sign of that, it looks like no one’s entered the room since the fire."
-    },
-    {
-        "message": "It’s a bag woven from hemp."
-    },
-    {
-        "message": "What’s inside is probably either flour or corn."
-    },
-    {
-        "message": "Looks like a bag woven from hemp."
-    },
-    {
-        "message": "I don't know what's inside, but it's probably flour or corn."
-    },
-    {
-        "message": "The things that were on top have been completely burned away, but this sack seems to have fared relatively better."
-    },
-    {
-        "message": "But no matter what's inside, I don't think it's edible now."
-    },
-    {
-        "message": "Doesn't look like there's any need to go out of my way and open it up to take a look inside."
-    },
-    {
-        "message": "割れた陶磁器の破片だ。"
-    },
-    {
-        "message": "It was probably sitting on a wooden shelf, but it looks like the shelf burned away and it fell to the floor."
-    },
-    {
-        "message": "割れた陶磁器の壷のような物の破片のようだ。"
-    },
-    {
-        "message": "ここが倉庫だったとすると、中身は葡萄酒かエールあたりか。"
-    },
-    {
-        "message": "Since there don't seem to be many wide plains in Arkham, I can't imagine that farming was ever very active."
-    },
-    {
-        "message": "It sounds like old temples and monasteries used to grow crops and keep sheep on their own land, but it's hard to imagine this monastery being able to be self-sufficient."
-    },
-    {
-        "message": "どうしてこんな貧しい土地に修道院を建てたのか理解に苦しむ。"
-    },
-    {
-        "message": "まだ英国国教会が力を持っていた頃の暴挙だったのだろう。"
-    },
-    {
-        "message": "It looks like someone tried to deliberately burn up everything that was in this room."
-    },
-    {
-        "message": "The plaster has peeled off, exposing the mortar wall underneath."
-    },
-    {
-        "message": "それだけで火災のすごさを物語っているが、地上に続く階段から最も遠いこの部屋が、これほどの被害を被ったのはどうしても理解に苦しむ。"
-    },
-    {
-        "message": "まるで、誰かが作為的にこの部屋の中にあった物を全て燃やし尽くそうとしたように見える。"
-    },
-    {
-        "message": "No matter what kind of things were in this room, all of them have turned to ash."
-    },
-    {
-        "message": "It's impossible for me to confirm that."
-    },
-    {
-        "message": "If you check out the other rooms, you might be able to figure out at least a hint."
-    },
-    {
-        "message": "It looks like someone deliberately tried to burn everything in this room to ashes."
-    },
-    {
-        "message": "The surface of the wall has peeled off greatly, exposing the inside."
-    },
-    {
-        "message": "Judging by the structure of the basement, the other side of this should be inside the dirt."
-    },
-    {
-        "message": "I can't believe there's something on the other side of the wall."
-    },
-    {
-        "message": "どのみち部屋の中がこんな有様では往時の修道院の姿を知る事はほとんど不可能だろう。"
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "message": "It's a room at the end of the hallway, like a warehouse."
+  },
+  {
+    "message": "Inside, everything is blackened and stained with soot."
+  },
+  {
+    "message": "It looks like this place has been hit by the fire even worse than anywhere else."
+  },
+  {
+    "message": "It's weird that the room furthest from the entrance stairs is the most badly burned, but......"
+  },
+  {
+    "message": "It's the room at the end of the hallway."
+  },
+  {
+    "message": "The entire room is charred black, and all sorts of debris are scattered across the floor."
+  },
+  {
+    "message": "Given the overwhelming amount of wreckage, this room must have been used like a warehouse."
+  },
+  {
+    "message": "It seems to have been affected by the fire even worse than other places."
+  },
+  {
+    "message": "It's weird that the room farthest from the entrance stairs is the most badly burned though......"
+  },
+  {
+    "message": "Even compared to other places closer to the entrance, there's no doubt this room took the worst hit from the fire."
+  },
+  {
+    "message": "Cracks run all over the place, and a lot of the plaster has fallen off."
+  },
+  {
+    "message": "With things like this, the mortar inside must have taken a lot of damage too."
+  },
+  {
+    "message": "I wonder which part of the Monastery is above this ceiling."
+  },
+  {
+    "message": "Even if there were no ruins left on the ground, just having the floor stones fall would wipe you out in an instant."
+  },
+  {
+    "message": "Looking at how wrecked this room is, you’d never want to stay here for long."
+  },
+  {
+    "message": "There's no sign that anyone's been in the room."
+  },
+  {
+    "message": "Well, just by looking at it, you can instantly tell there’s no way anything decent would be left inside, so maybe that’s only natural."
+  },
+  {
+    "message": "The whole surface is burnt black, and you can't see any of the original white plaster at all."
+  },
+  {
+    "message": "Judging by the amount of stuff scattered around, it’s pretty clear this room was being used like a storage space."
+  },
+  {
+    "message": "If someone had snuck into this room, there’d definitely be traces left behind."
+  },
+  {
+    "message": "But since there’s no sign of that, it looks like no one’s entered the room since the fire."
+  },
+  {
+    "message": "It’s a bag woven from hemp."
+  },
+  {
+    "message": "What’s inside is probably either flour or corn."
+  },
+  {
+    "message": "Looks like a bag woven from hemp."
+  },
+  {
+    "message": "I don't know what's inside, but it's probably flour or corn."
+  },
+  {
+    "message": "The things that were on top have been completely burned away, but this sack seems to have fared relatively better."
+  },
+  {
+    "message": "But no matter what's inside, I don't think it's edible now."
+  },
+  {
+    "message": "Doesn't look like there's any need to go out of my way and open it up to take a look inside."
+  },
+  {
+    "message": "Fragments of broken ceramics."
+  },
+  {
+    "message": "It was probably sitting on a wooden shelf, but it looks like the shelf burned away and it fell to the floor."
+  },
+  {
+    "message": "Looks like pieces from something like a broken ceramics jar."
+  },
+  {
+    "message": "If this was a warehouse, then the contents were probably wine or ale or something like that."
+  },
+  {
+    "message": "Since there don't seem to be many wide plains in Arkham, I can't imagine that farming was ever very active."
+  },
+  {
+    "message": "It sounds like old temples and monasteries used to grow crops and keep sheep on their own land, but it's hard to imagine this monastery being able to be self-sufficient."
+  },
+  {
+    "message": "I just can’t understand why they would build a monastery in such a poor land."
+  },
+  {
+    "message": "It was probably one of the Church of England’s reckless acts back when they still had power."
+  },
+  {
+    "message": "It looks like someone tried to deliberately burn up everything that was in this room."
+  },
+  {
+    "message": "The plaster has peeled off, exposing the mortar wall underneath."
+  },
+  {
+    "message": "Just that alone shows how intense the fire was, but I really can’t understand why this room, the farthest from the staircase leading above ground, suffered this much damage."
+  },
+  {
+    "message": "It’s like someone intentionally tried to burn up everything inside this room."
+  },
+  {
+    "message": "No matter what kind of things were in this room, all of them have turned to ash."
+  },
+  {
+    "message": "It's impossible for me to confirm that."
+  },
+  {
+    "message": "If you check out the other rooms, you might be able to figure out at least a hint."
+  },
+  {
+    "message": "It looks like someone deliberately tried to burn everything in this room to ashes."
+  },
+  {
+    "message": "The surface of the wall has peeled off greatly, exposing the inside."
+  },
+  {
+    "message": "Judging by the structure of the basement, the other side of this should be inside the dirt."
+  },
+  {
+    "message": "I can't believe there's something on the other side of the wall."
+  },
+  {
+    "message": "Either way, with the room in this state, it’s pretty much impossible to learn what the old monastery was like."
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

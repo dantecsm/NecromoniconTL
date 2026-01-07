@@ -1,231 +1,231 @@
 [
-    {
-        "message": "This is the nursery where one of Dollie's two daughters was killed."
-    },
-    {
-        "message": "Old bloodstains are clearly left on the floor and the Bed, and it's impossible to shake off the sense of sorrow."
-    },
-    {
-        "message": "The numerous girl-like dolls placed on the Bed, where the probably fatal blow was delivered, are likely one of the few traces the girl left in this world."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Ah......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I really didn't want to come into this room."
-    },
-    {
-        "message": "　　　　　　　　When I see the blood stains on the Bed and the floor, there's just no way I can't think about the incident."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I don't think anything's hidden in this room."
-    },
-    {
-        "message": "　　　　　　　　If it was a murder scene, the police would totally search the place thoroughly, y'know."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Even if you hide something, isn't there a really high chance it'll be found out?"
-    },
-    {
-        "message": "For a place where a brutal murder happened, there's no trace of it, and it's still perfectly clean."
-    },
-    {
-        "message": "If their arms and legs were chopped off with an axe, it wouldn't be strange for blood to be splattered everywhere."
-    },
-    {
-        "message": "As I stared at the wall thinking about that stuff, I remembered a strange tale I read in a magazine a long time ago."
-    },
-    {
-        "message": "It's about a man who, according to a will, ends up living in a certain Monastery, and is tormented every night by strange noises coming from the other side of the wall."
-    },
-    {
-        "message": "Unable to know what's on the other side of the wall, the man struggles with whether or not he should take down the Arras tapestry that's hanging on the wall where he hears noises. His desire to uncover the truth beyond the wall torments him, caught between wanting to know what's really there and being afraid of what might be waiting for him."
-    },
-    {
-        "message": "And then finally, when the man made up his mind and took down the wall hanging......"
-    },
-    {
-        "message": "The walls of the kids' room are strangely clean for a place where a brutal murder happened, with not a single trace of the incident left behind."
-    },
-    {
-        "message": "On the floor where the wooden boards are exposed, there are clear stains of old, blackened blood."
-    },
-    {
-        "message": "The trail of blood leading from the next Bed means that the daughter didn’t die instantly, but suffered and writhed before she died."
-    },
-    {
-        "message": "Probably, even after taking a blow from the axe, they couldn't die right away and crawled from the top of the Bed all the way to this spot on the floor."
-    },
-    {
-        "message": "Dollie probably left the room without checking if her daughter was dead."
-    },
-    {
-        "message": "No matter what the reason, there's no way anyone could calmly stand by and watch their own daughter suffer and die right in front of them."
-    },
-    {
-        "message": "It's old, but it's clearly a bloodstain."
-    },
-    {
-        "message": "The shape of the stain looks just like a person with their arms and legs spread out."
-    },
-    {
-        "message": "大人が使うには華奢で背が低すぎる。"
-    },
-    {
-        "message": "It's elaborately decorated, but there's no doubt this was made especially for Dollie's daughter."
-    },
-    {
-        "message": "It must be Dollie's scholarly consideration to make it a bit easier for her beloved daughter to enter the world of academia."
-    },
-    {
-        "message": "Spending this much money on furniture that will be utterly useless once his daughter grows up, Dollie's doting-parent side must have been something else. And yet, why did he do something like that..."
-    },
-    {
-        "message": "It's a desk that looks like it was specially designed for short kids."
-    },
-    {
-        "message": "Normally, little kids struggle with desks that are too big for them, but for him to go out of his way to have a desk made, Dollie must have been quite a doting parent."
-    },
-    {
-        "message": "It's a small child's chair that goes with the desk."
-    },
-    {
-        "message": "It was probably something that young Dollie Dunwich's daughter used."
-    },
-    {
-        "message": "It's not particularly expensive or anything, but you can really feel a special level of care above and beyond the ordinary, like having furniture made just for kids."
-    },
-    {
-        "message": "You can easily picture an adorable little girl, brushing away the hair falling on her cheek with an annoyed motion, totally focused on her desk."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It's so cute, everything's just tiny..."
-    },
-    {
-        "message": "　　　　　　　　I feel like a giant who wandered into a fairytale land."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I guess everything was specially made to fit a child's size."
-    },
-    {
-        "message": "　　　　　　　　Even for a rich family, going out of your way to have furniture made that'll become useless once your daughter grows up..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Looking at it like this, it makes me feel like maybe Dollie wasn't such a bad father after all."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah... yeah, maybe you're right."
-    },
-    {
-        "name": "Cordelia",
-        "message": "What a cute doll..."
-    },
-    {
-        "message": "　　　　　　　　The little girl in this room must've loved it dearly."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Honestly, seeing scenes like this feels way crueler than just looking at a corpse."
-    },
-    {
-        "name": "Cordelia",
-        "message": "But if the girl had simply grown up without anything bad happening, she'd probably be an old lady by now."
-    },
-    {
-        "name": "Cordelia",
-        "message": "These dolls would've been thrown away a long time ago, too."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Did you have a doll like this when you were a kid too？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I don't remember ever playing with such a cute doll."
-    },
-    {
-        "message": "　　　　　　　　My　foster　parents　never　bought　me　stuff　like　that."
-    },
-    {
-        "message": "It must've been something the girl cherished."
-    },
-    {
-        "message": "The doll isn't brand new-it's a little dirty and kind of grimy."
-    },
-    {
-        "message": "The dolls lined up on the shelf had apparently seen and heard up close as Dollie swung her axe down on her own daughter, and the agonized moans of the girl."
-    },
-    {
-        "message": "In the moment when the young master, who had doted on them so much, was about to lose his life at the cruel hands of his father, just what were these Dolls thinking......"
-    },
-    {
-        "message": "It must be something Dunwich's daughter cherished; the doll, neatly placed on the shelf, has endured for decades and still hasn't been thrown away, guarding the ownerless room as the mansion's only resident."
-    },
-    {
-        "name": "Cordelia",
-        "message": "ついさっきまで誰かが寝ていたみたい。"
-    },
-    {
-        "message": "　　　　　　　　You could at least clean up the sheets with blood on them."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Probably, the fatal blow was dealt right here on this Bed."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Don't say it so formally！"
-    },
-    {
-        "message": "　　　　　　　　Why did this kid have to die？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Are you saying that a little girl did something that deserved to get her killed？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'm starting to not believe what Marsh said, that Dollie wasn't crazy."
-    },
-    {
-        "name": "Cordelia",
-        "message": "If you did something like this while sane, you really are a demon."
-    },
-    {
-        "message": "　　　　　　　　It'd actually be better if you were crazy."
-    },
-    {
-        "message": "The sheet is rumpled and wrinkled just like when the girl was sleeping, and there's still a dent in the pillow."
-    },
-    {
-        "message": "The bloodstains stuck all over the sheet mean that a deadly axe blow was dealt here."
-    },
-    {
-        "message": "Probably, the daughter was woken up by her father while she was sleeping, and just as she was trying to get up, still half-asleep, he gave her a fatal blow with an axe."
-    },
-    {
-        "message": "The trail of blood leading from the Bed to the floor is probably the mark left by the girl who couldn't die right away, got off the Bed in agony, and crawled in search of help."
-    },
-    {
-        "name": "Cordelia",
-        "message": "You won't find anything just sitting in a room like this, you know."
-    },
-    {
-        "message": "　　　　　　　　Jonathan, let's get out of here quickly..."
-    },
-    {
-        "message": "　　Second floor hallway　　"
-    }
+  {
+    "message": "This is the nursery where one of Dollie's two daughters was killed."
+  },
+  {
+    "message": "Old bloodstains are clearly left on the floor and the Bed, and it's impossible to shake off the sense of sorrow."
+  },
+  {
+    "message": "The numerous girl-like dolls placed on the Bed, where the probably fatal blow was delivered, are likely one of the few traces the girl left in this world."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Ah......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I really didn't want to come into this room."
+  },
+  {
+    "message": "　　　　　　　　When I see the blood stains on the Bed and the floor, there's just no way I can't think about the incident."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I don't think anything's hidden in this room."
+  },
+  {
+    "message": "　　　　　　　　If it was a murder scene, the police would totally search the place thoroughly, y'know."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Even if you hide something, isn't there a really high chance it'll be found out?"
+  },
+  {
+    "message": "For a place where a brutal murder happened, there's no trace of it, and it's still perfectly clean."
+  },
+  {
+    "message": "If their arms and legs were chopped off with an axe, it wouldn't be strange for blood to be splattered everywhere."
+  },
+  {
+    "message": "As I stared at the wall thinking about that stuff, I remembered a strange tale I read in a magazine a long time ago."
+  },
+  {
+    "message": "It's about a man who, according to a will, ends up living in a certain Monastery, and is tormented every night by strange noises coming from the other side of the wall."
+  },
+  {
+    "message": "Unable to know what's on the other side of the wall, the man struggles with whether or not he should take down the Arras tapestry that's hanging on the wall where he hears noises. His desire to uncover the truth beyond the wall torments him, caught between wanting to know what's really there and being afraid of what might be waiting for him."
+  },
+  {
+    "message": "And then finally, when the man made up his mind and took down the wall hanging......"
+  },
+  {
+    "message": "The walls of the kids' room are strangely clean for a place where a brutal murder happened, with not a single trace of the incident left behind."
+  },
+  {
+    "message": "On the floor where the wooden boards are exposed, there are clear stains of old, blackened blood."
+  },
+  {
+    "message": "The trail of blood leading from the next Bed means that the daughter didn’t die instantly, but suffered and writhed before she died."
+  },
+  {
+    "message": "Probably, even after taking a blow from the axe, they couldn't die right away and crawled from the top of the Bed all the way to this spot on the floor."
+  },
+  {
+    "message": "Dollie probably left the room without checking if her daughter was dead."
+  },
+  {
+    "message": "No matter what the reason, there's no way anyone could calmly stand by and watch their own daughter suffer and die right in front of them."
+  },
+  {
+    "message": "It's old, but it's clearly a bloodstain."
+  },
+  {
+    "message": "The shape of the stain looks just like a person with their arms and legs spread out."
+  },
+  {
+    "message": "It's too delicate and short for an adult to use."
+  },
+  {
+    "message": "It's elaborately decorated, but there's no doubt this was made especially for Dollie's daughter."
+  },
+  {
+    "message": "It must be Dollie's scholarly consideration to make it a bit easier for her beloved daughter to enter the world of academia."
+  },
+  {
+    "message": "Spending this much money on furniture that will be utterly useless once his daughter grows up, Dollie's doting-parent side must have been something else. And yet, why did he do something like that..."
+  },
+  {
+    "message": "It's a desk that looks like it was specially designed for short kids."
+  },
+  {
+    "message": "Normally, little kids struggle with desks that are too big for them, but for him to go out of his way to have a desk made, Dollie must have been quite a doting parent."
+  },
+  {
+    "message": "It's a small child's chair that goes with the desk."
+  },
+  {
+    "message": "It was probably something that young Dollie Dunwich's daughter used."
+  },
+  {
+    "message": "It's not particularly expensive or anything, but you can really feel a special level of care above and beyond the ordinary, like having furniture made just for kids."
+  },
+  {
+    "message": "You can easily picture an adorable little girl, brushing away the hair falling on her cheek with an annoyed motion, totally focused on her desk."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It's so cute, everything's just tiny..."
+  },
+  {
+    "message": "　　　　　　　　I feel like a giant who wandered into a fairytale land."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I guess everything was specially made to fit a child's size."
+  },
+  {
+    "message": "　　　　　　　　Even for a rich family, going out of your way to have furniture made that'll become useless once your daughter grows up..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Looking at it like this, it makes me feel like maybe Dollie wasn't such a bad father after all."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah... yeah, maybe you're right."
+  },
+  {
+    "name": "Cordelia",
+    "message": "What a cute doll..."
+  },
+  {
+    "message": "　　　　　　　　The little girl in this room must've loved it dearly."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Honestly, seeing scenes like this feels way crueler than just looking at a corpse."
+  },
+  {
+    "name": "Cordelia",
+    "message": "But if the girl had simply grown up without anything bad happening, she'd probably be an old lady by now."
+  },
+  {
+    "name": "Cordelia",
+    "message": "These dolls would've been thrown away a long time ago, too."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Did you have a doll like this when you were a kid too？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I don't remember ever playing with such a cute doll."
+  },
+  {
+    "message": "　　　　　　　　My　foster　parents　never　bought　me　stuff　like　that."
+  },
+  {
+    "message": "It must've been something the girl cherished."
+  },
+  {
+    "message": "The doll isn't brand new-it's a little dirty and kind of grimy."
+  },
+  {
+    "message": "The dolls lined up on the shelf had apparently seen and heard up close as Dollie swung her axe down on her own daughter, and the agonized moans of the girl."
+  },
+  {
+    "message": "In the moment when the young master, who had doted on them so much, was about to lose his life at the cruel hands of his father, just what were these Dolls thinking......"
+  },
+  {
+    "message": "It must be something Dunwich's daughter cherished; the doll, neatly placed on the shelf, has endured for decades and still hasn't been thrown away, guarding the ownerless room as the mansion's only resident."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It looks like someone was just sleeping here a moment ago."
+  },
+  {
+    "message": "　　　　　　　　You could at least clean up the sheets with blood on them."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Probably, the fatal blow was dealt right here on this Bed."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Don't say it so formally！"
+  },
+  {
+    "message": "　　　　　　　　Why did this kid have to die？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Are you saying that a little girl did something that deserved to get her killed？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'm starting to not believe what Marsh said, that Dollie wasn't crazy."
+  },
+  {
+    "name": "Cordelia",
+    "message": "If you did something like this while sane, you really are a demon."
+  },
+  {
+    "message": "　　　　　　　　It'd actually be better if you were crazy."
+  },
+  {
+    "message": "The sheet is rumpled and wrinkled just like when the girl was sleeping, and there's still a dent in the pillow."
+  },
+  {
+    "message": "The bloodstains stuck all over the sheet mean that a deadly axe blow was dealt here."
+  },
+  {
+    "message": "Probably, the daughter was woken up by her father while she was sleeping, and just as she was trying to get up, still half-asleep, he gave her a fatal blow with an axe."
+  },
+  {
+    "message": "The trail of blood leading from the Bed to the floor is probably the mark left by the girl who couldn't die right away, got off the Bed in agony, and crawled in search of help."
+  },
+  {
+    "name": "Cordelia",
+    "message": "You won't find anything just sitting in a room like this, you know."
+  },
+  {
+    "message": "　　　　　　　　Jonathan, let's get out of here quickly..."
+  },
+  {
+    "message": "　　Second floor hallway　　"
+  }
 ]

@@ -1,692 +1,692 @@
 [
-    {
-        "name": "Cordelia",
-        "message": "It's freezing, I feel like I'm gonna die from the cold！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I wonder if this mantelpiece will actually light up properly？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "The firewood's in already."
-    },
-    {
-        "message": "　　　　　　　　It　looks　like　it　was　left　alone　for　a　long　time,　so　it　might　be　damp　though."
-    },
-    {
-        "name": "Thomas",
-        "message": "Just try putting it on, okay?"
-    },
-    {
-        "message": "　　　　　　You　always　overthink　things　before　doing　anything."
-    },
-    {
-        "message": "　　　　　　まずやってみて、駄目ならその時悩めばいいだろ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "If you take hedonism that far, it's kinda impressive."
-    },
-    {
-        "message": "　　　　　　　　その時が良ければ後はどうでもいいって訳か。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "We've already checked this place out thoroughly, haven't we?"
-    },
-    {
-        "message": "　　　　　　　　Isn't there nothing there？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Is that so?"
-    },
-    {
-        "message": "　　　　　　　　I feel like something might be hidden here..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "There's nowhere else Dollie would probably leave the key to the study, though."
-    },
-    {
-        "message": "This is the president's office where Dollie Dunwich became the last master of the final room."
-    },
-    {
-        "message": "Is the Necronomicon hidden somewhere in this room？"
-    },
-    {
-        "message": "部屋の中にはドルリイが仕事に使っていたと思われる本とわずかな私物が残っている。"
-    },
-    {
-        "message": "I don't see anything that looks like it though......"
-    },
-    {
-        "message": "すぐに解るような場所に置いてあったなら、とっくにみつけていてもおかしくはないか。"
-    },
-    {
-        "message": "目には見えない何処かに隠してあると考えるべきだろう。"
-    },
-    {
-        "message": "Where the hell is it..."
-    },
-    {
-        "message": "It's all neatly organized."
-    },
-    {
-        "message": "Dollie seemed to have a really meticulous personality."
-    },
-    {
-        "message": "A thin layer of dust has piled up on the floor, making it obvious that nobody has set foot in this room for a long time."
-    },
-    {
-        "message": "The faded wallpaper and the completely withered potted plants tell how many years have passed since the owner of this room left."
-    },
-    {
-        "message": "Dorothy never let anyone into the president's office, but she probably had only been in this room a handful of times herself."
-    },
-    {
-        "message": "It's probably the Miskatonic University school flag."
-    },
-    {
-        "message": "It's fixed firmly to the wall, but it's completely faded from sunlight."
-    },
-    {
-        "message": "To think that this room and even the national flag on the wall were only actually used for less than a hundred short years..."
-    },
-    {
-        "message": "It's probably the Miskatonic University school flag."
-    },
-    {
-        "message": "It looks like it was actually used for a really short time, so there's not much damage, but the sunlight exposure and bug holes are pretty bad."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Does anyone have a match and some paper that looks like it could be used for kindling？　　　　　　　　Let's try and see if we can get a fire going."
-    },
-    {
-        "name": "Thomas",
-        "message": "Here, use this."
-    },
-    {
-        "message": "I started wrestling with the old mantelpiece, using the box of matches I got from Thomas and a scrap of paper torn from my notebook."
-    },
-    {
-        "name": "Cordelia",
-        "message": "大丈夫、ジョナサン。"
-    },
-    {
-        "message": "　　　　　　　　You've never used such an old heater like this, have you？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "No, in the house where I was born, every room had this kind of old-fashioned mantelpiece."
-    },
-    {
-        "name": "Jonathan",
-        "message": "With this......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Alright, got the fire going."
-    },
-    {
-        "name": "Thomas",
-        "message": "It's getting warmer."
-    },
-    {
-        "message": "　　　　　　Let's take a break for a while, shall we?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "The wallpaper's started peeling off."
-    },
-    {
-        "name": "Gardner",
-        "message": "ずっと寒い部屋にあったのが、急に温められたせいだ　　　　　　　　ろう、ドロシーが見たら目を剥くぞ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Could it really come off this easily?"
-    },
-    {
-        "message": "　　　　　　　　It's like after peeling it off once, it got glued back on again..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "No way, under the wallpaper！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Let's give it a try."
-    },
-    {
-        "name": "Cordelia",
-        "message": "This is........."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Is this the Necronomicon？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "No doubt about it, this is the same book I saw in my dream."
-    },
-    {
-        "message": "　　　　　　　　But I never thought it would be in a place like this."
-    },
-    {
-        "name": "Gardner",
-        "message": "Don't get so worked up."
-    },
-    {
-        "message": "　　　　　　　　It's just a coincidence, that's gotta be it......"
-    },
-    {
-        "name": "Thomas",
-        "message": "Just hurry up and check inside already！"
-    },
-    {
-        "message": "　　　　　　What's written there？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Wait, don't rush me like that."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So this is the Necronomicon......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I have no idea what this says."
-    },
-    {
-        "message": "This is..."
-    },
-    {
-        "message": "There's a key stuck between the pages of the book."
-    },
-    {
-        "message": "Maybe it's the key to Dollie's study in the Dunwitch Mansion."
-    },
-    {
-        "message": "So that means Dollie was the one who hid the Necronomicon in the principal's office？"
-    },
-    {
-        "message": "Why did Dollie have the Necronomicon?"
-    },
-    {
-        "message": "The design is clearly different from the other room keys for the Dunwich Mansion that I got from Marsh."
-    },
-    {
-        "message": "It's like it's emphasizing that this is a special key......"
-    },
-    {
-        "message": "The key that Dollie told Marsh to throw away once he was done with it must've been a hastily made spare."
-    },
-    {
-        "message": "The master key, I hid it in my dorm room at the university along with the book ahead of time, before causing the incident."
-    },
-    {
-        "message": "私はネクロノミコンにはさんであった鍵を上着のポケットに入れた。"
-    },
-    {
-        "message": "Because I felt that this key should never be given to anyone else."
-    },
-    {
-        "name": "Jonathan",
-        "message": "これで村を脱出できる。"
-    },
-    {
-        "message": "　　　　　　　　Let's go, I don't want to be in a place like this for even a second."
-    },
-    {
-        "name": "Thomas",
-        "message": "That's not gonna happen."
-    },
-    {
-        "name": "Cordelia",
-        "message": "痛っ‥‥‥な、なにするのよ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Thomas！"
-    },
-    {
-        "name": "Thomas",
-        "message": "You're an idiot."
-    },
-    {
-        "message": "　　　　　　You’ve always thought I was suspicious, haven’t you？"
-    },
-    {
-        "name": "Thomas",
-        "message": "And yet, we're still together all this time."
-    },
-    {
-        "message": "　　　　　　I should've just killed them quick when I first thought this was bad."
-    },
-    {
-        "name": "Jonathan",
-        "message": "どういうつもりだ、その手を放せ。"
-    },
-    {
-        "message": "　　　　　　　　What are you planning to do with Cordelia?"
-    },
-    {
-        "name": "Thomas",
-        "message": "No way, I can't let that happen."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What do you want?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Hand over that book."
-    },
-    {
-        "message": "　　　　　　If you don't hurry up, I'll kill the girl."
-    },
-    {
-        "message": "Thomas is pressing a gun against Cordelia's temple, his hand wrapped around her neck."
-    },
-    {
-        "message": "There's nothing I can do about this."
-    },
-    {
-        "name": "Thomas",
-        "message": "Don't get any weird ideas, the woman will die."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why do you want the Necronomicon?"
-    },
-    {
-        "message": "　　　　　　　　自分ひとりで村を脱出するつもりなのか。"
-    },
-    {
-        "name": "Thomas",
-        "message": "That's the 'Lost key'."
-    },
-    {
-        "message": "　　　　　　Oh, and let me tell you one thing..."
-    },
-    {
-        "name": "Thomas",
-        "message": "The monster you guys saw is called a 'Deep One'."
-    },
-    {
-        "message": "　　　　　　That guy's just a small fry."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Are you saying there are more guys like that?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Those guys, you know, they're nothing but food for the god Dagon that they're about to summon using this book."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Dagon's god？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Yeah, it's some god called 'Cthulhu'."
-    },
-    {
-        "message": "　　　　　　俺も見た事はねえがな。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "それが、ダゴンの信仰する神‥‥‥‥"
-    },
-    {
-        "name": "Thomas",
-        "message": "Apparently, it’s got enough power to turn the whole world upside down."
-    },
-    {
-        "message": "　　　　　　If you use that book, the Necronomicon, it means you can summon that thing."
-    },
-    {
-        "name": "Gardner",
-        "message": "Ridiculous."
-    },
-    {
-        "message": "　　　　　　　　Have you guys lost your minds？"
-    },
-    {
-        "name": "Gardner",
-        "message": "Are you really swallowing such fairy tales？ Wake up already！"
-    },
-    {
-        "name": "Thomas",
-        "message": "Looks like the old man still doesn't really get the situation."
-    },
-    {
-        "message": "　　　　　　Not just Nai and Dagon’s guys, but even my Secret society were desperately hunting for that book, for decades, you know."
-    },
-    {
-        "name": "Jonathan",
-        "message": "If everything I saw in my dreams also happened for the Necronomicon and Dagon’s god..."
-    },
-    {
-        "name": "Thomas",
-        "message": "So, for a hell of a long time, all sorts of people have been putting on an act, huh."
-    },
-    {
-        "message": "　　　　　　For the sake of the old man's fairy tale."
-    },
-    {
-        "name": "Gardner",
-        "message": "How can you believe something like that！"
-    },
-    {
-        "name": "Thomas",
-        "message": "I don't give a damn if you believe me or not. Jonathan, hand over that book."
-    },
-    {
-        "name": "Thomas",
-        "message": "Don't try anything funny."
-    },
-    {
-        "message": "　　　　　　Give that book to the woman！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan............"
-    },
-    {
-        "message": "Can't be helped."
-    },
-    {
-        "message": "このままではコーデリアの命が‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia, take this."
-    },
-    {
-        "name": "Jonathan",
-        "message": "This should satisfy you."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Let go of Cordelia."
-    },
-    {
-        "name": "Thomas",
-        "message": "No way that's happening."
-    },
-    {
-        "message": "　　　　　　This woman will be the sacrifice after summoning Cthulhu."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You broke your promise！"
-    },
-    {
-        "name": "Thomas",
-        "message": "You're as soft as ever. Still can't figure out what kind of guy I am？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "ジョナサン‥‥‥助けて‥‥‥‥"
-    },
-    {
-        "name": "Thomas",
-        "message": "Nobody's gonna help me."
-    },
-    {
-        "message": "　　　　　　You were picked up just for this, you know."
-    },
-    {
-        "name": "Thomas",
-        "message": "Don’t you ever feel like you want to pay back your parents who raised you, or even the villagers, even a little？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "コーデリアを放せ！"
-    },
-    {
-        "name": "Thomas",
-        "message": "I told you no, didn't I?"
-    },
-    {
-        "message": "　　　　　　Don't move, or should I kill the woman right here？"
-    },
-    {
-        "name": "Thomas",
-        "message": "See ya, Jonathan."
-    },
-    {
-        "name": "Thomas",
-        "message": "Do your best, that's all you can do."
-    },
-    {
-        "message": "　　　　　　Maybe we'll be able to get out of the village alive."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What a filthy bastard......"
-    },
-    {
-        "name": "Thomas",
-        "message": "See ya."
-    },
-    {
-        "message": "Thomas took Cordelia and disappeared beyond the door."
-    },
-    {
-        "message": "I can't believe this is happening..."
-    },
-    {
-        "message": "If I’d known it would turn out like this, I wouldn’t have brought that guy along. There’s no way I’ll let them use Cordelia as a sacrifice."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Shit."
-    },
-    {
-        "name": "Gardner",
-        "message": "Wait, where are you going."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Of course I'm gonna chase after him！"
-    },
-    {
-        "message": "There’s no sign of the two of them in the Archives hallway anymore."
-    },
-    {
-        "message": "私とガードナーの靴音が壁に反響してひどく大きく聞こえる。"
-    },
-    {
-        "name": "Gardner",
-        "message": "He's already gone?"
-    },
-    {
-        "message": "　　　　　　　　What a fast guy."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That is..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's the gun Thomas had."
-    },
-    {
-        "message": "In the middle of the hallway, the gun that Thomas was holding until just a moment ago is lying on the floor."
-    },
-    {
-        "message": "He probably had no choice but to let go of it-holding Cordelia down with one hand and grabbing the Necronomicon with the other."
-    },
-    {
-        "message": "I picked up the gun and pulled out the magazine."
-    },
-    {
-        "name": "Jonathan",
-        "message": "The magazine's empty."
-    },
-    {
-        "message": "　　　　　　　　There　weren't　any　bullets　in　there　from　the　start....."
-    },
-    {
-        "name": "Gardner",
-        "message": "What the hell."
-    },
-    {
-        "message": "　　　　　　　　So that guy totally got one over on us, huh."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Dammit... What are you planning to do with Cordelia！"
-    },
-    {
-        "name": "Gardner",
-        "message": "Wait, Jonathan！"
-    },
-    {
-        "name": "Gardner",
-        "message": "Don't get all fired up."
-    },
-    {
-        "message": "　　　　　　　　That guy's lost his mind. If you go after him carelessly, that girl's life's in danger."
-    },
-    {
-        "name": "Jonathan",
-        "message": "No way！"
-    },
-    {
-        "message": "　　　　　　　　I'll chase after them right away"
-    },
-    {
-        "name": "Gardner",
-        "message": "I told you, that's just going to backfire."
-    },
-    {
-        "name": "Jonathan",
-        "message": "There's no way I'm letting Cordelia be a sacrifice..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'm gonna find Thomas and kill him！"
-    },
-    {
-        "name": "Gardner",
-        "message": "Can't be helped......"
-    },
-    {
-        "name": "Gardner",
-        "message": "Hang in there for a bit."
-    },
-    {
-        "name": "Thomas",
-        "message": "ミステリ小説なんかだと、煙突の中に犯人が誰かを告げる　　　　　　手紙が入っていたりするんだがな。"
-    },
-    {
-        "message": "The Necronomicon isn’t as small as a letter in an envelope."
-    },
-    {
-        "message": "本を隠した人間が絶対にマントルピースに火が入れられる事などないと確信していたなら話は別だが‥‥‥‥‥‥‥"
-    },
-    {
-        "message": "If that wasn't the case, there's no way they'd hide it in a place like this."
-    },
-    {
-        "message": "If a fire were lit, the book would burn easily."
-    },
-    {
-        "name": "Thomas",
-        "message": "Jonathan, how about sticking your hand inside the chimney？"
-    },
-    {
-        "message": "　　　　　　There might be a book here, you know."
-    },
-    {
-        "name": "Jonathan",
-        "message": "私を馬鹿にしているのか？"
-    },
-    {
-        "message": "　　　　　　　　If there were books stored in a place like this, even if you burned a fire, the smoke wouldn't get out, and the whole room would just fill up with smoke."
-    },
-    {
-        "message": "まさかこの中に本があるとは思えない。"
-    },
-    {
-        "message": "ネクロノミコンがいつ頃人々の目に触れないようになったのか定かでないが、ドルリイが生きていた頃には、部屋が頻繁に使われていたのだ。"
-    },
-    {
-        "message": "Of course, there should've been a fire burning in the fireplace-if that happened, those precious books would've gone up in smoke."
-    },
-    {
-        "name": "Thomas",
-        "message": "How long are you gonna keep staring at that?"
-    },
-    {
-        "message": "　　　　　　It's not really cold or anything."
-    },
-    {
-        "name": "Jonathan",
-        "message": "There’s still firewood in the fireplace, so I was wondering if this fireplace actually still works."
-    },
-    {
-        "name": "Thomas",
-        "message": "Even if it does work, we don’t need it now."
-    },
-    {
-        "message": "　　　　　　It’s　actually　pretty　warm　in　this　room."
-    },
-    {
-        "message": "Just like the room’s simple construction, the mantelpiece is all about utility, with barely any decorative flair."
-    },
-    {
-        "message": "Inside, there’s ash from decades ago and some partially burned wood left just as it was."
-    },
-    {
-        "message": "I can almost picture Dollie carefully using the poker."
-    },
-    {
-        "message": "On Dollie’s neatly arranged desk-without even the slightest mess-dust has piled up, making it obvious nobody’s touched it in ages."
-    },
-    {
-        "message": "All the stacked books are typical academics you’d find anywhere, nothing unusual or out of place."
-    },
-    {
-        "message": "Apparently, Dollie didn’t like bringing personal stuff into the workspace. Or maybe anything of value has already been taken by someone else."
-    },
-    {
-        "message": "Looks like there’s not much more to be gained here."
-    },
-    {
-        "message": "Maybe somewhere else…"
-    },
-    {
-        "message": "There used to be a map of Arkham hanging here."
-    },
-    {
-        "message": "Why did Dollie put something like that up on the wall, I wonder."
-    },
-    {
-        "message": "He must have known the geography of the little village where he was born well enough without needing to look at a map at this point."
-    },
-    {
-        "message": "It’s like he predicted that after he died, we would come to this room."
-    },
-    {
-        "message": "I already have such a clear memory of Arkham’s layout that I can picture it anytime in my mind."
-    },
-    {
-        "message": "I wonder if you can get attached to a place like this, too."
-    },
-    {
-        "message": "　　Reception　　"
-    }
+  {
+    "name": "Cordelia",
+    "message": "It's freezing, I feel like I'm gonna die from the cold！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I wonder if this mantelpiece will actually light up properly？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "The firewood's in already."
+  },
+  {
+    "message": "　　　　　　　　It　looks　like　it　was　left　alone　for　a　long　time,　so　it　might　be　damp　though."
+  },
+  {
+    "name": "Thomas",
+    "message": "Just try putting it on, okay?"
+  },
+  {
+    "message": "　　　　　　You　always　overthink　things　before　doing　anything."
+  },
+  {
+    "message": "　　　　　　Just give it a shot first, and if it doesn't work out, worry about it then."
+  },
+  {
+    "name": "Jonathan",
+    "message": "If you take hedonism that far, it's kinda impressive."
+  },
+  {
+    "message": "　　　　　　　　So if things are good in the moment, you just don't care about anything else?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "We've already checked this place out thoroughly, haven't we?"
+  },
+  {
+    "message": "　　　　　　　　Isn't there nothing there？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is that so?"
+  },
+  {
+    "message": "　　　　　　　　I feel like something might be hidden here..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "There's nowhere else Dollie would probably leave the key to the study, though."
+  },
+  {
+    "message": "This is the president's office where Dollie Dunwich became the last master of the final room."
+  },
+  {
+    "message": "Is the Necronomicon hidden somewhere in this room？"
+  },
+  {
+    "message": "Inside the room, a few personal things and books that were probably used by Dollie for work are left behind."
+  },
+  {
+    "message": "I don't see anything that looks like it though......"
+  },
+  {
+    "message": "If it had been left somewhere obvious, it's not weird to think I would've already found it by now."
+  },
+  {
+    "message": "I should probably assume it's hidden somewhere out of sight."
+  },
+  {
+    "message": "Where the hell is it..."
+  },
+  {
+    "message": "It's all neatly organized."
+  },
+  {
+    "message": "Dollie seemed to have a really meticulous personality."
+  },
+  {
+    "message": "A thin layer of dust has piled up on the floor, making it obvious that nobody has set foot in this room for a long time."
+  },
+  {
+    "message": "The faded wallpaper and the completely withered potted plants tell how many years have passed since the owner of this room left."
+  },
+  {
+    "message": "Dorothy never let anyone into the president's office, but she probably had only been in this room a handful of times herself."
+  },
+  {
+    "message": "It's probably the Miskatonic University school flag."
+  },
+  {
+    "message": "It's fixed firmly to the wall, but it's completely faded from sunlight."
+  },
+  {
+    "message": "To think that this room and even the national flag on the wall were only actually used for less than a hundred short years..."
+  },
+  {
+    "message": "It's probably the Miskatonic University school flag."
+  },
+  {
+    "message": "It looks like it was actually used for a really short time, so there's not much damage, but the sunlight exposure and bug holes are pretty bad."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Does anyone have a match and some paper that looks like it could be used for kindling？　　　　　　　　Let's try and see if we can get a fire going."
+  },
+  {
+    "name": "Thomas",
+    "message": "Here, use this."
+  },
+  {
+    "message": "I started wrestling with the old mantelpiece, using the box of matches I got from Thomas and a scrap of paper torn from my notebook."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It's okay, Jonathan."
+  },
+  {
+    "message": "　　　　　　　　You've never used such an old heater like this, have you？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "No, in the house where I was born, every room had this kind of old-fashioned mantelpiece."
+  },
+  {
+    "name": "Jonathan",
+    "message": "With this......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Alright, got the fire going."
+  },
+  {
+    "name": "Thomas",
+    "message": "It's getting warmer."
+  },
+  {
+    "message": "　　　　　　Let's take a break for a while, shall we?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "The wallpaper's started peeling off."
+  },
+  {
+    "name": "Gardner",
+    "message": "It was in a freezing room all this time, and then suddenly got warmed up-that's probably it. Dorothy would freak if she saw."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Could it really come off this easily?"
+  },
+  {
+    "message": "　　　　　　　　It's like after peeling it off once, it got glued back on again..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "No way, under the wallpaper！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Let's give it a try."
+  },
+  {
+    "name": "Cordelia",
+    "message": "This is........."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Is this the Necronomicon？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "No doubt about it, this is the same book I saw in my dream."
+  },
+  {
+    "message": "　　　　　　　　But I never thought it would be in a place like this."
+  },
+  {
+    "name": "Gardner",
+    "message": "Don't get so worked up."
+  },
+  {
+    "message": "　　　　　　　　It's just a coincidence, that's gotta be it......"
+  },
+  {
+    "name": "Thomas",
+    "message": "Just hurry up and check inside already！"
+  },
+  {
+    "message": "　　　　　　What's written there？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Wait, don't rush me like that."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So this is the Necronomicon......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I have no idea what this says."
+  },
+  {
+    "message": "This is..."
+  },
+  {
+    "message": "There's a key stuck between the pages of the book."
+  },
+  {
+    "message": "Maybe it's the key to Dollie's study in the Dunwitch Mansion."
+  },
+  {
+    "message": "So that means Dollie was the one who hid the Necronomicon in the principal's office？"
+  },
+  {
+    "message": "Why did Dollie have the Necronomicon?"
+  },
+  {
+    "message": "The design is clearly different from the other room keys for the Dunwich Mansion that I got from Marsh."
+  },
+  {
+    "message": "It's like it's emphasizing that this is a special key......"
+  },
+  {
+    "message": "The key that Dollie told Marsh to throw away once he was done with it must've been a hastily made spare."
+  },
+  {
+    "message": "The master key, I hid it in my dorm room at the university along with the book ahead of time, before causing the incident."
+  },
+  {
+    "message": "I put the key that was tucked inside the Necronomicon into my coat pocket."
+  },
+  {
+    "message": "Because I felt that this key should never be given to anyone else."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Now we can escape the village."
+  },
+  {
+    "message": "　　　　　　　　Let's go, I don't want to be in a place like this for even a second."
+  },
+  {
+    "name": "Thomas",
+    "message": "That's not gonna happen."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Ouch...! W-what are you doing?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Thomas！"
+  },
+  {
+    "name": "Thomas",
+    "message": "You're an idiot."
+  },
+  {
+    "message": "　　　　　　You’ve always thought I was suspicious, haven’t you？"
+  },
+  {
+    "name": "Thomas",
+    "message": "And yet, we're still together all this time."
+  },
+  {
+    "message": "　　　　　　I should've just killed them quick when I first thought this was bad."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What are you trying to pull? Let go of her hand."
+  },
+  {
+    "message": "　　　　　　　　What are you planning to do with Cordelia?"
+  },
+  {
+    "name": "Thomas",
+    "message": "No way, I can't let that happen."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What do you want?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Hand over that book."
+  },
+  {
+    "message": "　　　　　　If you don't hurry up, I'll kill the girl."
+  },
+  {
+    "message": "Thomas is pressing a gun against Cordelia's temple, his hand wrapped around her neck."
+  },
+  {
+    "message": "There's nothing I can do about this."
+  },
+  {
+    "name": "Thomas",
+    "message": "Don't get any weird ideas, the woman will die."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why do you want the Necronomicon?"
+  },
+  {
+    "message": "　　　　　　　　Are you planning to escape the village all by yourself?"
+  },
+  {
+    "name": "Thomas",
+    "message": "That's the 'Lost key'."
+  },
+  {
+    "message": "　　　　　　Oh, and let me tell you one thing..."
+  },
+  {
+    "name": "Thomas",
+    "message": "The monster you guys saw is called a 'Deep One'."
+  },
+  {
+    "message": "　　　　　　That guy's just a small fry."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Are you saying there are more guys like that?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Those guys, you know, they're nothing but food for the god Dagon that they're about to summon using this book."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Dagon's god？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Yeah, it's some god called 'Cthulhu'."
+  },
+  {
+    "message": "　　　　　　I've never seen it either, though."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So that's the god Dagon worships..."
+  },
+  {
+    "name": "Thomas",
+    "message": "Apparently, it’s got enough power to turn the whole world upside down."
+  },
+  {
+    "message": "　　　　　　If you use that book, the Necronomicon, it means you can summon that thing."
+  },
+  {
+    "name": "Gardner",
+    "message": "Ridiculous."
+  },
+  {
+    "message": "　　　　　　　　Have you guys lost your minds？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Are you really swallowing such fairy tales？ Wake up already！"
+  },
+  {
+    "name": "Thomas",
+    "message": "Looks like the old man still doesn't really get the situation."
+  },
+  {
+    "message": "　　　　　　Not just Nai and Dagon’s guys, but even my Secret society were desperately hunting for that book, for decades, you know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "If everything I saw in my dreams also happened for the Necronomicon and Dagon’s god..."
+  },
+  {
+    "name": "Thomas",
+    "message": "So, for a hell of a long time, all sorts of people have been putting on an act, huh."
+  },
+  {
+    "message": "　　　　　　For the sake of the old man's fairy tale."
+  },
+  {
+    "name": "Gardner",
+    "message": "How can you believe something like that！"
+  },
+  {
+    "name": "Thomas",
+    "message": "I don't give a damn if you believe me or not. Jonathan, hand over that book."
+  },
+  {
+    "name": "Thomas",
+    "message": "Don't try anything funny."
+  },
+  {
+    "message": "　　　　　　Give that book to the woman！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan............"
+  },
+  {
+    "message": "Can't be helped."
+  },
+  {
+    "message": "At this rate, Cordelia's life..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia, take this."
+  },
+  {
+    "name": "Jonathan",
+    "message": "This should satisfy you."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Let go of Cordelia."
+  },
+  {
+    "name": "Thomas",
+    "message": "No way that's happening."
+  },
+  {
+    "message": "　　　　　　This woman will be the sacrifice after summoning Cthulhu."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You broke your promise！"
+  },
+  {
+    "name": "Thomas",
+    "message": "You're as soft as ever. Still can't figure out what kind of guy I am？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan...help me..."
+  },
+  {
+    "name": "Thomas",
+    "message": "Nobody's gonna help me."
+  },
+  {
+    "message": "　　　　　　You were picked up just for this, you know."
+  },
+  {
+    "name": "Thomas",
+    "message": "Don’t you ever feel like you want to pay back your parents who raised you, or even the villagers, even a little？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Let go of Cordelia！"
+  },
+  {
+    "name": "Thomas",
+    "message": "I told you no, didn't I?"
+  },
+  {
+    "message": "　　　　　　Don't move, or should I kill the woman right here？"
+  },
+  {
+    "name": "Thomas",
+    "message": "See ya, Jonathan."
+  },
+  {
+    "name": "Thomas",
+    "message": "Do your best, that's all you can do."
+  },
+  {
+    "message": "　　　　　　Maybe we'll be able to get out of the village alive."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What a filthy bastard......"
+  },
+  {
+    "name": "Thomas",
+    "message": "See ya."
+  },
+  {
+    "message": "Thomas took Cordelia and disappeared beyond the door."
+  },
+  {
+    "message": "I can't believe this is happening..."
+  },
+  {
+    "message": "If I’d known it would turn out like this, I wouldn’t have brought that guy along. There’s no way I’ll let them use Cordelia as a sacrifice."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Shit."
+  },
+  {
+    "name": "Gardner",
+    "message": "Wait, where are you going."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Of course I'm gonna chase after him！"
+  },
+  {
+    "message": "There’s no sign of the two of them in the Archives hallway anymore."
+  },
+  {
+    "message": "My and Gardner's footsteps echo off the walls and sound ridiculously loud."
+  },
+  {
+    "name": "Gardner",
+    "message": "He's already gone?"
+  },
+  {
+    "message": "　　　　　　　　What a fast guy."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That is..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's the gun Thomas had."
+  },
+  {
+    "message": "In the middle of the hallway, the gun that Thomas was holding until just a moment ago is lying on the floor."
+  },
+  {
+    "message": "He probably had no choice but to let go of it-holding Cordelia down with one hand and grabbing the Necronomicon with the other."
+  },
+  {
+    "message": "I picked up the gun and pulled out the magazine."
+  },
+  {
+    "name": "Jonathan",
+    "message": "The magazine's empty."
+  },
+  {
+    "message": "　　　　　　　　There　weren't　any　bullets　in　there　from　the　start....."
+  },
+  {
+    "name": "Gardner",
+    "message": "What the hell."
+  },
+  {
+    "message": "　　　　　　　　So that guy totally got one over on us, huh."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Dammit... What are you planning to do with Cordelia！"
+  },
+  {
+    "name": "Gardner",
+    "message": "Wait, Jonathan！"
+  },
+  {
+    "name": "Gardner",
+    "message": "Don't get all fired up."
+  },
+  {
+    "message": "　　　　　　　　That guy's lost his mind. If you go after him carelessly, that girl's life's in danger."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No way！"
+  },
+  {
+    "message": "　　　　　　　　I'll chase after them right away"
+  },
+  {
+    "name": "Gardner",
+    "message": "I told you, that's just going to backfire."
+  },
+  {
+    "name": "Jonathan",
+    "message": "There's no way I'm letting Cordelia be a sacrifice..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'm gonna find Thomas and kill him！"
+  },
+  {
+    "name": "Gardner",
+    "message": "Can't be helped......"
+  },
+  {
+    "name": "Gardner",
+    "message": "Hang in there for a bit."
+  },
+  {
+    "name": "Thomas",
+    "message": "In mystery novels, sometimes there's a letter in the chimney that tells who the culprit is, you know."
+  },
+  {
+    "message": "The Necronomicon isn’t as small as a letter in an envelope."
+  },
+  {
+    "message": "It's a different story if the person who hid the book was absolutely sure that a fire would never be lit in the mantelpiece..."
+  },
+  {
+    "message": "If that wasn't the case, there's no way they'd hide it in a place like this."
+  },
+  {
+    "message": "If a fire were lit, the book would burn easily."
+  },
+  {
+    "name": "Thomas",
+    "message": "Jonathan, how about sticking your hand inside the chimney？"
+  },
+  {
+    "message": "　　　　　　There might be a book here, you know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Are you making fun of me？"
+  },
+  {
+    "message": "　　　　　　　　If there were books stored in a place like this, even if you burned a fire, the smoke wouldn't get out, and the whole room would just fill up with smoke."
+  },
+  {
+    "message": "I can't imagine the book is actually in here."
+  },
+  {
+    "message": "It's not clear exactly when the Necronomicon stopped being seen by people, but back when Dollie was alive, the room was used often."
+  },
+  {
+    "message": "Of course, there should've been a fire burning in the fireplace-if that happened, those precious books would've gone up in smoke."
+  },
+  {
+    "name": "Thomas",
+    "message": "How long are you gonna keep staring at that?"
+  },
+  {
+    "message": "　　　　　　It's not really cold or anything."
+  },
+  {
+    "name": "Jonathan",
+    "message": "There’s still firewood in the fireplace, so I was wondering if this fireplace actually still works."
+  },
+  {
+    "name": "Thomas",
+    "message": "Even if it does work, we don’t need it now."
+  },
+  {
+    "message": "　　　　　　It’s　actually　pretty　warm　in　this　room."
+  },
+  {
+    "message": "Just like the room’s simple construction, the mantelpiece is all about utility, with barely any decorative flair."
+  },
+  {
+    "message": "Inside, there’s ash from decades ago and some partially burned wood left just as it was."
+  },
+  {
+    "message": "I can almost picture Dollie carefully using the poker."
+  },
+  {
+    "message": "On Dollie’s neatly arranged desk-without even the slightest mess-dust has piled up, making it obvious nobody’s touched it in ages."
+  },
+  {
+    "message": "All the stacked books are typical academics you’d find anywhere, nothing unusual or out of place."
+  },
+  {
+    "message": "Apparently, Dollie didn’t like bringing personal stuff into the workspace. Or maybe anything of value has already been taken by someone else."
+  },
+  {
+    "message": "Looks like there’s not much more to be gained here."
+  },
+  {
+    "message": "Maybe somewhere else…"
+  },
+  {
+    "message": "There used to be a map of Arkham hanging here."
+  },
+  {
+    "message": "Why did Dollie put something like that up on the wall, I wonder."
+  },
+  {
+    "message": "He must have known the geography of the little village where he was born well enough without needing to look at a map at this point."
+  },
+  {
+    "message": "It’s like he predicted that after he died, we would come to this room."
+  },
+  {
+    "message": "I already have such a clear memory of Arkham’s layout that I can picture it anytime in my mind."
+  },
+  {
+    "message": "I wonder if you can get attached to a place like this, too."
+  },
+  {
+    "message": "　　Reception　　"
+  }
 ]

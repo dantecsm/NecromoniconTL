@@ -1,339 +1,339 @@
 [
-    {
-        "name": "Thomas",
-        "message": "Ugh......"
-    },
-    {
-        "message": "　　　　　　What the hell is this smell?"
-    },
-    {
-        "name": "Gardner",
-        "message": "This is unbearable... what a terrible smell."
-    },
-    {
-        "message": "部屋の中には、船の外に満ちている魚の腐ったような匂いを強烈にしたような悪臭と、生臭いような異臭が漂っていた。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Look, on the bed."
-    },
-    {
-        "message": "　　　　　　　　Is that... could it be, blood？"
-    },
-    {
-        "message": "On the Bed, probably from inside a pillow or something, there's waterfowl feathers and, unmistakably, some semi-clotted blood stuck on thick."
-    },
-    {
-        "message": "And then, on the wall behind the Bed‥‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Marsh！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Wha......what is this？"
-    },
-    {
-        "message": "It's Marsh."
-    },
-    {
-        "message": "It's a completely changed appearance, but there's no doubt about it......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "What on earth happened？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Don't look！"
-    },
-    {
-        "message": "　　　　　　　　Professor, please take her outside."
-    },
-    {
-        "name": "Gardner",
-        "message": "Got it......"
-    },
-    {
-        "message": "Gardner took Cordelia, who stood there frozen in shock, and left the hold."
-    },
-    {
-        "name": "Thomas",
-        "message": "What the hell is this mess?"
-    },
-    {
-        "message": "　　　　　　見てみろ、胴から下がなくなってるぜ。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Is that... a harpoon stuck in your mouth？"
-    },
-    {
-        "message": "　　　　　　　　Who the hell would do something this awful."
-    },
-    {
-        "name": "Thomas",
-        "message": "This guy's pretty damn crazy."
-    },
-    {
-        "message": "　　　　　　Even for me, this is the first time I've seen something this fucked up."
-    },
-    {
-        "name": "Thomas",
-        "message": "What the hell are you spacing out for！"
-    },
-    {
-        "message": "　　　　　　Let's get out of here quick."
-    },
-    {
-        "name": "Thomas",
-        "message": "こんな所を誰かに見られでもしたらどうする？"
-    },
-    {
-        "message": "　　　　　　Nothing good ever comes of this."
-    },
-    {
-        "name": "Thomas",
-        "message": "間違いねえぜ、こりゃ俺達に対する警告だ。"
-    },
-    {
-        "message": "　　　　　　Otherwise, there's no way I'd go through all this hassle for nothing."
-    },
-    {
-        "name": "Jonathan",
-        "message": "A warning, huh？"
-    },
-    {
-        "message": "　　　　　　　　Why　do　I　have　to　do　something　like　that..."
-    },
-    {
-        "name": "Thomas",
-        "message": "Of course I have！"
-    },
-    {
-        "message": "　　　　　　He's trying to say we're poking our noses into things we shouldn't."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Even so......."
-    },
-    {
-        "message": "　　　　　　　　There's no need to kill Marsh！"
-    },
-    {
-        "name": "Thomas",
-        "message": "He knew that the old man was cooperating with us."
-    },
-    {
-        "message": "　　　　　　They say to kill the traitor."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Like hell I’ll stand for something this awful."
-    },
-    {
-        "message": "　　　　　　　　So then, that means we're the ones who caused Marsh to be killed, doesn't it?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Like I care."
-    },
-    {
-        "message": "　　　　　　Grandpa　did　it　of　his　own　will."
-    },
-    {
-        "message": "Come to think of it......"
-    },
-    {
-        "message": "Last night, Marsh was mumbling something in his sleep......"
-    },
-    {
-        "message": "I haven't betrayed anyone, I haven't said a word."
-    },
-    {
-        "message": "Then it must be true that Marsh knew a fact that got to the heart of this village's secret."
-    },
-    {
-        "message": "Someone tried to stop Marsh from telling us about it..."
-    },
-    {
-        "message": "What was Marsh trying to tell us?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Hey..."
-    },
-    {
-        "name": "Thomas",
-        "message": "We better get out of here quick."
-    },
-    {
-        "message": "　　　　　　Nothing good's gonna come from standing around here forever."
-    },
-    {
-        "name": "Thomas",
-        "message": "This is messed up."
-    },
-    {
-        "message": "　　　　　　His guts are spilling out from his stomach."
-    },
-    {
-        "name": "Jonathan",
-        "message": "...Please stop saying it so bluntly."
-    },
-    {
-        "name": "Thomas",
-        "message": "You don't have to push yourself, just get off the boat."
-    },
-    {
-        "message": "　　　　　　Can’t help it if you show me something like that."
-    },
-    {
-        "name": "Jonathan",
-        "message": "No need to worry about me."
-    },
-    {
-        "message": "　　　　　　　　I have to check if there's any evidence about who did this kind of thing."
-    },
-    {
-        "name": "Thomas",
-        "message": "Only someone really strong could pull this off, you know. Even though the lower half of the body is gone, it should still be pretty heavy."
-    },
-    {
-        "name": "Jonathan",
-        "message": "If I had a harpoon in one hand, I’d have to lift Marsh’s corpse up to head height with just the other hand, right?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Even I couldn't pull that off."
-    },
-    {
-        "message": "　　　　　　Considering they're using something like a harpoon, maybe they're a fisherman."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I see, a lot of fishermen are pretty strong."
-    },
-    {
-        "message": "　　　　　　　　But most of the men in this village are fishermen, you know."
-    },
-    {
-        "name": "Thomas",
-        "message": "Even if everyone in this village is out of their minds, I can't believe they'd treat a corpse like a damn toy like this."
-    },
-    {
-        "name": "Thomas",
-        "message": "漁師ってのは、意外と迷信深い奴が多い。"
-    },
-    {
-        "message": "　　　　　　This method is the work of some crazy bastard whose wires are all crossed."
-    },
-    {
-        "message": "Marsh's corpse, pinned to the wall by a spear through the mouth, is missing everything below the torso, as if a shark had torn it off."
-    },
-    {
-        "name": "Thomas",
-        "message": "I've never even heard of sharks off the coast of Great Britain. And I've never seen an animal bigger than a fox, either."
-    },
-    {
-        "name": "Thomas",
-        "message": "No doubt about it, this was done by a human."
-    },
-    {
-        "message": "　　　　　　What the hell are they thinking."
-    },
-    {
-        "message": "Thomas, who rarely makes such an expression, was unusually tense and stared in shock at the corpse pinned to the wall."
-    },
-    {
-        "message": "Even so, he's enduring a situation that would be unbearable to look at for most people."
-    },
-    {
-        "message": "Even I'm barely holding back the urge to vomit, despite being used to seeing pretty messed up corpses from accidents and incidents."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Look closely, doesn't the wound look like it was ripped open by an animal's fangs?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I've never seen a wound like this before."
-    },
-    {
-        "message": "　　　　　　　　If it was cut with a normal Blade, it wouldn't turn out like this."
-    },
-    {
-        "name": "Thomas",
-        "message": "No doubt about it......"
-    },
-    {
-        "message": "　　　　　　Yeah, this is a first for me too."
-    },
-    {
-        "name": "Thomas",
-        "message": "But listen, just think about it with common sense."
-    },
-    {
-        "message": "　　　　　　Even if he's a defenseless old man, there's no way an animal that just goes and eats a grown adult like this could be anywhere around here."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So, did someone really make these wounds on purpose?"
-    },
-    {
-        "name": "Thomas",
-        "message": "You can't think of it any other way, right？"
-    },
-    {
-        "message": "Sure, if you think about it with common sense, that's probably true."
-    },
-    {
-        "message": "But, what is this weird feeling..."
-    },
-    {
-        "message": "Seems like they finished the job with hands as skillful as filleting a fish."
-    },
-    {
-        "message": "There isn't a single trace on the wall that seems to have been left by the culprit."
-    },
-    {
-        "message": "There aren't any traces left on the wall by the culprit who killed Marsh."
-    },
-    {
-        "message": "If the culprit went this far, they must have been drenched in blood head to toe."
-    },
-    {
-        "message": "Just by touching the wall, there should be a bloody handprint left smeared all over. If that's not even there, then it must've been someone really skilled who did it."
-    },
-    {
-        "message": "This is a harpoon that fishermen use."
-    },
-    {
-        "message": "I wonder why they used something like this."
-    },
-    {
-        "message": "Going out of their way to leave something that could be a clue to the culprit..."
-    },
-    {
-        "message": "I guess they're trying to make an example out of us after all."
-    },
-    {
-        "message": "It's a harpoon used by fishermen."
-    },
-    {
-        "message": "It looks pretty well used, and the wooden handle is blackened with grime from hands."
-    },
-    {
-        "message": "If we can figure out who this belongs to, we might be able to track down the culprit."
-    },
-    {
-        "message": "But come on, we're not cops-there's no way the villagers would just tell us something like that."
-    },
-    {
-        "message": "So, after all, is there really nothing we can do...?"
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "name": "Thomas",
+    "message": "Ugh......"
+  },
+  {
+    "message": "　　　　　　What the hell is this smell?"
+  },
+  {
+    "name": "Gardner",
+    "message": "This is unbearable... what a terrible smell."
+  },
+  {
+    "message": "Inside the room, there was a stench even stronger than the rotten fish smell filling the outside of the ship, mixed with a raw, fishy odor."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Look, on the bed."
+  },
+  {
+    "message": "　　　　　　　　Is that... could it be, blood？"
+  },
+  {
+    "message": "On the Bed, probably from inside a pillow or something, there's waterfowl feathers and, unmistakably, some semi-clotted blood stuck on thick."
+  },
+  {
+    "message": "And then, on the wall behind the Bed‥‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Marsh！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Wha......what is this？"
+  },
+  {
+    "message": "It's Marsh."
+  },
+  {
+    "message": "It's a completely changed appearance, but there's no doubt about it......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "What on earth happened？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Don't look！"
+  },
+  {
+    "message": "　　　　　　　　Professor, please take her outside."
+  },
+  {
+    "name": "Gardner",
+    "message": "Got it......"
+  },
+  {
+    "message": "Gardner took Cordelia, who stood there frozen in shock, and left the hold."
+  },
+  {
+    "name": "Thomas",
+    "message": "What the hell is this mess?"
+  },
+  {
+    "message": "　　　　　　Look at that-everything below the torso is gone."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is that... a harpoon stuck in your mouth？"
+  },
+  {
+    "message": "　　　　　　　　Who the hell would do something this awful."
+  },
+  {
+    "name": "Thomas",
+    "message": "This guy's pretty damn crazy."
+  },
+  {
+    "message": "　　　　　　Even for me, this is the first time I've seen something this fucked up."
+  },
+  {
+    "name": "Thomas",
+    "message": "What the hell are you spacing out for！"
+  },
+  {
+    "message": "　　　　　　Let's get out of here quick."
+  },
+  {
+    "name": "Thomas",
+    "message": "What'll we do if someone sees us in a place like this？"
+  },
+  {
+    "message": "　　　　　　Nothing good ever comes of this."
+  },
+  {
+    "name": "Thomas",
+    "message": "No doubt about it, this is a warning to us."
+  },
+  {
+    "message": "　　　　　　Otherwise, there's no way I'd go through all this hassle for nothing."
+  },
+  {
+    "name": "Jonathan",
+    "message": "A warning, huh？"
+  },
+  {
+    "message": "　　　　　　　　Why　do　I　have　to　do　something　like　that..."
+  },
+  {
+    "name": "Thomas",
+    "message": "Of course I have！"
+  },
+  {
+    "message": "　　　　　　He's trying to say we're poking our noses into things we shouldn't."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Even so......."
+  },
+  {
+    "message": "　　　　　　　　There's no need to kill Marsh！"
+  },
+  {
+    "name": "Thomas",
+    "message": "He knew that the old man was cooperating with us."
+  },
+  {
+    "message": "　　　　　　They say to kill the traitor."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Like hell I’ll stand for something this awful."
+  },
+  {
+    "message": "　　　　　　　　So then, that means we're the ones who caused Marsh to be killed, doesn't it?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Like I care."
+  },
+  {
+    "message": "　　　　　　Grandpa　did　it　of　his　own　will."
+  },
+  {
+    "message": "Come to think of it......"
+  },
+  {
+    "message": "Last night, Marsh was mumbling something in his sleep......"
+  },
+  {
+    "message": "I haven't betrayed anyone, I haven't said a word."
+  },
+  {
+    "message": "Then it must be true that Marsh knew a fact that got to the heart of this village's secret."
+  },
+  {
+    "message": "Someone tried to stop Marsh from telling us about it..."
+  },
+  {
+    "message": "What was Marsh trying to tell us?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Hey..."
+  },
+  {
+    "name": "Thomas",
+    "message": "We better get out of here quick."
+  },
+  {
+    "message": "　　　　　　Nothing good's gonna come from standing around here forever."
+  },
+  {
+    "name": "Thomas",
+    "message": "This is messed up."
+  },
+  {
+    "message": "　　　　　　His guts are spilling out from his stomach."
+  },
+  {
+    "name": "Jonathan",
+    "message": "...Please stop saying it so bluntly."
+  },
+  {
+    "name": "Thomas",
+    "message": "You don't have to push yourself, just get off the boat."
+  },
+  {
+    "message": "　　　　　　Can’t help it if you show me something like that."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No need to worry about me."
+  },
+  {
+    "message": "　　　　　　　　I have to check if there's any evidence about who did this kind of thing."
+  },
+  {
+    "name": "Thomas",
+    "message": "Only someone really strong could pull this off, you know. Even though the lower half of the body is gone, it should still be pretty heavy."
+  },
+  {
+    "name": "Jonathan",
+    "message": "If I had a harpoon in one hand, I’d have to lift Marsh’s corpse up to head height with just the other hand, right?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Even I couldn't pull that off."
+  },
+  {
+    "message": "　　　　　　Considering they're using something like a harpoon, maybe they're a fisherman."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I see, a lot of fishermen are pretty strong."
+  },
+  {
+    "message": "　　　　　　　　But most of the men in this village are fishermen, you know."
+  },
+  {
+    "name": "Thomas",
+    "message": "Even if everyone in this village is out of their minds, I can't believe they'd treat a corpse like a damn toy like this."
+  },
+  {
+    "name": "Thomas",
+    "message": "Fishermen are, surprisingly, a superstitious lot."
+  },
+  {
+    "message": "　　　　　　This method is the work of some crazy bastard whose wires are all crossed."
+  },
+  {
+    "message": "Marsh's corpse, pinned to the wall by a spear through the mouth, is missing everything below the torso, as if a shark had torn it off."
+  },
+  {
+    "name": "Thomas",
+    "message": "I've never even heard of sharks off the coast of Great Britain. And I've never seen an animal bigger than a fox, either."
+  },
+  {
+    "name": "Thomas",
+    "message": "No doubt about it, this was done by a human."
+  },
+  {
+    "message": "　　　　　　What the hell are they thinking."
+  },
+  {
+    "message": "Thomas, who rarely makes such an expression, was unusually tense and stared in shock at the corpse pinned to the wall."
+  },
+  {
+    "message": "Even so, he's enduring a situation that would be unbearable to look at for most people."
+  },
+  {
+    "message": "Even I'm barely holding back the urge to vomit, despite being used to seeing pretty messed up corpses from accidents and incidents."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Look closely, doesn't the wound look like it was ripped open by an animal's fangs?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I've never seen a wound like this before."
+  },
+  {
+    "message": "　　　　　　　　If it was cut with a normal Blade, it wouldn't turn out like this."
+  },
+  {
+    "name": "Thomas",
+    "message": "No doubt about it......"
+  },
+  {
+    "message": "　　　　　　Yeah, this is a first for me too."
+  },
+  {
+    "name": "Thomas",
+    "message": "But listen, just think about it with common sense."
+  },
+  {
+    "message": "　　　　　　Even if he's a defenseless old man, there's no way an animal that just goes and eats a grown adult like this could be anywhere around here."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So, did someone really make these wounds on purpose?"
+  },
+  {
+    "name": "Thomas",
+    "message": "You can't think of it any other way, right？"
+  },
+  {
+    "message": "Sure, if you think about it with common sense, that's probably true."
+  },
+  {
+    "message": "But, what is this weird feeling..."
+  },
+  {
+    "message": "Seems like they finished the job with hands as skillful as filleting a fish."
+  },
+  {
+    "message": "There isn't a single trace on the wall that seems to have been left by the culprit."
+  },
+  {
+    "message": "There aren't any traces left on the wall by the culprit who killed Marsh."
+  },
+  {
+    "message": "If the culprit went this far, they must have been drenched in blood head to toe."
+  },
+  {
+    "message": "Just by touching the wall, there should be a bloody handprint left smeared all over. If that's not even there, then it must've been someone really skilled who did it."
+  },
+  {
+    "message": "This is a harpoon that fishermen use."
+  },
+  {
+    "message": "I wonder why they used something like this."
+  },
+  {
+    "message": "Going out of their way to leave something that could be a clue to the culprit..."
+  },
+  {
+    "message": "I guess they're trying to make an example out of us after all."
+  },
+  {
+    "message": "It's a harpoon used by fishermen."
+  },
+  {
+    "message": "It looks pretty well used, and the wooden handle is blackened with grime from hands."
+  },
+  {
+    "message": "If we can figure out who this belongs to, we might be able to track down the culprit."
+  },
+  {
+    "message": "But come on, we're not cops-there's no way the villagers would just tell us something like that."
+  },
+  {
+    "message": "So, after all, is there really nothing we can do...?"
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

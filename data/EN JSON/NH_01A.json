@@ -1,220 +1,220 @@
 [
-    {
-        "message": "精錬所の跡地だ。"
-    },
-    {
-        "message": "Inside the hut that looked like an abandoned house, it felt like someone could be lurking in the darkness, and I really didn't want to stay for long."
-    },
-    {
-        "message": "ダニッジの精錬所の跡だ。"
-    },
-    {
-        "message": "It's a building kind of like a hut that's about to collapse, but since the entrance door is gone, anyone can just wander in easily."
-    },
-    {
-        "message": "The greedy villagers, blinded by money, have completely ransacked the place, and nothing of value is left."
-    },
-    {
-        "message": "This is the refinery that Dunwich used to use."
-    },
-    {
-        "message": "There's a roof, and it's surrounded by walls on all sides, so it sorta still looks like a factory, but the doors are busted and the walls have holes here and there."
-    },
-    {
-        "message": "If you wanted to, it seems like anyone could come and go as they please."
-    },
-    {
-        "message": "If I were the kind of person blinded by money, I would've barged right in here without a second thought."
-    },
-    {
-        "message": "Even if Philip left something behind, there's no guarantee it's still around now."
-    },
-    {
-        "message": "Junk-like machines, whose purposes aren't clear, take up one whole side of the room, but they're so rusted over that they don't look like they're worth anything at all."
-    },
-    {
-        "message": "It seems that Philip's greedy heirs have used up the savings down to the very last pound."
-    },
-    {
-        "message": "Is it just pointless to look for it......"
-    },
-    {
-        "message": "It's a device like a giant boiler."
-    },
-    {
-        "message": "It's not clear how this system works, but if it's just to increase the purity of the gold, there shouldn't be any need for such an elaborate setup."
-    },
-    {
-        "message": "It's shaped like a pot for distilling moonshine."
-    },
-    {
-        "message": "It's probably a device for refining impure gold, but I've never seen anything with such a weird shape before."
-    },
-    {
-        "message": "Come to think of it, Marsh said that what Philip brought back from his business trip was something like gold."
-    },
-    {
-        "message": "Are these devices for turning that 'gold-like stuff' into real gold？"
-    },
-    {
-        "message": "If it's just for refining, there shouldn't be any need for such an elaborate setup."
-    },
-    {
-        "message": "Covered in soot and rust, the machine looks like it could still run even now, at least on the surface, if you just gave it some maintenance."
-    },
-    {
-        "message": "I have absolutely no idea what kind of machine this is used for."
-    },
-    {
-        "message": "It's definitely not like it was just used for refining gold..."
-    },
-    {
-        "message": "どういう仕組みになっているのか皆目見当がつかない。"
-    },
-    {
-        "message": "I wonder what Philip was doing with this device."
-    },
-    {
-        "message": "If you just want to refine gold, all you have to do is melt gold with impurities and burn off the impurities."
-    },
-    {
-        "message": "I can't believe these machines were made just to handle such simple tasks."
-    },
-    {
-        "message": "床には埃の他に、細かい砂や枯れた植物などが積もっている。"
-    },
-    {
-        "message": "It's obvious that nobody's been in the Hut for a really long time."
-    },
-    {
-        "message": "扉が壊されてしまっているせいで、床には埃の他に細かい砂や、枯れた植物の葉などが積もってしまっている。"
-    },
-    {
-        "message": "Even if someone got interested in this hut, it must have been a long time since anyone actually came inside."
-    },
-    {
-        "message": "So there's nothing of value left here anymore......"
-    },
-    {
-        "message": "フィリップ・ダニッジが何かを残しているとしても、とっくの昔に持ち去られてしまっているだろう。"
-    },
-    {
-        "message": "Thomas broke the key."
-    },
-    {
-        "message": "There's no guarantee that there aren't already people inside, but for now, I can at least go in."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Looks like there’s something behind this door."
-    },
-    {
-        "message": "　　　　　　　　鍵がかかっているが‥‥‥‥‥‥‥開けられるか？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Let me see it..."
-    },
-    {
-        "name": "Thomas",
-        "message": "What the hell, a cheap lock like this would break if you just kicked it.　　　　　　As long as there aren't things like poison-tipped arrows that come flying at you the moment you open the door, anyway."
-    },
-    {
-        "message": "That kind of thing isn't possible-this isn't the tomb of some ancient people with buried treasure, after all."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Do it."
-    },
-    {
-        "message": "Thomas, looking reluctant, approached the locked door."
-    },
-    {
-        "message": "When I shake the door with enough force to almost rip off the doorknob, the flimsy walls creak and groan noisily."
-    },
-    {
-        "name": "Thomas",
-        "message": "Even if he's a soft guy, he should at least be able to do something like that."
-    },
-    {
-        "message": "　　　　　　You should be able to handle this yourself......"
-    },
-    {
-        "name": "Thomas",
-        "message": "It's open, piece of cake."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You're pretty handy, huh."
-    },
-    {
-        "message": "　　　　　　　　Could it be that you've done something like this before？"
-    },
-    {
-        "name": "Thomas",
-        "message": "No unnecessary snooping, let's hurry up and see the treasure."
-    },
-    {
-        "message": "Looks like it connects to the next room."
-    },
-    {
-        "message": "It doesn’t look very sturdy, but it’s locked."
-    },
-    {
-        "message": "Even if someone got into the hut, it looks like they didn’t mess up the room next door."
-    },
-    {
-        "message": "If anything's left behind, that room over there is more likely."
-    },
-    {
-        "message": "I could probably break a lock like this pretty easily."
-    },
-    {
-        "message": "A dust-covered light bulb, looking too suspicious to be usable, dangles down. It seems like someone other than the Dunwich family tried to use this refinery."
-    },
-    {
-        "message": "From the ceiling hangs a light bulb with a metal shade."
-    },
-    {
-        "message": "When Philip Dunwich built this refinery, there shouldn't have even been electric lights yet."
-    },
-    {
-        "message": "So that would mean someone later on installed them, but......"
-    },
-    {
-        "message": "By that time, wasn't their savings already pretty much dried up?"
-    },
-    {
-        "message": "Even so, if they were still intent on using the hut, does that mean they expected to get new money from somewhere?"
-    },
-    {
-        "message": "I can't imagine scholarly Dollie having a knack for risky ventures, so maybe someone-not from the Dunwich family-did this."
-    },
-    {
-        "message": "It's such a cheap-looking building, it's hard to believe this place produced enough wealth to build railroads and a university in Arkham."
-    },
-    {
-        "message": "It's so shoddily built, it's like they just slapped together scrap wood."
-    },
-    {
-        "message": "This sketchiness is just like those underground distilleries that used to pop up back when alcohol was heavily taxed."
-    },
-    {
-        "message": "It's hard to believe that so much wealth was being produced here that it could completely change an entire village."
-    },
-    {
-        "message": "It’s all thanks to a swindler named Philip Dunwich, but the way the current villagers treat the Dunwich family is just too unreasonable."
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Next room　　"
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Next room　　"
-    }
+  {
+    "message": "This is the site of the old Refinery."
+  },
+  {
+    "message": "Inside the hut that looked like an abandoned house, it felt like someone could be lurking in the darkness, and I really didn't want to stay for long."
+  },
+  {
+    "message": "It's the remains of Dunwich's Refinery."
+  },
+  {
+    "message": "It's a building kind of like a hut that's about to collapse, but since the entrance door is gone, anyone can just wander in easily."
+  },
+  {
+    "message": "The greedy villagers, blinded by money, have completely ransacked the place, and nothing of value is left."
+  },
+  {
+    "message": "This is the refinery that Dunwich used to use."
+  },
+  {
+    "message": "There's a roof, and it's surrounded by walls on all sides, so it sorta still looks like a factory, but the doors are busted and the walls have holes here and there."
+  },
+  {
+    "message": "If you wanted to, it seems like anyone could come and go as they please."
+  },
+  {
+    "message": "If I were the kind of person blinded by money, I would've barged right in here without a second thought."
+  },
+  {
+    "message": "Even if Philip left something behind, there's no guarantee it's still around now."
+  },
+  {
+    "message": "Junk-like machines, whose purposes aren't clear, take up one whole side of the room, but they're so rusted over that they don't look like they're worth anything at all."
+  },
+  {
+    "message": "It seems that Philip's greedy heirs have used up the savings down to the very last pound."
+  },
+  {
+    "message": "Is it just pointless to look for it......"
+  },
+  {
+    "message": "It's a device like a giant boiler."
+  },
+  {
+    "message": "It's not clear how this system works, but if it's just to increase the purity of the gold, there shouldn't be any need for such an elaborate setup."
+  },
+  {
+    "message": "It's shaped like a pot for distilling moonshine."
+  },
+  {
+    "message": "It's probably a device for refining impure gold, but I've never seen anything with such a weird shape before."
+  },
+  {
+    "message": "Come to think of it, Marsh said that what Philip brought back from his business trip was something like gold."
+  },
+  {
+    "message": "Are these devices for turning that 'gold-like stuff' into real gold？"
+  },
+  {
+    "message": "If it's just for refining, there shouldn't be any need for such an elaborate setup."
+  },
+  {
+    "message": "Covered in soot and rust, the machine looks like it could still run even now, at least on the surface, if you just gave it some maintenance."
+  },
+  {
+    "message": "I have absolutely no idea what kind of machine this is used for."
+  },
+  {
+    "message": "It's definitely not like it was just used for refining gold..."
+  },
+  {
+    "message": "I have absolutely no clue how this thing is set up."
+  },
+  {
+    "message": "I wonder what Philip was doing with this device."
+  },
+  {
+    "message": "If you just want to refine gold, all you have to do is melt gold with impurities and burn off the impurities."
+  },
+  {
+    "message": "I can't believe these machines were made just to handle such simple tasks."
+  },
+  {
+    "message": "On the floor, besides dust, there's piles of fine sand and dead plants and stuff like that."
+  },
+  {
+    "message": "It's obvious that nobody's been in the Hut for a really long time."
+  },
+  {
+    "message": "Because the door has been broken, in addition to dust, fine sand and withered plant leaves have piled up on the floor."
+  },
+  {
+    "message": "Even if someone got interested in this hut, it must have been a long time since anyone actually came inside."
+  },
+  {
+    "message": "So there's nothing of value left here anymore......"
+  },
+  {
+    "message": "Even if Philip Dunwich left something, it would've been taken away ages ago."
+  },
+  {
+    "message": "Thomas broke the key."
+  },
+  {
+    "message": "There's no guarantee that there aren't already people inside, but for now, I can at least go in."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Looks like there’s something behind this door."
+  },
+  {
+    "message": "　　　　　　　　It's locked but......... can I open it？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Let me see it..."
+  },
+  {
+    "name": "Thomas",
+    "message": "What the hell, a cheap lock like this would break if you just kicked it.　　　　　　As long as there aren't things like poison-tipped arrows that come flying at you the moment you open the door, anyway."
+  },
+  {
+    "message": "That kind of thing isn't possible-this isn't the tomb of some ancient people with buried treasure, after all."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Do it."
+  },
+  {
+    "message": "Thomas, looking reluctant, approached the locked door."
+  },
+  {
+    "message": "When I shake the door with enough force to almost rip off the doorknob, the flimsy walls creak and groan noisily."
+  },
+  {
+    "name": "Thomas",
+    "message": "Even if he's a soft guy, he should at least be able to do something like that."
+  },
+  {
+    "message": "　　　　　　You should be able to handle this yourself......"
+  },
+  {
+    "name": "Thomas",
+    "message": "It's open, piece of cake."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You're pretty handy, huh."
+  },
+  {
+    "message": "　　　　　　　　Could it be that you've done something like this before？"
+  },
+  {
+    "name": "Thomas",
+    "message": "No unnecessary snooping, let's hurry up and see the treasure."
+  },
+  {
+    "message": "Looks like it connects to the next room."
+  },
+  {
+    "message": "It doesn’t look very sturdy, but it’s locked."
+  },
+  {
+    "message": "Even if someone got into the hut, it looks like they didn’t mess up the room next door."
+  },
+  {
+    "message": "If anything's left behind, that room over there is more likely."
+  },
+  {
+    "message": "I could probably break a lock like this pretty easily."
+  },
+  {
+    "message": "A dust-covered light bulb, looking too suspicious to be usable, dangles down. It seems like someone other than the Dunwich family tried to use this refinery."
+  },
+  {
+    "message": "From the ceiling hangs a light bulb with a metal shade."
+  },
+  {
+    "message": "When Philip Dunwich built this refinery, there shouldn't have even been electric lights yet."
+  },
+  {
+    "message": "So that would mean someone later on installed them, but......"
+  },
+  {
+    "message": "By that time, wasn't their savings already pretty much dried up?"
+  },
+  {
+    "message": "Even so, if they were still intent on using the hut, does that mean they expected to get new money from somewhere?"
+  },
+  {
+    "message": "I can't imagine scholarly Dollie having a knack for risky ventures, so maybe someone-not from the Dunwich family-did this."
+  },
+  {
+    "message": "It's such a cheap-looking building, it's hard to believe this place produced enough wealth to build railroads and a university in Arkham."
+  },
+  {
+    "message": "It's so shoddily built, it's like they just slapped together scrap wood."
+  },
+  {
+    "message": "This sketchiness is just like those underground distilleries that used to pop up back when alcohol was heavily taxed."
+  },
+  {
+    "message": "It's hard to believe that so much wealth was being produced here that it could completely change an entire village."
+  },
+  {
+    "message": "It’s all thanks to a swindler named Philip Dunwich, but the way the current villagers treat the Dunwich family is just too unreasonable."
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Next room　　"
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Next room　　"
+  }
 ]

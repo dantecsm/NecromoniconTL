@@ -1,354 +1,354 @@
 [
-    {
-        "message": "I'm in front of the general store."
-    },
-    {
-        "message": "Doesn't look like anything's out of the ordinary, though......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "What, what business could you possibly have at Hans's shop now?　　　　　　　　Jonathan, are you stupid or something?"
-    },
-    {
-        "message": "Cordelia seems to be in a really bad mood."
-    },
-    {
-        "message": "She’s naturally strong-willed, so when she gets like this, there’s nothing I can do about it either."
-    },
-    {
-        "message": "いくらトマスの不審な行動を確かめる為とはいえ、やはりコーデリアがいる前で娼館に入ったのはまずかったか。"
-    },
-    {
-        "message": "なんとか機嫌を直さなくては。"
-    },
-    {
-        "message": "The shop is deserted and completely silent."
-    },
-    {
-        "message": "ハンスは店を放ったまま、どこに行ってしまったのだろう。"
-    },
-    {
-        "message": "It's in front of the general store."
-    },
-    {
-        "message": "Looks like the shop's open, but as usual, there aren't any villagers who look like customers around the place."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Oh, do you need something at 'Hans' shop'？"
-    },
-    {
-        "message": "　　　　　　　　必要な物があるならわたしが調達してあげるのに。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "The stuff here isn't that great, you know."
-    },
-    {
-        "message": "　　　　　　　　If there's nothing you need right away, you should just leave it alone."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Hey, isn't it pointless to come to a place like this now？"
-    },
-    {
-        "message": "　　　　　　　　Hans won't tell us anything, you know."
-    },
-    {
-        "name": "Cordelia",
-        "message": "それに‥‥‥‥‥‥‥"
-    },
-    {
-        "message": "　　　　　　　　I really don't want to see Hans. After what he said, how am I supposed to talk to him and keep a straight face？"
-    },
-    {
-        "message": "There's no sign of anyone inside..."
-    },
-    {
-        "message": "Since the suspension bridge is in that condition, the shopkeeper must be staying somewhere in the village, too."
-    },
-    {
-        "message": "The shop is already closed, so the door is firmly shut."
-    },
-    {
-        "message": "But since it's not exactly a sturdy wooden door, sneaking in wouldn't be hard at all if I wanted to."
-    },
-    {
-        "message": "If it's just a flimsy door like this, even I could bust it open easily."
-    },
-    {
-        "message": "If I really have to, I guess I could try doing it."
-    },
-    {
-        "message": "There's no sign of any customers inside, but it looks like the shop's actually open."
-    },
-    {
-        "message": "I doubt there's anything to gain from seeing Hans at this point..."
-    },
-    {
-        "message": "Hans isn't nearly as willing to cooperate with us as he was before."
-    },
-    {
-        "message": "Hans isn't a villager and doesn't owe them anything, so why would he go out of his way to refuse to help us?"
-    },
-    {
-        "message": "Just like Marsh, who was scared after having a dream about being chased right before he died, maybe Hans is being threatened by someone too."
-    },
-    {
-        "message": "In fact, Marsh was killed in a gruesome way by someone."
-    },
-    {
-        "message": "Those who want to protect the village's secret clearly showed their willingness to resort to murder if it's for their goal."
-    },
-    {
-        "message": "There's no sign of anyone inside, though..."
-    },
-    {
-        "message": "Since the suspension bridge is in that state, the shopkeeper will have to stay somewhere in the village too."
-    },
-    {
-        "message": "Since business hours are already over, the door is tightly shut."
-    },
-    {
-        "message": "But since it's a wooden door that isn't all that sturdy, sneaking in wouldn't be any trouble at all."
-    },
-    {
-        "message": "If it's a flimsy door like this, even I can totally smash it down with my strength."
-    },
-    {
-        "message": "If you really have to do it no matter what, I guess it's okay to give it a try."
-    },
-    {
-        "message": "Doesn't seem like there are any customers in the shop, but it looks like they're open for business."
-    },
-    {
-        "message": "I don't think there's anything to gain from meeting Hans at this point..."
-    },
-    {
-        "message": "It doesn't feel like there's anyone inside, but it looks like the place is open for business."
-    },
-    {
-        "message": "Even if Hans the shopkeeper wasn't in the store, he probably wouldn't be careful enough to lock up."
-    },
-    {
-        "message": "He doesn't seem all that enthusiastic about business, so even if the shop goes under, he can just go somewhere else and find another job."
-    },
-    {
-        "message": "ハンスがアーカムに固執する理由は何処にもない訳だ。"
-    },
-    {
-        "message": "Before, you said you didn't want to talk about why you ended up in this village, but you probably committed some crime and came here to hide, right?"
-    },
-    {
-        "message": "There’s nothing particularly interesting on display."
-    },
-    {
-        "message": "With this, no one would even think of going out of their way to break the glass just to steal it."
-    },
-    {
-        "message": "Outdated, worthless products that you hardly ever see anymore are carelessly lined up."
-    },
-    {
-        "message": "Like this, it's not just me-it's hard to even get the villagers interested in buying anything."
-    },
-    {
-        "message": "It doesn't seem like they're doing business all that enthusiastically."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I never thought you were that kind of person."
-    },
-    {
-        "message": "　　　　　　　　If you want, why don't you just go to the brothel again right now？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "What, is there something you want to say to me？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "No, not really........."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So, you're saying you don't even need to make excuses, huh？"
-    },
-    {
-        "message": "　　　　　　　　Try to explain yourself a little, will you?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "How about you listen to what I have to say."
-    },
-    {
-        "message": "　　　　　　　　私だって好きであんな所に行ったわけじゃないんだ。"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Then why did you go?"
-    },
-    {
-        "message": "　　　　　　　　Buying women with money is so filthy."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Hey, hold on a sec."
-    },
-    {
-        "name": "Cordelia",
-        "message": "なによ、言いたい事があるなら、言ってみなさいよ。"
-    },
-    {
-        "message": "It's not wise to talk about my suspicions in front of Thomas. I want to keep it hidden that I'm convinced what I saw outside the Church of Dagon-Nai and Thomas talking-was definitely not just some random meeting."
-    },
-    {
-        "name": "Cordelia",
-        "message": "See, look."
-    },
-    {
-        "message": "　　　　　　　　You can't even talk back."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'll talk to you later."
-    },
-    {
-        "message": "　　　　　　　　This isn't something I can talk about here."
-    },
-    {
-        "name": "Cordelia",
-        "message": "No matter what the reason is, it doesn't change the fact that you hurt me, Jonathan."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's why I'm telling you, it wasn't what I really wanted to do."
-    },
-    {
-        "message": "　　　　　　　　Please, forgive me already."
-    },
-    {
-        "name": "Cordelia",
-        "message": "..........So, how was it?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "What do you mean？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I mean, the other person was a pro, after all-it must've felt really good, huh?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why are you bringing that up all of a sudden?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Just be honest with me！"
-    },
-    {
-        "message": "　　　　　　　　What did she do to you, Jonathan?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Even if you ask what, I mean......"
-    },
-    {
-        "message": "　　　　　　　　It was such a bizarre experience, my head wasn't clear at all."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So it did feel good, then."
-    },
-    {
-        "message": "　　　　　　　　Come on, even if you act all high and mighty with your valid reasons, you still enjoyed yourself in the end, didn't you?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Maybe Hans is actually a pretty dangerous guy."
-    },
-    {
-        "message": "　　　　　　　　She’s totally quiet now, but who knows what kind of past she’s got hiding behind her."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I don't really want to go inside the shop."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why is that？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Hans looks like a pretty nice guy and all, but I wonder if maybe he's actually hiding some kind of dark secret."
-    },
-    {
-        "message": "確かに、以前ハンス自身の口からこの村に流れて来た理由は聞かないでほしいと聞いた事がある。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Do you know why Hans came to Arkham？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "No..."
-    },
-    {
-        "message": "　　　　　　　　I don't really talk to Hans that much."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'm kinda curious about what kind of past that guy has."
-    },
-    {
-        "message": "　　　　　　　　What kind of trouble did you cause in the previous place?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Come to think of it, I remember seeing Hans wandering around Gilman House quite a while ago."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What was it like？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I don't really get it, but......"
-    },
-    {
-        "message": "　　　　　　　　When　they　noticed　I　was　watching,　they　immediately　ran　off　like　they　were　escaping　and　went　home."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Maybe he was trying to do something bad to you.　　　　　　　　It's not normal for someone to hang around the house of a young girl living alone."
-    },
-    {
-        "name": "Jonathan",
-        "message": "They seem to have more than a little interest in you.　　　　　　　　I heard you even tried sneaking into the Gilman House, right?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I don't know."
-    },
-    {
-        "message": "　　　　　　　　There wasn't any sign of that at all."
-    },
-    {
-        "name": "Jonathan",
-        "message": "But, sneaking into a young girl's house is anything but peaceful."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Don't you think there's a good chance the reason he drifted into this village is related to that sort of thing？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Maybe he did something terrible in the last place he lived. He might've committed a crime that got the police after him."
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "message": "I'm in front of the general store."
+  },
+  {
+    "message": "Doesn't look like anything's out of the ordinary, though......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "What, what business could you possibly have at Hans's shop now?　　　　　　　　Jonathan, are you stupid or something?"
+  },
+  {
+    "message": "Cordelia seems to be in a really bad mood."
+  },
+  {
+    "message": "She’s naturally strong-willed, so when she gets like this, there’s nothing I can do about it either."
+  },
+  {
+    "message": "Even if it was to check up on Thomas' suspicious behavior, I guess going into a brothel right in front of Cordelia was a bad move."
+  },
+  {
+    "message": "I've gotta do something to fix her mood."
+  },
+  {
+    "message": "The shop is deserted and completely silent."
+  },
+  {
+    "message": "Where on earth did Hans go, leaving the store like that?"
+  },
+  {
+    "message": "It's in front of the general store."
+  },
+  {
+    "message": "Looks like the shop's open, but as usual, there aren't any villagers who look like customers around the place."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Oh, do you need something at 'Hans' shop'？"
+  },
+  {
+    "message": "　　　　　　　　If you need something, I could go get it for you."
+  },
+  {
+    "name": "Cordelia",
+    "message": "The stuff here isn't that great, you know."
+  },
+  {
+    "message": "　　　　　　　　If there's nothing you need right away, you should just leave it alone."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Hey, isn't it pointless to come to a place like this now？"
+  },
+  {
+    "message": "　　　　　　　　Hans won't tell us anything, you know."
+  },
+  {
+    "name": "Cordelia",
+    "message": "And......"
+  },
+  {
+    "message": "　　　　　　　　I really don't want to see Hans. After what he said, how am I supposed to talk to him and keep a straight face？"
+  },
+  {
+    "message": "There's no sign of anyone inside..."
+  },
+  {
+    "message": "Since the suspension bridge is in that condition, the shopkeeper must be staying somewhere in the village, too."
+  },
+  {
+    "message": "The shop is already closed, so the door is firmly shut."
+  },
+  {
+    "message": "But since it's not exactly a sturdy wooden door, sneaking in wouldn't be hard at all if I wanted to."
+  },
+  {
+    "message": "If it's just a flimsy door like this, even I could bust it open easily."
+  },
+  {
+    "message": "If I really have to, I guess I could try doing it."
+  },
+  {
+    "message": "There's no sign of any customers inside, but it looks like the shop's actually open."
+  },
+  {
+    "message": "I doubt there's anything to gain from seeing Hans at this point..."
+  },
+  {
+    "message": "Hans isn't nearly as willing to cooperate with us as he was before."
+  },
+  {
+    "message": "Hans isn't a villager and doesn't owe them anything, so why would he go out of his way to refuse to help us?"
+  },
+  {
+    "message": "Just like Marsh, who was scared after having a dream about being chased right before he died, maybe Hans is being threatened by someone too."
+  },
+  {
+    "message": "In fact, Marsh was killed in a gruesome way by someone."
+  },
+  {
+    "message": "Those who want to protect the village's secret clearly showed their willingness to resort to murder if it's for their goal."
+  },
+  {
+    "message": "There's no sign of anyone inside, though..."
+  },
+  {
+    "message": "Since the suspension bridge is in that state, the shopkeeper will have to stay somewhere in the village too."
+  },
+  {
+    "message": "Since business hours are already over, the door is tightly shut."
+  },
+  {
+    "message": "But since it's a wooden door that isn't all that sturdy, sneaking in wouldn't be any trouble at all."
+  },
+  {
+    "message": "If it's a flimsy door like this, even I can totally smash it down with my strength."
+  },
+  {
+    "message": "If you really have to do it no matter what, I guess it's okay to give it a try."
+  },
+  {
+    "message": "Doesn't seem like there are any customers in the shop, but it looks like they're open for business."
+  },
+  {
+    "message": "I don't think there's anything to gain from meeting Hans at this point..."
+  },
+  {
+    "message": "It doesn't feel like there's anyone inside, but it looks like the place is open for business."
+  },
+  {
+    "message": "Even if Hans the shopkeeper wasn't in the store, he probably wouldn't be careful enough to lock up."
+  },
+  {
+    "message": "He doesn't seem all that enthusiastic about business, so even if the shop goes under, he can just go somewhere else and find another job."
+  },
+  {
+    "message": "There's no real reason for Hans to be so hung up on Arkham, either."
+  },
+  {
+    "message": "Before, you said you didn't want to talk about why you ended up in this village, but you probably committed some crime and came here to hide, right?"
+  },
+  {
+    "message": "There’s nothing particularly interesting on display."
+  },
+  {
+    "message": "With this, no one would even think of going out of their way to break the glass just to steal it."
+  },
+  {
+    "message": "Outdated, worthless products that you hardly ever see anymore are carelessly lined up."
+  },
+  {
+    "message": "Like this, it's not just me-it's hard to even get the villagers interested in buying anything."
+  },
+  {
+    "message": "It doesn't seem like they're doing business all that enthusiastically."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I never thought you were that kind of person."
+  },
+  {
+    "message": "　　　　　　　　If you want, why don't you just go to the brothel again right now？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "What, is there something you want to say to me？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "No, not really........."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So, you're saying you don't even need to make excuses, huh？"
+  },
+  {
+    "message": "　　　　　　　　Try to explain yourself a little, will you?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "How about you listen to what I have to say."
+  },
+  {
+    "message": "　　　　　　　　It's not like I wanted to go to a place like that, you know."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Then why did you go?"
+  },
+  {
+    "message": "　　　　　　　　Buying women with money is so filthy."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Hey, hold on a sec."
+  },
+  {
+    "name": "Cordelia",
+    "message": "What, if you've got something to say, just spit it out."
+  },
+  {
+    "message": "It's not wise to talk about my suspicions in front of Thomas. I want to keep it hidden that I'm convinced what I saw outside the Church of Dagon-Nai and Thomas talking-was definitely not just some random meeting."
+  },
+  {
+    "name": "Cordelia",
+    "message": "See, look."
+  },
+  {
+    "message": "　　　　　　　　You can't even talk back."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'll talk to you later."
+  },
+  {
+    "message": "　　　　　　　　This isn't something I can talk about here."
+  },
+  {
+    "name": "Cordelia",
+    "message": "No matter what the reason is, it doesn't change the fact that you hurt me, Jonathan."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's why I'm telling you, it wasn't what I really wanted to do."
+  },
+  {
+    "message": "　　　　　　　　Please, forgive me already."
+  },
+  {
+    "name": "Cordelia",
+    "message": "..........So, how was it?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "What do you mean？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I mean, the other person was a pro, after all-it must've felt really good, huh?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why are you bringing that up all of a sudden?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Just be honest with me！"
+  },
+  {
+    "message": "　　　　　　　　What did she do to you, Jonathan?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Even if you ask what, I mean......"
+  },
+  {
+    "message": "　　　　　　　　It was such a bizarre experience, my head wasn't clear at all."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So it did feel good, then."
+  },
+  {
+    "message": "　　　　　　　　Come on, even if you act all high and mighty with your valid reasons, you still enjoyed yourself in the end, didn't you?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Maybe Hans is actually a pretty dangerous guy."
+  },
+  {
+    "message": "　　　　　　　　She’s totally quiet now, but who knows what kind of past she’s got hiding behind her."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I don't really want to go inside the shop."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why is that？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Hans looks like a pretty nice guy and all, but I wonder if maybe he's actually hiding some kind of dark secret."
+  },
+  {
+    "message": "Sure, I remember Hans once said out of his own mouth not to ask why he ended up in this village."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Do you know why Hans came to Arkham？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "No..."
+  },
+  {
+    "message": "　　　　　　　　I don't really talk to Hans that much."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'm kinda curious about what kind of past that guy has."
+  },
+  {
+    "message": "　　　　　　　　What kind of trouble did you cause in the previous place?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Come to think of it, I remember seeing Hans wandering around Gilman House quite a while ago."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What was it like？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I don't really get it, but......"
+  },
+  {
+    "message": "　　　　　　　　When　they　noticed　I　was　watching,　they　immediately　ran　off　like　they　were　escaping　and　went　home."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Maybe he was trying to do something bad to you.　　　　　　　　It's not normal for someone to hang around the house of a young girl living alone."
+  },
+  {
+    "name": "Jonathan",
+    "message": "They seem to have more than a little interest in you.　　　　　　　　I heard you even tried sneaking into the Gilman House, right?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I don't know."
+  },
+  {
+    "message": "　　　　　　　　There wasn't any sign of that at all."
+  },
+  {
+    "name": "Jonathan",
+    "message": "But, sneaking into a young girl's house is anything but peaceful."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Don't you think there's a good chance the reason he drifted into this village is related to that sort of thing？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Maybe he did something terrible in the last place he lived. He might've committed a crime that got the police after him."
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

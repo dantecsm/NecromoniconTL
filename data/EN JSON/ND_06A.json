@@ -1,205 +1,205 @@
 [
-    {
-        "message": "There aren't any lights on in the windows of Gilman House."
-    },
-    {
-        "message": "コーデリアはまだ教会にいるのだろうか。"
-    },
-    {
-        "message": "Thick rain clouds still cover the sky, and it looks like it's going to start raining any minute."
-    },
-    {
-        "message": "If we don't hurry, it'll get harder to sneak out of the village."
-    },
-    {
-        "message": "Around Gilman House, there are neither houses with lights on nor any people walking on the streets."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Sorry I'm late."
-    },
-    {
-        "message": "Cordelia, who had changed from her bartender outfit into her casual clothes, came out of the shop."
-    },
-    {
-        "message": "It looked like she'd just cleared away our glasses, since the sleeve of her clothes was a little wet."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It feels like it's been ages since we had the place open.　　　　　　　　If this keeps up, I'm gonna get all out of shape."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Isn't it nice to take a break once in a while？"
-    },
-    {
-        "message": "　　　　　　　　You've been working non-stop for a long time, so you need a little break, right?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "That might be true, but what if the customers forget about this pub?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "How am I supposed to live?"
-    },
-    {
-        "message": "　　　　　　　　Jonathan, will you take responsibility for me？"
-    },
-    {
-        "message": "We're in front of the Gilman House."
-    },
-    {
-        "message": "Of course, the shop's closed, but should we take a little break here?"
-    },
-    {
-        "message": "There's not even a trace of people around."
-    },
-    {
-        "message": "If Cordelia and I tried to escape the village, what would the villagers do?"
-    },
-    {
-        "message": "Since I know the secret, would I be brutally murdered like Marsh, and Cordelia end up being held captive?"
-    },
-    {
-        "message": "The lonely backstreets are as deserted as ever."
-    },
-    {
-        "message": "And with Gilman House-the only lively place around here-closed for business, it's even more so."
-    },
-    {
-        "message": "If we don't get Cordelia to open the shop before the villagers start complaining, it's obvious that the already hostile villagers will single us out even more."
-    },
-    {
-        "message": "Let's have Cordelia open the shop before the villagers forget about the Gilman House."
-    },
-    {
-        "message": "The air around is heavy and damp with moisture."
-    },
-    {
-        "message": "Ever since I came to this village, the weather's never been good, and tonight it looks like it's gonna rain again."
-    },
-    {
-        "message": "Because of the heavy rain the other day, the suspension bridge became impassable, and this time it's probably finished for good."
-    },
-    {
-        "message": "I wonder when I'll be able to get out of Arkham."
-    },
-    {
-        "message": "One thing's for sure-I'm stuck here for a while longer..."
-    },
-    {
-        "message": "This isn't the time to just sit back and watch."
-    },
-    {
-        "message": "Cordelia still hasn't come back, and it looks like it's about to start raining any minute."
-    },
-    {
-        "message": "I have to do something..."
-    },
-    {
-        "message": "But what am I even supposed to do?"
-    },
-    {
-        "message": "No way, Nai isn’t actually planning to hack up Cordelia as she is and offer her as some kind of sacrifice to an unknown god, right?"
-    },
-    {
-        "message": "It's an old brick pub."
-    },
-    {
-        "message": "It's just like the kind of pub you'd often find along the road heading out of London into the suburbs, serving beer and light meals-not exactly what you'd call fancy."
-    },
-    {
-        "message": "I'm amazed Cordelia managed to run the shop all by herself until now."
-    },
-    {
-        "message": "Or maybe the villagers just go easy on young girls?"
-    },
-    {
-        "message": "I remember what Mrs. Hudson said, about the villagers closing down all the other shops for Cordelia."
-    },
-    {
-        "message": "Why did you have to go that far just for your daughter?"
-    },
-    {
-        "message": "I wonder why Cordelia was such a special person to the villagers."
-    },
-    {
-        "message": "It seems pretty clear there's some kind of connection to the Dagon Cult."
-    },
-    {
-        "message": "It's not like I can exactly press Nai about it, and the only other people who know what's going on are the villagers, who are all cold to us."
-    },
-    {
-        "message": "You probably didn't have that kind of luxury, but the outside of the shop hasn't shown any signs of being fixed up for a long time."
-    },
-    {
-        "message": "If you're planning to keep the business running for a while longer, you should probably arrange repairs as soon as possible."
-    },
-    {
-        "message": "Swaying while creaking and groaning under the force of the strong wind."
-    },
-    {
-        "message": "The wind seemed to get even stronger, whistling right past my ear."
-    },
-    {
-        "message": "I just hope this flimsy suspension bridge doesn't collapse from these strong winds."
-    },
-    {
-        "message": "If that happens, we'll completely lose any way to get out of the village."
-    },
-    {
-        "message": "It's probably written by Cordelia's adoptive father, who went missing-the name of the Pub is scrawled in rugged handwriting."
-    },
-    {
-        "message": "There must've been other pubs besides the Gilman House on this street back in the day."
-    },
-    {
-        "message": "With a storefront that's not exactly flashy or attention-grabbing, it's pretty questionable how many customers actually showed up."
-    },
-    {
-        "message": "It's gotta be true that the Gilman House managed to survive in Arkham not so much because the place did well, but just thanks to the lucky fact that they had someone to take over."
-    },
-    {
-        "message": "You can't really say it's a particularly atmospheric pub, or that it's especially assertive either."
-    },
-    {
-        "message": "I don't think there's any value in going out of your way to crush the surrounding shops just to keep this one."
-    },
-    {
-        "message": "So, does that mean you really did that just for Cordelia after all?"
-    },
-    {
-        "message": "I can't even begin to guess how important she was to the villagers."
-    },
-    {
-        "message": "The shop's name is written in plain Gothic letters."
-    },
-    {
-        "message": "Judging by how the paint is bubbling up because of the rust, it's probably been left alone for over 10 years."
-    },
-    {
-        "message": "The reason the door was left unlocked must be because Cordelia was taken away while she was unconscious."
-    },
-    {
-        "message": "Someone broke into Gilman House and made Cordelia drink some kind of drug. This probably isn't the first time this has happened."
-    },
-    {
-        "message": "I can't say it's very reassuring, but at least the door is locked for now."
-    },
-    {
-        "message": "There's nothing particularly valuable in the store, but the villagers here wouldn't hesitate to kill someone just for a single pint of booze."
-    },
-    {
-        "message": "It looks like the front door has been left unlocked."
-    },
-    {
-        "message": "It's a reckless and stupid thing to do, especially after seeing something like that in broad daylight, but at least I don't have to worry about being left waiting in the cold outside."
-    },
-    {
-        "message": "　　　Map　　　"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "message": "There aren't any lights on in the windows of Gilman House."
+  },
+  {
+    "message": "I wonder if Cordelia is still at the Church."
+  },
+  {
+    "message": "Thick rain clouds still cover the sky, and it looks like it's going to start raining any minute."
+  },
+  {
+    "message": "If we don't hurry, it'll get harder to sneak out of the village."
+  },
+  {
+    "message": "Around Gilman House, there are neither houses with lights on nor any people walking on the streets."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Sorry I'm late."
+  },
+  {
+    "message": "Cordelia, who had changed from her bartender outfit into her casual clothes, came out of the shop."
+  },
+  {
+    "message": "It looked like she'd just cleared away our glasses, since the sleeve of her clothes was a little wet."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It feels like it's been ages since we had the place open.　　　　　　　　If this keeps up, I'm gonna get all out of shape."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Isn't it nice to take a break once in a while？"
+  },
+  {
+    "message": "　　　　　　　　You've been working non-stop for a long time, so you need a little break, right?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "That might be true, but what if the customers forget about this pub?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "How am I supposed to live?"
+  },
+  {
+    "message": "　　　　　　　　Jonathan, will you take responsibility for me？"
+  },
+  {
+    "message": "We're in front of the Gilman House."
+  },
+  {
+    "message": "Of course, the shop's closed, but should we take a little break here?"
+  },
+  {
+    "message": "There's not even a trace of people around."
+  },
+  {
+    "message": "If Cordelia and I tried to escape the village, what would the villagers do?"
+  },
+  {
+    "message": "Since I know the secret, would I be brutally murdered like Marsh, and Cordelia end up being held captive?"
+  },
+  {
+    "message": "The lonely backstreets are as deserted as ever."
+  },
+  {
+    "message": "And with Gilman House-the only lively place around here-closed for business, it's even more so."
+  },
+  {
+    "message": "If we don't get Cordelia to open the shop before the villagers start complaining, it's obvious that the already hostile villagers will single us out even more."
+  },
+  {
+    "message": "Let's have Cordelia open the shop before the villagers forget about the Gilman House."
+  },
+  {
+    "message": "The air around is heavy and damp with moisture."
+  },
+  {
+    "message": "Ever since I came to this village, the weather's never been good, and tonight it looks like it's gonna rain again."
+  },
+  {
+    "message": "Because of the heavy rain the other day, the suspension bridge became impassable, and this time it's probably finished for good."
+  },
+  {
+    "message": "I wonder when I'll be able to get out of Arkham."
+  },
+  {
+    "message": "One thing's for sure-I'm stuck here for a while longer..."
+  },
+  {
+    "message": "This isn't the time to just sit back and watch."
+  },
+  {
+    "message": "Cordelia still hasn't come back, and it looks like it's about to start raining any minute."
+  },
+  {
+    "message": "I have to do something..."
+  },
+  {
+    "message": "But what am I even supposed to do?"
+  },
+  {
+    "message": "No way, Nai isn’t actually planning to hack up Cordelia as she is and offer her as some kind of sacrifice to an unknown god, right?"
+  },
+  {
+    "message": "It's an old brick pub."
+  },
+  {
+    "message": "It's just like the kind of pub you'd often find along the road heading out of London into the suburbs, serving beer and light meals-not exactly what you'd call fancy."
+  },
+  {
+    "message": "I'm amazed Cordelia managed to run the shop all by herself until now."
+  },
+  {
+    "message": "Or maybe the villagers just go easy on young girls?"
+  },
+  {
+    "message": "I remember what Mrs. Hudson said, about the villagers closing down all the other shops for Cordelia."
+  },
+  {
+    "message": "Why did you have to go that far just for your daughter?"
+  },
+  {
+    "message": "I wonder why Cordelia was such a special person to the villagers."
+  },
+  {
+    "message": "It seems pretty clear there's some kind of connection to the Dagon Cult."
+  },
+  {
+    "message": "It's not like I can exactly press Nai about it, and the only other people who know what's going on are the villagers, who are all cold to us."
+  },
+  {
+    "message": "You probably didn't have that kind of luxury, but the outside of the shop hasn't shown any signs of being fixed up for a long time."
+  },
+  {
+    "message": "If you're planning to keep the business running for a while longer, you should probably arrange repairs as soon as possible."
+  },
+  {
+    "message": "Swaying while creaking and groaning under the force of the strong wind."
+  },
+  {
+    "message": "The wind seemed to get even stronger, whistling right past my ear."
+  },
+  {
+    "message": "I just hope this flimsy suspension bridge doesn't collapse from these strong winds."
+  },
+  {
+    "message": "If that happens, we'll completely lose any way to get out of the village."
+  },
+  {
+    "message": "It's probably written by Cordelia's adoptive father, who went missing-the name of the Pub is scrawled in rugged handwriting."
+  },
+  {
+    "message": "There must've been other pubs besides the Gilman House on this street back in the day."
+  },
+  {
+    "message": "With a storefront that's not exactly flashy or attention-grabbing, it's pretty questionable how many customers actually showed up."
+  },
+  {
+    "message": "It's gotta be true that the Gilman House managed to survive in Arkham not so much because the place did well, but just thanks to the lucky fact that they had someone to take over."
+  },
+  {
+    "message": "You can't really say it's a particularly atmospheric pub, or that it's especially assertive either."
+  },
+  {
+    "message": "I don't think there's any value in going out of your way to crush the surrounding shops just to keep this one."
+  },
+  {
+    "message": "So, does that mean you really did that just for Cordelia after all?"
+  },
+  {
+    "message": "I can't even begin to guess how important she was to the villagers."
+  },
+  {
+    "message": "The shop's name is written in plain Gothic letters."
+  },
+  {
+    "message": "Judging by how the paint is bubbling up because of the rust, it's probably been left alone for over 10 years."
+  },
+  {
+    "message": "The reason the door was left unlocked must be because Cordelia was taken away while she was unconscious."
+  },
+  {
+    "message": "Someone broke into Gilman House and made Cordelia drink some kind of drug. This probably isn't the first time this has happened."
+  },
+  {
+    "message": "I can't say it's very reassuring, but at least the door is locked for now."
+  },
+  {
+    "message": "There's nothing particularly valuable in the store, but the villagers here wouldn't hesitate to kill someone just for a single pint of booze."
+  },
+  {
+    "message": "It looks like the front door has been left unlocked."
+  },
+  {
+    "message": "It's a reckless and stupid thing to do, especially after seeing something like that in broad daylight, but at least I don't have to worry about being left waiting in the cold outside."
+  },
+  {
+    "message": "　　　Map　　　"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]

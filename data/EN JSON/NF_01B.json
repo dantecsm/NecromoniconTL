@@ -1,605 +1,605 @@
 [
-    {
-        "name": "Marsh",
-        "message": "You guys again, huh."
-    },
-    {
-        "message": "　　　　　　　わしの所に来ても何もいい事なんぞありゃせんぞ。"
-    },
-    {
-        "name": "Thomas",
-        "message": "What the hell, this place is a total dump！"
-    },
-    {
-        "message": "　　　　　　What kind of nerve does it take to live in a place like this?"
-    },
-    {
-        "message": "Thomas, out of character for him, pressed a neatly folded handkerchief to his mouth and looked around the room as if he were looking at something filthy."
-    },
-    {
-        "name": "Gardner",
-        "message": "よさんか、馬鹿者。"
-    },
-    {
-        "message": "　　　　　　　　大体お前さんが、そんな事を気にする柄か。"
-    },
-    {
-        "message": "Sure enough, the inside of the room is in a miserable state."
-    },
-    {
-        "message": "Meanwhile, the old man Marsh is lying on the bed, snoring loudly. He looks just like an especially big pile of junk rolling around."
-    },
-    {
-        "name": "Thomas",
-        "message": "Even so, I'm a clean freak, you know. What if I catch some weird disease hanging around a place like this！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "That was unexpected."
-    },
-    {
-        "message": "　　　　　　　　It looks like I was mistaken about you."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Shhh！"
-    },
-    {
-        "message": "　　　　　　　　Marsh is going to wake up."
-    },
-    {
-        "name": "Marsh",
-        "message": "Who the hell... are you guys！"
-    },
-    {
-        "message": "　　　　　　　You went and got on my ship without even asking me."
-    },
-    {
-        "message": "The old man, still bleary-eyed from sleep, is staring at these intruders."
-    },
-    {
-        "message": "It feels like last night’s booze still hasn’t worn off, and from the bed soaked with breath and sweat comes a strong smell of alcohol."
-    },
-    {
-        "name": "Gardner",
-        "message": "Did you forget？"
-    },
-    {
-        "message": "　　　　　　　　We met at the ruins on the cape."
-    },
-    {
-        "name": "Thomas",
-        "message": "Aren't you just being senile after all......"
-    },
-    {
-        "message": "　　　　　　Let's go home already, if we stay in a place like this we're gonna get sick."
-    },
-    {
-        "message": "Because of the flimsy hull boards, the room feels strangely oppressive. I can't believe Marsh can actually live in a place like this."
-    },
-    {
-        "message": "There's absolutely nothing in the room to prove that this place is inside a ship. The walls to the left and right are curved at the top and bottom because this is the hold, and just beyond a single wooden plank, it's water out there."
-    },
-    {
-        "message": "How can Marsh sleep in a place like this?"
-    },
-    {
-        "message": "Judging by the appearance of the boat, it wouldn't be surprising if it started taking on water any minute. There doesn't seem to be a bathroom or a toilet either, so I wonder where Marsh does his business."
-    },
-    {
-        "message": "The old man's face is pale and he looks like he might faint at any moment, like a lady who has accidentally come across a gruesome scene."
-    },
-    {
-        "message": "I felt it when we met at the ruins, and I've heard it from Cordelia too, but the old man seems scared of something."
-    },
-    {
-        "message": "What reason could this Old man, who's already lost hope in living, possibly have to be afraid of anything else now?"
-    },
-    {
-        "message": "When I see an apathetic old man like Marsh, it makes me feel lazy too."
-    },
-    {
-        "message": "Marsh is staring at us with eyes clouded by alcohol."
-    },
-    {
-        "message": "遺跡で見たときの『怯えたような』という印象は、あながち的を得ていない訳ではないらしい。"
-    },
-    {
-        "message": "老人は恐怖心を和らげる為に、毎夜のように安酒をあおっているのではないだろうか。"
-    },
-    {
-        "message": "When it gets this dirty, no matter how hard you wash it, it's impossible to bring it back. If I were the one living in this room, I'd just toss it out the window right away."
-    },
-    {
-        "message": "It looks like the sheet hasn't been changed in years."
-    },
-    {
-        "message": "白いリネンが黒く垢じみて、様々な食物などの染みが付着している。"
-    },
-    {
-        "message": "刑務所に拘留されている囚人でさえもう少し清潔な生活を送っているだろう。トマスでなくても目を背けたくなるような光景だ。"
-    },
-    {
-        "message": "I'm not Thomas, but if I stay in a place like this too long, I feel like I'll catch some filthy disease."
-    },
-    {
-        "message": "It doesn't look like it's been cleaned at all. The floor is just crammed with weird rags and empty bottles of cheap liquor scattered everywhere."
-    },
-    {
-        "message": "From this room, you can practically feel how messed up the resident's heart is. I don't know what caused it, but Marsh probably doesn't have any attachment to being alive anymore."
-    },
-    {
-        "name": "Marsh",
-        "message": "I don't plan on saying anything more than this."
-    },
-    {
-        "message": "　　　　　　　I　can't　stand　it　if　my　words　cause　people　to　die　or　end　up　miserable..."
-    },
-    {
-        "message": "There’s a lot I want to ask. Where should I start?"
-    },
-    {
-        "message": "『About the Innsmouth Face』"
-    },
-    {
-        "message": "　　'About the Ruins'　　"
-    },
-    {
-        "message": "『Details of the Arkham Incident』"
-    },
-    {
-        "name": "Marsh",
-        "message": "わしの口から聞いたなどと、誰にも言ってくれるなよ。　　　　　　　もしそんな事になれば‥‥‥‥"
-    },
-    {
-        "name": "Marsh",
-        "message": "わしの口からは何も話す訳にはいかん‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why is that？"
-    },
-    {
-        "message": "　　　　　　　　What are you afraid of?"
-    },
-    {
-        "name": "Marsh",
-        "message": "話したところで、あんた達に解る訳がない。"
-    },
-    {
-        "message": "　　　　　　　If you wanna know what kind of terror I went through, you　　　　　　gotta try it yourself, don'tcha？"
-    },
-    {
-        "name": "Gardner",
-        "message": "これでは埒があかん。"
-    },
-    {
-        "message": "　　　　　　　　Alright, I don't plan on hearing the details from you. We'll just look into it ourselves."
-    },
-    {
-        "name": "Marsh",
-        "message": "I might as well teach you just one thing."
-    },
-    {
-        "message": "　　　　　　　About　the　incident　that　caused　the　term　'Innsmouth　face'　to　get　twisted　into　a　slur."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You looked at my face and said I have an 'Innsmouth look', but what exactly do you mean by that？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "At least as far as I can tell, I don't think you can find those particular features of the villagers here-like their bulging eyes or prominent cheekbones-on my face, can you？"
-    },
-    {
-        "name": "Marsh",
-        "message": "わしの言うインスマウス顔とはそういう意味ではない。"
-    },
-    {
-        "name": "Marsh",
-        "message": "Nah, I mean, to people from outside, the folks here probably look like monsters or something."
-    },
-    {
-        "name": "Marsh",
-        "message": "本来のインスマウス顔とはそういう意味ではない。"
-    },
-    {
-        "message": "　　　　　　　What you're talking about are words that outsiders use to discriminate against the people here, aren't they..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So, what does that mean？"
-    },
-    {
-        "name": "Marsh",
-        "message": "The term 'Innsmouth look' didn』t originally mean an insult. Rather, it was nothing other than proof that someone was of good family blood."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So is Innsmouth someone's name？"
-    },
-    {
-        "name": "Marsh",
-        "message": "No. That’s not it……"
-    },
-    {
-        "message": "　　　　　　　Innsmouth is……"
-    },
-    {
-        "message": "Marsh fell silent after that."
-    },
-    {
-        "message": "その顔は、遺跡で我々の前から逃げるように姿を消した時と同じように今にも倒れてしまいそうなほど青ざめている。"
-    },
-    {
-        "message": "What is it that's making this old man so terrified?"
-    },
-    {
-        "message": "半ば世捨て人のような生活を送り、生きる事に希望を失ってしまった老人をこうも恐れさせるものとは‥‥‥‥"
-    },
-    {
-        "name": "Marsh",
-        "message": "You guys better not get close to a place like that."
-    },
-    {
-        "message": "　　　　　　　Do you want to end up captivated by that thing like me, tied to this village for the rest of your life？"
-    },
-    {
-        "name": "Marsh",
-        "message": "That's the very thing that turned this village into what it is now."
-    },
-    {
-        "message": "　　　　　　　あいつがあんな物を持ち込みさえしなければ‥‥‥‥‥"
-    },
-    {
-        "name": "Gardner",
-        "message": "What？"
-    },
-    {
-        "name": "Gardner",
-        "message": "Are you saying that ruin was brought here by someone?"
-    },
-    {
-        "name": "Marsh",
-        "message": "There wasn't anything like that back in my grandpa's day, you know."
-    },
-    {
-        "name": "Marsh",
-        "message": "That... that guy did that..."
-    },
-    {
-        "name": "Gardner",
-        "message": "What the hell！"
-    },
-    {
-        "message": "　　　　　　　　Then what the hell was everything I've done up until now?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Looks like I turned out to be a total disappointment, huh."
-    },
-    {
-        "message": "　　　　　　So that means your whole plan just went up in smoke."
-    },
-    {
-        "name": "Gardner",
-        "message": "Shut up！"
-    },
-    {
-        "message": "　　　　　　　　What the hell do you know, huh?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Whoa…"
-    },
-    {
-        "message": "　　　　　　Stop taking it out on me, okay? It's not like I was the one who brought the Ruins here."
-    },
-    {
-        "name": "Cordelia",
-        "message": "But seriously, who the heck brought something like that in here？"
-    },
-    {
-        "message": "　　　　　　　　That must've been a hell of a struggle."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's right. I wonder what good it did to bring something like that in."
-    },
-    {
-        "name": "Marsh",
-        "message": "There must've been something in it for him, that guy."
-    },
-    {
-        "message": "　　　　　　　Thanks to that, he must've made a lot of money."
-    },
-    {
-        "name": "Marsh",
-        "message": "Still........."
-    },
-    {
-        "message": "　　　　　　　But　the　cost　was　just　way　too　big."
-    },
-    {
-        "name": "Gardner",
-        "message": "Why were you at those ruins？"
-    },
-    {
-        "message": "　　　　　　　　I heard that even the villagers hardly ever come near here, right？"
-    },
-    {
-        "name": "Marsh",
-        "message": "It's fine for the others."
-    },
-    {
-        "message": "　　　　　　　If you kneel and pray before that thing, it won't harm you."
-    },
-    {
-        "name": "Gardner",
-        "message": "I don't really get what you're saying？"
-    },
-    {
-        "name": "Marsh",
-        "message": "But I've got nothing to do with that..."
-    },
-    {
-        "message": "　　　　　　　Of　course,　I　don't　wanna　be　a　sacrifice."
-    },
-    {
-        "name": "Gardner",
-        "message": "Sacrifice？"
-    },
-    {
-        "message": "　　　　　　　　Your story doesn't make any sense at all."
-    },
-    {
-        "name": "Marsh",
-        "message": "I can't even run away."
-    },
-    {
-        "message": "　　　　　　　Turning your eyes away from that and just waiting for the last day that might never come‥‥‥‥"
-    },
-    {
-        "name": "Thomas",
-        "message": "Have you finally lost it, old man？"
-    },
-    {
-        "message": "　　　　　　I seriously have no idea what you're talking about."
-    },
-    {
-        "name": "Marsh",
-        "message": "Instead of making a fuss about how unfair it is, why don’t you look into it yourself？"
-    },
-    {
-        "message": "　　　　　　　It's a famous case, so there should be records left behind."
-    },
-    {
-        "message": "Were Marsh and that man close？"
-    },
-    {
-        "message": "You can see deep anguish on the old man's face as he talks about the man."
-    },
-    {
-        "message": "Come to think of it, Cordelia said that."
-    },
-    {
-        "message": "They say the reason Marsh can cut ties with the world and live like a recluse without working is because a friend left him an inheritance."
-    },
-    {
-        "message": "The man who slaughtered that family might be the friend who left Marsh an inheritance."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What's this incident about？"
-    },
-    {
-        "name": "Marsh",
-        "message": "That was already 40 years ago..."
-    },
-    {
-        "name": "Marsh",
-        "message": "There was a man. He was born into a good family and received a high education."
-    },
-    {
-        "message": "　　　　　　　Unlike　a　piece　of　trash　like　me,　you　had　a　bright　future　ahead　of　you."
-    },
-    {
-        "name": "Jonathan",
-        "message": "その男が何をしたと言うんです。"
-    },
-    {
-        "name": "Marsh",
-        "message": "It was a gruesome incident......"
-    },
-    {
-        "message": "　　　　　　　The man ended up killing not only his own mother and wife, but even his daughter, who was not yet even ten years old."
-    },
-    {
-        "name": "Marsh",
-        "message": "A hunting rifle, an axe, a meat cleaver-used whatever I could get my hands on."
-    },
-    {
-        "message": "　　　　　　　As if they couldn't accept even a single family member surviving, they'd gone out of their way to tidy up every last one of them."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Serial murder... Was the man insane？"
-    },
-    {
-        "name": "Marsh",
-        "message": "That might be true. Everyone's saying that..."
-    },
-    {
-        "message": "　　　　　　　Only　I　know　that　it　wasn't　like　that."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Even to little kids, you’d do something so cruel..."
-    },
-    {
-        "message": "　　　　　　　　I can't believe you're sane."
-    },
-    {
-        "name": "Marsh",
-        "message": "That man found out."
-    },
-    {
-        "message": "　　　　　　　What　happened　in　this　village　in　the　past."
-    },
-    {
-        "name": "Marsh",
-        "message": "That's because they've been living outside the village since they were little."
-    },
-    {
-        "message": "　　　　　　　He was the only person in the village who stayed sane."
-    },
-    {
-        "message": "Marsh's expression looks less frightened and more like he's already given up on everything. His words seem less like he's trying to tell us something and more like he's trying to convince himself of something."
-    },
-    {
-        "name": "Gardner",
-        "message": "I've been listening for a while, but I can't make heads or tails of what you're talking about."
-    },
-    {
-        "message": "　　　　　　　　What does that crazy guy have to do with the 'Innsmouth look' anyway?"
-    },
-    {
-        "name": "Marsh",
-        "message": "The man's family was buried in the cemetery."
-    },
-    {
-        "message": "　　　　　　　It was a long time ago, so they didn't even bother investigating it properly..."
-    },
-    {
-        "name": "Marsh",
-        "message": "A circuit judge happened to come by and heard about the incident. Then, he went and dug up the grave."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What did the judge see?"
-    },
-    {
-        "name": "Marsh",
-        "message": "Nobody could get anything out of them."
-    },
-    {
-        "message": "　　　　　　　The　judge　hasn't　stood　in　court　ever　since."
-    },
-    {
-        "name": "Thomas",
-        "message": "What the hell, I've heard stories like that a million times before."
-    },
-    {
-        "message": "　　　　　　It's not that unusual."
-    },
-    {
-        "name": "Gardner",
-        "message": "I wanna know what that circuit judge saw."
-    },
-    {
-        "message": "　　　　　　　　Just what kind of terrifying thing did he see inside the tomb?"
-    },
-    {
-        "name": "Marsh",
-        "message": "How would I know?"
-    },
-    {
-        "message": "　　　　　　　But ever since then, what was originally a symbol and pride of that clan ended up being treated like a symbol of cripples after that horrible incident."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Are you saying that my face looks like the person who caused that awful incident？"
-    },
-    {
-        "name": "Marsh",
-        "message": "‥‥‥‥‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Don't you think that's a pretty unexpected thing to say?"
-    },
-    {
-        "message": "　　　　　　　　It's like you're saying I'm going to commit a bizarre murder just like that guy."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Marsh, you should remember my face."
-    },
-    {
-        "message": "　　　　　　　　Do you remember back then, when you looked at me and called me an 'Innsmouth face'？"
-    },
-    {
-        "name": "Marsh",
-        "message": "Ah...... you're that guy from before, huh."
-    },
-    {
-        "message": "　　　　　　　So, do you need something from me?"
-    },
-    {
-        "name": "Gardner",
-        "message": "I've got something I want to ask you."
-    },
-    {
-        "message": "　　　　　　　　The　words　you　blurted　out　at　the　Ruins,　I　want　to　know　what　those　words　actually　mean！"
-    },
-    {
-        "message": "Marsh's face looked pale for a moment."
-    },
-    {
-        "message": "But the old man seemed to quickly regain his composure, and skillfully turned his face away from us, then opened his mouth like nothing had happened."
-    },
-    {
-        "name": "Marsh",
-        "message": "Now then... I have no idea what you're talking about."
-    },
-    {
-        "message": "　　　　　　　Isn't that Koty from the Gilman House over there？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Yeah, that's right, Marsh-san."
-    },
-    {
-        "message": "　　　　　　　　You come by often to buy booze from us, after all."
-    },
-    {
-        "name": "Marsh",
-        "message": "Ah, even I can at least remember your face, y'know. After all, booze is my only joy."
-    },
-    {
-        "name": "Jonathan",
-        "message": "We're not trying to hurt you or anything. It's just that each of us has some kind of connection to the mystery hidden here in Arkham."
-    },
-    {
-        "name": "Marsh",
-        "message": "Even if you say you’ve got a connection, you guys aren’t from around here, are you? Poking your noses into stuff here isn’t gonna do you any favors, I think."
-    },
-    {
-        "name": "Thomas",
-        "message": "Hey, old man, you think you can scare us? Not a chance."
-    },
-    {
-        "message": "　　　　　　If you know something, you better spit it all out！"
-    },
-    {
-        "name": "Gardner",
-        "message": "Fool, don’t say things that'll just scare them more！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "It’s okay, Mr. Marsh."
-    },
-    {
-        "message": "　　　　　　　　These people aren't bad. I just came to ask because I thought Marsh-san would know all about the village situation."
-    },
-    {
-        "name": "Marsh",
-        "message": "Sure, I'm definitely getting pretty old and senile..."
-    },
-    {
-        "message": "　　　　　　　So,　what　is　it　you　want　to　ask?"
-    },
-    {
-        "message": "　　Go outside　　"
-    }
+  {
+    "name": "Marsh",
+    "message": "You guys again, huh."
+  },
+  {
+    "message": "　　　　　　　Nothing good will come from you coming to see old me, you know."
+  },
+  {
+    "name": "Thomas",
+    "message": "What the hell, this place is a total dump！"
+  },
+  {
+    "message": "　　　　　　What kind of nerve does it take to live in a place like this?"
+  },
+  {
+    "message": "Thomas, out of character for him, pressed a neatly folded handkerchief to his mouth and looked around the room as if he were looking at something filthy."
+  },
+  {
+    "name": "Gardner",
+    "message": "Cut it out, you fool."
+  },
+  {
+    "message": "　　　　　　　　You don't seem like the type to worry about that stuff in the first place."
+  },
+  {
+    "message": "Sure enough, the inside of the room is in a miserable state."
+  },
+  {
+    "message": "Meanwhile, the old man Marsh is lying on the bed, snoring loudly. He looks just like an especially big pile of junk rolling around."
+  },
+  {
+    "name": "Thomas",
+    "message": "Even so, I'm a clean freak, you know. What if I catch some weird disease hanging around a place like this！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "That was unexpected."
+  },
+  {
+    "message": "　　　　　　　　It looks like I was mistaken about you."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Shhh！"
+  },
+  {
+    "message": "　　　　　　　　Marsh is going to wake up."
+  },
+  {
+    "name": "Marsh",
+    "message": "Who the hell... are you guys！"
+  },
+  {
+    "message": "　　　　　　　You went and got on my ship without even asking me."
+  },
+  {
+    "message": "The old man, still bleary-eyed from sleep, is staring at these intruders."
+  },
+  {
+    "message": "It feels like last night’s booze still hasn’t worn off, and from the bed soaked with breath and sweat comes a strong smell of alcohol."
+  },
+  {
+    "name": "Gardner",
+    "message": "Did you forget？"
+  },
+  {
+    "message": "　　　　　　　　We met at the ruins on the cape."
+  },
+  {
+    "name": "Thomas",
+    "message": "Aren't you just being senile after all......"
+  },
+  {
+    "message": "　　　　　　Let's go home already, if we stay in a place like this we're gonna get sick."
+  },
+  {
+    "message": "Because of the flimsy hull boards, the room feels strangely oppressive. I can't believe Marsh can actually live in a place like this."
+  },
+  {
+    "message": "There's absolutely nothing in the room to prove that this place is inside a ship. The walls to the left and right are curved at the top and bottom because this is the hold, and just beyond a single wooden plank, it's water out there."
+  },
+  {
+    "message": "How can Marsh sleep in a place like this?"
+  },
+  {
+    "message": "Judging by the appearance of the boat, it wouldn't be surprising if it started taking on water any minute. There doesn't seem to be a bathroom or a toilet either, so I wonder where Marsh does his business."
+  },
+  {
+    "message": "The old man's face is pale and he looks like he might faint at any moment, like a lady who has accidentally come across a gruesome scene."
+  },
+  {
+    "message": "I felt it when we met at the ruins, and I've heard it from Cordelia too, but the old man seems scared of something."
+  },
+  {
+    "message": "What reason could this Old man, who's already lost hope in living, possibly have to be afraid of anything else now?"
+  },
+  {
+    "message": "When I see an apathetic old man like Marsh, it makes me feel lazy too."
+  },
+  {
+    "message": "Marsh is staring at us with eyes clouded by alcohol."
+  },
+  {
+    "message": "The 'scared-looking' impression I got when I saw him at the ruins apparently wasn't all that off the mark."
+  },
+  {
+    "message": "Maybe the old man downs cheap liquor every night to try to ease his fear."
+  },
+  {
+    "message": "When it gets this dirty, no matter how hard you wash it, it's impossible to bring it back. If I were the one living in this room, I'd just toss it out the window right away."
+  },
+  {
+    "message": "It looks like the sheet hasn't been changed in years."
+  },
+  {
+    "message": "The white linen is black and grimy, stained with all sorts of food and who knows what else."
+  },
+  {
+    "message": "Even prisoners locked up in jail probably live a bit cleaner than this. It's the kind of scene that would make anyone, not just Thomas, want to look away."
+  },
+  {
+    "message": "I'm not Thomas, but if I stay in a place like this too long, I feel like I'll catch some filthy disease."
+  },
+  {
+    "message": "It doesn't look like it's been cleaned at all. The floor is just crammed with weird rags and empty bottles of cheap liquor scattered everywhere."
+  },
+  {
+    "message": "From this room, you can practically feel how messed up the resident's heart is. I don't know what caused it, but Marsh probably doesn't have any attachment to being alive anymore."
+  },
+  {
+    "name": "Marsh",
+    "message": "I don't plan on saying anything more than this."
+  },
+  {
+    "message": "　　　　　　　I　can't　stand　it　if　my　words　cause　people　to　die　or　end　up　miserable..."
+  },
+  {
+    "message": "There’s a lot I want to ask. Where should I start?"
+  },
+  {
+    "message": "『About the Innsmouth Face』"
+  },
+  {
+    "message": "　　'About the Ruins'　　"
+  },
+  {
+    "message": "『Details of the Arkham Incident』"
+  },
+  {
+    "name": "Marsh",
+    "message": "Don't you go telling anyone you heard it from me, alright? If something like that ever happened..."
+  },
+  {
+    "name": "Marsh",
+    "message": "I can't tell you anything from my own mouth..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why is that？"
+  },
+  {
+    "message": "　　　　　　　　What are you afraid of?"
+  },
+  {
+    "name": "Marsh",
+    "message": "Even if I told you, there's no way you'd get it."
+  },
+  {
+    "message": "　　　　　　　If you wanna know what kind of terror I went through, you　　　　　　gotta try it yourself, don'tcha？"
+  },
+  {
+    "name": "Gardner",
+    "message": "This isn't going anywhere."
+  },
+  {
+    "message": "　　　　　　　　Alright, I don't plan on hearing the details from you. We'll just look into it ourselves."
+  },
+  {
+    "name": "Marsh",
+    "message": "I might as well teach you just one thing."
+  },
+  {
+    "message": "　　　　　　　About　the　incident　that　caused　the　term　'Innsmouth　face'　to　get　twisted　into　a　slur."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You looked at my face and said I have an 'Innsmouth look', but what exactly do you mean by that？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "At least as far as I can tell, I don't think you can find those particular features of the villagers here-like their bulging eyes or prominent cheekbones-on my face, can you？"
+  },
+  {
+    "name": "Marsh",
+    "message": "That's not what I mean by an 'Innsmouth face.'"
+  },
+  {
+    "name": "Marsh",
+    "message": "Nah, I mean, to people from outside, the folks here probably look like monsters or something."
+  },
+  {
+    "name": "Marsh",
+    "message": "That's not what an Innsmouth face really means."
+  },
+  {
+    "message": "　　　　　　　What you're talking about are words that outsiders use to discriminate against the people here, aren't they..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So, what does that mean？"
+  },
+  {
+    "name": "Marsh",
+    "message": "The term 'Innsmouth look' didn』t originally mean an insult. Rather, it was nothing other than proof that someone was of good family blood."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So is Innsmouth someone's name？"
+  },
+  {
+    "name": "Marsh",
+    "message": "No. That’s not it……"
+  },
+  {
+    "message": "　　　　　　　Innsmouth is……"
+  },
+  {
+    "message": "Marsh fell silent after that."
+  },
+  {
+    "message": "His face is so pale it looks like he could collapse at any second-just like when he vanished from in front of us at the ruins."
+  },
+  {
+    "message": "What is it that's making this old man so terrified?"
+  },
+  {
+    "message": "What could make an old man who's basically living as a recluse, who's lost all hope in life, this terrified...?"
+  },
+  {
+    "name": "Marsh",
+    "message": "You guys better not get close to a place like that."
+  },
+  {
+    "message": "　　　　　　　Do you want to end up captivated by that thing like me, tied to this village for the rest of your life？"
+  },
+  {
+    "name": "Marsh",
+    "message": "That's the very thing that turned this village into what it is now."
+  },
+  {
+    "message": "　　　　　　　If only he hadn't brought something like that in..."
+  },
+  {
+    "name": "Gardner",
+    "message": "What？"
+  },
+  {
+    "name": "Gardner",
+    "message": "Are you saying that ruin was brought here by someone?"
+  },
+  {
+    "name": "Marsh",
+    "message": "There wasn't anything like that back in my grandpa's day, you know."
+  },
+  {
+    "name": "Marsh",
+    "message": "That... that guy did that..."
+  },
+  {
+    "name": "Gardner",
+    "message": "What the hell！"
+  },
+  {
+    "message": "　　　　　　　　Then what the hell was everything I've done up until now?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Looks like I turned out to be a total disappointment, huh."
+  },
+  {
+    "message": "　　　　　　So that means your whole plan just went up in smoke."
+  },
+  {
+    "name": "Gardner",
+    "message": "Shut up！"
+  },
+  {
+    "message": "　　　　　　　　What the hell do you know, huh?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Whoa…"
+  },
+  {
+    "message": "　　　　　　Stop taking it out on me, okay? It's not like I was the one who brought the Ruins here."
+  },
+  {
+    "name": "Cordelia",
+    "message": "But seriously, who the heck brought something like that in here？"
+  },
+  {
+    "message": "　　　　　　　　That must've been a hell of a struggle."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's right. I wonder what good it did to bring something like that in."
+  },
+  {
+    "name": "Marsh",
+    "message": "There must've been something in it for him, that guy."
+  },
+  {
+    "message": "　　　　　　　Thanks to that, he must've made a lot of money."
+  },
+  {
+    "name": "Marsh",
+    "message": "Still........."
+  },
+  {
+    "message": "　　　　　　　But　the　cost　was　just　way　too　big."
+  },
+  {
+    "name": "Gardner",
+    "message": "Why were you at those ruins？"
+  },
+  {
+    "message": "　　　　　　　　I heard that even the villagers hardly ever come near here, right？"
+  },
+  {
+    "name": "Marsh",
+    "message": "It's fine for the others."
+  },
+  {
+    "message": "　　　　　　　If you kneel and pray before that thing, it won't harm you."
+  },
+  {
+    "name": "Gardner",
+    "message": "I don't really get what you're saying？"
+  },
+  {
+    "name": "Marsh",
+    "message": "But I've got nothing to do with that..."
+  },
+  {
+    "message": "　　　　　　　Of　course,　I　don't　wanna　be　a　sacrifice."
+  },
+  {
+    "name": "Gardner",
+    "message": "Sacrifice？"
+  },
+  {
+    "message": "　　　　　　　　Your story doesn't make any sense at all."
+  },
+  {
+    "name": "Marsh",
+    "message": "I can't even run away."
+  },
+  {
+    "message": "　　　　　　　Turning your eyes away from that and just waiting for the last day that might never come‥‥‥‥"
+  },
+  {
+    "name": "Thomas",
+    "message": "Have you finally lost it, old man？"
+  },
+  {
+    "message": "　　　　　　I seriously have no idea what you're talking about."
+  },
+  {
+    "name": "Marsh",
+    "message": "Instead of making a fuss about how unfair it is, why don’t you look into it yourself？"
+  },
+  {
+    "message": "　　　　　　　It's a famous case, so there should be records left behind."
+  },
+  {
+    "message": "Were Marsh and that man close？"
+  },
+  {
+    "message": "You can see deep anguish on the old man's face as he talks about the man."
+  },
+  {
+    "message": "Come to think of it, Cordelia said that."
+  },
+  {
+    "message": "They say the reason Marsh can cut ties with the world and live like a recluse without working is because a friend left him an inheritance."
+  },
+  {
+    "message": "The man who slaughtered that family might be the friend who left Marsh an inheritance."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What's this incident about？"
+  },
+  {
+    "name": "Marsh",
+    "message": "That was already 40 years ago..."
+  },
+  {
+    "name": "Marsh",
+    "message": "There was a man. He was born into a good family and received a high education."
+  },
+  {
+    "message": "　　　　　　　Unlike　a　piece　of　trash　like　me,　you　had　a　bright　future　ahead　of　you."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What did that man do?"
+  },
+  {
+    "name": "Marsh",
+    "message": "It was a gruesome incident......"
+  },
+  {
+    "message": "　　　　　　　The man ended up killing not only his own mother and wife, but even his daughter, who was not yet even ten years old."
+  },
+  {
+    "name": "Marsh",
+    "message": "A hunting rifle, an axe, a meat cleaver-used whatever I could get my hands on."
+  },
+  {
+    "message": "　　　　　　　As if they couldn't accept even a single family member surviving, they'd gone out of their way to tidy up every last one of them."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Serial murder... Was the man insane？"
+  },
+  {
+    "name": "Marsh",
+    "message": "That might be true. Everyone's saying that..."
+  },
+  {
+    "message": "　　　　　　　Only　I　know　that　it　wasn't　like　that."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Even to little kids, you’d do something so cruel..."
+  },
+  {
+    "message": "　　　　　　　　I can't believe you're sane."
+  },
+  {
+    "name": "Marsh",
+    "message": "That man found out."
+  },
+  {
+    "message": "　　　　　　　What　happened　in　this　village　in　the　past."
+  },
+  {
+    "name": "Marsh",
+    "message": "That's because they've been living outside the village since they were little."
+  },
+  {
+    "message": "　　　　　　　He was the only person in the village who stayed sane."
+  },
+  {
+    "message": "Marsh's expression looks less frightened and more like he's already given up on everything. His words seem less like he's trying to tell us something and more like he's trying to convince himself of something."
+  },
+  {
+    "name": "Gardner",
+    "message": "I've been listening for a while, but I can't make heads or tails of what you're talking about."
+  },
+  {
+    "message": "　　　　　　　　What does that crazy guy have to do with the 'Innsmouth look' anyway?"
+  },
+  {
+    "name": "Marsh",
+    "message": "The man's family was buried in the cemetery."
+  },
+  {
+    "message": "　　　　　　　It was a long time ago, so they didn't even bother investigating it properly..."
+  },
+  {
+    "name": "Marsh",
+    "message": "A circuit judge happened to come by and heard about the incident. Then, he went and dug up the grave."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What did the judge see?"
+  },
+  {
+    "name": "Marsh",
+    "message": "Nobody could get anything out of them."
+  },
+  {
+    "message": "　　　　　　　The　judge　hasn't　stood　in　court　ever　since."
+  },
+  {
+    "name": "Thomas",
+    "message": "What the hell, I've heard stories like that a million times before."
+  },
+  {
+    "message": "　　　　　　It's not that unusual."
+  },
+  {
+    "name": "Gardner",
+    "message": "I wanna know what that circuit judge saw."
+  },
+  {
+    "message": "　　　　　　　　Just what kind of terrifying thing did he see inside the tomb?"
+  },
+  {
+    "name": "Marsh",
+    "message": "How would I know?"
+  },
+  {
+    "message": "　　　　　　　But ever since then, what was originally a symbol and pride of that clan ended up being treated like a symbol of cripples after that horrible incident."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Are you saying that my face looks like the person who caused that awful incident？"
+  },
+  {
+    "name": "Marsh",
+    "message": "‥‥‥‥‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Don't you think that's a pretty unexpected thing to say?"
+  },
+  {
+    "message": "　　　　　　　　It's like you're saying I'm going to commit a bizarre murder just like that guy."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Marsh, you should remember my face."
+  },
+  {
+    "message": "　　　　　　　　Do you remember back then, when you looked at me and called me an 'Innsmouth face'？"
+  },
+  {
+    "name": "Marsh",
+    "message": "Ah...... you're that guy from before, huh."
+  },
+  {
+    "message": "　　　　　　　So, do you need something from me?"
+  },
+  {
+    "name": "Gardner",
+    "message": "I've got something I want to ask you."
+  },
+  {
+    "message": "　　　　　　　　The　words　you　blurted　out　at　the　Ruins,　I　want　to　know　what　those　words　actually　mean！"
+  },
+  {
+    "message": "Marsh's face looked pale for a moment."
+  },
+  {
+    "message": "But the old man seemed to quickly regain his composure, and skillfully turned his face away from us, then opened his mouth like nothing had happened."
+  },
+  {
+    "name": "Marsh",
+    "message": "Now then... I have no idea what you're talking about."
+  },
+  {
+    "message": "　　　　　　　Isn't that Koty from the Gilman House over there？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Yeah, that's right, Marsh-san."
+  },
+  {
+    "message": "　　　　　　　　You come by often to buy booze from us, after all."
+  },
+  {
+    "name": "Marsh",
+    "message": "Ah, even I can at least remember your face, y'know. After all, booze is my only joy."
+  },
+  {
+    "name": "Jonathan",
+    "message": "We're not trying to hurt you or anything. It's just that each of us has some kind of connection to the mystery hidden here in Arkham."
+  },
+  {
+    "name": "Marsh",
+    "message": "Even if you say you’ve got a connection, you guys aren’t from around here, are you? Poking your noses into stuff here isn’t gonna do you any favors, I think."
+  },
+  {
+    "name": "Thomas",
+    "message": "Hey, old man, you think you can scare us? Not a chance."
+  },
+  {
+    "message": "　　　　　　If you know something, you better spit it all out！"
+  },
+  {
+    "name": "Gardner",
+    "message": "Fool, don’t say things that'll just scare them more！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "It’s okay, Mr. Marsh."
+  },
+  {
+    "message": "　　　　　　　　These people aren't bad. I just came to ask because I thought Marsh-san would know all about the village situation."
+  },
+  {
+    "name": "Marsh",
+    "message": "Sure, I'm definitely getting pretty old and senile..."
+  },
+  {
+    "message": "　　　　　　　So,　what　is　it　you　want　to　ask?"
+  },
+  {
+    "message": "　　Go outside　　"
+  }
 ]

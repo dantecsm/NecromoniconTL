@@ -1,161 +1,161 @@
 [
-    {
-        "message": "There's a darkened gravestone that looks like it could just melt away into the dim darkness."
-    },
-    {
-        "message": "The surface is badly worn and damaged, and you can just barely make out the letters of Dunwich."
-    },
-    {
-        "message": "深夜の墓地という状況だけで十分に不気味な雰囲気なのだが、墓石の下に眠っているのが、非業の死を遂げたダニッジの娘だという事を知っていればなさら異様な恐怖感を覚えてしまう。"
-    },
-    {
-        "message": "Especially after hearing the story the gravekeeper told me about the 'Circuit Judge', I can't help but feel that way even more."
-    },
-    {
-        "message": "They said that when the judge opened the coffin lid, the corpse inside reached out and strangled the judge's throat, but could something like that really happen？"
-    },
-    {
-        "message": "In front of the Dunwich grave."
-    },
-    {
-        "message": "This grave doesn’t seem to be Dollie’s, but there aren’t any other gravestones that are clearly marked as belonging to the Dunwich family."
-    },
-    {
-        "message": "There are no traces of the grave being disturbed, so this grave probably escaped any disrespectful acts."
-    },
-    {
-        "message": "Maybe even the circuit judge felt uneasy about digging up the grave where young Dunwich’s daughter rests."
-    },
-    {
-        "message": "Even so, it seems really unusual for a judge to come all the way out here and go so far as to dig up graves, just because of an incident in such a small village."
-    },
-    {
-        "message": "Maybe it was Marsh who told the judge about the case and got him to go all the way to Arkham."
-    },
-    {
-        "message": "There's a darkened gravestone that looks like it might disappear into the dim gloom."
-    },
-    {
-        "message": "磨耗と痛みが激しく、すり減った表面に、わずかにダニッジの文字が見て取れる。"
-    },
-    {
-        "message": "Just being in a graveyard at midnight is creepy enough, but if you know that the one sleeping beneath this gravestone is the Dunwich's daughter who met an unnatural death, you'll definitely feel an extraordinary sense of terror."
-    },
-    {
-        "message": "I'm in front of Dunwich's grave."
-    },
-    {
-        "message": "Apparently, this gravestone doesn't belong to Dollie, but there's no other gravestone here that can be identified as belonging to the Dunwich family."
-    },
-    {
-        "message": "After an incident like that, maybe it's only natural to be treated carelessly, but isn't it a bit too harsh for the fate of one of the village's most distinguished families to end up like this?"
-    },
-    {
-        "message": "In front of the Dunwich family cemetery."
-    },
-    {
-        "message": "Sleeping in this incredibly modest graveyard is only Dollie’s youngest daughter, the only one here is the little girl who died such an untimely death‥‥‥‥‥"
-    },
-    {
-        "message": "For some reason, even the gravekeeper, who should be passionate about keeping the cemetery in pristine condition, avoids touching anywhere around this grave, and the small Gravestone is almost completely hidden by the undergrowth, looking like it might disappear any moment."
-    },
-    {
-        "message": "It's a quiet, secluded corner at the very edge of the graveyard."
-    },
-    {
-        "message": "これでは万が一ダニッジにゆかりの者がここを訪れたとしても、墓碑がある事に気づく可能性は極めて低いだろう。"
-    },
-    {
-        "message": "ひっそりとした墓地の、もっとも端の一画だ。"
-    },
-    {
-        "message": "I don't think this is a place suitable for a member of the Dunwich family to be buried."
-    },
-    {
-        "message": "Dying weeds cover the whole area."
-    },
-    {
-        "message": "It didn't look like it had been trampled down; the thickly overgrown weeds showed that no one had visited the grave for a long time."
-    },
-    {
-        "message": "At this rate, in summer, the lush green grass will probably completely cover up the gravestones."
-    },
-    {
-        "message": "Why does the gravedigger leave only the Dunwich family's graves like this？"
-    },
-    {
-        "message": "It's like the Gravestone is getting covered in grass, almost as if it wishes no one could tell it's the Dunwich family's."
-    },
-    {
-        "message": "The Dunwich inscription and the words beneath it carved into the gravestone have been worn away by the wind and rain, making them almost impossible to read now."
-    },
-    {
-        "message": "Now that there isn't even anyone left who cares about that, it's no wonder I feel kind of lonely about it."
-    },
-    {
-        "message": "I wonder how Hannah Dunwich, Dollie's youngest daughter sleeping under the gravestone, feels about being treated like this."
-    },
-    {
-        "message": "It's a shabby gravestone, totally unfitting for someone from the Dunwich family who once basked in glory."
-    },
-    {
-        "message": "Even so, why is it that we can't find any graves at all for Dollie or any of the other Dunwich family members?"
-    },
-    {
-        "message": "This is the grave where Dollie's youngest daughter, Hannah, sleeps."
-    },
-    {
-        "message": "It seems nobody ever comes to visit, and the area is left overgrown with weeds."
-    },
-    {
-        "message": "It's in front of the Dunwich family's grave."
-    },
-    {
-        "message": "I remember the story the gravekeeper told me, about the circuit judge."
-    },
-    {
-        "message": "The judge dug up the grave a few years after the incident happened."
-    },
-    {
-        "message": "Even if, for some reason, the person in the grave actually wasn't dead, there's no way they could survive that long inside a coffin."
-    },
-    {
-        "message": "I guess in the end, it's really just baseless rumors..."
-    },
-    {
-        "message": "He said, if you want to know the truth, go dig up the grave."
-    },
-    {
-        "message": "I don't feel the need to do that right now, but maybe someday I'll end up having to dig up a grave."
-    },
-    {
-        "message": "『ハンナ・ダニッジ　１８５３〜１８６１"
-    },
-    {
-        "message": "　Born as the second child of father Dollie and mother Jean.』"
-    },
-    {
-        "message": "『Hannah Dunwich 1853 to 1861"
-    },
-    {
-        "message": "　Born as the second child of father Dollie and mother Jean."
-    },
-    {
-        "message": "What’s written on Hannah’s gravestone seems to be the bare minimum needed to tell you what kind of person she was."
-    },
-    {
-        "message": "What else is there to say about a girl who had to suffer an untimely death at only eight years old?"
-    },
-    {
-        "message": "His life was just too short, so there aren't any other memories worth mentioning."
-    },
-    {
-        "message": "I can understand exactly how the person who made this gravestone felt."
-    },
-    {
-        "message": "That must have been an incredibly harsh job."
-    },
-    {
-        "message": "　　　Back　　　"
-    }
+  {
+    "message": "There's a darkened gravestone that looks like it could just melt away into the dim darkness."
+  },
+  {
+    "message": "The surface is badly worn and damaged, and you can just barely make out the letters of Dunwich."
+  },
+  {
+    "message": "Just the fact that it's a graveyard at midnight is creepy enough, but knowing that what lies beneath the gravestone is the daughter of Dunwich, who died an unnatural death, you'd feel an even more intense sense of terror."
+  },
+  {
+    "message": "Especially after hearing the story the gravekeeper told me about the 'Circuit Judge', I can't help but feel that way even more."
+  },
+  {
+    "message": "They said that when the judge opened the coffin lid, the corpse inside reached out and strangled the judge's throat, but could something like that really happen？"
+  },
+  {
+    "message": "In front of the Dunwich grave."
+  },
+  {
+    "message": "This grave doesn’t seem to be Dollie’s, but there aren’t any other gravestones that are clearly marked as belonging to the Dunwich family."
+  },
+  {
+    "message": "There are no traces of the grave being disturbed, so this grave probably escaped any disrespectful acts."
+  },
+  {
+    "message": "Maybe even the circuit judge felt uneasy about digging up the grave where young Dunwich’s daughter rests."
+  },
+  {
+    "message": "Even so, it seems really unusual for a judge to come all the way out here and go so far as to dig up graves, just because of an incident in such a small village."
+  },
+  {
+    "message": "Maybe it was Marsh who told the judge about the case and got him to go all the way to Arkham."
+  },
+  {
+    "message": "There's a darkened gravestone that looks like it might disappear into the dim gloom."
+  },
+  {
+    "message": "The wear and pain are severe, and on the worn-down surface, you can barely make out the letters of Dunwich."
+  },
+  {
+    "message": "Just being in a graveyard at midnight is creepy enough, but if you know that the one sleeping beneath this gravestone is the Dunwich's daughter who met an unnatural death, you'll definitely feel an extraordinary sense of terror."
+  },
+  {
+    "message": "I'm in front of Dunwich's grave."
+  },
+  {
+    "message": "Apparently, this gravestone doesn't belong to Dollie, but there's no other gravestone here that can be identified as belonging to the Dunwich family."
+  },
+  {
+    "message": "After an incident like that, maybe it's only natural to be treated carelessly, but isn't it a bit too harsh for the fate of one of the village's most distinguished families to end up like this?"
+  },
+  {
+    "message": "In front of the Dunwich family cemetery."
+  },
+  {
+    "message": "Sleeping in this incredibly modest graveyard is only Dollie’s youngest daughter, the only one here is the little girl who died such an untimely death‥‥‥‥‥"
+  },
+  {
+    "message": "For some reason, even the gravekeeper, who should be passionate about keeping the cemetery in pristine condition, avoids touching anywhere around this grave, and the small Gravestone is almost completely hidden by the undergrowth, looking like it might disappear any moment."
+  },
+  {
+    "message": "It's a quiet, secluded corner at the very edge of the graveyard."
+  },
+  {
+    "message": "With this, even if by some chance someone with ties to Dunwich were to visit here, the chances of them noticing the existence of the gravestone are extremely low."
+  },
+  {
+    "message": "It's the very edge of a quiet, secluded cemetery."
+  },
+  {
+    "message": "I don't think this is a place suitable for a member of the Dunwich family to be buried."
+  },
+  {
+    "message": "Dying weeds cover the whole area."
+  },
+  {
+    "message": "It didn't look like it had been trampled down; the thickly overgrown weeds showed that no one had visited the grave for a long time."
+  },
+  {
+    "message": "At this rate, in summer, the lush green grass will probably completely cover up the gravestones."
+  },
+  {
+    "message": "Why does the gravedigger leave only the Dunwich family's graves like this？"
+  },
+  {
+    "message": "It's like the Gravestone is getting covered in grass, almost as if it wishes no one could tell it's the Dunwich family's."
+  },
+  {
+    "message": "The Dunwich inscription and the words beneath it carved into the gravestone have been worn away by the wind and rain, making them almost impossible to read now."
+  },
+  {
+    "message": "Now that there isn't even anyone left who cares about that, it's no wonder I feel kind of lonely about it."
+  },
+  {
+    "message": "I wonder how Hannah Dunwich, Dollie's youngest daughter sleeping under the gravestone, feels about being treated like this."
+  },
+  {
+    "message": "It's a shabby gravestone, totally unfitting for someone from the Dunwich family who once basked in glory."
+  },
+  {
+    "message": "Even so, why is it that we can't find any graves at all for Dollie or any of the other Dunwich family members?"
+  },
+  {
+    "message": "This is the grave where Dollie's youngest daughter, Hannah, sleeps."
+  },
+  {
+    "message": "It seems nobody ever comes to visit, and the area is left overgrown with weeds."
+  },
+  {
+    "message": "It's in front of the Dunwich family's grave."
+  },
+  {
+    "message": "I remember the story the gravekeeper told me, about the circuit judge."
+  },
+  {
+    "message": "The judge dug up the grave a few years after the incident happened."
+  },
+  {
+    "message": "Even if, for some reason, the person in the grave actually wasn't dead, there's no way they could survive that long inside a coffin."
+  },
+  {
+    "message": "I guess in the end, it's really just baseless rumors..."
+  },
+  {
+    "message": "He said, if you want to know the truth, go dig up the grave."
+  },
+  {
+    "message": "I don't feel the need to do that right now, but maybe someday I'll end up having to dig up a grave."
+  },
+  {
+    "message": "Hannah Dunwich 1853 to 1861"
+  },
+  {
+    "message": "　Born as the second child of father Dollie and mother Jean.』"
+  },
+  {
+    "message": "『Hannah Dunwich 1853 to 1861"
+  },
+  {
+    "message": "　Born as the second child of father Dollie and mother Jean."
+  },
+  {
+    "message": "What’s written on Hannah’s gravestone seems to be the bare minimum needed to tell you what kind of person she was."
+  },
+  {
+    "message": "What else is there to say about a girl who had to suffer an untimely death at only eight years old?"
+  },
+  {
+    "message": "His life was just too short, so there aren't any other memories worth mentioning."
+  },
+  {
+    "message": "I can understand exactly how the person who made this gravestone felt."
+  },
+  {
+    "message": "That must have been an incredibly harsh job."
+  },
+  {
+    "message": "　　　Back　　　"
+  }
 ]

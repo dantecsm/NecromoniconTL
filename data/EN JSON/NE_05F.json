@@ -1,89 +1,89 @@
 [
-    {
-        "message": "There are only brand new books on this bookshelf."
-    },
-    {
-        "message": "If the Necronomicon was mixed in with books like this, you’d know it at a glance."
-    },
-    {
-        "message": "There are only brand-new books on this bookshelf."
-    },
-    {
-        "message": "If the Necronomicon was mixed in among books like these, you'd recognize it in an instant."
-    },
-    {
-        "message": "Looks like it's pointless to even search."
-    },
-    {
-        "message": "It's Penguin Company's 'Classics Series'."
-    },
-    {
-        "message": "The book itself isn't that old, but it's really beat up."
-    },
-    {
-        "message": "The previous owner, whether it was a he or a she, probably read this book over and over."
-    },
-    {
-        "message": "Looks like one of those typical complete works of Shakespeare."
-    },
-    {
-        "message": "It's not like it's some especially expensive binding, and since it's just one book out of a whole collection, it doesn't seem to have any value at all."
-    },
-    {
-        "message": "It's John Collins' theology book."
-    },
-    {
-        "message": "Didn't expect you to have a book by some not-so-famous British theologian."
-    },
-    {
-        "message": "The owner must have been a devout Christian."
-    },
-    {
-        "message": "『Suicide is the worst form of murder. Because it doesn't give you a chance to repent.』"
-    },
-    {
-        "message": "That's a word that has absolutely nothing to do with me."
-    },
-    {
-        "message": "It's not like I have any intention of killing myself or anything."
-    },
-    {
-        "message": "『Love and Law』"
-    },
-    {
-        "message": "Maria Edgeworth"
-    },
-    {
-        "message": "Sorry to say, but he hasn't been able to read or write since he was a kid."
-    },
-    {
-        "message": "　But just like with other things, you can mark it."
-    },
-    {
-        "message": "I don't really get what you're trying to say, but......"
-    },
-    {
-        "message": "Come to think of it, can Marsh the old man even read and write?"
-    },
-    {
-        "message": "It's a Chesterton novel."
-    },
-    {
-        "message": "I read this back when I was still a student, if I remember right."
-    },
-    {
-        "message": "『Oedipus Rex』"
-    },
-    {
-        "message": "Sophocles"
-    },
-    {
-        "message": "『We saw a swaying noose, and the figure of a woman who had hanged herself.』"
-    },
-    {
-        "message": "ギリシアの作家のようだが名前を聞いた事すらない。"
-    },
-    {
-        "message": "Go back to the archive"
-    }
+  {
+    "message": "There are only brand new books on this bookshelf."
+  },
+  {
+    "message": "If the Necronomicon was mixed in with books like this, you’d know it at a glance."
+  },
+  {
+    "message": "There are only brand-new books on this bookshelf."
+  },
+  {
+    "message": "If the Necronomicon was mixed in among books like these, you'd recognize it in an instant."
+  },
+  {
+    "message": "Looks like it's pointless to even search."
+  },
+  {
+    "message": "It's Penguin Company's 'Classics Series'."
+  },
+  {
+    "message": "The book itself isn't that old, but it's really beat up."
+  },
+  {
+    "message": "The previous owner, whether it was a he or a she, probably read this book over and over."
+  },
+  {
+    "message": "Looks like one of those typical complete works of Shakespeare."
+  },
+  {
+    "message": "It's not like it's some especially expensive binding, and since it's just one book out of a whole collection, it doesn't seem to have any value at all."
+  },
+  {
+    "message": "It's John Collins' theology book."
+  },
+  {
+    "message": "Didn't expect you to have a book by some not-so-famous British theologian."
+  },
+  {
+    "message": "The owner must have been a devout Christian."
+  },
+  {
+    "message": "『Suicide is the worst form of murder. Because it doesn't give you a chance to repent.』"
+  },
+  {
+    "message": "That's a word that has absolutely nothing to do with me."
+  },
+  {
+    "message": "It's not like I have any intention of killing myself or anything."
+  },
+  {
+    "message": "『Love and Law』"
+  },
+  {
+    "message": "Maria Edgeworth"
+  },
+  {
+    "message": "Sorry to say, but he hasn't been able to read or write since he was a kid."
+  },
+  {
+    "message": "　But just like with other things, you can mark it."
+  },
+  {
+    "message": "I don't really get what you're trying to say, but......"
+  },
+  {
+    "message": "Come to think of it, can Marsh the old man even read and write?"
+  },
+  {
+    "message": "It's a Chesterton novel."
+  },
+  {
+    "message": "I read this back when I was still a student, if I remember right."
+  },
+  {
+    "message": "『Oedipus Rex』"
+  },
+  {
+    "message": "Sophocles"
+  },
+  {
+    "message": "『We saw a swaying noose, and the figure of a woman who had hanged herself.』"
+  },
+  {
+    "message": "Seems to be a Greek writer, but I've never even heard the name."
+  },
+  {
+    "message": "Go back to the archive"
+  }
 ]

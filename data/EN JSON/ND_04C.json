@@ -1,438 +1,438 @@
 [
-    {
-        "name": "Jonathan",
-        "message": "Cordelia, are you drinking again......"
-    },
-    {
-        "message": "A thick scent of Alcohol is definitely wafting from Cordelia's body. However, from her frightened, almost tearful expression, there's nothing at all that reminds me of a drunk person."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What's wrong?"
-    },
-    {
-        "message": "　　　　　　　　You don't have to cry just because I'm a little late for our promise, right？"
-    },
-    {
-        "message": "Cordelia clasps her hands tightly in front of her body, shrinking herself as if to suppress her trembling."
-    },
-    {
-        "message": "This isn't normal."
-    },
-    {
-        "message": "I wonder what happened while I was waiting."
-    },
-    {
-        "name": "Jonathan",
-        "message": "コーデリア！"
-    },
-    {
-        "message": "　　　　　　　　Just where have you been?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "ジョナサン‥‥‥‥‥"
-    },
-    {
-        "message": "　　　　　　　　I’ve been waiting this whole time......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Don't you think it's way too reckless for a young girl to be out walking alone at this hour?！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Do you know how worried I was?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I'm sorry."
-    },
-    {
-        "message": "　　　　　　　　I waited for so long, but you didn't come, Jonathan."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Even so, that doesn't mean it's okay to do something this dangerous."
-    },
-    {
-        "name": "Cordelia",
-        "message": "‥‥‥‥‥‥‥‥"
-    },
-    {
-        "message": "Cordelia clenches both her hands so tight they turn white, looking at me like she's about to cry."
-    },
-    {
-        "message": "Maybe I went a little overboard with the drug."
-    },
-    {
-        "message": "Since I was late for our promised time, it's not like I'm completely blameless..."
-    },
-    {
-        "message": "Cordelia isn't in the room, which doesn't have much stuff."
-    },
-    {
-        "message": "Looks like they haven't come back yet."
-    },
-    {
-        "message": "She's not the kind of girl who'd break her promise with me and just go off somewhere, and besides, I can't imagine there's anywhere she'd have to go at this hour....."
-    },
-    {
-        "message": "I wonder if I've gotten myself caught up in something troublesome again after all."
-    },
-    {
-        "message": "Maybe we should go look for them."
-    },
-    {
-        "message": "It's Cordelia's room on the second floor of the Pub."
-    },
-    {
-        "message": "The room, which doesn't really have much stuff in it, feels even more spacious with its owner gone."
-    },
-    {
-        "message": "Considering that it's been moderately warmed up, I don't think it's been that long since Cordelia left the room."
-    },
-    {
-        "message": "It feels like she just stepped out for a quick errand, but there's no way any store would be open this late at night in this Arkham."
-    },
-    {
-        "message": "Where did Cordelia go?"
-    },
-    {
-        "message": "いっその事、コーデリアを待たずに寝てしまいたいところだが、そういう訳にもいかない。"
-    },
-    {
-        "message": "古びてはいるものの、コーデリアの養父母の代から使っていたという程ではない。"
-    },
-    {
-        "message": "おそらく、コーデリアが自分でこの部屋に運び込んだ物なのだろう。"
-    },
-    {
-        "message": "There don't seem to be many pieces of furniture left that could be called memories of my adoptive parents."
-    },
-    {
-        "message": "It's a barely-there window, just big enough to let the breeze through."
-    },
-    {
-        "message": "This room, which exists almost just for sleeping, might be fine like this."
-    },
-    {
-        "message": "It doesn't really look like it gets much sunlight."
-    },
-    {
-        "message": "There's a window, just barely enough to let some air through the room."
-    },
-    {
-        "message": "Looks like there's nothing like a terrace in this room, but I wonder if Cordelia doesn't mind."
-    },
-    {
-        "message": "It's not a replica, but it doesn't really seem valuable either."
-    },
-    {
-        "message": "It doesn't really seem to match Cordelia's hobbies though......"
-    },
-    {
-        "message": "In this room that's lacking in things like decorations, it's the only thing that really stands out."
-    },
-    {
-        "message": "It doesn't seem to be a replica of a famous writer's work, but it doesn't look very valuable either."
-    },
-    {
-        "message": "It's probably something an unknown painter who visited the pub drew as a way to pass the time instead of paying for booze."
-    },
-    {
-        "message": "It doesn't really match Cordelia's hobbies either."
-    },
-    {
-        "message": "It's not like I actually like it, but I can’t just throw it away either, so it’s got that vibe of something I ended up putting in my room just because I had no choice……"
-    },
-    {
-        "message": "It's just an ordinary dressing table."
-    },
-    {
-        "message": "It's all neatly put away, so I can't tell what kind of cosmetics Cordelia usually uses."
-    },
-    {
-        "message": "Everything is neatly put away, so there's no way to tell what kind of cosmetics Cordelia usually uses."
-    },
-    {
-        "message": "I could open the drawer and take a look inside, but I doubt there's anything all that interesting in there."
-    },
-    {
-        "message": "Cordelia never really put that much effort into making herself look beautiful in the first place."
-    },
-    {
-        "message": "To be this scared, just what the hell happened to you？"
-    },
-    {
-        "message": "It's hard to believe that Cordelia, who's lived all alone until now, has such a delicate side to her."
-    },
-    {
-        "message": "Shaking all over, looking at me with scared eyes."
-    },
-    {
-        "message": "There's no way I could just leave her alone and go back to the Fish Scale Inn."
-    },
-    {
-        "message": "Cordelia is looking at me with a face that looks like she's about to cry any second."
-    },
-    {
-        "message": "The hands clasped together in front of her chest are so tightly gripped, they've turned white."
-    },
-    {
-        "message": "Shivering from the cold, they look just like a puppy caught in the rain-it almost makes me feel sorry just watching them."
-    },
-    {
-        "message": "Was it really that shocking that I was late for our promised time？"
-    },
-    {
-        "message": "I just can't believe that's all there is..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Aren't you worried about me？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why does it have to be like that?"
-    },
-    {
-        "message": "　　　　　　　　I came here like this because I was worried about you, didn’t I?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "No, it feels like you're really not into this！"
-    },
-    {
-        "message": "　　　　　　　　Sure, we can go back to the Fish Scale Inn."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'm not bothered at all."
-    },
-    {
-        "message": "　　　　　　　　I'll stay here with you all night."
-    },
-    {
-        "name": "Cordelia",
-        "message": "That's enough, go home！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why are you being so unreasonable！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "But‥‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I love you."
-    },
-    {
-        "message": "　　　　　　　　That's why I went out of my way to come see you like this, isn't it?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Really？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "You're pretty suspicious, huh."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Can I really trust you？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I went to the Church too, but I didn't see you there.　　　　　　　　Looks like we just missed each other."
-    },
-    {
-        "name": "Cordelia",
-        "message": "What were you doing in a place like that！"
-    },
-    {
-        "message": "　　　　　　　　It's dangerous to be walking around the village in the middle of the night, you know."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Didn't you do the same thing too?"
-    },
-    {
-        "message": "　　　　　　　　I was just looking it up."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So, did you see it too？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "You saw it..."
-    },
-    {
-        "message": "　　　　　　　　Did　you　see　Thomas　and　Nai　talking　about　something？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "What the heck is that？"
-    },
-    {
-        "message": "　　　　　　　　I didn't see anything like that."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Figured as much."
-    },
-    {
-        "message": "　　　　　　　　Sure, those two aren't normal, but there's no way that would make you scared."
-    },
-    {
-        "name": "Cordelia",
-        "message": "After I left the church and got onto the road leading to the sea......"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Somehow, all of a sudden... there was this weird smell around."
-    },
-    {
-        "message": "　　　　　　　　It was a nasty smell, like rotting fish."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I know about that."
-    },
-    {
-        "message": "　　　　　　　　When I went to the harbor to meet Marsh, it smelled like that there too."
-    },
-    {
-        "name": "Cordelia",
-        "message": "That wasn't all, though."
-    },
-    {
-        "message": "　　　　　　　　There was a weird sound."
-    },
-    {
-        "name": "Jonathan",
-        "message": "A weird sound... what kind？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I don't know, I can't explain it well."
-    },
-    {
-        "message": "　　　　　　　　It was kinda like the sound of dragging a wet rag."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Maybe you're just imagining things."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I thought so at first too, but......"
-    },
-    {
-        "message": "　　　　　　　　I　got　scared　and　turned　back　to　come　here."
-    },
-    {
-        "name": "Cordelia",
-        "message": "And then, that sound kept following me the whole time."
-    },
-    {
-        "message": "　　　　　　　　No matter how fast I ran, it just wouldn't go away."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Maybe it was just a prank by someone."
-    },
-    {
-        "message": "　　　　　　　　Because you were out walking so late at night, they probably wanted to mess with you a bit."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan, I'm really scared......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Don't worry about it."
-    },
-    {
-        "message": "　　　　　　　　You've always been fine up to now, right?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "So what exactly happened？"
-    },
-    {
-        "message": "　　　　　　　　Were　you　really　that　shocked　that　I　was　late？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "That's not it！"
-    },
-    {
-        "message": "　　　　　　　　I........."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Calm down."
-    },
-    {
-        "message": "　　　　　　　　Try telling me what happened, step by step."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I-since Jonathan was late coming, I got worried and went outside to check."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I went through the back alley and headed toward the Church."
-    },
-    {
-        "message": "　　　　　　　　The other day, you were the one who took the wrong way."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Even someone like me who doesn't know the area wouldn't mess up and take the same wrong road twice."
-    },
-    {
-        "name": "Cordelia",
-        "message": "\"But！\""
-    },
-    {
-        "message": "　　　　　　　　ずっと待ってたのにあなたは来ないんだもの。"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I get it, it was my fault."
-    },
-    {
-        "message": "　　　　　　　　So, what did you do after that?"
-    },
-    {
-        "name": "Cordelia",
-        "message": "And then......"
-    },
-    {
-        "message": "No matter how close we are, it's probably smarter not to barge into Cordelia's privacy with dirty shoes."
-    },
-    {
-        "message": "It's the only wardrobe in the room."
-    },
-    {
-        "message": "Cordelia's clothes and stuff are probably inside."
-    },
-    {
-        "message": "It's not like I want to peek inside or anything......"
-    },
-    {
-        "message": "But it's not like I'm totally uninterested, either."
-    },
-    {
-        "message": "Go back to the Pub"
-    }
+  {
+    "name": "Jonathan",
+    "message": "Cordelia, are you drinking again......"
+  },
+  {
+    "message": "A thick scent of Alcohol is definitely wafting from Cordelia's body. However, from her frightened, almost tearful expression, there's nothing at all that reminds me of a drunk person."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What's wrong?"
+  },
+  {
+    "message": "　　　　　　　　You don't have to cry just because I'm a little late for our promise, right？"
+  },
+  {
+    "message": "Cordelia clasps her hands tightly in front of her body, shrinking herself as if to suppress her trembling."
+  },
+  {
+    "message": "This isn't normal."
+  },
+  {
+    "message": "I wonder what happened while I was waiting."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia！"
+  },
+  {
+    "message": "　　　　　　　　Just where have you been?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan........."
+  },
+  {
+    "message": "　　　　　　　　I’ve been waiting this whole time......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Don't you think it's way too reckless for a young girl to be out walking alone at this hour?！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Do you know how worried I was?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I'm sorry."
+  },
+  {
+    "message": "　　　　　　　　I waited for so long, but you didn't come, Jonathan."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Even so, that doesn't mean it's okay to do something this dangerous."
+  },
+  {
+    "name": "Cordelia",
+    "message": "‥‥‥‥‥‥‥‥"
+  },
+  {
+    "message": "Cordelia clenches both her hands so tight they turn white, looking at me like she's about to cry."
+  },
+  {
+    "message": "Maybe I went a little overboard with the drug."
+  },
+  {
+    "message": "Since I was late for our promised time, it's not like I'm completely blameless..."
+  },
+  {
+    "message": "Cordelia isn't in the room, which doesn't have much stuff."
+  },
+  {
+    "message": "Looks like they haven't come back yet."
+  },
+  {
+    "message": "She's not the kind of girl who'd break her promise with me and just go off somewhere, and besides, I can't imagine there's anywhere she'd have to go at this hour....."
+  },
+  {
+    "message": "I wonder if I've gotten myself caught up in something troublesome again after all."
+  },
+  {
+    "message": "Maybe we should go look for them."
+  },
+  {
+    "message": "It's Cordelia's room on the second floor of the Pub."
+  },
+  {
+    "message": "The room, which doesn't really have much stuff in it, feels even more spacious with its owner gone."
+  },
+  {
+    "message": "Considering that it's been moderately warmed up, I don't think it's been that long since Cordelia left the room."
+  },
+  {
+    "message": "It feels like she just stepped out for a quick errand, but there's no way any store would be open this late at night in this Arkham."
+  },
+  {
+    "message": "Where did Cordelia go?"
+  },
+  {
+    "message": "Honestly, I'd rather just go to sleep without waiting for Cordelia, but that's not really an option."
+  },
+  {
+    "message": "It's old, but it's not like it's been used since the time of Cordelia's foster parents."
+  },
+  {
+    "message": "It's probably something Cordelia brought into this room herself."
+  },
+  {
+    "message": "There don't seem to be many pieces of furniture left that could be called memories of my adoptive parents."
+  },
+  {
+    "message": "It's a barely-there window, just big enough to let the breeze through."
+  },
+  {
+    "message": "This room, which exists almost just for sleeping, might be fine like this."
+  },
+  {
+    "message": "It doesn't really look like it gets much sunlight."
+  },
+  {
+    "message": "There's a window, just barely enough to let some air through the room."
+  },
+  {
+    "message": "Looks like there's nothing like a terrace in this room, but I wonder if Cordelia doesn't mind."
+  },
+  {
+    "message": "It's not a replica, but it doesn't really seem valuable either."
+  },
+  {
+    "message": "It doesn't really seem to match Cordelia's hobbies though......"
+  },
+  {
+    "message": "In this room that's lacking in things like decorations, it's the only thing that really stands out."
+  },
+  {
+    "message": "It doesn't seem to be a replica of a famous writer's work, but it doesn't look very valuable either."
+  },
+  {
+    "message": "It's probably something an unknown painter who visited the pub drew as a way to pass the time instead of paying for booze."
+  },
+  {
+    "message": "It doesn't really match Cordelia's hobbies either."
+  },
+  {
+    "message": "It's not like I actually like it, but I can’t just throw it away either, so it’s got that vibe of something I ended up putting in my room just because I had no choice……"
+  },
+  {
+    "message": "It's just an ordinary dressing table."
+  },
+  {
+    "message": "It's all neatly put away, so I can't tell what kind of cosmetics Cordelia usually uses."
+  },
+  {
+    "message": "Everything is neatly put away, so there's no way to tell what kind of cosmetics Cordelia usually uses."
+  },
+  {
+    "message": "I could open the drawer and take a look inside, but I doubt there's anything all that interesting in there."
+  },
+  {
+    "message": "Cordelia never really put that much effort into making herself look beautiful in the first place."
+  },
+  {
+    "message": "To be this scared, just what the hell happened to you？"
+  },
+  {
+    "message": "It's hard to believe that Cordelia, who's lived all alone until now, has such a delicate side to her."
+  },
+  {
+    "message": "Shaking all over, looking at me with scared eyes."
+  },
+  {
+    "message": "There's no way I could just leave her alone and go back to the Fish Scale Inn."
+  },
+  {
+    "message": "Cordelia is looking at me with a face that looks like she's about to cry any second."
+  },
+  {
+    "message": "The hands clasped together in front of her chest are so tightly gripped, they've turned white."
+  },
+  {
+    "message": "Shivering from the cold, they look just like a puppy caught in the rain-it almost makes me feel sorry just watching them."
+  },
+  {
+    "message": "Was it really that shocking that I was late for our promised time？"
+  },
+  {
+    "message": "I just can't believe that's all there is..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Aren't you worried about me？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why does it have to be like that?"
+  },
+  {
+    "message": "　　　　　　　　I came here like this because I was worried about you, didn’t I?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "No, it feels like you're really not into this！"
+  },
+  {
+    "message": "　　　　　　　　Sure, we can go back to the Fish Scale Inn."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'm not bothered at all."
+  },
+  {
+    "message": "　　　　　　　　I'll stay here with you all night."
+  },
+  {
+    "name": "Cordelia",
+    "message": "That's enough, go home！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why are you being so unreasonable！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "But‥‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I love you."
+  },
+  {
+    "message": "　　　　　　　　That's why I went out of my way to come see you like this, isn't it?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Really？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "You're pretty suspicious, huh."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Can I really trust you？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I went to the Church too, but I didn't see you there.　　　　　　　　Looks like we just missed each other."
+  },
+  {
+    "name": "Cordelia",
+    "message": "What were you doing in a place like that！"
+  },
+  {
+    "message": "　　　　　　　　It's dangerous to be walking around the village in the middle of the night, you know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Didn't you do the same thing too?"
+  },
+  {
+    "message": "　　　　　　　　I was just looking it up."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So, did you see it too？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "You saw it..."
+  },
+  {
+    "message": "　　　　　　　　Did　you　see　Thomas　and　Nai　talking　about　something？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "What the heck is that？"
+  },
+  {
+    "message": "　　　　　　　　I didn't see anything like that."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Figured as much."
+  },
+  {
+    "message": "　　　　　　　　Sure, those two aren't normal, but there's no way that would make you scared."
+  },
+  {
+    "name": "Cordelia",
+    "message": "After I left the church and got onto the road leading to the sea......"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Somehow, all of a sudden... there was this weird smell around."
+  },
+  {
+    "message": "　　　　　　　　It was a nasty smell, like rotting fish."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I know about that."
+  },
+  {
+    "message": "　　　　　　　　When I went to the harbor to meet Marsh, it smelled like that there too."
+  },
+  {
+    "name": "Cordelia",
+    "message": "That wasn't all, though."
+  },
+  {
+    "message": "　　　　　　　　There was a weird sound."
+  },
+  {
+    "name": "Jonathan",
+    "message": "A weird sound... what kind？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I don't know, I can't explain it well."
+  },
+  {
+    "message": "　　　　　　　　It was kinda like the sound of dragging a wet rag."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Maybe you're just imagining things."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I thought so at first too, but......"
+  },
+  {
+    "message": "　　　　　　　　I　got　scared　and　turned　back　to　come　here."
+  },
+  {
+    "name": "Cordelia",
+    "message": "And then, that sound kept following me the whole time."
+  },
+  {
+    "message": "　　　　　　　　No matter how fast I ran, it just wouldn't go away."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Maybe it was just a prank by someone."
+  },
+  {
+    "message": "　　　　　　　　Because you were out walking so late at night, they probably wanted to mess with you a bit."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan, I'm really scared......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Don't worry about it."
+  },
+  {
+    "message": "　　　　　　　　You've always been fine up to now, right?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "So what exactly happened？"
+  },
+  {
+    "message": "　　　　　　　　Were　you　really　that　shocked　that　I　was　late？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "That's not it！"
+  },
+  {
+    "message": "　　　　　　　　I........."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Calm down."
+  },
+  {
+    "message": "　　　　　　　　Try telling me what happened, step by step."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I-since Jonathan was late coming, I got worried and went outside to check."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I went through the back alley and headed toward the Church."
+  },
+  {
+    "message": "　　　　　　　　The other day, you were the one who took the wrong way."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Even someone like me who doesn't know the area wouldn't mess up and take the same wrong road twice."
+  },
+  {
+    "name": "Cordelia",
+    "message": "\"But！\""
+  },
+  {
+    "message": "　　　　　　　　I've been waiting for you this whole time, but you never came."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I get it, it was my fault."
+  },
+  {
+    "message": "　　　　　　　　So, what did you do after that?"
+  },
+  {
+    "name": "Cordelia",
+    "message": "And then......"
+  },
+  {
+    "message": "No matter how close we are, it's probably smarter not to barge into Cordelia's privacy with dirty shoes."
+  },
+  {
+    "message": "It's the only wardrobe in the room."
+  },
+  {
+    "message": "Cordelia's clothes and stuff are probably inside."
+  },
+  {
+    "message": "It's not like I want to peek inside or anything......"
+  },
+  {
+    "message": "But it's not like I'm totally uninterested, either."
+  },
+  {
+    "message": "Go back to the Pub"
+  }
 ]
