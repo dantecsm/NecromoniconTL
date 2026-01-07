@@ -1,705 +1,705 @@
 [
-    {
-        "name": "Jonathan",
-        "message": "Who would've thought there'd be such a long passage under the mansion.　　　　　　　　At this rate, I wouldn't be surprised if tunnels run all under Arkham."
-    },
-    {
-        "name": "Nai",
-        "message": "It's all thanks to Philip Dunwich's money and power."
-    },
-    {
-        "message": "　　　　　Still, that guy couldn't see it through to the end."
-    },
-    {
-        "name": "Jonathan",
-        "message": "And that's because Sarah got in his way, huh."
-    },
-    {
-        "name": "Nai",
-        "message": "In the end, it was just a futile struggle."
-    },
-    {
-        "message": "　　　　　Our master will wake from his slumber one day."
-    },
-    {
-        "name": "Jonathan",
-        "message": "A world ruled by chaos and fear, huh‥‥‥‥‥"
-    },
-    {
-        "name": "Nai",
-        "message": "No one can stop it."
-    },
-    {
-        "message": "　　　　　Humans were only allowed a fleeting existence in our master's dream to begin with."
-    },
-    {
-        "name": "Jonathan",
-        "message": "How terrifying‥‥‥‥‥‥"
-    },
-    {
-        "name": "Nai",
-        "message": "Exactly, there's no one as terrifying as him."
-    },
-    {
-        "name": "Jonathan",
-        "message": "This is‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "What a number."
-    },
-    {
-        "message": "　　　　　　　　That's more than all of Arkham's villagers."
-    },
-    {
-        "name": "Nai",
-        "message": "These are the ones who have lingered on for centuries, waiting for this day.　　　　　Not just from Arkham-chosen from every nation, every race."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So these are all the 'ones who become sustenance'."
-    },
-    {
-        "name": "Nai",
-        "message": "Indeed, and you stand above all of them."
-    },
-    {
-        "message": "　　　　　A pact-bound servant permitted to serve by that person’s side."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What's going on, a Deep One in the light......"
-    },
-    {
-        "name": "Nai",
-        "message": "Looks like that guy already started the ritual."
-    },
-    {
-        "message": "　　　　　You fool, are you still clinging to life?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "There's no way Thomas beat us to it, right？"
-    },
-    {
-        "name": "Nai",
-        "message": "That's impossible."
-    },
-    {
-        "message": "　　　　　But, I hope he hasn’t hurt the important sacrifice."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia, huh."
-    },
-    {
-        "name": "Nai",
-        "message": "That's right."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Why did you choose her？"
-    },
-    {
-        "name": "Nai",
-        "message": "It didn't absolutely have to be that woman."
-    },
-    {
-        "message": "　　　　　But, we had to raise a girl suited for the role with our own hands."
-    },
-    {
-        "name": "Jonathan",
-        "message": "So there wasn’t any particular reason you picked Cordelia?"
-    },
-    {
-        "name": "Nai",
-        "message": "That's not exactly true."
-    },
-    {
-        "message": "　　　　　First off, it had to be a girl the pact-bearer-you-liked."
-    },
-    {
-        "name": "Nai",
-        "message": "Isn't it about time you went？"
-    },
-    {
-        "message": "　　　　　Before　some　fool　kills　the　girl."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Well then... let's go."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Thomas........."
-    },
-    {
-        "name": "Nai",
-        "message": "Seems there was no need to worry after all."
-    },
-    {
-        "message": "　　　　　Getting wrecked like this by a Deep One, huh?"
-    },
-    {
-        "message": "Thomas's right hand and both legs have been torn off with sharp fangs, and he's barely alive."
-    },
-    {
-        "message": "Looks like he's lost a lot of blood."
-    },
-    {
-        "name": "Nai",
-        "message": "Idiot, take a good look at your ugly self！"
-    },
-    {
-        "name": "Thomas",
-        "message": "Jonathan...... you bastard......"
-    },
-    {
-        "name": "Nai",
-        "message": "Oh, you can still talk?"
-    },
-    {
-        "name": "Nai",
-        "message": "Impressive."
-    },
-    {
-        "message": "　　　　　You've got life like a damn bug！"
-    },
-    {
-        "name": "Thomas",
-        "message": "Why are you guys......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's the punishment for being greedy."
-    },
-    {
-        "message": "　　　　　　　　It hurts, doesn't it, slowly dying like that？"
-    },
-    {
-        "name": "Thomas",
-        "message": "You... who are you... Are you really Jonathan？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, that's right."
-    },
-    {
-        "name": "Thomas",
-        "message": "No... that's not it......"
-    },
-    {
-        "name": "Thomas",
-        "message": "Sure looks like Jonathan on the outside, but inside it's totally..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Scum... just keep running your damn mouth forever！"
-    },
-    {
-        "name": "Nai",
-        "message": "Guess I'll be taking this back."
-    },
-    {
-        "name": "Thomas",
-        "message": "Wha... what the hell are you doing..."
-    },
-    {
-        "name": "Nai",
-        "message": "It's something you don't need anymore."
-    },
-    {
-        "name": "Thomas",
-        "message": "Shit... just one more step..."
-    },
-    {
-        "name": "Nai",
-        "message": "Idiot！"
-    },
-    {
-        "message": "　　　　　You were destined for this from the start."
-    },
-    {
-        "name": "Nai",
-        "message": "Finish him off."
-    },
-    {
-        "name": "Jonathan",
-        "message": "He'll probably die soon enough even if we leave him alone, right？"
-    },
-    {
-        "name": "Nai",
-        "message": "No, you need to awaken as well."
-    },
-    {
-        "message": "　　　　　Shed that form of yours."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Am I going to turn into a Deep One too？"
-    },
-    {
-        "name": "Nai",
-        "message": "There's nothing to be afraid of."
-    },
-    {
-        "message": "　　　　　The pain will only last for a moment......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "So I just have to kill that guy？"
-    },
-    {
-        "name": "Nai",
-        "message": "Only if you do it in an absolutely gruesome way."
-    },
-    {
-        "message": "　　　　　You have been away from this place far too long......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Fine by me."
-    },
-    {
-        "name": "Thomas",
-        "message": "Guh...... Jonathan......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Don't worry, I'll put you out of your misery real soon."
-    },
-    {
-        "name": "Thomas",
-        "message": "Stop it... you're... not sane..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That face of yours, twisted in agony......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's so hideous."
-    },
-    {
-        "name": "Thomas",
-        "message": "P-please... help... me..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I have absolutely no intention of helping you."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Die like a dog."
-    },
-    {
-        "name": "Thomas",
-        "message": "Ugh......"
-    },
-    {
-        "name": "Thomas",
-        "message": "St-stop! Cut it out!"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Look, your filthy guts......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "They're steaming, warm vapor rising off them."
-    },
-    {
-        "name": "Thomas",
-        "message": "You're no human... you psycho..."
-    },
-    {
-        "name": "Thomas",
-        "message": "Somebody help me... please... God！"
-    },
-    {
-        "name": "Thomas",
-        "message": "Save me......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Blood......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "My hands... are soaked in filthy blood."
-    },
-    {
-        "name": "Jonathan",
-        "message": "With these hands, I killed... that man！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It was me. I did it."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Heh heh heh..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "W-What... What is this？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Who... that outfit... Jonathan？"
-    },
-    {
-        "name": "Nai",
-        "message": "Violate that woman."
-    },
-    {
-        "name": "Nai",
-        "message": "Our lord will awaken soon."
-    },
-    {
-        "name": "Nai",
-        "message": "Offer up a sacrifice defiled by your semen, as a covenant bearer."
-    },
-    {
-        "name": "Cordelia",
-        "message": "No... I can't do that..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Ah, Jonathan... Is this a dream？"
-    },
-    {
-        "name": "Nai",
-        "message": "Enjoy yourself as much as you'd like."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Nooooo！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan... please！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Come to your senses..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Nn... nnngh！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Ahh... please..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "M-My tongue... it hurts..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "My chest... it feels like it's going to rip apart！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Please, be a little gentler..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Ah, Jonathan."
-    },
-    {
-        "message": "　　　　　　　　Why did you end up like this？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "How could something so awful..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Ahhh... Not there..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan... Please go back to the way you were..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Nngh！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Y-your nails... are touching my there！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "It hurts... it hurts！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Don't come in so forcefully..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "M-my... it's gonna tear！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "O-okay, I get it..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan, you can do whatever you want."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Please, just be gentle with me."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Like you always do..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Love me like you always do."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Nn... ahhh！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I-it hurts..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "M-my insides are so full..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It's stretching so much, it feels like I'm gonna split！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "It hurts... it really hurts... ahh, Jonathan！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "I can't believe this is happening... me..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Are you really Jonathan？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "So... so strong..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Nngh... ahh！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Please... I'm gonna break."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Slower... more gently..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Ahh... so... you do understand my words？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Are you really Jonathan？"
-    },
-    {
-        "name": "Nai",
-        "message": "Ia... Fhtagn... Mglw'nafh Cthulhu R'lyeh"
-    },
-    {
-        "message": "　　　　　Ngai Ngag Bugg=Shoggoth..."
-    },
-    {
-        "name": "Nai",
-        "message": "My lord... now is finally the time to awaken..."
-    },
-    {
-        "name": "Nai",
-        "message": "All of us humbly devote ourselves to you！"
-    },
-    {
-        "name": "Nai",
-        "message": "Ia... Fhtagn... Mglw'nafh Cthulhu R'lyeh"
-    },
-    {
-        "message": "　　　　　Ngai Ngag Bugg=Shoggoth！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Nn... I can't take it anymore..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Ah... Jonathan..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Why？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Why do you look like that..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "But... it doesn't matter what you look like..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I'll always be yours, Jonathan."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Please, don't leave me behind！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Ahh... stay with me... always be with me！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Aaahhhh！"
-    },
-    {
-        "name": "Nai",
-        "message": "Why... why won't my lord awaken？"
-    },
-    {
-        "name": "Nai",
-        "message": "Ia... Fhtagn... Mglw'nafh Cthulhu R'lyeh"
-    },
-    {
-        "message": "　　　　　Ngai Ngag Bugg=Shoggoth！"
-    },
-    {
-        "name": "Nai",
-        "message": "Was it still not enough？"
-    },
-    {
-        "name": "Nai",
-        "message": "Even after all these long years..."
-    },
-    {
-        "name": "Nai",
-        "message": "Covenant！"
-    },
-    {
-        "name": "Nai",
-        "message": "It’s an emergency, come here quick."
-    },
-    {
-        "message": "《What’s wrong？》"
-    },
-    {
-        "name": "Nai",
-        "message": "Our Lord won't wake up."
-    },
-    {
-        "message": "《Why.》"
-    },
-    {
-        "name": "Nai",
-        "message": "I don't know............"
-    },
-    {
-        "message": "《Fool！ Don’t tell me you screwed up？》"
-    },
-    {
-        "name": "Nai",
-        "message": "No, absolutely not！"
-    },
-    {
-        "name": "Nai",
-        "message": "I can only guess we didn’t have enough sacrifices........"
-    },
-    {
-        "message": "《Ridiculous...... Are you planning to start over again？》"
-    },
-    {
-        "name": "Nai",
-        "message": "That's the only way."
-    },
-    {
-        "message": "《I can't wait that long！》"
-    },
-    {
-        "name": "Nai",
-        "message": "Don't worry, there's no need to rush."
-    },
-    {
-        "name": "Nai",
-        "message": "We've already waited centuries anyway......"
-    },
-    {
-        "name": "Nai",
-        "message": "We can just start again from the beginning."
-    },
-    {
-        "message": "　　　　　Here in Arkham."
-    },
-    {
-        "name": "Nai",
-        "message": "Why are you in such a hurry？"
-    },
-    {
-        "name": "Nai",
-        "message": "You’ve gained everlasting life."
-    },
-    {
-        "name": "Nai",
-        "message": "All you have to do is wait with the others, embraced by a quiet, warm sea.         Isn’t that right?"
-    },
-    {
-        "name": "Nai",
-        "message": "Wondering what to do next？"
-    },
-    {
-        "name": "Nai",
-        "message": "No need to worry."
-    },
-    {
-        "name": "Nai",
-        "message": "Leave everything to this Nai."
-    },
-    {
-        "name": "Nai",
-        "message": "Kukukuku............"
-    },
-    {
-        "name": "Nai",
-        "message": "Looks like I won’t be bored for a while, eh？"
-    },
-    {
-        "name": "Nai",
-        "message": "This time, there shouldn't be any failure."
-    },
-    {
-        "name": "Nai",
-        "message": "If only I had a little more time until my lord awakens..."
-    }
+  {
+    "name": "Jonathan",
+    "message": "Who would've thought there'd be such a long passage under the mansion.　　　　　　　　At this rate, I wouldn't be surprised if tunnels run all under Arkham."
+  },
+  {
+    "name": "Nai",
+    "message": "It's all thanks to Philip Dunwich's money and power."
+  },
+  {
+    "message": "　　　　　Still, that guy couldn't see it through to the end."
+  },
+  {
+    "name": "Jonathan",
+    "message": "And that's because Sarah got in his way, huh."
+  },
+  {
+    "name": "Nai",
+    "message": "In the end, it was just a futile struggle."
+  },
+  {
+    "message": "　　　　　Our master will wake from his slumber one day."
+  },
+  {
+    "name": "Jonathan",
+    "message": "A world ruled by chaos and fear, huh‥‥‥‥‥"
+  },
+  {
+    "name": "Nai",
+    "message": "No one can stop it."
+  },
+  {
+    "message": "　　　　　Humans were only allowed a fleeting existence in our master's dream to begin with."
+  },
+  {
+    "name": "Jonathan",
+    "message": "How terrifying‥‥‥‥‥‥"
+  },
+  {
+    "name": "Nai",
+    "message": "Exactly, there's no one as terrifying as him."
+  },
+  {
+    "name": "Jonathan",
+    "message": "This is‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "What a number."
+  },
+  {
+    "message": "　　　　　　　　That's more than all of Arkham's villagers."
+  },
+  {
+    "name": "Nai",
+    "message": "These are the ones who have lingered on for centuries, waiting for this day.　　　　　Not just from Arkham-chosen from every nation, every race."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So these are all the 'ones who become sustenance'."
+  },
+  {
+    "name": "Nai",
+    "message": "Indeed, and you stand above all of them."
+  },
+  {
+    "message": "　　　　　A pact-bound servant permitted to serve by that person’s side."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What's going on, a Deep One in the light......"
+  },
+  {
+    "name": "Nai",
+    "message": "Looks like that guy already started the ritual."
+  },
+  {
+    "message": "　　　　　You fool, are you still clinging to life?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "There's no way Thomas beat us to it, right？"
+  },
+  {
+    "name": "Nai",
+    "message": "That's impossible."
+  },
+  {
+    "message": "　　　　　But, I hope he hasn’t hurt the important sacrifice."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia, huh."
+  },
+  {
+    "name": "Nai",
+    "message": "That's right."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Why did you choose her？"
+  },
+  {
+    "name": "Nai",
+    "message": "It didn't absolutely have to be that woman."
+  },
+  {
+    "message": "　　　　　But, we had to raise a girl suited for the role with our own hands."
+  },
+  {
+    "name": "Jonathan",
+    "message": "So there wasn’t any particular reason you picked Cordelia?"
+  },
+  {
+    "name": "Nai",
+    "message": "That's not exactly true."
+  },
+  {
+    "message": "　　　　　First off, it had to be a girl the pact-bearer-you-liked."
+  },
+  {
+    "name": "Nai",
+    "message": "Isn't it about time you went？"
+  },
+  {
+    "message": "　　　　　Before　some　fool　kills　the　girl."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Well then... let's go."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Thomas........."
+  },
+  {
+    "name": "Nai",
+    "message": "Seems there was no need to worry after all."
+  },
+  {
+    "message": "　　　　　Getting wrecked like this by a Deep One, huh?"
+  },
+  {
+    "message": "Thomas's right hand and both legs have been torn off with sharp fangs, and he's barely alive."
+  },
+  {
+    "message": "Looks like he's lost a lot of blood."
+  },
+  {
+    "name": "Nai",
+    "message": "Idiot, take a good look at your ugly self！"
+  },
+  {
+    "name": "Thomas",
+    "message": "Jonathan...... you bastard......"
+  },
+  {
+    "name": "Nai",
+    "message": "Oh, you can still talk?"
+  },
+  {
+    "name": "Nai",
+    "message": "Impressive."
+  },
+  {
+    "message": "　　　　　You've got life like a damn bug！"
+  },
+  {
+    "name": "Thomas",
+    "message": "Why are you guys......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's the punishment for being greedy."
+  },
+  {
+    "message": "　　　　　　　　It hurts, doesn't it, slowly dying like that？"
+  },
+  {
+    "name": "Thomas",
+    "message": "You... who are you... Are you really Jonathan？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, that's right."
+  },
+  {
+    "name": "Thomas",
+    "message": "No... that's not it......"
+  },
+  {
+    "name": "Thomas",
+    "message": "Sure looks like Jonathan on the outside, but inside it's totally..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Scum... just keep running your damn mouth forever！"
+  },
+  {
+    "name": "Nai",
+    "message": "Guess I'll be taking this back."
+  },
+  {
+    "name": "Thomas",
+    "message": "Wha... what the hell are you doing..."
+  },
+  {
+    "name": "Nai",
+    "message": "It's something you don't need anymore."
+  },
+  {
+    "name": "Thomas",
+    "message": "Shit... just one more step..."
+  },
+  {
+    "name": "Nai",
+    "message": "Idiot！"
+  },
+  {
+    "message": "　　　　　You were destined for this from the start."
+  },
+  {
+    "name": "Nai",
+    "message": "Finish him off."
+  },
+  {
+    "name": "Jonathan",
+    "message": "He'll probably die soon enough even if we leave him alone, right？"
+  },
+  {
+    "name": "Nai",
+    "message": "No, you need to awaken as well."
+  },
+  {
+    "message": "　　　　　Shed that form of yours."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Am I going to turn into a Deep One too？"
+  },
+  {
+    "name": "Nai",
+    "message": "There's nothing to be afraid of."
+  },
+  {
+    "message": "　　　　　The pain will only last for a moment......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "So I just have to kill that guy？"
+  },
+  {
+    "name": "Nai",
+    "message": "Only if you do it in an absolutely gruesome way."
+  },
+  {
+    "message": "　　　　　You have been away from this place far too long......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Fine by me."
+  },
+  {
+    "name": "Thomas",
+    "message": "Guh...... Jonathan......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Don't worry, I'll put you out of your misery real soon."
+  },
+  {
+    "name": "Thomas",
+    "message": "Stop it... you're... not sane..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That face of yours, twisted in agony......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's so hideous."
+  },
+  {
+    "name": "Thomas",
+    "message": "P-please... help... me..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I have absolutely no intention of helping you."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Die like a dog."
+  },
+  {
+    "name": "Thomas",
+    "message": "Ugh......"
+  },
+  {
+    "name": "Thomas",
+    "message": "St-stop! Cut it out!"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Look, your filthy guts......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "They're steaming, warm vapor rising off them."
+  },
+  {
+    "name": "Thomas",
+    "message": "You're no human... you psycho..."
+  },
+  {
+    "name": "Thomas",
+    "message": "Somebody help me... please... God！"
+  },
+  {
+    "name": "Thomas",
+    "message": "Save me......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Blood......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "My hands... are soaked in filthy blood."
+  },
+  {
+    "name": "Jonathan",
+    "message": "With these hands, I killed... that man！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It was me. I did it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Heh heh heh..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "W-What... What is this？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Who... that outfit... Jonathan？"
+  },
+  {
+    "name": "Nai",
+    "message": "Violate that woman."
+  },
+  {
+    "name": "Nai",
+    "message": "Our lord will awaken soon."
+  },
+  {
+    "name": "Nai",
+    "message": "Offer up a sacrifice defiled by your semen, as a covenant bearer."
+  },
+  {
+    "name": "Cordelia",
+    "message": "No... I can't do that..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Ah, Jonathan... Is this a dream？"
+  },
+  {
+    "name": "Nai",
+    "message": "Enjoy yourself as much as you'd like."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Nooooo！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan... please！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Come to your senses..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Nn... nnngh！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Ahh... please..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "M-My tongue... it hurts..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "My chest... it feels like it's going to rip apart！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Please, be a little gentler..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Ah, Jonathan."
+  },
+  {
+    "message": "　　　　　　　　Why did you end up like this？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "How could something so awful..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Ahhh... Not there..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan... Please go back to the way you were..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Nngh！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Y-your nails... are touching my there！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "It hurts... it hurts！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Don't come in so forcefully..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "M-my... it's gonna tear！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "O-okay, I get it..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan, you can do whatever you want."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Please, just be gentle with me."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Like you always do..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Love me like you always do."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Nn... ahhh！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I-it hurts..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "M-my insides are so full..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It's stretching so much, it feels like I'm gonna split！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "It hurts... it really hurts... ahh, Jonathan！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "I can't believe this is happening... me..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Are you really Jonathan？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "So... so strong..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Nngh... ahh！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Please... I'm gonna break."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Slower... more gently..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Ahh... so... you do understand my words？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Are you really Jonathan？"
+  },
+  {
+    "name": "Nai",
+    "message": "Ia... Fhtagn... Mglw'nafh Cthulhu R'lyeh"
+  },
+  {
+    "message": "　　　　　Ngai Ngag Bugg=Shoggoth..."
+  },
+  {
+    "name": "Nai",
+    "message": "My lord... now is finally the time to awaken..."
+  },
+  {
+    "name": "Nai",
+    "message": "All of us humbly devote ourselves to you！"
+  },
+  {
+    "name": "Nai",
+    "message": "Ia... Fhtagn... Mglw'nafh Cthulhu R'lyeh"
+  },
+  {
+    "message": "　　　　　Ngai Ngag Bugg=Shoggoth！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Nn... I can't take it anymore..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Ah... Jonathan..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Why？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Why do you look like that..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "But... it doesn't matter what you look like..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I'll always be yours, Jonathan."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Please, don't leave me behind！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Ahh... stay with me... always be with me！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Aaahhhh！"
+  },
+  {
+    "name": "Nai",
+    "message": "Why... why won't my lord awaken？"
+  },
+  {
+    "name": "Nai",
+    "message": "Ia... Fhtagn... Mglw'nafh Cthulhu R'lyeh"
+  },
+  {
+    "message": "　　　　　Ngai Ngag Bugg=Shoggoth！"
+  },
+  {
+    "name": "Nai",
+    "message": "Was it still not enough？"
+  },
+  {
+    "name": "Nai",
+    "message": "Even after all these long years..."
+  },
+  {
+    "name": "Nai",
+    "message": "Covenant！"
+  },
+  {
+    "name": "Nai",
+    "message": "It’s an emergency, come here quick."
+  },
+  {
+    "message": "《What’s wrong？》"
+  },
+  {
+    "name": "Nai",
+    "message": "Our Lord won't wake up."
+  },
+  {
+    "message": "《Why.》"
+  },
+  {
+    "name": "Nai",
+    "message": "I don't know............"
+  },
+  {
+    "message": "《Fool！ Don’t tell me you screwed up？》"
+  },
+  {
+    "name": "Nai",
+    "message": "No, absolutely not！"
+  },
+  {
+    "name": "Nai",
+    "message": "I can only guess we didn’t have enough sacrifices........"
+  },
+  {
+    "message": "《Ridiculous...... Are you planning to start over again？》"
+  },
+  {
+    "name": "Nai",
+    "message": "That's the only way."
+  },
+  {
+    "message": "《I can't wait that long！》"
+  },
+  {
+    "name": "Nai",
+    "message": "Don't worry, there's no need to rush."
+  },
+  {
+    "name": "Nai",
+    "message": "We've already waited centuries anyway......"
+  },
+  {
+    "name": "Nai",
+    "message": "We can just start again from the beginning."
+  },
+  {
+    "message": "　　　　　Here in Arkham."
+  },
+  {
+    "name": "Nai",
+    "message": "Why are you in such a hurry？"
+  },
+  {
+    "name": "Nai",
+    "message": "You’ve gained everlasting life."
+  },
+  {
+    "name": "Nai",
+    "message": "All you have to do is wait with the others, embraced by a quiet, warm sea.         Isn’t that right?"
+  },
+  {
+    "name": "Nai",
+    "message": "Wondering what to do next？"
+  },
+  {
+    "name": "Nai",
+    "message": "No need to worry."
+  },
+  {
+    "name": "Nai",
+    "message": "Leave everything to this Nai."
+  },
+  {
+    "name": "Nai",
+    "message": "Kukukuku............"
+  },
+  {
+    "name": "Nai",
+    "message": "Looks like I won’t be bored for a while, eh？"
+  },
+  {
+    "name": "Nai",
+    "message": "This time, there shouldn't be any failure."
+  },
+  {
+    "name": "Nai",
+    "message": "If only I had a little more time until my lord awakens..."
+  }
 ]

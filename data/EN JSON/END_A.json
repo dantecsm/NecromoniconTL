@@ -1,602 +1,602 @@
 [
-    {
-        "name": "Gardner",
-        "message": "I never would've guessed there was a passage this long underneath the mansion.　　　　　　　　At this rate, it wouldn't be surprising if underground tunnels ran beneath all of Arkham."
-    },
-    {
-        "name": "Jonathan",
-        "message": "If you use Philip's surplus wealth, something like this probably wasn't all that difficult."
-    },
-    {
-        "name": "Gardner",
-        "message": "But to do something on this scale, you'd have needed a considerable number of people."
-    },
-    {
-        "name": "Gardner",
-        "message": "I'm amazed no one found out about this until now."
-    },
-    {
-        "name": "Jonathan",
-        "message": "The craftsmen who dug this tunnel probably never made it back alive."
-    },
-    {
-        "name": "Gardner",
-        "message": "I wouldn't put it past them to do something like that."
-    },
-    {
-        "name": "Jonathan",
-        "message": "After all, he's the kind of guy who'd use innocent nuns as test subjects to make Deep One-human hybrids."
-    },
-    {
-        "name": "Gardner",
-        "message": "Maybe　establishing　Miskatonic　University　was　for　the　same　purpose."
-    },
-    {
-        "name": "Gardner",
-        "message": "It's no wonder researchers driven mad like Herbert West were born from it."
-    },
-    {
-        "name": "Jonathan",
-        "message": "There's light up ahead at the end of the tunnel."
-    },
-    {
-        "name": "Gardner",
-        "message": "Looks like we've arrived at our destination."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's so many of them..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's shocking enough there's such a vast space under the village, but more than that-how are there so many Deep Ones?"
-    },
-    {
-        "name": "Gardner",
-        "message": "You couldn't get that many even if you gathered all the villagers together."
-    },
-    {
-        "message": "　　　　　　　　Where the hell did they all come from..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Most likely, some of the villagers who vanished in the past are mixed in there."
-    },
-    {
-        "name": "Gardner",
-        "message": "Is that the gravedigger who said people from this village don't die?"
-    },
-    {
-        "message": "　　　　　　　　Even so, that's a crazy number."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That's not all, is it? There must have already been quite a few Deep Ones even before Philip started his experiments."
-    },
-    {
-        "name": "Gardner",
-        "message": "What's that ring of light thing..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "The Deep Ones keep jumping in."
-    },
-    {
-        "name": "Gardner",
-        "message": "Beyond that ring of light is where that monster, Cthulhu or whatever, is, huh."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Most likely, Thomas is the one who opened it."
-    },
-    {
-        "message": "　　　　　　　　The ritual has already started."
-    },
-    {
-        "name": "Gardner",
-        "message": "Since they're being called 'things to be consumed,' that must mean beyond there is Cthulhu's stomach..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "If I'd chosen wrong back there, I might've ended up like that too."
-    },
-    {
-        "name": "Gardner",
-        "message": "No way, man, I don't care if it's a god or whatever, I'm totally not letting myself get eaten by something like that."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Gotta stop Thomas, and fast."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Before Cthulhu wakes up."
-    },
-    {
-        "name": "Gardner",
-        "message": "Jonathan, over there..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's Thomas and Cordelia."
-    },
-    {
-        "name": "Gardner",
-        "message": "That idiot... totally driven by greed."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Looks like Cordelia is still okay."
-    },
-    {
-        "message": "Cordelia seems to be chained to the wall, completely naked."
-    },
-    {
-        "message": "It's hard to tell from here, but it looks like she's unconscious."
-    },
-    {
-        "name": "Gardner",
-        "message": "Let's go check it out."
-    },
-    {
-        "message": "　　　　　　　　If we don't help her fast, things will get real bad."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'll go from the right side, professor, you go from the other‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'll distract him, so please circle around behind Thomas without getting noticed."
-    },
-    {
-        "name": "Gardner",
-        "message": "Got it. You be careful too."
-    },
-    {
-        "message": "　　　　　　　　That　man's　not　sane.　Who　knows　what　he'll　do."
-    },
-    {
-        "name": "Thomas",
-        "message": "That's it, you freaks."
-    },
-    {
-        "message": "　　　　　　Hurry up and get swallowed by your boss's gut already！"
-    },
-    {
-        "name": "Thomas",
-        "message": "It'll wake up any minute now."
-    },
-    {
-        "message": "　　　　　　The monster that's gonna make me the ruler of this world‥‥‥‥"
-    },
-    {
-        "name": "Thomas",
-        "message": "I'm not some do-gooder who's gonna share this power with anybody else."
-    },
-    {
-        "name": "Thomas",
-        "message": "Heh, Secret society, my ass."
-    },
-    {
-        "message": "　　　　　　We're not boy scouts, I don't have time for that shit."
-    },
-    {
-        "message": "Thomas spits this out, then hugs the Necronomicon at his side even tighter."
-    },
-    {
-        "name": "Thomas",
-        "message": "Hang tight, little lady."
-    },
-    {
-        "name": "Thomas",
-        "message": "I'll put you out of your misery soon."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Like hell you will！"
-    },
-    {
-        "name": "Thomas",
-        "message": "Took you long enough, didn't it?"
-    },
-    {
-        "message": "　　　　　　I thought you'd find this place a little quicker."
-    },
-    {
-        "name": "Jonathan",
-        "message": "We had some problems we needed to take care of first."
-    },
-    {
-        "message": "　　　　　　　　Nai　is　dead,　and　your　plan　is　finished　too."
-    },
-    {
-        "name": "Thomas",
-        "message": "That bastard's dead？"
-    },
-    {
-        "message": "　　　　　　That's just great, ain't got nothin' to do with me."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Can you control Cthulhu all by yourself？"
-    },
-    {
-        "message": "　　　　　　　　That's impossible, isn't it."
-    },
-    {
-        "name": "Thomas",
-        "message": "If it comes to that, I'll just die too, right？"
-    },
-    {
-        "message": "　　　　　　I ain't scared at all."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What a selfish bastard."
-    },
-    {
-        "message": "　　　　　　　　I won't let you do that."
-    },
-    {
-        "name": "Thomas",
-        "message": "It's too late now, that thing's already starting to wake up."
-    },
-    {
-        "message": "　　　　　　All that's left is to feed your precious little girl to it."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You think I'll just stand by and let that happen？"
-    },
-    {
-        "name": "Thomas",
-        "message": "Some rich kid like you tryin' to act tough ain't scary at all.           Besides, you're the same as those monsters over there, aren't you?"
-    },
-    {
-        "name": "Thomas",
-        "message": "Who knows when you'll end up like that too..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Shut up！"
-    },
-    {
-        "name": "Thomas",
-        "message": "Just stand there and watch."
-    },
-    {
-        "name": "Thomas",
-        "message": "Watch what I'm gonna do！"
-    },
-    {
-        "name": "Gardner",
-        "message": "Stop it, Thomas！"
-    },
-    {
-        "name": "Thomas",
-        "message": "Wh-what the hell are you doing！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "The Necronomicon..."
-    },
-    {
-        "name": "Thomas",
-        "message": "Get away... the book... my book..."
-    },
-    {
-        "name": "Thomas",
-        "message": "You bastard..."
-    },
-    {
-        "name": "Thomas",
-        "message": "I'll fucking kill you！"
-    },
-    {
-        "name": "Gardner",
-        "message": "Run... Jonathan！"
-    },
-    {
-        "name": "Thomas",
-        "message": "Let go！"
-    },
-    {
-        "message": "　　　　　　No one's getting away... You're all gonna die here！"
-    },
-    {
-        "name": "Gardner",
-        "message": "H-hurry... Cordelia..."
-    },
-    {
-        "name": "Thomas",
-        "message": "Die, you bastard... Die！"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia... Wake up！"
-    },
-    {
-        "message": "Cordelia, cradled in my arms, doesn't react at all to my words, lying completely still as if she's dead."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Cordelia... Ah, please..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Open your eyes..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Where... is this place？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "What... am I doing？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "There's no time to explain. Can you stand？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Hold on..."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I... I don't think I can."
-    },
-    {
-        "message": "　　　　　　　　My　body　won't　do　what　I　tell　it　to."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's okay, the wound's not that bad."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Wound? What are you talking about?"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I'll carry you. Bear with it for just a bit, okay？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Okay."
-    },
-    {
-        "name": "Thomas",
-        "message": "L-let go！"
-    },
-    {
-        "name": "Thomas",
-        "message": "Uaaaahhh..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Professor！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "What's wrong？"
-    },
-    {
-        "name": "Cordelia",
-        "message": "What happened‥‥‥‥‥？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "It's fine‥‥‥‥ You don't have to worry about anything."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Come on, let's go."
-    },
-    {
-        "name": "Cordelia",
-        "message": "It's cold‥‥‥‥ Where are we going？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Just hang in there a little longer."
-    },
-    {
-        "name": "Jonathan",
-        "message": "You'll feel better soon."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I'm okay though‥‥‥‥‥"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan, am I heavy？"
-    },
-    {
-        "message": "　　　　　　　　If I'd known this would happen, I would've lost more weight."
-    },
-    {
-        "name": "Jonathan",
-        "message": "What are you saying, that's ridiculous."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Don't worry about stuff like that."
-    },
-    {
-        "message": "　　　　　　　　You've already suffered enough, from now on‥‥‥‥‥"
-    },
-    {
-        "name": "Cordelia",
-        "message": "We can go to London together, right？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, that's right."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I wonder if I can see all sorts of things."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Let's go to all kinds of places together."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I'm really looking forward to it‥‥‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, it's gonna be fun for sure."
-    },
-    {
-        "name": "Nai",
-        "message": "I won't let‥‥‥‥ I won't let that happen‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Nai‥‥‥ you're still alive?"
-    },
-    {
-        "name": "Nai",
-        "message": "You're the last descendant of the important 'Contractor'‥‥‥‥"
-    },
-    {
-        "name": "Nai",
-        "message": "To awaken my lord‥‥‥‥"
-    },
-    {
-        "name": "Nai",
-        "message": "I won't let you escape‥‥‥‥"
-    },
-    {
-        "name": "Jonathan",
-        "message": "There's no way I'll ever do what you say."
-    },
-    {
-        "message": "　　　　　　　　I have no reason to fear anything now！"
-    },
-    {
-        "name": "Cordelia",
-        "message": "Jonathan......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "You don't have to say anything, it's all over now."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Is he dead......？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Yeah, this time he won't ever wake up again."
-    },
-    {
-        "name": "Cordelia",
-        "message": "Thank goodness...... now it's really......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Come on, let's go."
-    },
-    {
-        "name": "Jonathan",
-        "message": "We're getting out of this village."
-    },
-    {
-        "message": "After leaving Dunwitch Mansion, I hurried to the harbor where Marsh's corpse was still left abandoned."
-    },
-    {
-        "message": "I found a relatively decent-looking boat and helped Cordelia aboard."
-    },
-    {
-        "message": "There was no one left to chase after us anymore."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Here we go！"
-    },
-    {
-        "message": "Cordelia and I rowed the boat out into the waters off Arkham."
-    },
-    {
-        "message": "There's no one left who could lay a hand on us now."
-    },
-    {
-        "message": "If we just let ourselves drift with the current, we'll probably wash up on some shore in a few days."
-    },
-    {
-        "message": "And then........."
-    },
-    {
-        "message": "We'll never go near Arkham again."
-    },
-    {
-        "message": "Cordelia and I will settle somewhere we don't have to hide from the world and live out our days in seclusion."
-    },
-    {
-        "message": "Everything that happened here will be locked away in the depths of our memory, and eventually sink and disappear into the gentle mist of forgetfulness."
-    },
-    {
-        "message": "‥‥‥‥‥‥"
-    },
-    {
-        "message": "Did it really end with this？"
-    },
-    {
-        "message": "Nai is dead, and all of Arkham's inhabitants have vanished."
-    },
-    {
-        "message": "There’s no one left who remembers Arkham as it once was."
-    },
-    {
-        "message": "But……"
-    },
-    {
-        "name": "Voice",
-        "message": "Yes, the blood of the Deep One within you will remain forever."
-    },
-    {
-        "message": "　　　　You’ll never be able to escape from that curse."
-    },
-    {
-        "name": "Voice",
-        "message": "The day will surely come when my lord will rule over this world once again."
-    },
-    {
-        "message": "　　　　A day will surely come when chaos and terror engulf the world."
-    },
-    {
-        "name": "Voice",
-        "message": "You can never escape it……"
-    },
-    {
-        "message": "The evil voice inside me echoed again and again, then faded away."
-    },
-    {
-        "message": "Will that day really come？"
-    },
-    {
-        "message": "But………"
-    },
-    {
-        "message": "Cordelia is by my side."
-    },
-    {
-        "message": "She’s left everything to me, sleeping peacefully with a gentle breath……"
-    },
-    {
-        "message": "I also lay down beside her."
-    },
-    {
-        "message": "I didn’t dream anymore."
-    }
+  {
+    "name": "Gardner",
+    "message": "I never would've guessed there was a passage this long underneath the mansion.　　　　　　　　At this rate, it wouldn't be surprising if underground tunnels ran beneath all of Arkham."
+  },
+  {
+    "name": "Jonathan",
+    "message": "If you use Philip's surplus wealth, something like this probably wasn't all that difficult."
+  },
+  {
+    "name": "Gardner",
+    "message": "But to do something on this scale, you'd have needed a considerable number of people."
+  },
+  {
+    "name": "Gardner",
+    "message": "I'm amazed no one found out about this until now."
+  },
+  {
+    "name": "Jonathan",
+    "message": "The craftsmen who dug this tunnel probably never made it back alive."
+  },
+  {
+    "name": "Gardner",
+    "message": "I wouldn't put it past them to do something like that."
+  },
+  {
+    "name": "Jonathan",
+    "message": "After all, he's the kind of guy who'd use innocent nuns as test subjects to make Deep One-human hybrids."
+  },
+  {
+    "name": "Gardner",
+    "message": "Maybe　establishing　Miskatonic　University　was　for　the　same　purpose."
+  },
+  {
+    "name": "Gardner",
+    "message": "It's no wonder researchers driven mad like Herbert West were born from it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "There's light up ahead at the end of the tunnel."
+  },
+  {
+    "name": "Gardner",
+    "message": "Looks like we've arrived at our destination."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's so many of them..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's shocking enough there's such a vast space under the village, but more than that-how are there so many Deep Ones?"
+  },
+  {
+    "name": "Gardner",
+    "message": "You couldn't get that many even if you gathered all the villagers together."
+  },
+  {
+    "message": "　　　　　　　　Where the hell did they all come from..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Most likely, some of the villagers who vanished in the past are mixed in there."
+  },
+  {
+    "name": "Gardner",
+    "message": "Is that the gravedigger who said people from this village don't die?"
+  },
+  {
+    "message": "　　　　　　　　Even so, that's a crazy number."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That's not all, is it? There must have already been quite a few Deep Ones even before Philip started his experiments."
+  },
+  {
+    "name": "Gardner",
+    "message": "What's that ring of light thing..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "The Deep Ones keep jumping in."
+  },
+  {
+    "name": "Gardner",
+    "message": "Beyond that ring of light is where that monster, Cthulhu or whatever, is, huh."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Most likely, Thomas is the one who opened it."
+  },
+  {
+    "message": "　　　　　　　　The ritual has already started."
+  },
+  {
+    "name": "Gardner",
+    "message": "Since they're being called 'things to be consumed,' that must mean beyond there is Cthulhu's stomach..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "If I'd chosen wrong back there, I might've ended up like that too."
+  },
+  {
+    "name": "Gardner",
+    "message": "No way, man, I don't care if it's a god or whatever, I'm totally not letting myself get eaten by something like that."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Gotta stop Thomas, and fast."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Before Cthulhu wakes up."
+  },
+  {
+    "name": "Gardner",
+    "message": "Jonathan, over there..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's Thomas and Cordelia."
+  },
+  {
+    "name": "Gardner",
+    "message": "That idiot... totally driven by greed."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Looks like Cordelia is still okay."
+  },
+  {
+    "message": "Cordelia seems to be chained to the wall, completely naked."
+  },
+  {
+    "message": "It's hard to tell from here, but it looks like she's unconscious."
+  },
+  {
+    "name": "Gardner",
+    "message": "Let's go check it out."
+  },
+  {
+    "message": "　　　　　　　　If we don't help her fast, things will get real bad."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'll go from the right side, professor, you go from the other‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'll distract him, so please circle around behind Thomas without getting noticed."
+  },
+  {
+    "name": "Gardner",
+    "message": "Got it. You be careful too."
+  },
+  {
+    "message": "　　　　　　　　That　man's　not　sane.　Who　knows　what　he'll　do."
+  },
+  {
+    "name": "Thomas",
+    "message": "That's it, you freaks."
+  },
+  {
+    "message": "　　　　　　Hurry up and get swallowed by your boss's gut already！"
+  },
+  {
+    "name": "Thomas",
+    "message": "It'll wake up any minute now."
+  },
+  {
+    "message": "　　　　　　The monster that's gonna make me the ruler of this world‥‥‥‥"
+  },
+  {
+    "name": "Thomas",
+    "message": "I'm not some do-gooder who's gonna share this power with anybody else."
+  },
+  {
+    "name": "Thomas",
+    "message": "Heh, Secret society, my ass."
+  },
+  {
+    "message": "　　　　　　We're not boy scouts, I don't have time for that shit."
+  },
+  {
+    "message": "Thomas spits this out, then hugs the Necronomicon at his side even tighter."
+  },
+  {
+    "name": "Thomas",
+    "message": "Hang tight, little lady."
+  },
+  {
+    "name": "Thomas",
+    "message": "I'll put you out of your misery soon."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Like hell you will！"
+  },
+  {
+    "name": "Thomas",
+    "message": "Took you long enough, didn't it?"
+  },
+  {
+    "message": "　　　　　　I thought you'd find this place a little quicker."
+  },
+  {
+    "name": "Jonathan",
+    "message": "We had some problems we needed to take care of first."
+  },
+  {
+    "message": "　　　　　　　　Nai　is　dead,　and　your　plan　is　finished　too."
+  },
+  {
+    "name": "Thomas",
+    "message": "That bastard's dead？"
+  },
+  {
+    "message": "　　　　　　That's just great, ain't got nothin' to do with me."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Can you control Cthulhu all by yourself？"
+  },
+  {
+    "message": "　　　　　　　　That's impossible, isn't it."
+  },
+  {
+    "name": "Thomas",
+    "message": "If it comes to that, I'll just die too, right？"
+  },
+  {
+    "message": "　　　　　　I ain't scared at all."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What a selfish bastard."
+  },
+  {
+    "message": "　　　　　　　　I won't let you do that."
+  },
+  {
+    "name": "Thomas",
+    "message": "It's too late now, that thing's already starting to wake up."
+  },
+  {
+    "message": "　　　　　　All that's left is to feed your precious little girl to it."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You think I'll just stand by and let that happen？"
+  },
+  {
+    "name": "Thomas",
+    "message": "Some rich kid like you tryin' to act tough ain't scary at all.           Besides, you're the same as those monsters over there, aren't you?"
+  },
+  {
+    "name": "Thomas",
+    "message": "Who knows when you'll end up like that too..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Shut up！"
+  },
+  {
+    "name": "Thomas",
+    "message": "Just stand there and watch."
+  },
+  {
+    "name": "Thomas",
+    "message": "Watch what I'm gonna do！"
+  },
+  {
+    "name": "Gardner",
+    "message": "Stop it, Thomas！"
+  },
+  {
+    "name": "Thomas",
+    "message": "Wh-what the hell are you doing！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "The Necronomicon..."
+  },
+  {
+    "name": "Thomas",
+    "message": "Get away... the book... my book..."
+  },
+  {
+    "name": "Thomas",
+    "message": "You bastard..."
+  },
+  {
+    "name": "Thomas",
+    "message": "I'll fucking kill you！"
+  },
+  {
+    "name": "Gardner",
+    "message": "Run... Jonathan！"
+  },
+  {
+    "name": "Thomas",
+    "message": "Let go！"
+  },
+  {
+    "message": "　　　　　　No one's getting away... You're all gonna die here！"
+  },
+  {
+    "name": "Gardner",
+    "message": "H-hurry... Cordelia..."
+  },
+  {
+    "name": "Thomas",
+    "message": "Die, you bastard... Die！"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia... Wake up！"
+  },
+  {
+    "message": "Cordelia, cradled in my arms, doesn't react at all to my words, lying completely still as if she's dead."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Cordelia... Ah, please..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Open your eyes..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Where... is this place？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "What... am I doing？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "There's no time to explain. Can you stand？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Hold on..."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I... I don't think I can."
+  },
+  {
+    "message": "　　　　　　　　My　body　won't　do　what　I　tell　it　to."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's okay, the wound's not that bad."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Wound? What are you talking about?"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I'll carry you. Bear with it for just a bit, okay？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Okay."
+  },
+  {
+    "name": "Thomas",
+    "message": "L-let go！"
+  },
+  {
+    "name": "Thomas",
+    "message": "Uaaaahhh..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Professor！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "What's wrong？"
+  },
+  {
+    "name": "Cordelia",
+    "message": "What happened‥‥‥‥‥？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "It's fine‥‥‥‥ You don't have to worry about anything."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Come on, let's go."
+  },
+  {
+    "name": "Cordelia",
+    "message": "It's cold‥‥‥‥ Where are we going？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Just hang in there a little longer."
+  },
+  {
+    "name": "Jonathan",
+    "message": "You'll feel better soon."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I'm okay though‥‥‥‥‥"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan, am I heavy？"
+  },
+  {
+    "message": "　　　　　　　　If I'd known this would happen, I would've lost more weight."
+  },
+  {
+    "name": "Jonathan",
+    "message": "What are you saying, that's ridiculous."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Don't worry about stuff like that."
+  },
+  {
+    "message": "　　　　　　　　You've already suffered enough, from now on‥‥‥‥‥"
+  },
+  {
+    "name": "Cordelia",
+    "message": "We can go to London together, right？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, that's right."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I wonder if I can see all sorts of things."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Let's go to all kinds of places together."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I'm really looking forward to it‥‥‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, it's gonna be fun for sure."
+  },
+  {
+    "name": "Nai",
+    "message": "I won't let‥‥‥‥ I won't let that happen‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Nai‥‥‥ you're still alive?"
+  },
+  {
+    "name": "Nai",
+    "message": "You're the last descendant of the important 'Contractor'‥‥‥‥"
+  },
+  {
+    "name": "Nai",
+    "message": "To awaken my lord‥‥‥‥"
+  },
+  {
+    "name": "Nai",
+    "message": "I won't let you escape‥‥‥‥"
+  },
+  {
+    "name": "Jonathan",
+    "message": "There's no way I'll ever do what you say."
+  },
+  {
+    "message": "　　　　　　　　I have no reason to fear anything now！"
+  },
+  {
+    "name": "Cordelia",
+    "message": "Jonathan......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "You don't have to say anything, it's all over now."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Is he dead......？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Yeah, this time he won't ever wake up again."
+  },
+  {
+    "name": "Cordelia",
+    "message": "Thank goodness...... now it's really......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Come on, let's go."
+  },
+  {
+    "name": "Jonathan",
+    "message": "We're getting out of this village."
+  },
+  {
+    "message": "After leaving Dunwitch Mansion, I hurried to the harbor where Marsh's corpse was still left abandoned."
+  },
+  {
+    "message": "I found a relatively decent-looking boat and helped Cordelia aboard."
+  },
+  {
+    "message": "There was no one left to chase after us anymore."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Here we go！"
+  },
+  {
+    "message": "Cordelia and I rowed the boat out into the waters off Arkham."
+  },
+  {
+    "message": "There's no one left who could lay a hand on us now."
+  },
+  {
+    "message": "If we just let ourselves drift with the current, we'll probably wash up on some shore in a few days."
+  },
+  {
+    "message": "And then........."
+  },
+  {
+    "message": "We'll never go near Arkham again."
+  },
+  {
+    "message": "Cordelia and I will settle somewhere we don't have to hide from the world and live out our days in seclusion."
+  },
+  {
+    "message": "Everything that happened here will be locked away in the depths of our memory, and eventually sink and disappear into the gentle mist of forgetfulness."
+  },
+  {
+    "message": "‥‥‥‥‥‥"
+  },
+  {
+    "message": "Did it really end with this？"
+  },
+  {
+    "message": "Nai is dead, and all of Arkham's inhabitants have vanished."
+  },
+  {
+    "message": "There’s no one left who remembers Arkham as it once was."
+  },
+  {
+    "message": "But……"
+  },
+  {
+    "name": "Voice",
+    "message": "Yes, the blood of the Deep One within you will remain forever."
+  },
+  {
+    "message": "　　　　You’ll never be able to escape from that curse."
+  },
+  {
+    "name": "Voice",
+    "message": "The day will surely come when my lord will rule over this world once again."
+  },
+  {
+    "message": "　　　　A day will surely come when chaos and terror engulf the world."
+  },
+  {
+    "name": "Voice",
+    "message": "You can never escape it……"
+  },
+  {
+    "message": "The evil voice inside me echoed again and again, then faded away."
+  },
+  {
+    "message": "Will that day really come？"
+  },
+  {
+    "message": "But………"
+  },
+  {
+    "message": "Cordelia is by my side."
+  },
+  {
+    "message": "She’s left everything to me, sleeping peacefully with a gentle breath……"
+  },
+  {
+    "message": "I also lay down beside her."
+  },
+  {
+    "message": "I didn’t dream anymore."
+  }
 ]

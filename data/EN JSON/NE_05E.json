@@ -1,131 +1,131 @@
 [
-    {
-        "message": "Looks like the Necronomicon isn't in this bookshelf."
-    },
-    {
-        "message": "If it's not here, it might be pointless to look in the other bookshelves, too."
-    },
-    {
-        "message": "I wonder if the books on this shelf were donated by a private collector-there's no sense of order at all, and they range from lavishly bound ones to stuff that's practically just garbage."
-    },
-    {
-        "message": "As far as I can see, the Necronomicon isn't here."
-    },
-    {
-        "message": "If it's anywhere in the archives, this shelf is the most likely spot..."
-    },
-    {
-        "message": "I reached out my hand to a book on the shelf."
-    },
-    {
-        "message": "It looks pretty old, and the leather cover with gold stamping is really worn out."
-    },
-    {
-        "message": "『The Book of Eibon』"
-    },
-    {
-        "message": "All I can make out from the worn cover is barely the title; I have no idea who wrote it or when it was published."
-    },
-    {
-        "message": "When I try looking inside, I find out that it's not something printed, but handwritten. Looks like it was copied from the original manuscript, just like monks used to do in the old days."
-    },
-    {
-        "message": "This book is......"
-    },
-    {
-        "message": "Looks like it's written in Latin or something."
-    },
-    {
-        "message": "The cover of the book is made from tanned sheepskin sewn together, with the title written in black ink. It's obvious that the book is terribly old, but beyond that, I have no clue about anything else."
-    },
-    {
-        "message": "Even if I opened the book, it'd probably just be a bunch of incomprehensible words, just like its appearance-I don't even feel like bothering to look it up."
-    },
-    {
-        "message": "『The Nameless Cults』"
-    },
-    {
-        "message": "Written by von Junzt"
-    },
-    {
-        "message": "I've heard of this book somewhere before..."
-    },
-    {
-        "message": "If I remember right, it was banned, and everything already printed was supposed to have been burned."
-    },
-    {
-        "message": "I've never read it, but it's probably one of those disgusting books about demon worship. Seriously, I don't even want to bother flipping through something like this..."
-    },
-    {
-        "message": "How the hell does a rare book like this end up on the shelves of some rural archives？"
-    },
-    {
-        "message": "Who the heck donated it, anyway?"
-    },
-    {
-        "message": "『Research on Reanimation of Corpses』"
-    },
-    {
-        "message": "Written by Herbert West"
-    },
-    {
-        "message": "This is..."
-    },
-    {
-        "message": "Apparently, this was written by the doctor who should be called the only real celebrity this Miskatonic University ever produced, the guy who did those nightmare experiments."
-    },
-    {
-        "message": "Reanimating corpses was basically his life's work, and probably because of the horrible incidents it led to, these writings were kept out of sight for a long time."
-    },
-    {
-        "message": "『In other words, performing the art of corpse reanimation absolutely requires a fresh corpse, and that's exactly what troubled me most.』"
-    },
-    {
-        "message": "You say it so easily."
-    },
-    {
-        "message": "What a terrifying way to put it, calling it a 'fresh corpse'."
-    },
-    {
-        "message": "This crazy doctor used the corpses of people whose names he didn't even know as playthings for his own eccentric research."
-    },
-    {
-        "message": "『That the artificial revival of the dead depends solely on the condition of the tissues is an undeniable fact, and if appropriate measures are applied to a corpse with organs that have not decayed, it is possible to bring back activities that can be called life once again.』"
-    },
-    {
-        "message": "There's no doubt that Herbert West truly believed in his own theory. I don't know what the results of his experiments were, but if I think about the terrifying events that happened because of them, it's probably true that a body that had actually died once started moving again, just like it had come back to life."
-    },
-    {
-        "message": "This is the Dunwich family tree."
-    },
-    {
-        "message": "When I was looking into Dollie's case before, I remember finding it by the way."
-    },
-    {
-        "message": "『Dollie Dunwich, born 1828, died 1861』"
-    },
-    {
-        "message": "『Philip Dunwich  Born in 1782......』"
-    },
-    {
-        "message": "『Miskatonic University 1810 to 1861』"
-    },
-    {
-        "message": "Looks like it's a record from the university's founding all the way to when it shut down."
-    },
-    {
-        "message": "Judging from the title written on the cover, this university only lasted for 51 years. I have to say, that's surprisingly short-lived for an educational institution."
-    },
-    {
-        "message": "To begin with, wasn't building the school building in a place so far from the city a mistake?"
-    },
-    {
-        "message": "It's not like there haven't been cases like that in the past, but this place was just way too lonely even for students devoted to their studies, so sticking it out for four years must've been no ordinary struggle."
-    },
-    {
-        "message": "Maybe it's because of a place like this that a scholar like Herbert West, driven to such insane research, was born."
-    },
-    {
-        "message": "Go back to the archive"
-    }
+  {
+    "message": "Looks like the Necronomicon isn't in this bookshelf."
+  },
+  {
+    "message": "If it's not here, it might be pointless to look in the other bookshelves, too."
+  },
+  {
+    "message": "I wonder if the books on this shelf were donated by a private collector-there's no sense of order at all, and they range from lavishly bound ones to stuff that's practically just garbage."
+  },
+  {
+    "message": "As far as I can see, the Necronomicon isn't here."
+  },
+  {
+    "message": "If it's anywhere in the archives, this shelf is the most likely spot..."
+  },
+  {
+    "message": "I reached out my hand to a book on the shelf."
+  },
+  {
+    "message": "It looks pretty old, and the leather cover with gold stamping is really worn out."
+  },
+  {
+    "message": "『The Book of Eibon』"
+  },
+  {
+    "message": "All I can make out from the worn cover is barely the title; I have no idea who wrote it or when it was published."
+  },
+  {
+    "message": "When I try looking inside, I find out that it's not something printed, but handwritten. Looks like it was copied from the original manuscript, just like monks used to do in the old days."
+  },
+  {
+    "message": "This book is......"
+  },
+  {
+    "message": "Looks like it's written in Latin or something."
+  },
+  {
+    "message": "The cover of the book is made from tanned sheepskin sewn together, with the title written in black ink. It's obvious that the book is terribly old, but beyond that, I have no clue about anything else."
+  },
+  {
+    "message": "Even if I opened the book, it'd probably just be a bunch of incomprehensible words, just like its appearance-I don't even feel like bothering to look it up."
+  },
+  {
+    "message": "『The Nameless Cults』"
+  },
+  {
+    "message": "Written by von Junzt"
+  },
+  {
+    "message": "I've heard of this book somewhere before..."
+  },
+  {
+    "message": "If I remember right, it was banned, and everything already printed was supposed to have been burned."
+  },
+  {
+    "message": "I've never read it, but it's probably one of those disgusting books about demon worship. Seriously, I don't even want to bother flipping through something like this..."
+  },
+  {
+    "message": "How the hell does a rare book like this end up on the shelves of some rural archives？"
+  },
+  {
+    "message": "Who the heck donated it, anyway?"
+  },
+  {
+    "message": "『Research on Reanimation of Corpses』"
+  },
+  {
+    "message": "Written by Herbert West"
+  },
+  {
+    "message": "This is..."
+  },
+  {
+    "message": "Apparently, this was written by the doctor who should be called the only real celebrity this Miskatonic University ever produced, the guy who did those nightmare experiments."
+  },
+  {
+    "message": "Reanimating corpses was basically his life's work, and probably because of the horrible incidents it led to, these writings were kept out of sight for a long time."
+  },
+  {
+    "message": "『In other words, performing the art of corpse reanimation absolutely requires a fresh corpse, and that's exactly what troubled me most.』"
+  },
+  {
+    "message": "You say it so easily."
+  },
+  {
+    "message": "What a terrifying way to put it, calling it a 'fresh corpse'."
+  },
+  {
+    "message": "This crazy doctor used the corpses of people whose names he didn't even know as playthings for his own eccentric research."
+  },
+  {
+    "message": "『That the artificial revival of the dead depends solely on the condition of the tissues is an undeniable fact, and if appropriate measures are applied to a corpse with organs that have not decayed, it is possible to bring back activities that can be called life once again.』"
+  },
+  {
+    "message": "There's no doubt that Herbert West truly believed in his own theory. I don't know what the results of his experiments were, but if I think about the terrifying events that happened because of them, it's probably true that a body that had actually died once started moving again, just like it had come back to life."
+  },
+  {
+    "message": "This is the Dunwich family tree."
+  },
+  {
+    "message": "When I was looking into Dollie's case before, I remember finding it by the way."
+  },
+  {
+    "message": "『Dollie Dunwich, born 1828, died 1861』"
+  },
+  {
+    "message": "『Philip Dunwich  Born in 1782......』"
+  },
+  {
+    "message": "『Miskatonic University 1810 to 1861』"
+  },
+  {
+    "message": "Looks like it's a record from the university's founding all the way to when it shut down."
+  },
+  {
+    "message": "Judging from the title written on the cover, this university only lasted for 51 years. I have to say, that's surprisingly short-lived for an educational institution."
+  },
+  {
+    "message": "To begin with, wasn't building the school building in a place so far from the city a mistake?"
+  },
+  {
+    "message": "It's not like there haven't been cases like that in the past, but this place was just way too lonely even for students devoted to their studies, so sticking it out for four years must've been no ordinary struggle."
+  },
+  {
+    "message": "Maybe it's because of a place like this that a scholar like Herbert West, driven to such insane research, was born."
+  },
+  {
+    "message": "Go back to the archive"
+  }
 ]

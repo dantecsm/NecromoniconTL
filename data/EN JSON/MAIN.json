@@ -1,110 +1,110 @@
 [
-    {
-        "message": "Please select the type of sound source."
-    },
-    {
-        "message": "Built-in"
-    },
-    {
-        "message": "External"
-    },
-    {
-        "message": "Please select."
-    },
-    {
-        "message": "Start"
-    },
-    {
-        "message": "　　Load　　"
-    },
-    {
-        "message": "　　Music Hall　　"
-    },
-    {
-        "message": "Debug"
-    },
-    {
-        "message": "File 0"
-    },
-    {
-        "message": "File 1"
-    },
-    {
-        "message": "File 2"
-    },
-    {
-        "message": "File 3"
-    },
-    {
-        "message": "File 4"
-    },
-    {
-        "message": "File 5"
-    },
-    {
-        "message": "File 6"
-    },
-    {
-        "message": "Cancel"
-    },
-    {
-        "message": "Necronomicon"
-    },
-    {
-        "message": "　Investigation　of　Dagon　"
-    },
-    {
-        "message": "Black shadow"
-    },
-    {
-        "message": "　　Playful fingers　　"
-    },
-    {
-        "message": "Curse of Dunwich"
-    },
-    {
-        "message": "　　Writhing grudge　　"
-    },
-    {
-        "message": "　　　Departure　　　"
-    },
-    {
-        "message": "　　Next page　　"
-    },
-    {
-        "message": "　　Deep One　　"
-    },
-    {
-        "message": "Cordelia"
-    },
-    {
-        "message": "　　Time of anxiety　　"
-    },
-    {
-        "message": "Snowy makeup"
-    },
-    {
-        "message": "　　Marsh　　"
-    },
-    {
-        "message": "Road to ruin"
-    },
-    {
-        "message": "　Devil's intercourse　"
-    },
-    {
-        "message": "　　Next page　　"
-    },
-    {
-        "message": "Deserted fishing village"
-    },
-    {
-        "message": "　　　On fire　　　"
-    },
-    {
-        "message": "Secret of birth"
-    },
-    {
-        "message": "　　Next page　　"
-    }
+  {
+    "message": "Please select the type of sound source."
+  },
+  {
+    "message": "Built-in"
+  },
+  {
+    "message": "External"
+  },
+  {
+    "message": "Please select."
+  },
+  {
+    "message": "Start"
+  },
+  {
+    "message": "　　Load　　"
+  },
+  {
+    "message": "　　Music Hall　　"
+  },
+  {
+    "message": "Debug"
+  },
+  {
+    "message": "File 0"
+  },
+  {
+    "message": "File 1"
+  },
+  {
+    "message": "File 2"
+  },
+  {
+    "message": "File 3"
+  },
+  {
+    "message": "File 4"
+  },
+  {
+    "message": "File 5"
+  },
+  {
+    "message": "File 6"
+  },
+  {
+    "message": "Cancel"
+  },
+  {
+    "message": "Necronomicon"
+  },
+  {
+    "message": "　Investigation　of　Dagon　"
+  },
+  {
+    "message": "Black shadow"
+  },
+  {
+    "message": "　　Playful fingers　　"
+  },
+  {
+    "message": "Curse of Dunwich"
+  },
+  {
+    "message": "　　Writhing grudge　　"
+  },
+  {
+    "message": "　　　Departure　　　"
+  },
+  {
+    "message": "　　Next page　　"
+  },
+  {
+    "message": "　　Deep One　　"
+  },
+  {
+    "message": "Cordelia"
+  },
+  {
+    "message": "　　Time of anxiety　　"
+  },
+  {
+    "message": "Snowy makeup"
+  },
+  {
+    "message": "　　Marsh　　"
+  },
+  {
+    "message": "Road to ruin"
+  },
+  {
+    "message": "　Devil's intercourse　"
+  },
+  {
+    "message": "　　Next page　　"
+  },
+  {
+    "message": "Deserted fishing village"
+  },
+  {
+    "message": "　　　On fire　　　"
+  },
+  {
+    "message": "Secret of birth"
+  },
+  {
+    "message": "　　Next page　　"
+  }
 ]

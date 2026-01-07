@@ -1,321 +1,321 @@
 [
-    {
-        "message": "I hurriedly ran down the stairs and came to the entrance hall."
-    },
-    {
-        "message": "But Gardner and the others are nowhere to be seen. The only one there is Mrs. Hudson, staring at me like she's seeing some rare animal as I come clattering down the stairs."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Good morning, Swift-san."
-    },
-    {
-        "message": "She said that with a bright smile."
-    },
-    {
-        "message": "This is the entrance hall of the Fish Scale Inn."
-    },
-    {
-        "message": "There’s no sign of anyone inside the reception room or down the hallway."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Oh, Swift-san."
-    },
-    {
-        "message": "　　　　　　　　　What's wrong? Dinner's already ready for you."
-    },
-    {
-        "message": "The lady looks busy. It's no wonder, since she's trying to handle all the work by herself. I shouldn't trouble her too much either..."
-    },
-    {
-        "message": "The smell of freshly baked bread from this morning and bacon being cooked drifts in the air. At the very least, it seems like Gardner managed to get breakfast."
-    },
-    {
-        "message": "The entranceway, where sunlight doesn't reach, is dark even during the day unless you turn on the lights. Just looking at it, you can't even tell if it's day or night right now. Only the piercingly cold air creeping in through the crack in the door seems to be proof that it's morning."
-    },
-    {
-        "message": "Even though it's old, there are plenty of buildings all over England with a history like the Fish Scale Inn. Even the mansion I lived in back in Wales is a hundred years older than this building. But this kind of forlorn aging is something unique to hotels and bars."
-    },
-    {
-        "message": "Up until now, countless people whose names I’ll never know have probably passed through this room in the Fish Scale Inn. Thinking about that gives me a weird feeling I can’t quite describe."
-    },
-    {
-        "message": "Because of the twilight, the room seems even darker than the last time I was here."
-    },
-    {
-        "message": "The soot-stained walls and pillars give off an almost creepy vibe when you look at them in the gloom."
-    },
-    {
-        "message": "Mrs. Hudson is staring at me with eyes wide in surprise. She probably doesn't mean anything by it, but being stared at like that makes me feel like a naughty kid getting scolded by his older sister."
-    },
-    {
-        "message": "She's as cheerful-looking as ever."
-    },
-    {
-        "message": "Is work really that much fun for her?"
-    },
-    {
-        "message": "Last night, she looked like an old lady who'd given up on life, but now she seems to be back to being the lively innkeeper lady."
-    },
-    {
-        "message": "I'm really happy about it, but even though last night she was calling me by my first name, 'Jonathan,' like we were close, at some point she's gone right back to the distant 'Mr. Swift' again."
-    },
-    {
-        "message": "Come to think of it, last night Mrs. Hudson was acting just like my older sister. At least it doesn't seem like she hates me."
-    },
-    {
-        "message": "The lady is looking down shyly."
-    },
-    {
-        "message": "That said, it's a mistake to expect anything special. She only acts this way because she's a chaste and proper woman."
-    },
-    {
-        "message": "This sure feels awkward. It's like I'm an important suspect being interrogated by a detective. If I keep staring at the lady like this, she'll definitely get some weird ideas about me."
-    },
-    {
-        "message": "Mrs. Hudson is gazing at me with a puzzled look. There's no way I could know what she's really thinking inside."
-    },
-    {
-        "message": "It's better not to cause too much trouble, I should hurry up and go to the cafeteria."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "It's okay, it's a small village. You probably won't get lost that easily."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Did Professor Gardner and the others already leave？　　　　　　　　I thought they were supposed to be waiting downstairs."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Oh, were you planning to come along too？"
-    },
-    {
-        "message": "　　　　　　　　　That person's in a hurry, you know."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Looks like I have to hurry too. It's a shame, but it seems like I'll have to give up on breakfast."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Gardner really is a handful. If only you'd told me yesterday, I could've prepared something. The cape is so windy, you really need something warm..."
-    },
-    {
-        "name": "Jonathan",
-        "message": "It shouldn't take long. I think I'll be back by lunchtime."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "It probably won't go that smoothly. Once he goes outside, he hardly ever comes back right away."
-    },
-    {
-        "name": "Jonathan",
-        "message": "How do I get to the ruins at the cape？ The professor hasn’t told me anything at all."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "If you head down the road towards the sea, you'll get there right away. The paved road ends pretty quickly, but just go straight ahead without hesitation."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Once you reach the coastline, just follow the road. After a while, you'll see 'something strange'."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Weird stuff？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "I'm sorry. For someone like me, that's really all I can say......"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Good morning, Hudson-san."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "What's wrong？ You seemed to be in quite a rush.　　　　　　　　　I've kept your breakfast for you."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Looks like I overslept quite a bit, huh."
-    },
-    {
-        "message": "　　　　　　　　Looks like the unexpectedly long trip really wore me out."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "It seems so. But, there's really no need to rush. This is a laid-back place, you know, so there's no need to be pressed for time."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Come on, you should go now. Let's continue this tonight, okay？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "If you don't mind, could you tell me a bit more about it？ Even someone like me might be able to do something to help you."
-    },
-    {
-        "name": "Jonathan",
-        "message": "That would really help me out."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "That's right... After you've finished your meal and rested for a bit, please come to my room. By then, all my work should be done."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Is it really okay, um.........to let someone like me into your room this late at night?"
-    },
-    {
-        "message": "The lady seemed to realize the meaning for the first time."
-    },
-    {
-        "message": "She blushed and averted her gaze from me."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Ah, no. There's no deep meaning or anything."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "It's fine, I think I can trust you..."
-    },
-    {
-        "message": "　　　　　　　　　How about you finish your meal soon？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Swift, is it okay if I ask you something？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "Jonathan's fine. What is it？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "What brings you to Arkham？"
-    },
-    {
-        "message": "　　　　　　　　　I　wonder　if　a　young　city-raised　person　like　yourself　has　some　business　in　such　a　remote　village　as　this？"
-    },
-    {
-        "message": "Mrs. Hudson said this in a faint voice, feeling ashamed at asking such a blunt question."
-    },
-    {
-        "name": "Jonathan",
-        "message": "......The old station master in Salem kept asking me the same thing. Is it really so strange for someone like me to visit Arkham？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Oh, not at all."
-    },
-    {
-        "message": "　　　　　　　　　It's just......I just found it a little curious......I'm sorry. It was none of my business, really."
-    },
-    {
-        "name": "Jonathan",
-        "message": "I just came to do a little research. One of my ancestors grew up here, you see. There's something about that person that's been bothering me a bit."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "So they were from Arkham？"
-    },
-    {
-        "name": "Jonathan",
-        "message": "I don't really know any details. Where they were born, how they grew up. But before they made it to my family, they were in Arkham. That's the only clue I have."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "I see......"
-    },
-    {
-        "message": "　　　　　　　　　I wish I could be of help to you."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "What's the matter, Swift-san？"
-    },
-    {
-        "message": "　　　　　　　　　Did something go wrong?"
-    },
-    {
-        "message": "The lady looks uneasy. She seems to think I checked the room and came here angrily to announce I’m checking out."
-    },
-    {
-        "name": "Jonathan",
-        "message": "No, that's not it. I actually just met Gardner a moment ago, and while we were talking I realized I hadn’t written anything in the guestbook."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Oh, is that so？"
-    },
-    {
-        "message": "　　　　　　　　　I completely forgot."
-    },
-    {
-        "message": "The lady blushed a little and apologetically handed me the guestbook."
-    },
-    {
-        "message": "I took a pen from her and wrote down my address and name."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Thank you... I’m so sorry."
-    },
-    {
-        "message": "　　　　　　　　　I tend to be forgetful."
-    },
-    {
-        "message": "There's no sign of anyone at the counter. It looks like the lady has gone back to her room. Staying alone in a place like this is pretty unsettling. Maybe I should go back to my room and rest too."
-    },
-    {
-        "message": "When I was a kid, being alone in these old, creaky rooms used to scare me."
-    },
-    {
-        "message": "Even now, sometimes I get this baseless fear that someone might be staring at me from the corner of the room..."
-    },
-    {
-        "message": "　　Go outside　　"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Oh, right, before you go to the cape, you might want to stop by the general store next door."
-    },
-    {
-        "name": "Jonathan",
-        "message": "General store？"
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "I think Gardner and the others will probably stop by there too, so if you’re lucky, you might run into them."
-    },
-    {
-        "message": "Even in a country shop like this, we might be able to get cheese biscuits or something. That’ll do for breakfast."
-    },
-    {
-        "name": "Jonathan",
-        "message": "Thanks for your kindness."
-    },
-    {
-        "name": "Mrs. Hudson",
-        "message": "Take care."
-    },
-    {
-        "message": "　　　Dining Room　　　"
-    },
-    {
-        "message": "Madam's Room"
-    },
-    {
-        "message": "Madam's Room"
-    },
-    {
-        "message": "My Room"
-    },
-    {
-        "message": "　　　Dining Room　　　"
-    }
+  {
+    "message": "I hurriedly ran down the stairs and came to the entrance hall."
+  },
+  {
+    "message": "But Gardner and the others are nowhere to be seen. The only one there is Mrs. Hudson, staring at me like she's seeing some rare animal as I come clattering down the stairs."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Good morning, Swift-san."
+  },
+  {
+    "message": "She said that with a bright smile."
+  },
+  {
+    "message": "This is the entrance hall of the Fish Scale Inn."
+  },
+  {
+    "message": "There’s no sign of anyone inside the reception room or down the hallway."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Oh, Swift-san."
+  },
+  {
+    "message": "　　　　　　　　　What's wrong? Dinner's already ready for you."
+  },
+  {
+    "message": "The lady looks busy. It's no wonder, since she's trying to handle all the work by herself. I shouldn't trouble her too much either..."
+  },
+  {
+    "message": "The smell of freshly baked bread from this morning and bacon being cooked drifts in the air. At the very least, it seems like Gardner managed to get breakfast."
+  },
+  {
+    "message": "The entranceway, where sunlight doesn't reach, is dark even during the day unless you turn on the lights. Just looking at it, you can't even tell if it's day or night right now. Only the piercingly cold air creeping in through the crack in the door seems to be proof that it's morning."
+  },
+  {
+    "message": "Even though it's old, there are plenty of buildings all over England with a history like the Fish Scale Inn. Even the mansion I lived in back in Wales is a hundred years older than this building. But this kind of forlorn aging is something unique to hotels and bars."
+  },
+  {
+    "message": "Up until now, countless people whose names I’ll never know have probably passed through this room in the Fish Scale Inn. Thinking about that gives me a weird feeling I can’t quite describe."
+  },
+  {
+    "message": "Because of the twilight, the room seems even darker than the last time I was here."
+  },
+  {
+    "message": "The soot-stained walls and pillars give off an almost creepy vibe when you look at them in the gloom."
+  },
+  {
+    "message": "Mrs. Hudson is staring at me with eyes wide in surprise. She probably doesn't mean anything by it, but being stared at like that makes me feel like a naughty kid getting scolded by his older sister."
+  },
+  {
+    "message": "She's as cheerful-looking as ever."
+  },
+  {
+    "message": "Is work really that much fun for her?"
+  },
+  {
+    "message": "Last night, she looked like an old lady who'd given up on life, but now she seems to be back to being the lively innkeeper lady."
+  },
+  {
+    "message": "I'm really happy about it, but even though last night she was calling me by my first name, 'Jonathan,' like we were close, at some point she's gone right back to the distant 'Mr. Swift' again."
+  },
+  {
+    "message": "Come to think of it, last night Mrs. Hudson was acting just like my older sister. At least it doesn't seem like she hates me."
+  },
+  {
+    "message": "The lady is looking down shyly."
+  },
+  {
+    "message": "That said, it's a mistake to expect anything special. She only acts this way because she's a chaste and proper woman."
+  },
+  {
+    "message": "This sure feels awkward. It's like I'm an important suspect being interrogated by a detective. If I keep staring at the lady like this, she'll definitely get some weird ideas about me."
+  },
+  {
+    "message": "Mrs. Hudson is gazing at me with a puzzled look. There's no way I could know what she's really thinking inside."
+  },
+  {
+    "message": "It's better not to cause too much trouble, I should hurry up and go to the cafeteria."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "It's okay, it's a small village. You probably won't get lost that easily."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Did Professor Gardner and the others already leave？　　　　　　　　I thought they were supposed to be waiting downstairs."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Oh, were you planning to come along too？"
+  },
+  {
+    "message": "　　　　　　　　　That person's in a hurry, you know."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Looks like I have to hurry too. It's a shame, but it seems like I'll have to give up on breakfast."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Gardner really is a handful. If only you'd told me yesterday, I could've prepared something. The cape is so windy, you really need something warm..."
+  },
+  {
+    "name": "Jonathan",
+    "message": "It shouldn't take long. I think I'll be back by lunchtime."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "It probably won't go that smoothly. Once he goes outside, he hardly ever comes back right away."
+  },
+  {
+    "name": "Jonathan",
+    "message": "How do I get to the ruins at the cape？ The professor hasn’t told me anything at all."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "If you head down the road towards the sea, you'll get there right away. The paved road ends pretty quickly, but just go straight ahead without hesitation."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Once you reach the coastline, just follow the road. After a while, you'll see 'something strange'."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Weird stuff？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "I'm sorry. For someone like me, that's really all I can say......"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Good morning, Hudson-san."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "What's wrong？ You seemed to be in quite a rush.　　　　　　　　　I've kept your breakfast for you."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Looks like I overslept quite a bit, huh."
+  },
+  {
+    "message": "　　　　　　　　Looks like the unexpectedly long trip really wore me out."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "It seems so. But, there's really no need to rush. This is a laid-back place, you know, so there's no need to be pressed for time."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Come on, you should go now. Let's continue this tonight, okay？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "If you don't mind, could you tell me a bit more about it？ Even someone like me might be able to do something to help you."
+  },
+  {
+    "name": "Jonathan",
+    "message": "That would really help me out."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "That's right... After you've finished your meal and rested for a bit, please come to my room. By then, all my work should be done."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Is it really okay, um.........to let someone like me into your room this late at night?"
+  },
+  {
+    "message": "The lady seemed to realize the meaning for the first time."
+  },
+  {
+    "message": "She blushed and averted her gaze from me."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Ah, no. There's no deep meaning or anything."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "It's fine, I think I can trust you..."
+  },
+  {
+    "message": "　　　　　　　　　How about you finish your meal soon？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Swift, is it okay if I ask you something？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "Jonathan's fine. What is it？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "What brings you to Arkham？"
+  },
+  {
+    "message": "　　　　　　　　　I　wonder　if　a　young　city-raised　person　like　yourself　has　some　business　in　such　a　remote　village　as　this？"
+  },
+  {
+    "message": "Mrs. Hudson said this in a faint voice, feeling ashamed at asking such a blunt question."
+  },
+  {
+    "name": "Jonathan",
+    "message": "......The old station master in Salem kept asking me the same thing. Is it really so strange for someone like me to visit Arkham？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Oh, not at all."
+  },
+  {
+    "message": "　　　　　　　　　It's just......I just found it a little curious......I'm sorry. It was none of my business, really."
+  },
+  {
+    "name": "Jonathan",
+    "message": "I just came to do a little research. One of my ancestors grew up here, you see. There's something about that person that's been bothering me a bit."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "So they were from Arkham？"
+  },
+  {
+    "name": "Jonathan",
+    "message": "I don't really know any details. Where they were born, how they grew up. But before they made it to my family, they were in Arkham. That's the only clue I have."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "I see......"
+  },
+  {
+    "message": "　　　　　　　　　I wish I could be of help to you."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "What's the matter, Swift-san？"
+  },
+  {
+    "message": "　　　　　　　　　Did something go wrong?"
+  },
+  {
+    "message": "The lady looks uneasy. She seems to think I checked the room and came here angrily to announce I’m checking out."
+  },
+  {
+    "name": "Jonathan",
+    "message": "No, that's not it. I actually just met Gardner a moment ago, and while we were talking I realized I hadn’t written anything in the guestbook."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Oh, is that so？"
+  },
+  {
+    "message": "　　　　　　　　　I completely forgot."
+  },
+  {
+    "message": "The lady blushed a little and apologetically handed me the guestbook."
+  },
+  {
+    "message": "I took a pen from her and wrote down my address and name."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Thank you... I’m so sorry."
+  },
+  {
+    "message": "　　　　　　　　　I tend to be forgetful."
+  },
+  {
+    "message": "There's no sign of anyone at the counter. It looks like the lady has gone back to her room. Staying alone in a place like this is pretty unsettling. Maybe I should go back to my room and rest too."
+  },
+  {
+    "message": "When I was a kid, being alone in these old, creaky rooms used to scare me."
+  },
+  {
+    "message": "Even now, sometimes I get this baseless fear that someone might be staring at me from the corner of the room..."
+  },
+  {
+    "message": "　　Go outside　　"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Oh, right, before you go to the cape, you might want to stop by the general store next door."
+  },
+  {
+    "name": "Jonathan",
+    "message": "General store？"
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "I think Gardner and the others will probably stop by there too, so if you’re lucky, you might run into them."
+  },
+  {
+    "message": "Even in a country shop like this, we might be able to get cheese biscuits or something. That’ll do for breakfast."
+  },
+  {
+    "name": "Jonathan",
+    "message": "Thanks for your kindness."
+  },
+  {
+    "name": "Mrs. Hudson",
+    "message": "Take care."
+  },
+  {
+    "message": "　　　Dining Room　　　"
+  },
+  {
+    "message": "Madam's Room"
+  },
+  {
+    "message": "Madam's Room"
+  },
+  {
+    "message": "My Room"
+  },
+  {
+    "message": "　　　Dining Room　　　"
+  }
 ]

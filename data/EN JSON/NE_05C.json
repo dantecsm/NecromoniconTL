@@ -1,83 +1,83 @@
 [
-    {
-        "name": "Cordelia",
-        "message": "Jonathan, I don't think the Necronomicon is here."
-    },
-    {
-        "message": "Most of the area is taken up by giant bookshelves that reach all the way to the ceiling."
-    },
-    {
-        "message": "It's hard to believe that a village this small could have enough history to fill such an enormous library."
-    },
-    {
-        "message": "Most of them are probably academic books that were left at the university, or maybe general books donated by some collector."
-    },
-    {
-        "name": "Cordelia",
-        "message": "So I have to look for it among these......."
-    },
-    {
-        "name": "Cordelia",
-        "message": "I feel like I'm going to pass out."
-    },
-    {
-        "message": "Looks like there’s no Necronomicon on this bookshelf."
-    },
-    {
-        "message": "The old books lined up neatly have their spines made of the same material, unified unlike the other bookshelves, and the way they've aged gives off a sense of their respective eras."
-    },
-    {
-        "message": "Maybe this bookshelf is where the village's official documents and records are kept. That's probably why it's so organized."
-    },
-    {
-        "message": "All of these books look pretty old."
-    },
-    {
-        "message": "If it's in here, I might not even notice if the Necronomicon got mixed in."
-    },
-    {
-        "message": "Looks like there's no Necronomicon on this bookshelf."
-    },
-    {
-        "message": "Even though it's all neatly organized, it still looks like the books were stuffed in pretty messily."
-    },
-    {
-        "message": "The years and bindings are all over the place-there are pricey-looking books bound in sheepskin with gold-stamped letters right next to tattered, worthless tomes so beat-up even a used bookstore would cringe at them."
-    },
-    {
-        "message": "The ages and types of books are all over the place, so there's no way to tell what kind of books are in here. With this, even if some pretty weird books got mixed in, it wouldn't feel out of place at all."
-    },
-    {
-        "message": "If it's in here, even if the Necronomicon is mixed in, it might go unnoticed."
-    },
-    {
-        "message": "Looks like there’s no Necronomicon on this bookshelf."
-    },
-    {
-        "message": "This bookshelf seems to be filled mostly with fairly new books."
-    },
-    {
-        "message": "Instead of being dirty or old, you can’t feel any trace of intricate handiwork by old craftsmen at all."
-    },
-    {
-        "message": "Still, from the looks of it, it doesn’t seem like anyone’s ever picked up any of these books on the shelf. Guess the villagers aren’t much for reading, huh?"
-    },
-    {
-        "message": "The Necronomicon I saw in my dream looked pretty expensive, with elaborate binding and even hand-drawn illustrations."
-    },
-    {
-        "message": "If it were mixed in with these new, ordinary kinds of books lined up on this shelf, you'd spot it in an instant."
-    },
-    {
-        "message": "　　Left bookshelf　　"
-    },
-    {
-        "message": "Center bookshelf"
-    },
-    {
-        "message": "　　The　bookshelf　on　the　right　　"
-    },
-    {
-        "message": "　　Reception　　"
-    }
+  {
+    "name": "Cordelia",
+    "message": "Jonathan, I don't think the Necronomicon is here."
+  },
+  {
+    "message": "Most of the area is taken up by giant bookshelves that reach all the way to the ceiling."
+  },
+  {
+    "message": "It's hard to believe that a village this small could have enough history to fill such an enormous library."
+  },
+  {
+    "message": "Most of them are probably academic books that were left at the university, or maybe general books donated by some collector."
+  },
+  {
+    "name": "Cordelia",
+    "message": "So I have to look for it among these......."
+  },
+  {
+    "name": "Cordelia",
+    "message": "I feel like I'm going to pass out."
+  },
+  {
+    "message": "Looks like there’s no Necronomicon on this bookshelf."
+  },
+  {
+    "message": "The old books lined up neatly have their spines made of the same material, unified unlike the other bookshelves, and the way they've aged gives off a sense of their respective eras."
+  },
+  {
+    "message": "Maybe this bookshelf is where the village's official documents and records are kept. That's probably why it's so organized."
+  },
+  {
+    "message": "All of these books look pretty old."
+  },
+  {
+    "message": "If it's in here, I might not even notice if the Necronomicon got mixed in."
+  },
+  {
+    "message": "Looks like there's no Necronomicon on this bookshelf."
+  },
+  {
+    "message": "Even though it's all neatly organized, it still looks like the books were stuffed in pretty messily."
+  },
+  {
+    "message": "The years and bindings are all over the place-there are pricey-looking books bound in sheepskin with gold-stamped letters right next to tattered, worthless tomes so beat-up even a used bookstore would cringe at them."
+  },
+  {
+    "message": "The ages and types of books are all over the place, so there's no way to tell what kind of books are in here. With this, even if some pretty weird books got mixed in, it wouldn't feel out of place at all."
+  },
+  {
+    "message": "If it's in here, even if the Necronomicon is mixed in, it might go unnoticed."
+  },
+  {
+    "message": "Looks like there’s no Necronomicon on this bookshelf."
+  },
+  {
+    "message": "This bookshelf seems to be filled mostly with fairly new books."
+  },
+  {
+    "message": "Instead of being dirty or old, you can’t feel any trace of intricate handiwork by old craftsmen at all."
+  },
+  {
+    "message": "Still, from the looks of it, it doesn’t seem like anyone’s ever picked up any of these books on the shelf. Guess the villagers aren’t much for reading, huh?"
+  },
+  {
+    "message": "The Necronomicon I saw in my dream looked pretty expensive, with elaborate binding and even hand-drawn illustrations."
+  },
+  {
+    "message": "If it were mixed in with these new, ordinary kinds of books lined up on this shelf, you'd spot it in an instant."
+  },
+  {
+    "message": "　　Left bookshelf　　"
+  },
+  {
+    "message": "Center bookshelf"
+  },
+  {
+    "message": "　　The　bookshelf　on　the　right　　"
+  },
+  {
+    "message": "　　Reception　　"
+  }
 ]

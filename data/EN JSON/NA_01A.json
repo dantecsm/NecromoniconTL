@@ -1,84 +1,84 @@
 [
-    {
-        "name": "Thomas",
-        "message": "Man, I'm just beat. I just wanna grab some food and hit the sack already."
-    },
-    {
-        "name": "Gardner",
-        "message": "What are you whining about, you're young. Don't be so pathetic."
-    },
-    {
-        "message": "　　　　　　　　Shouldn't have gone out with you after all. All you do is bitch about being cold and tired..."
-    },
-    {
-        "message": "We made our way back to the front of the Fish Scale Inn."
-    },
-    {
-        "message": "What that old man said kept swirling in my head, and I just couldn't shake the feeling that me coming to Arkham wasn't just some coincidence, but something fated."
-    },
-    {
-        "message": "Is it really okay for me to be wandering around some place like this?"
-    },
-    {
-        "message": "If I don't get to the ruins soon, I'm gonna piss Gardner and the others off."
-    },
-    {
-        "message": "Maybe Gardner and the others have already gone way ahead. Looks like they're not around here..."
-    },
-    {
-        "message": "Should I go check out that general store Mrs. Hudson mentioned？"
-    },
-    {
-        "name": "Gardner",
-        "message": "What're you doing？"
-    },
-    {
-        "message": "　　　　　　　　Doesn't　really　seem　like　this　building　would　satisfy　your　curiosity　or　anything,　doesn't　look　like　anything　special."
-    },
-    {
-        "message": "There's not much point in staring at the building here. Fish Scale Inn isn't exactly an impressive piece of architecture that would catch my interest anyway."
-    },
-    {
-        "message": "Fish Scale Inn is a rarity around here, where wood isn't abundant-it's a timber-framed building. The walls are covered with oak clapboards. The wood's turned black from being exposed to salty winds for so long."
-    },
-    {
-        "message": "The first time I came to this inn, it was pouring rain. For some reason, it feels like ages ago now. It's not like it's especially comfortable to live in, or that I have any strong attachment to it..."
-    },
-    {
-        "name": "Thomas",
-        "message": "Hey, what are you staring at so hard？"
-    },
-    {
-        "message": "　　　　　　It's not like you're some guy locked out by his wife-this door's always open, you know."
-    },
-    {
-        "message": "When I stand here spacing out like this, I start to lose the motivation to do something crazy like go out somewhere."
-    },
-    {
-        "message": "Maybe I should just head back to my room like this..."
-    },
-    {
-        "message": "Fish Scale Inn keeps its entrance tightly closed, as if to block out any intruders."
-    },
-    {
-        "message": "But it's not like Mrs. Hudson has any reason to shut me out."
-    },
-    {
-        "message": "In there, at the very least, there’s gotta be a way more comfortable bed and a meal waiting, compared to freezing out here."
-    },
-    {
-        "message": "General store"
-    },
-    {
-        "message": "　　　Square　　　"
-    },
-    {
-        "message": "　　　Ruins　　　"
-    },
-    {
-        "message": "Gilman House"
-    },
-    {
-        "message": "　　Go inside　　"
-    }
+  {
+    "name": "Thomas",
+    "message": "Man, I'm just beat. I just wanna grab some food and hit the sack already."
+  },
+  {
+    "name": "Gardner",
+    "message": "What are you whining about, you're young. Don't be so pathetic."
+  },
+  {
+    "message": "　　　　　　　　Shouldn't have gone out with you after all. All you do is bitch about being cold and tired..."
+  },
+  {
+    "message": "We made our way back to the front of the Fish Scale Inn."
+  },
+  {
+    "message": "What that old man said kept swirling in my head, and I just couldn't shake the feeling that me coming to Arkham wasn't just some coincidence, but something fated."
+  },
+  {
+    "message": "Is it really okay for me to be wandering around some place like this?"
+  },
+  {
+    "message": "If I don't get to the ruins soon, I'm gonna piss Gardner and the others off."
+  },
+  {
+    "message": "Maybe Gardner and the others have already gone way ahead. Looks like they're not around here..."
+  },
+  {
+    "message": "Should I go check out that general store Mrs. Hudson mentioned？"
+  },
+  {
+    "name": "Gardner",
+    "message": "What're you doing？"
+  },
+  {
+    "message": "　　　　　　　　Doesn't　really　seem　like　this　building　would　satisfy　your　curiosity　or　anything,　doesn't　look　like　anything　special."
+  },
+  {
+    "message": "There's not much point in staring at the building here. Fish Scale Inn isn't exactly an impressive piece of architecture that would catch my interest anyway."
+  },
+  {
+    "message": "Fish Scale Inn is a rarity around here, where wood isn't abundant-it's a timber-framed building. The walls are covered with oak clapboards. The wood's turned black from being exposed to salty winds for so long."
+  },
+  {
+    "message": "The first time I came to this inn, it was pouring rain. For some reason, it feels like ages ago now. It's not like it's especially comfortable to live in, or that I have any strong attachment to it..."
+  },
+  {
+    "name": "Thomas",
+    "message": "Hey, what are you staring at so hard？"
+  },
+  {
+    "message": "　　　　　　It's not like you're some guy locked out by his wife-this door's always open, you know."
+  },
+  {
+    "message": "When I stand here spacing out like this, I start to lose the motivation to do something crazy like go out somewhere."
+  },
+  {
+    "message": "Maybe I should just head back to my room like this..."
+  },
+  {
+    "message": "Fish Scale Inn keeps its entrance tightly closed, as if to block out any intruders."
+  },
+  {
+    "message": "But it's not like Mrs. Hudson has any reason to shut me out."
+  },
+  {
+    "message": "In there, at the very least, there’s gotta be a way more comfortable bed and a meal waiting, compared to freezing out here."
+  },
+  {
+    "message": "General store"
+  },
+  {
+    "message": "　　　Square　　　"
+  },
+  {
+    "message": "　　　Ruins　　　"
+  },
+  {
+    "message": "Gilman House"
+  },
+  {
+    "message": "　　Go inside　　"
+  }
 ]
