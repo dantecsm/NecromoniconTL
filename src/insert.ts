@@ -17,9 +17,9 @@ interface Message {
  * Otherwise, returns just the message
  */
 function reconstructText(messageObj: Message, isEn: boolean = false): string {
-    const space = isEn ? " " : "　";
     if (messageObj.name) {
-        return `「${messageObj.name}」${space}${messageObj.message}`;
+        const { name, message } = messageObj;
+        return isEn ? `[${name}] ${message}` : `「${name}」　${message}`;
     }
     return messageObj.message;
 }
