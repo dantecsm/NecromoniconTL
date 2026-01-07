@@ -32,19 +32,22 @@
          (? (= 560 #t))
          (nop@)
          (proc 1)
-         (str "「Cordelia」 Jonathan, I don't think the Necronomicon is here.")
+         (str "[Cordelia] Jonathan, I don't think the Necronomicon is here.")
          (proc 0)
          (proc 3))
         (//
          (proc 1)
-         (str "Most of the area is taken up by giant bookshelves that reach all the way to the ceiling." 'br)
-         (str "It's hard to believe that a village this small could have enough history to fill such an enormous library.")
+         (str "Most of the area is taken up by giant bookshelves that reach all ")
+         (str "the way to the ceiling." 'br)
+         (str "It's hard to believe that a village this small could have enough ")
+         (str "history to fill such an enormous library." 'br)
          (proc 0)
-         (str "Most of them are probably academic books that were left at the university, or maybe general books donated by some collector.")
+         (str "Most of them are probably academic books that were left at the " 'br)
+         (str "university, or maybe general books donated by some collector." 'br)
          (proc 0)
-         (str "「Cordelia」 So I have to look for it among these.......")
+         (str "[Cordelia] So I have to look for it among these.......")
          (proc 0)
-         (str "「Cordelia」 I feel like I'm going to pass out.")
+         (str "[Cordelia] I feel like I'm going to pass out.")
          (proc 0)
          (nop@)
          (set-reg 560 #t)
@@ -66,12 +69,16 @@
              (branch-index
               (</>
                (/
-                (str "The old books lined up neatly have their spines made of the same material, unified unlike the other bookshelves, and the way they've aged gives off a sense of their respective eras.")
+                (str "The old books lined up neatly have their spines made of the same ")
+                (str "material, unified unlike the other bookshelves, and the way " 'br)
+                (str "they've aged gives off a sense of their respective eras." 'br)
                 (proc 0)
-                (str "Maybe this bookshelf is where the village's official documents and records are kept. That's probably why it's so organized."))
+                (str "Maybe this bookshelf is where the village's official documents " 'br)
+                (str "and records are kept. That's probably why it's so organized." 'br))
                (/
                 (str "All of these books look pretty old." 'br)
-                (str "If it's in here, I might not even notice if the Necronomicon got mixed in."))))
+                (str "If it's in here, I might not even notice if the Necronomicon got ")
+                (str "mixed in." 'br))))
              (proc 0)))))
       (/
        (if (</>
@@ -84,13 +91,21 @@
              (branch-index
               (</>
                (/
-                (str "Even though it's all neatly organized, it still looks like the books were stuffed in pretty messily.")
+                (str "Even though it's all neatly organized, it still looks like the " 'br)
+                (str "books were stuffed in pretty messily." 'br)
                 (proc 0)
-                (str "The years and bindings are all over the place-there are pricey-looking books bound in sheepskin with gold-stamped letters right next to tattered, worthless tomes so beat-up even a used bookstore would cringe at them."))
+                (str "The years and bindings are all over the place-there are " 'br)
+                (str "pricey-looking books bound in sheepskin with gold-stamped " 'br)
+                (str "letters right next to tattered, worthless tomes so beat-up even ")
+                (str "a used bookstore would cringe at them." 'br))
                (/
-                (str "The ages and types of books are all over the place, so there's no way to tell what kind of books are in here. With this, even if some pretty weird books got mixed in, it wouldn't feel out of place at all.")
+                (str "The ages and types of books are all over the place, so there's " 'br)
+                (str "no way to tell what kind of books are in here. With this, even " 'br)
+                (str "if some pretty weird books got mixed in, it wouldn't feel out of ")
+                (str "place at all." 'br)
                 (proc 0)
-                (str "If it's in here, even if the Necronomicon is mixed in, it might go unnoticed."))))
+                (str "If it's in here, even if the Necronomicon is mixed in, it might ")
+                (str "go unnoticed." 'br))))
              (proc 0)))))
       (/
        (if (</>
@@ -104,13 +119,18 @@
               (</>
                (/
                 (str "This bookshelf seems to be filled mostly with fairly new books." 'br)
-                (str "Instead of being dirty or old, you can’t feel any trace of intricate handiwork by old craftsmen at all.")
+                (str "Instead of being dirty or old, you can’t feel any trace of " 'br)
+                (str "intricate handiwork by old craftsmen at all." 'br)
                 (proc 0)
-                (str "Still, from the looks of it, it doesn’t seem like anyone’s ever picked up any of these books on the shelf. Guess the villagers aren’t much for reading, huh?"))
+                (str "Still, from the looks of it, it doesn’t seem like anyone’s ever ")
+                (str "picked up any of these books on the shelf. Guess the villagers " 'br)
+                (str "aren’t much for reading, huh?" 'br))
                (/
-                (str "The Necronomicon I saw in my dream looked pretty expensive, with elaborate binding and even hand-drawn illustrations.")
+                (str "The Necronomicon I saw in my dream looked pretty expensive, with ")
+                (str "elaborate binding and even hand-drawn illustrations." 'br)
                 (proc 0)
-                (str "If it were mixed in with these new, ordinary kinds of books lined up on this shelf, you'd spot it in an instant."))))
+                (str "If it were mixed in with these new, ordinary kinds of books " 'br)
+                (str "lined up on this shelf, you'd spot it in an instant." 'br))))
              (proc 0)))))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*

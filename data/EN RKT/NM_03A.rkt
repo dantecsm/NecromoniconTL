@@ -64,9 +64,11 @@
          (proc 7)
          (proc 1)
          (str "I came in front of the Brothel." 'br)
-         (str "Gardner, who's next to me, looks exasperated, probably wondering what the hell I'm doing coming to a place like this.")
+         (str "Gardner, who's next to me, looks exasperated, probably wondering ")
+         (str "what the hell I'm doing coming to a place like this." 'br)
          (proc 0)
-         (str "But before I face the harsh reality waiting for me, it wouldn't hurt to enjoy myself a little.")
+         (str "But before I face the harsh reality waiting for me, it wouldn't ")
+         (str "hurt to enjoy myself a little." 'br)
          (proc 0))
         (//
          ((cmd 206) 1 5)
@@ -93,12 +95,13 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (str "「Cordelia」 ジョナサン‥‥‥‥‥")
+         (str "[Cordelia] ジョナサン‥‥‥‥‥")
          (proc 0)
-         (str "「Cordelia」 What are you thinking at a time like this？" 'br)
-         (str "　　　　　　　　If　you　don't　really　intend　to　look,　then　by　all　means,　go　have　fun　on　your　own.")
+         (str "[Cordelia] What are you thinking at a time like this？" 'br)
+         (str "　　　　　　　　If　you　don't　really　intend　to　look,　then　by　all　means,　g")
+         (str "o　have　fun　on　your　own." 'br)
          (proc 0)
-         (str "「Cordelia」 I can go by myself, you know." 'br)
+         (str "[Cordelia] I can go by myself, you know." 'br)
          (str "　　　　　　　　So, what'll you do？")
          (proc 0))))
    (proc 3)
@@ -113,22 +116,30 @@
         130
         (</>
          (/
-          (str "Cordelia saw me staring intently at the brothel and looked away, half exasperated.")
+          (str "Cordelia saw me staring intently at the brothel and looked away, ")
+          (str "half exasperated." 'br)
           (proc 0)
-          (str "Sure, coming to a place like this at a time like this is way too reckless. Our lives are on the line right now; this is no time to be messing around with some crazy game."))
+          (str "Sure, coming to a place like this at a time like this is way too ")
+          (str "reckless. Our lives are on the line right now; this is no time " 'br)
+          (str "to be messing around with some crazy game." 'br))
          (/
           (branch-reg
            430
            (</>
             (/
-             (str "From the outside, the brothel looks like it's waiting for the usual men to come and spill their desires.")
+             (str "From the outside, the brothel looks like it's waiting for the " 'br)
+             (str "usual men to come and spill their desires." 'br)
              (proc 0)
-             (str "It doesn't look like there was an attack, but I wonder if the prostitutes are okay." 'br)
-             (str "It just doesn't seem likely that Deep Ones, who can have sex with human women, would leave the prostitutes alone."))
+             (str "It doesn't look like there was an attack, but I wonder if the " 'br)
+             (str "prostitutes are okay." 'br)
+             (str "It just doesn't seem likely that Deep Ones, who can have sex " 'br)
+             (str "with human women, would leave the prostitutes alone." 'br))
             (/
-             (str "Sue and Mabel have been killed, so what is Mary, left all alone, planning to do now?")
+             (str "Sue and Mabel have been killed, so what is Mary, left all alone, ")
+             (str "planning to do now?" 'br)
              (proc 0)
-             (str "The chances of making it out of Arkham safely are low, but you’re saying you don’t even want to come with us......")
+             (str "The chances of making it out of Arkham safely are low, but " 'br)
+             (str "you’re saying you don’t even want to come with us......" 'br)
              (proc 0)
              (str "ふたりの若い娘の死に責任を感じているようだが、この娼館で死ぬつもりなのだろうか？")))))))
        (proc 0))
@@ -137,56 +148,77 @@
         130
         (</>
          (/
-          (str "Cordelia sees me staring intently at the brothel, then averts her eyes with a look that's half exasperated.")
+          (str "Cordelia sees me staring intently at the brothel, then averts " 'br)
+          (str "her eyes with a look that's half exasperated." 'br)
           (proc 0)
-          (str "It's true that coming to a place like this at a time like this is way too reckless. Our lives are on the line right now, this is no time to mess around with crazy games."))
+          (str "It's true that coming to a place like this at a time like this " 'br)
+          (str "is way too reckless. Our lives are on the line right now, this " 'br)
+          (str "is no time to mess around with crazy games." 'br))
          (/
           (branch-reg
            430
            (</>
             (/
-             (str "From the outside, the brothel looks like it's waiting, as usual, for men to come and spill out their desires.")
+             (str "From the outside, the brothel looks like it's waiting, as usual, ")
+             (str "for men to come and spill out their desires." 'br)
              (proc 0)
-             (str "It doesn't look like they were attacked, but are the prostitutes okay?" 'br)
-             (str "It seems like there's no way Deep Ones who can fuck human women would just leave prostitutes alone."))
+             (str "It doesn't look like they were attacked, but are the prostitutes ")
+             (str "okay?" 'br)
+             (str "It seems like there's no way Deep Ones who can fuck human women ")
+             (str "would just leave prostitutes alone." 'br))
             (/
              (str "スウとメーベルが殺され、ただひとり残ったメアリはこれからどうするつもりなのだろう。")
              (proc 0)
-             (str "The chances of getting out of Arkham safely are low, but you’re saying you don’t even want to come with us...")
+             (str "The chances of getting out of Arkham safely are low, but you’re ")
+             (str "saying you don’t even want to come with us..." 'br)
              (proc 0)
-             (str "You seem to feel responsible for the deaths of those two young girls, but do you intend to die in this brothel？")))))))
+             (str "You seem to feel responsible for the deaths of those two young " 'br)
+             (str "girls, but do you intend to die in this brothel？" 'br)))))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
           (str "It definitely looks way fancier than a regular house in Arkham." 'br)
-          (str "The way plaster is smeared over the bricks, making it look like a woman wearing heavy makeup, seems to match the inside pretty well.")
+          (str "The way plaster is smeared over the bricks, making it look like ")
+          (str "a woman wearing heavy makeup, seems to match the inside pretty " 'br)
+          (str "well." 'br)
           (proc 0)
-          (str "Knowing what happens in the house every night, no matter how elaborate the place is, I just can't feel it's beautiful.")
+          (str "Knowing what happens in the house every night, no matter how " 'br)
+          (str "elaborate the place is, I just can't feel it's beautiful." 'br)
           (proc 0)
           (str "それにしても、どうしてアーカムに娼館などあるのだろう。" 'br)
-          (str "Even though there are still plenty of other things we're missing."))
+          (str "Even though there are still plenty of other things we're " 'br)
+          (str "missing." 'br))
          (/
           (str "確かにアーカムの一般の家より随分瀟洒な造りのようだ。" 'br)
-          (str "Plaster is applied over the bricks, making it look like a woman wearing heavy makeup, and I think that look matches well with the inside."))))
+          (str "Plaster is applied over the bricks, making it look like a woman ")
+          (str "wearing heavy makeup, and I think that look matches well with " 'br)
+          (str "the inside." 'br))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
           (str "The brothel’s door doesn’t seem to ever be locked, day or night." 'br)
-          (str "Even if you're a thief, sneaking into the homes of prostitutes who make even themselves feel good-do they really think that's not just crude?")
+          (str "Even if you're a thief, sneaking into the homes of prostitutes " 'br)
+          (str "who make even themselves feel good-do they really think that's " 'br)
+          (str "not just crude?" 'br)
           (proc 0)
-          (str "Or maybe it's just that, for prostitutes, their only asset is their own body, so they don't think there's anything else that could be stolen from them？")
+          (str "Or maybe it's just that, for prostitutes, their only asset is " 'br)
+          (str "their own body, so they don't think there's anything else that " 'br)
+          (str "could be stolen from them？" 'br)
           (proc 0)
-          (str "Either way, it's a bold move, but for them, who are always running into dangerous situations, maybe it's nothing worth paying special attention to."))
+          (str "Either way, it's a bold move, but for them, who are always " 'br)
+          (str "running into dangerous situations, maybe it's nothing worth " 'br)
+          (str "paying special attention to." 'br))
          (/
           (str "娼館の扉は、昼夜の区別なくいつでも鍵がかかっていないようだ。" 'br)
-          (str "It's super convenient for customers, but in a brothel full of women, it seems a bit too careless."))))
+          (str "It's super convenient for customers, but in a brothel full of " 'br)
+          (str "women, it seems a bit too careless." 'br))))
        (proc 0))
       (/
-       (str "「Cordelia」 I'll go by myself, you know." 'br)
+       (str "[Cordelia] I'll go by myself, you know." 'br)
        (str "　　　　　　　　So, what are you gonna do？")
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))

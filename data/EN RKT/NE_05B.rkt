@@ -32,7 +32,8 @@
          (? (= 557 #t))
          (nop@)
          (str "Looks like the Necronomicon isn't in the archives after all." 'br)
-         (str "Other than that, if we're talking about rooms we should check out in the Archives......")
+         (str "Other than that, if we're talking about rooms we should check " 'br)
+         (str "out in the Archives......" 'br)
          (proc 0)
          (nop@)
          (set-reg 557 #f))
@@ -40,7 +41,8 @@
          (? (= 556 #t))
          (nop@)
          (str "Dorothy isn't at the reception." 'br)
-         (str "I don't know where you're loafing around, but is it really okay to leave the reception unattended for this long?")
+         (str "I don't know where you're loafing around, but is it really okay ")
+         (str "to leave the reception unattended for this long?" 'br)
          (proc 0))
         (//
          (str "資料館の前の受け付けには、ドロシーの姿がない。" 'br)
@@ -60,28 +62,42 @@
         (</>
          (/
           (str "This is the front desk of the Archives." 'br)
-          (str "The floor is made of marble, but it seems to be quite old and not well taken care of, so it's been a long time since it lost its characteristic shine.")
+          (str "The floor is made of marble, but it seems to be quite old and " 'br)
+          (str "not well taken care of, so it's been a long time since it lost " 'br)
+          (str "its characteristic shine." 'br)
           (proc 0)
-          (str "The door in the back probably leads to what used to be inside the university." 'br)
-          (str "I don't know how many collectibles there are, but it's highly unlikely that what's inside is better than how it looks."))
+          (str "The door in the back probably leads to what used to be inside " 'br)
+          (str "the university." 'br)
+          (str "I don't know how many collectibles there are, but it's highly " 'br)
+          (str "unlikely that what's inside is better than how it looks." 'br))
          (/
-          (str "At the back of the room, there's a door that leads to the library." 'br)
-          (str "Ever since I snuck into the dean's office before, Dorothy hasn't even let me into the library, but now I can slip in quietly.")
+          (str "At the back of the room, there's a door that leads to the " 'br)
+          (str "library." 'br)
+          (str "Ever since I snuck into the dean's office before, Dorothy hasn't ")
+          (str "even let me into the library, but now I can slip in quietly." 'br)
           (proc 0)
-          (str "There's not a very high chance the Necronomicon is in the library, but I can't exactly not check."))
+          (str "There's not a very high chance the Necronomicon is in the " 'br)
+          (str "library, but I can't exactly not check." 'br))
          (/
-          (str "For an archives in a lonely, rundown rural backwater, it's a pretty impressive building." 'br)
-          (str "The only pity is that the villagers and officials don't seem all that eager to preserve this building."))))
+          (str "For an archives in a lonely, rundown rural backwater, it's a " 'br)
+          (str "pretty impressive building." 'br)
+          (str "The only pity is that the villagers and officials don't seem all ")
+          (str "that eager to preserve this building." 'br))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (str "It looks like an index card made to answer questions about book collections and various other collectibles.")
+          (str "It looks like an index card made to answer questions about book ")
+          (str "collections and various other collectibles." 'br)
           (proc 0)
-          (str "But with absolutely no tourists visiting the village, and the villagers themselves being totally indifferent to their own village's history, I can't really say it's having much effect."))
+          (str "But with absolutely no tourists visiting the village, and the " 'br)
+          (str "villagers themselves being totally indifferent to their own " 'br)
+          (str "village's history, I can't really say it's having much effect." 'br))
          (/
-          (str "Neatly arranged index cards are set up across the entire wall. If this woman named Dorothy is managing all of them by herself, she must be pretty meticulous."))))
+          (str "Neatly arranged index cards are set up across the entire wall. " 'br)
+          (str "If this woman named Dorothy is managing all of them by herself, ")
+          (str "she must be pretty meticulous." 'br))))
        (proc 0))
       (/
        (branch-index
@@ -89,13 +105,19 @@
          (/
           (str "長いこと使い続けられたカウンターは、表面の光沢が失せて黒ずんで、全く無価値なガラクタになってしまっている。")
           (proc 0)
-          (str "Back when this building was still a university, this was just a hall where students gathered, so it probably isn’t all that old." 'br)
+          (str "Back when this building was still a university, this was just a ")
+          (str "hall where students gathered, so it probably isn’t all that old.")
           (str "She must have been treated really roughly for a long time."))
          (/
           (str "Dorothy's nowhere to be seen." 'br)
-          (str "Their meticulousness is so extreme that not even a trace is left to show they were ever there, which ironically backfires and makes it seem like they're always skipping out on work to goof off.")
+          (str "Their meticulousness is so extreme that not even a trace is left ")
+          (str "to show they were ever there, which ironically backfires and " 'br)
+          (str "makes it seem like they're always skipping out on work to goof " 'br)
+          (str "off." 'br)
           (proc 0)
-          (str "In reality, Dorothy is just a timid office lady, and the reason she's strict with rule breakers is because she doesn't want to get caught up in the fallout herself."))
+          (str "In reality, Dorothy is just a timid office lady, and the reason ")
+          (str "she's strict with rule breakers is because she doesn't want to " 'br)
+          (str "get caught up in the fallout herself." 'br))
          (/
           (str "カウンターの上はきちんと整頓されて、ドロシーの個性を感じさせるような私物は一切無い。")
           (proc 0)

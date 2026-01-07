@@ -73,7 +73,9 @@ function replaceTextInRkt(
                 throw new Error(`Text mismatch at index ${idx}: ${jpText} !== ${extractedText}`);
             } else {
                 const original = match[0];
-                const replacement = original.replace('text', 'str').replace(extractedText, escapeRktString(enText));
+                let replacement = original.replace('text', 'str').replace(extractedText, escapeRktString(enText));
+                const indent = getIndent(normalizedContent, original);
+                replacement = wrapRktString(replacement, indent);
                 newContent = newContent.replace(original, replacement);
                 idx += 1;
                 replacedCount += 1;
@@ -82,6 +84,105 @@ function replaceTextInRkt(
     }
 
     return { newContent, replacedCount };
+}
+
+function getIndent(content: string, text: string): string {
+    const line = content.split('\n').find((line) => line.includes(text));
+    if (line) {
+        // Extract leading whitespace from the line
+        const match = line.match(/^(\s*)/) || [];
+        return match ? match[1] || '' : '';
+    } else {
+        return '';
+    }
+}
+
+/**
+ * Wrap RKT string according to game text box rules
+ * Handles line wrapping, 'br insertion, and collision prevention
+ */
+function wrapRktString(str: string, indent: string): string {
+    // Extract the content from (str "...") or (str "..." 'br)
+    const strMatch = str.match(/^\(str\s+"([^"]*)"(?:\s+'br)?\)$/);
+    if (!strMatch) {
+        return str;
+    }
+
+    const content = strMatch[1] || "";
+
+    // If content is 64 characters or less, return as-is
+    if (content.length <= 64) {
+        return str;
+    }
+
+    // Split content into lines according to game rules
+    const lines = splitContentIntoLines(content);
+
+    if (lines.length > 4) {
+        console.log(`Warning: content exceeds 4 lines: \n${content}`)
+    }
+
+    // Format each line as (str "...") with appropriate 'br and indent
+    const formattedLines = lines.map((line, index) =>
+        formatLine(line, index, indent)
+    );
+
+    return formattedLines.join('\n');
+}
+
+/**
+ * Split content into lines according to game text box rules
+ * - Line 1: max 64 chars
+ * - Line 2: max 64 chars
+ * - Line 3: max 64 chars
+ * - Line 4: max 54 chars (due to triangle icon)
+ */
+function splitContentIntoLines(content: string): string[] {
+    const lines: string[] = [];
+    let remaining = content;
+    let lineIndex = 0;
+
+    while (remaining.length > 0) {
+        const maxLength = lineIndex === 3 ? 54 : 64;
+
+        if (remaining.length <= maxLength) {
+            // Last line - take all remaining content
+            lines.push(remaining);
+            break;
+        }
+
+        // Find the last space before maxLength to avoid splitting words
+        const splitPos = findSplitPosition(remaining, maxLength);
+        lines.push(remaining.substring(0, splitPos));
+        remaining = remaining.substring(splitPos);
+        lineIndex++;
+    }
+
+    return lines;
+}
+
+/**
+ * Find the best position to split text
+ * Returns the position of the last space before maxLength
+ */
+function findSplitPosition(text: string, maxLength: number): number {
+    const lastSpace = text.lastIndexOf(' ', maxLength);
+    return lastSpace > 0 ? lastSpace + 1 : maxLength;
+}
+
+/**
+ * Format a single line as (str "...") with appropriate 'br and indent
+ * - Lines < 64 chars: add 'br
+ * - Lines = 64 chars: no 'br
+ * - First line: no indent
+ * - Subsequent lines: add indent
+ */
+function formatLine(line: string, index: number, indent: string): string {
+    const needsBr = line.length < 64;
+    const prefix = index === 0 ? '' : indent;
+    const brSuffix = needsBr ? " 'br" : '';
+
+    return `${prefix}(str "${line}"${brSuffix})`;
 }
 
 /**
