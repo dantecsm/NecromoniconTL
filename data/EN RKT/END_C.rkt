@@ -29,7 +29,7 @@
   (text-frame 0 0 79 399)
   (text-reset 1)
   (text-frame 24 168 55 231)
-  (text "　このゲームはフィクションです。ゲーム中に登場する人物・地名・団体等は全て架空のもので、実在する名称とは何の関係もありません。")
+  (str "　This game is a work of fiction. All characters, place names, organizations, etc. appearing in the game are entirely fictional and have no connection whatsoever to real names.")
   ((cmd 209) 1 4 0)
   (delay 1500 0)
   ((cmd 209) 0 4 0)

@@ -28,12 +28,11 @@
          (sound '|| 1))))
    ((cmd 209) 1 2)
    (proc 1)
-   (text "陰気な運転手の操るバスは、私が降りた途端まるで逃げ出すように行ってしまった。無事に帰り着ければいいが‥‥‥‥")
+   (str "陰気な運転手の操るバスは、私が降りた途端まるで逃げ出すように行ってしまった。無事に帰り着ければいいが‥‥‥‥")
    (proc 0)
-   (text "なにしろあのバスに何事かあれば私の帰りの足がなくなってしまう。")
+   (str "なにしろあのバスに何事かあれば私の帰りの足がなくなってしまう。")
    (proc 0)
-   (text
-    "運転手や老駅員の口振りからすれば、アーカムへの定期便運転手に立候補する奇特な運転手はいまい。何日もここに足止めされるだろう事は疑いない。")
+   (str "Judging from the way the driver and the old station employee talked, it's unlikely that any eccentric driver would volunteer to be the regular driver to Arkham. There's no doubt I'll be stranded here for several days.")
    (proc 0)
    (proc 3)
    (loop
@@ -47,20 +46,17 @@
             (//
              (? (= 103 #t))
              (nop@)
-             (text
-              "いつまでもこうしていても仕方ない。魚鱗亭までは走ってすぐの距離だし、ただこうして濡れているよりはそうした方がましだろう。")
+             (str "There's no use standing around like this forever. The Fish Scale Inn is just a quick run away, and it's probably better to make a dash for it than just stand here getting soaked.")
              (proc 0))
             (//
              (? (= 105 #t))
              (nop@)
-             (text
-              "さっきより雨足が強まってきたようだ。バスも行ってしまったし、もう引き返す事は出来ない。老駅員が言っていた「魚鱗亭」とかいう宿屋に行ってみようか‥‥‥‥‥‥")
+             (str "Seems like the rain's coming down harder than before. The bus already left, so there's no turning back now. Maybe I'll check out that inn the old stationmaster mentioned, the Fish Scale Inn...")
              (proc 0))
             (//
-             (text "想像していたより野蛮な場所ではないようだ。道はしっかりと舗装されているし、汚物が散乱している様子もない。")
+             (str "It doesn't seem to be as savage a place as I imagined. The roads are nicely paved, and there’s no sign of filth scattered around.")
              (proc 0)
-             (text
-              "ただ気になるのは、広場がしっかり管理されていると言うより、利用する者がいないのではないかと思われる節がある事だ。ここはまるで生活のにおいがしない。廃村に私一人取り残されたような気分だ‥‥‥")
+             (str "What bothers me is, rather than the square being well managed, it feels more like nobody actually uses it. There’s no sense of life here at all. It’s like I’m the only one left behind in an abandoned village...")
              (proc 0)
              (nop@)
              (set-reg 105 #t)))))
@@ -69,17 +65,14 @@
             (//
              (? (= 106 #t))
              (nop@)
-             (text
-              "あたりの建物はゆうに２０年ぐらいはペンキを塗られた様子さえない。まさに荒廃への道を辿っている村といった雰囲気だ。まだ夕方だと言うのに行き交う人の姿がない事も寂れた様子をよく象徴している。")
+             (str "The buildings around here haven't been painted in at least 20 years. It really feels like a village on its way to ruin. Even though it's still evening, there's no one passing by-that really shows how deserted it is.")
              (proc 0)
-             (text "村の入り口付近でさえこの有り様だ。もっと奥に入ればどうなっているのか、想像するのは容易だ。")
+             (str "Even near the entrance of the village, it's already like this. It's easy to imagine what it must be like further in.")
              (proc 0))
             (//
-             (text
-              "ここからは海を見る事は出来ないし、漁師らしき人間の姿も皆無だ。雨のせいで潮のにおいもしないし‥‥‥‥‥本当にここがアーカムなのだろうか。")
+             (str "You can't see the sea from here, and there isn't anyone who looks like a fisherman either. Because of the rain, you can't even smell the sea... Is this really Arkham?")
              (proc 0)
-             (text
-              "道端に点々と設置されている街灯は、どうやら５０年も前のガス灯のようだ。現在も使用できる確率は非常に低い。それ以降新たに設けられた公共設備はないと言うことか？")
+             (str "The street lamps dotting the roadside look like gas lamps from fifty years ago. The chances of them still working are super low. Does that mean there haven't been any new public facilities added since then？")
              (proc 0)
              (nop@)
              (set-reg 106 #t)))))
@@ -88,26 +81,23 @@
             (//
              (? (= 104 #t))
              (nop@)
-             (text "果たして私の他にも魚鱗亭を利用する泊まり客がいるのだろうか。宿の客が一人だけと言うのも気詰まりなものだし‥‥‥")
+             (str "I wonder if there are other guests staying at the Fish Scale Inn besides me. It'd feel awkward if I was the only guest in the place...")
              (proc 0))
             (//
              (? (= 103 #t))
              (nop@)
-             (text
-              "建てられてからどれぐらい経つのだろう。老朽化が著しく、あまり繁盛している様子ではない。主人はハドスン夫人という未亡人だそうだが、初対面で「この宿は繁盛してますか？」などと聞く訳にもいくまい。")
+             (str "I wonder how long it's been since it was built. It's super run down and doesn't look like it's doing much business. I heard the owner is a widow named Mrs. Hudson, but I can't just straight up ask her, 'Is your inn doing well？' the first time I meet her.")
              (proc 0)
-             (text
-              "朝、目を覚ましたら私の荷物と財布がなくなっていて、夫人はとうの昔に１００マイルの彼方‥‥‥なんて事にならないだろうな？")
+             (str "When I woke up in the morning, my stuff and wallet were gone, and the lady was already a hundred miles away... that isn't gonna happen to me, right？")
              (proc 0)
              (nop@)
              (set-reg 104 #t))
             (//
-             (text "あれが老駅員が話していた「アーカムで唯一信頼できる宿」なのだろうか。確か魚鱗亭とか言う名だった。")
+             (str "Is that the 'only trustworthy inn in Arkham' that the old station worker was talking about? I think it was called Fish Scale Inn or something like that.")
              (proc 0)
-             (text "他にそれらしい建物もないようだし‥‥‥こう雨が降っているのだ、のんびりと村の風景を眺めている場合でない事は明白だ。")
+             (str "There doesn't seem to be any other building like it, and... with this rain coming down, it's obvious I don't have the luxury to just stand around and admire the village scenery.")
              (proc 0)
-             (text
-              "熱いコーヒーとフィッシュ・アンド・チップスよりましな食事を出してくれさえすれば、選り好みはすまい。ここは観光地ではないのだ。")
+             (str "As long as they serve hot coffee and something better to eat than fish and chips, I'm not gonna be picky. This isn't a tourist spot, after all.")
              (proc 0)
              (nop@)
              (set-reg 103 #t)))))
@@ -116,16 +106,16 @@
             (//
              (? (= 107 #t))
              (nop@)
-             (text "おそらく村で唯一の商店なのではないだろうか。" 'br)
-             (text "ハロッズやフォートナム＆メイソンには及ばないが、村に滞在する間は何かと重宝しそうだ。" 'br)
+             (str "Probably the only general store in the village, I guess." 'br)
+             (str "It's not quite Harrods or Fortnum & Mason, but I bet it'll come in handy while I'm staying in the village." 'br)
              (proc 0)
-             (text "よそ者には何も売らないなんて経営方針でなければいいが‥‥‥")
+             (str "I just hope they don't have a policy where they won't sell anything to outsiders...")
              (proc 0))
             (//
-             (text "まともな建物だが、宿屋という雰囲気ではない。" 'br)
-             (text "衣類から医薬品まで何でも扱っている雑貨店というところだろう。")
+             (str "It's a decent building, but doesn't give off the vibe of an inn." 'br)
+             (str "Looks like they've got everything from clothes to medicine-just what you'd call a general store.")
              (proc 0)
-             (text "店主から昔の話を聞けるかもしれない。ひと休みしたら行ってみるとしようか。")
+             (str "Maybe I can hear some old stories from the shopkeeper. I guess I'll check it out after a bit of a break.")
              (proc 0)
              (nop@)
              (set-reg 107 #t)))))))
@@ -140,7 +130,7 @@
         (menu1
          60
          100
-         (</> (/ (text "　　") (str " ") (text "魚鱗亭") (str " ") (text "　　"))))
+         (</> (/ (text "　　") (str " ") (str "Fish Scale Inn") (str " ") (text "　　"))))
         (proc 17))))
   (proc 14)
   (if (</>
@@ -152,8 +142,7 @@
               (? (= 103 #t))
               (nop@)
               (proc 1)
-              (text
-               "あの老人にした所で最後にアーカムに来たのが何年前の話なのか解ったものではない。本当にまだ営業してくれていればいいのだが。")
+              (str "Even that old man, who knows how many years it's been since he last came to Arkham. I really hope they're still in business.")
               (proc 0)
               (proc 3)
               ((cmd 209) 0 2)
@@ -162,9 +151,9 @@
               (mes-jump "B:MES¥NA_01B.MES"))
              (//
               (proc 1)
-              (text "老駅員が言っていた村で信用できる唯一の宿だが‥‥‥‥" 'br)
-              (text "それらしい看板もないし、こんな所では旅行案内もないだろう。")
+              (str "It's the only inn the old station worker said was reliable in the village..." 'br)
+              (str "There's no sign that looks like it, and in a place like this, I doubt there's any tourist information either.")
               (proc 0)
-              (text "宿と言うからには、ほかの家よりは大きくてまともな造りなのだろう。不案内な土地なのだし、よく探してみよう。")
+              (str "Since it's called an inn, it's probably bigger and more proper than the other houses. I'm not familiar with this area, so I should look around carefully.")
               (proc 0)
               (proc 3)))))))))

@@ -30,24 +30,22 @@
         (//
          (? (= 59 #t) (= 670 #t))
          (nop@)
-         (text
-          "隣室のガードナーや他の住人達を起こさないように、ぎしぎしと軋む階段を降りた私は、人気のないホールにやってきた。パブでの約束の時間はとうに過ぎている。早く出かけなければ‥‥‥‥")
+         (str "So as not to wake Gardner in the next room or the other residents, I creaked down the squeaky stairs and made my way to the empty hall. The time I was supposed to meet at the Pub had long passed. I gotta get going, fast...")
          (proc 0))
         (//
          (? (= 59 #t))
          (nop@)
-         (text "ホールには誰もいない。" 'br)
-         (text "元々昼間でも暗い室内が、この時刻になると妙な寂しさも手伝ってなおさらおそろしく感じられる。")
+         (str "There’s nobody in the hall." 'br)
+         (str "The inside’s always dark even in the daytime, and now, at this hour, the weird loneliness makes it feel even creepier.")
          (proc 0))
         (//
          (? (= 506 #t))
          (nop@)
-         (text
-          "私はすでに何度も行き来して、勝手知ったる他人の家と化したホールにやってきた。あいかわらず誰の姿も見えず、何の物音も聞こえない。")
+         (str "I’ve already been back and forth here so many times, the hall’s basically turned into someone else’s house that I know like the back of my hand. As always, there’s nobody in sight, and I can’t hear a single sound.")
          (proc 0))
         (//
-         (text "ホールには誰もいない。" 'br)
-         (text "元々昼間でも暗い室内が、この時刻になると妙な寂しさも手伝ってなおさらおそろしく感じられる。")
+         (str "There’s no one in the hall." 'br)
+         (str "The room's always dark even during the day, but at this hour, with that weird loneliness hanging around, it just feels even scarier.")
          (proc 0)
          (nop@)
          (set-reg 506 #t))))
@@ -65,15 +63,13 @@
             (//
              (? (= 277 #t))
              (nop@)
-             (text
-              "古いとはいえ、魚鱗亭ぐらいの歴史を持つ建物は英国中にいくらでもある。私の住んでいたウェールズの屋敷でさえこの建物より１００年は年寄りだ。しかし、こういう寂しげな古びかたはホテルやバーなどに独特のものだ。")
+             (str "古いとはいえ、魚鱗亭ぐらいの歴史を持つ建物は英国中にいくらでもある。私の住んでいたウェールズの屋敷でさえこの建物より１００年は年寄りだ。しかし、こういう寂しげな古びかたはホテルやバーなどに独特のものだ。")
              (proc 0)
-             (text
-              "いままで数え切れないほどの名も知らぬ人々が、この魚鱗亭の部屋を通り抜けていったのだろう。そう考えるとなんとも言えない気分になる。")
+             (str "いままで数え切れないほどの名も知らぬ人々が、この魚鱗亭の部屋を通り抜けていったのだろう。そう考えるとなんとも言えない気分になる。")
              (proc 0))
             (//
-             (text "宵闇のせいで部屋の中は前に来たときにもまして暗く思える。" 'br)
-             (text "煤けた壁や柱は、暗がりの中で見ると不気味と言ってもいいほどの雰囲気をかもしだしている。")
+             (str "Because of the twilight, the room feels even darker than when I came before." 'br)
+             (str "The sooty walls and pillars give off an atmosphere that's almost eerie when you look at them in the dark.")
              (proc 0)
              (nop@)
              (set-reg 277 #t)))))
@@ -87,25 +83,21 @@
              (branch-index
               (</>
                (/
-                (text "子供の頃はこういう古びた部屋に一人でいるのが恐かったものだ。" 'br)
-                (text
-                 "今でももしや部屋の隅から誰かがこちらを凝視しているのではないかという根拠のない恐怖を覚える事があるが‥‥‥‥"))
+                (str "When I was a kid, being alone in an old room like this used to scare me." 'br)
+                (str "Even now, I sometimes get this baseless fear that maybe someone is staring at me from a corner of the room..."))
                (/
-                (text "ハドスン夫人が入念に掃除しているために、埃ひとつ着いていない。" 'br)
-                (text "こんなに綺麗にしていても訪れる客が皆無とあっては、その努力は報われていないと言わざるをえないな。")
+                (str "Thanks to Mrs. Hudson's thorough cleaning, there's not a speck of dust anywhere." 'br)
+                (str "Even though it's kept this clean, if not a single customer shows up, I gotta say all that effort's just not paying off.")
                 (proc 0)
-                (text
-                 "初めてここに来た時、泊まりの客は少ないが、食事に来る人は多いと聞いたような気がする。私たちが滞在しているあいだ、ひとりの客も見ないのはどういう訳なのだろう。"))))
+                (str "I feel like I heard when I first came here that there aren’t many overnight guests, but a lot of people come just for the food. So how come we haven’t seen a single customer the whole time we’ve been staying?"))))
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text
-                 "カウンターの上には宿帳があり、壁には一日の宿泊料と『今日のおすすめ料理』というのが記されている。今晩は白身魚のムニエルかラム肉のローストがおすすめだそうだ。"))
+                (str "カウンターの上には宿帳があり、壁には一日の宿泊料と『今日のおすすめ料理』というのが記されている。今晩は白身魚のムニエルかラム肉のローストがおすすめだそうだ。"))
                (/
-                (text
-                 "最初に来た時はひどく陰気で、こんな所で寝泊まりするなんて、とても耐えられそうにないと思ったものだが、そんな環境にも適応してしまっている自分を見ると空恐ろしいような気がしないでもない。"))))
+                (str "When I first came here, it was so gloomy I thought there was no way I could stand sleeping in a place like this, but now when I see how I've gotten used to this kind of environment, I can't help but feel a bit creeped out by myself."))))
              (proc 0)
              (nop@)
              (set-reg 278 #t)))))))
@@ -121,14 +113,14 @@
          60
          100
          (</>
-          (/ (text "　　　食堂　　　"))
+          (/ (str "　　　Dining hall　　　"))
           (/
            (set-reg 50 #t)
            (set-reg 51 #f)
            (nop@)
            (text "　")
            (str " ")
-           (text "夫人の部屋")
+           (str "Madam's room")
            (str " ")
            (text "　"))
           (/
@@ -138,11 +130,11 @@
            (nop@)
            (text "　")
            (str " ")
-           (text "夫人の部屋")
+           (str "Madam's room")
            (str " ")
            (text "　"))
-          (/ (text "　") (str " ") (text "自分の部屋") (str " ") (text "　"))
-          (/ (set-reg 59 #t) (nop@) (text "　　外に出る　　"))))
+          (/ (text "　") (str " ") (str "My room") (str " ") (text "　"))
+          (/ (set-reg 59 #t) (nop@) (str "　　Go outside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

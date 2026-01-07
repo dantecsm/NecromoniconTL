@@ -32,31 +32,31 @@
         (//
          (? (= 222 #t))
          (nop@)
-         (text "ここにはコーデリアの姿はないようだ。" 'br)
-         (text "私が遅くなったので探しに出たのだとすれば、真っ先に魚鱗亭に来るだろうと思ったのだが。")
+         (str "Looks like Cordelia's not here." 'br)
+         (str "If you went out to look for me because I was late, I figured the first place you'd come would be the Fish Scale Inn.")
          (proc 0)
-         (text "ここにもいないとすると‥‥‥‥‥" 'br)
-         (text "コーデリアはどこに行ってしまったんだろう。")
+         (str "If they’re not here either......" 'br)
+         (str "Where could Cordelia have gone?")
          (proc 0))
         (//
          (? (= 88 #t))
          (nop@)
-         (text "魚鱗亭の前だ。" 'br)
-         (text "私が出てきた時と何ら変わりないところを見ると、トマスはまだ戻っていないらしい。")
+         (str "In front of the Fish Scale Inn." 'br)
+         (str "Looking around, nothing seems different from when I came out, so it looks like Thomas still hasn't come back.")
          (proc 0)
-         (text "それにしても、トマスの奴はあんな所で何をしていたのだろう。" 'br)
-         (text "もしかしてナイと知り合いなのか？")
+         (str "それにしても、トマスの奴はあんな所で何をしていたのだろう。" 'br)
+         (str "Are you maybe acquainted with Nai？")
          (proc 0)
-         (text "秘密結社に属していたり妙に専門的な知識を身につけていたりと、普通ではない部分があったのだが‥‥‥‥")
+         (str "She belonged to a secret society and had weirdly specialized knowledge, so there was something not quite normal about her......")
          (proc 0)
-         (text "ナイと知り合いだとなると、なにか特別な目的があってアーカムにやって来たのだろうか。")
+         (str "If you're acquainted with Nai, does that mean you came to Arkham for some special reason?")
          (proc 0))
         (//
-         (text "魚鱗亭の前だ。" 'br)
-         (text "厚い雲が空にかかっているからだろうか、思ったほど寒くない。")
+         (str "I'm in front of Fish Scale Inn." 'br)
+         (str "Maybe it's because thick clouds cover the sky, but it's not as cold as I thought.")
          (proc 0)
-         (text "コーデリアの所に行く前に、他の所に行ってみた方がいいな。" 'br)
-         (text "昼間はなんでもなかった場所が今は重大な意味を持つ事もあるだろう。")
+         (str "Before I go see Cordelia, I should check out some other places." 'br)
+         (str "Places that seemed like nothing during the day might mean something important now.")
          (proc 0))))
    (proc 3)
    (loop
@@ -70,55 +70,53 @@
             (//
              (? (= 199 #t))
              (nop@)
-             (text "いつまでも呆然と眺めているわけにはいかない。" 'br)
-             (text "そもそも魚鱗亭自体、私の興味をひくような優れた建築物とは言えないのだから。")
+             (str "I can't just stand here staring forever." 'br)
+             (str "Fish Scale Inn itself isn't exactly a building that's interesting enough to really catch my eye in the first place.")
              (proc 0))
             (//
-             (text "闇の中に浮かび上がるように存在を主張している。" 'br)
-             (text "しかし、私の受ける印象は、叙情的とか荘厳などというものではなく、むしろ不気味な廃屋然とした様子といった所だ。")
+             (str "It stands out as if asserting its presence in the darkness." 'br)
+             (str "But instead of being lyrical or majestic, my impression is more like that of an eerie abandoned house.")
              (proc 0)
              (branch-reg
               186
               (</>
                (/
-                (text "ことに英国では、古い物をありがたがる傾向があるが、魚鱗亭だけは話が別のようだ。")
+                (str "Especially in England, there’s a tendency to value old things, but it seems Fish Scale Inn is an exception.")
                 (proc 0)
-                (text "これでハドスン夫人がいなければ、誰もこんな宿に泊まろうとはしないだろう。"))
+                (str "If Mrs. Hudson weren’t here, no one would even think of staying at an inn like this."))
                (/
                 (branch-reg
                  86
                  (</>
                   (/
-                   (text "結局ハドスン夫人を怒らせたまま出てきてしまったが、本当にこれでよかったのだろうか。")
+                   (str "In the end, I left while Mrs. Hudson was still angry, but I wonder if that was really the right thing to do.")
                    (proc 0)
-                   (text "夫人はアーカムでは数少ない協力者で、しかも私の事を好意的に見てくれていたように思われる。")
+                   (str "She’s one of the few people willing to help in Arkham, and she seemed to look at me favorably too.")
                    (proc 0)
-                   (text "何故怒っているのか解らないが、誤解を解いてからの方が賢明なのではないか？"))
+                   (str "I don’t know why she’s angry, but maybe it’d be wiser to clear up the misunderstanding first？"))
                   (/
-                   (text "ハドスンさんは随分コーデリアの事を心配していたようだ。" 'br)
-                   (text
-                    "私がコーデリアの事をアーカムから連れ出してやるつもりだと聞いた途端それまでの冷淡な調子が消えてしまった。")
+                   (str "Hudson seemed really worried about Cordelia." 'br)
+                   (str "The moment she heard I planned to take Cordelia out of Arkham, her cold attitude disappeared.")
                    (proc 0)
-                   (text "別に口から出任せを言った訳ではないが、本当にコーデリアをロンドンに連れていっていいものなのか。")
+                   (str "It’s not like I just said something off the cuff, but is it really okay to take Cordelia to London?")
                    (proc 0)
-                   (text "いきなり女性を家に連れていったら、私の家族はなんと思うだろう。" 'br)
-                   (text "しかも、その女性がアーカムに住んでいた事を知ったら‥‥‥‥‥")
+                   (str "If I suddenly brought a woman home, what would my family think?" 'br)
+                   (str "And if they found out that woman used to live in Arkham......")
                    (proc 0)
-                   (text "考えても仕方がない事だとは解っているが、これからの事を考えると、どうも気が重いな。")
+                   (str "I know it's pointless to dwell on it, but thinking about what's coming makes me feel pretty down.")
                    (proc 0)
                    (branch-reg
                     87
                     (</>
                      (/ (nop@))
                      (/
-                      (text "それに、失踪したというハドスン夫人のご主人の事も気になる。" 'br)
-                      (text "夫人はご主人が魚鱗亭をやっていた家の、最後のひとりだったと言っていた。")
+                      (str "And I'm also bothered about Mrs. Hudson's husband, who went missing." 'br)
+                      (str "Mrs. Hudson said she was the last one from the family whose husband used to run the Fish Scale Inn.")
                       (proc 0)
-                      (text "夫人がアーカムを離れられないのはそれが原因なのかもしれない。" 'br)
-                      (text "夫の一族が代々受け継いできた魚鱗亭を、自分のせいで終わらせるのがたまらないという事なのだろう。")
+                      (str "Maybe that's why she can't leave Arkham." 'br)
+                      (str "She probably just can't stand being the one to end the Fish Scale Inn that's been passed down in her husband's family for generations.")
                       (proc 0)
-                      (text
-                       "自分を捨てて失踪した男のために、そこまでしてやる事などないと思うが、それは私の考えるべき問題ではないのかもしれない。"))))))))))
+                      (str "Honestly, I don't think she owes that much to the guy who dumped her and disappeared, but maybe that's not for me to judge."))))))))))
              (nop@)
              (set-reg 199 #t)
              (proc 0)))))
@@ -127,16 +125,14 @@
             (//
              (? (= 200 #t))
              (nop@)
-             (text "こうしてじっと眺めていると、これからどこかに出かけようなどという酔狂なまねをする気力が次第に衰えていくようだ。")
+             (str "Just standing here staring like this, my motivation to do something crazy like heading out somewhere is fading bit by bit.")
              (proc 0)
-             (text "このまま部屋に帰ってしまおうか‥‥‥‥")
+             (str "Should I just head back to my room like this...")
              (proc 0))
             (//
-             (text
-              "しんと静まり返った建物からは、中に誰かがいる気配さえ感じられはしない。そもそも、本当に人が住んでいるのかという事さえ疑わしい。")
+             (str "From the completely silent building, you can’t even sense if anyone’s inside. Actually, you even start to doubt whether anyone really lives there at all.")
              (proc 0)
-             (text
-              "本当に私が帰ってくるまでこの扉が開いているのか、疑わしいところだが、まさか夫人に玄関の鍵を貸してくれという訳にもいかないし、躊躇せず先を急ぐしかなさそうだ。")
+             (str "I'm not sure if this door will really be open when I get back, but I can't exactly ask Mrs. Hudson to lend me the front door key-so I guess I just have to keep moving without hesitating.")
              (proc 0)
              (nop@)
              (set-reg 200 #t)))))))
@@ -148,7 +144,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　　地図　　　")) (/ (text "　　中に入る　　"))))
+        (menu1 60 100 (</> (/ (str "　　　Map　　　")) (/ (str "　　Go inside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

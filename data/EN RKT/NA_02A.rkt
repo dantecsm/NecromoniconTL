@@ -32,31 +32,30 @@
         (//
          (? (= 66 #t))
          (nop@)
-         (text "なんとか夜が明ける前にベッドに入りたいものだな。" 'br)
-         (text "どうせ明日も忙しい日になるのだろう、少しでも休んでおかないと身体がもたない。")
+         (str "I really want to get into bed before the sun comes up somehow." 'br)
+         (str "Tomorrow's probably gonna be a busy day again anyway, so if I don't get at least a little rest, my body won't last.")
          (proc 0))
         (//
          (? (= 64 #t))
          (nop@)
-         (text "ナイとか言う男のせいでさらに時間を食ってしまった。" 'br)
-         (text "もうこの時間では、女は私を待っていてくれないかもしれないな。")
+         (str "I lost even more time because of that guy called Nai." 'br)
+         (str "At this hour, the woman might not be waiting for me anymore.")
          (proc 0)
-         (text "しかし、あの男は何を言っていたんだろう。" 'br)
-         (text "まるで私の事を私自身よりもよく知っているという口振りだった。今晩初めてしかも偶然に出会っただけだと言うのに。")
+         (str "But what was that guy talking about, I wonder." 'br)
+         (str "He talked like he knew me better than I knew myself. Even though we only met tonight for the first time, and it was just by chance.")
          (proc 0)
-         (text "私とアーカムは、得体の知れない糸でつながっているのだろうか？" 'br)
-         (text "知らぬ間にどんどん深みにはまっていくようだ。")
+         (str "Are Arkham and I connected by some kind of mysterious thread？" 'br)
+         (str "It feels like I'm sinking deeper and deeper before I even realize it.")
          (proc 0))
         (//
          (? (= 500 #t))
          (nop@)
-         (text "魚鱗亭に帰ってきてしまったが‥‥‥‥" 'br)
-         (text "まだ眠る訳にはいかないんだったな、しかも約束の時間を大幅に過ぎてしまっていたような気がするが。")
+         (str "I ended up coming back to the Fish Scale Inn......" 'br)
+         (str "I can't go to sleep just yet, can I? And I feel like I've already gone way past the time we promised, too.")
          (proc 0))
         (//
-         (text "あたりは死んだように静まり返っている。" 'br)
-         (text
-          "これがロンドンの裏路地あたりなら、これぐらいの時間でも通りを走る車の音や、さっさと客を見つけて今晩のねぐらにありつこうという娼婦などで全くの無音であるなどあり得ないのだが。")
+         (str "It's as quiet as the grave around here." 'br)
+         (str "If this were somewhere like a back alley in London, even at this kind of hour, there’s no way it would be completely silent-you’d hear the sound of cars driving down the street, or see prostitutes hurrying to find a customer and a place to sleep for the night, or something like that.")
          (proc 0)
          (nop@)
          (set-reg 500 #t))))
@@ -72,15 +71,14 @@
             (//
              (? (= 287 #t))
              (nop@)
-             (text "いつまでも呆然と眺めているわけにはいかない。" 'br)
-             (text "そもそも魚鱗亭自体、私の興味をひくような優れた建築物とは言えないのだから。")
+             (str "I can't just stand here staring forever." 'br)
+             (str "Besides, the Fish Scale Inn itself isn't exactly what I'd call an impressive building that would catch my interest.")
              (proc 0))
             (//
-             (text "闇の中に浮かび上がるように存在を主張している。" 'br)
-             (text "しかし、私の受ける印象は、叙情的とか荘厳などというものではなく、むしろ不気味な廃屋然とした様子といった所だ。")
+             (str "It stands there, insisting on its presence as if it's floating up from the darkness." 'br)
+             (str "But the impression I get isn't anything like poetic or solemn-instead, it just looks like some creepy abandoned house.")
              (proc 0)
-             (text
-              "あたりを吹きすさぶ冷たい風は、夜になってますます激しくなったようで、こうして立っているだけでも靴の中の指先が千切れそうになっているのがよく解る。")
+             (str "The cold wind blowing around feels like it's gotten even harsher at night, and just standing here like this I can really feel my toes in my shoes about to freeze off.")
              (proc 0)
              (nop@)
              (set-reg 287 #t)))))
@@ -89,17 +87,13 @@
             (//
              (? (= 288 #t))
              (nop@)
-             (text
-              "こうしてじっと眺めていると、これからどこかに出かけようなどという酔狂なまねをする気力が次第に衰えていくようだ。"
-              'br)
-             (text "このまま部屋に帰ってしまおうか‥‥‥‥")
+             (str "Just staring like this, it feels like I'm gradually losing the energy to do anything crazy like go out somewhere now." 'br)
+             (str "Maybe I should just go back to my room like this......")
              (proc 0))
             (//
-             (text
-              "しんと静まり返った建物からは、中に誰かがいる気配さえ感じられはしない。そもそも、本当に人が住んでいるのかという事さえ疑わしい。")
+             (str "From the completely silent building, you can't even sense anyone inside. Honestly, you have to wonder if anyone actually lives there at all.")
              (proc 0)
-             (text
-              "本当に私が帰ってくるまでこの扉が開いているのか、疑わしいところだが、まさか夫人に玄関の鍵を貸してくれという訳にもいかないし、躊躇せず先を急ぐしかなさそうだ。")
+             (str "I'm honestly not sure if this door will still be open by the time I get back, but I can't exactly ask the lady of the house to lend me the front door key, so I don't have much choice but to hurry ahead without hesitating.")
              (proc 0)
              (nop@)
              (set-reg 288 #t)))))))
@@ -115,11 +109,11 @@
          60
          100
          (</>
-          (/ (text "　　") (str " ") (text "雑貨店") (str " ") (text "　　"))
-          (/ (text "　　　広場　　　"))
-          (/ (text "　　　遺跡　　　"))
-          (/ (str " ") (text "ギルマンハウス") (str " "))
-          (/ (text "　　中に入る　　"))))
+          (/ (text "　　") (str " ") (str "General store") (str " ") (text "　　"))
+          (/ (str "　　　Square　　　"))
+          (/ (str "　　　Ruins　　　"))
+          (/ (str " ") (str "Gilman House") (str " "))
+          (/ (str "　　Go inside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

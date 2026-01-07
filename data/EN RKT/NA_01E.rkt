@@ -40,8 +40,8 @@
               (sound '|| 1))))
         (proc 7)
         (proc 1)
-        (text "さて、これからどうしたものだろうか。" 'br)
-        (text "私の希望としては暖かい食事をとってぐっすり寝てしまいたいところなのだが‥‥‥夫人の言っていた他の宿泊客の事も気になるな。")
+        (str "Now then, what should I do from here?" 'br)
+        (str "Honestly, I'd like to have a warm meal and crash for the night... but I'm also curious about those other guests Mrs. Hudson mentioned.")
         (proc 0))
        (//
         (if (</>
@@ -63,27 +63,22 @@
                 (/ (sound '|| "USO¥NC_15V.USO"))))
               (sound '|| 1))))
         (proc 1)
-        (text "ハドスン夫人に案内された私は、魚鱗亭の今にも踏み抜けそうな頼りない階段を上って２階に上がった。")
+        (str "Led by Mrs. Hudson, I climbed the rickety stairs of the Fish Scale Inn that looked like they could give way at any moment, and went up to the second floor.")
         (proc 0)
-        (text
-         "どこもかしこも古びていて歴史の重みを感じない訳にはいかない。しかもそれらの大部分がアーカムが豊かな頃の物らしく、それなりに意匠を凝らした物だ。")
+        (str "Everywhere you look, everything is so old you can't help but feel the weight of history. And most of it seems to be from when Arkham was prosperous, with all kinds of little design flourishes.")
         (proc 0)
         (proc 3)
         (proc 7)
         (proc 1)
-        (text
-         "私の部屋は広場から続く通りに面した広い窓があり、外には老朽化した家々の屋根が見える。古い建物の割には、この種の安宿にありがちな不快なにおいも不吉な壁の染みもない。")
+        (str "My room has a big window facing the street off the square, and outside you can see the rooftops of all the worn-down houses. For such an old building, it surprisingly doesn't have that nasty smell or those creepy stains on the wall you get in cheap inns like this.")
         (proc 0)
-        (text "しかし、この部屋には何とも得体の知れない嫌な雰囲気がある。")
+        (str "But somehow, there's this weird, disturbing vibe in this room that I just can't put my finger on.")
         (proc 0)
-        (text
-         "心霊現象の好きな英国人の世迷い言などではなく、首筋の髪がちりちりと逆立つような、悪寒にも似た冷たい空気が部屋中に満ちている様子をありありと感じる事ができる。")
+        (str "It's not just some British ghost story nonsense-I'm actually feeling this cold, tingling air filling the whole room, making the hairs on the back of my neck stand up.")
         (proc 0)
-        (text
-         "‥‥‥まさか幽霊の類なのだろうか‥‥‥何を愚かしい。ロンドン塔の壁に塗り込められた拷問死した女の話か、切り裂きジャックに惨殺された娼婦達の動く屍などというよた話を信じろと言うのか。")
+        (str "...Could it really be some kind of ghost...? What nonsense. Am I supposed to believe silly stories about tortured women walled into the Tower of London, or the walking corpses of prostitutes gruesomely murdered by Jack the Ripper?")
         (proc 0)
-        (text
-         "旅先で神経が逆立っているにすぎない。それと、壁を通して染みだしてくるようなこの冷気のせいだ。こうして立っているだけで爪先が痺れて感覚が麻痺してくる。雨に濡れたのがよくなかったのだろう。")
+        (str "I'm just on edge because I'm traveling. And it's this chill that seems to seep right through the walls. Just standing here, my toes go numb and I start to lose feeling. Getting soaked in the rain probably didn't help.")
         (proc 0)
         (nop@)
         (set-reg 516 #t))))
@@ -99,32 +94,27 @@
            (//
             (? (= 107 #t))
             (nop@)
-            (text
-             "もうカーテンの事を考えるのはよそう。まるで子供部屋の隅の暗がりに怯える少年のようではないか。私がそんなに神経質で恐がりだったとは当の本人である私も知らなかった。")
+            (str "I should stop thinking about the Curtain. I'm like a boy frightened by the shadows in the corner of the nursery. Even I didn't realize I was this much of a nervous, scaredy-cat.")
             (proc 0))
            (//
             (? (= 106 #t))
             (nop@)
-            (text
-             "窓にかかった古びて変色したカーテンは、ハドスン夫人の努力によって不潔な感じはしないものの、あまりにも古すぎるようだ。もういくらも経たずにただのボロ布になるだろう。")
+            (str "The old, discolored Curtain hanging over the window doesn't feel dirty, thanks to Mrs. Hudson's efforts, but it's just too old. It won't be long before it's nothing more than a rag.")
             (proc 0)
-            (text
-             "だが、私が思索しているのは魚鱗亭がこれから払わねばならぬ出費の事などではない。古びたカーテンに着いた縦に走る幾重もの汚れの筋のような物が私の神経を妙に苛立たせる。")
+            (str "But it's not Fish Scale Inn's upcoming expenses I'm mulling over. It's those layers of vertical grime streaking down that old Curtain-something about them is really fraying my nerves.")
             (proc 0)
-            (text
-             "カーテンに着いたその汚れの帯は、下方で結わえられまとめられている為に、まるで束ねた髪のように見えるのだ。昔の貴族達が長い髪を後ろで結わえている様に酷似している。")
+            (str "The dirty band on the Curtain looks just like bundled hair because it's tied and gathered at the bottom. It really resembles how old nobles would tie their long hair at the back.")
             (proc 0)
-            (text
-             "それが気のせいである事は解っているのだが、ふと目線を外した刹那、そのカーテンの後ろから血走った２つの目が私のことをねめつけているのではないかと、空恐ろしい想像が頭の片隅に浮かび上がる。")
+            (str "I know it's just my imagination, but the moment I glance away, a terrifying thought creeps into the corner of my mind-like maybe, from behind that Curtain, a pair of bloodshot eyes are glaring at me.")
             (proc 0)
             (nop@)
             (set-reg 107 #t))
            (//
-            (text "窓の外は相変わらず暗く、うなるような風の音が聞こえるが、雨足は弱まってきているようだ。")
+            (str "It's still dark outside the window, and I can hear the moaning sound of the wind, but it seems like the rain is starting to let up.")
             (proc 0)
-            (text "薄暗いのは天候が悪いだけという訳でもあるまい。この村は昼間でも燦々と降り注ぐ陽光など似つかわしくないように思える。")
+            (str "It's not just the weather that's making it gloomy. I feel like this village doesn't suit bright sunlight pouring down even in the daytime.")
             (proc 0)
-            (text "陰気で古びた街並みにはそんな様子がよく似合う。そして、じっとりと湿った暗がりには不浄なものが芽を出して育つものだ。")
+            (str "That dreary, old townscape really fits the vibe. And in the damp, clammy darkness, filthy things always seem to sprout and grow.")
             (proc 0)
             (nop@)
             (set-reg 106 #t)))))
@@ -133,22 +123,20 @@
            (//
             (? (= 109 #t))
             (nop@)
-            (text
-             "思った通り、ベッドのスプリングはもう何年も前に耐久の限界に達していたようだ。ほんの少し体重をかけただけでもぎしぎしと不愉快な音を立てて不満を言う。")
+            (str "Just as I thought, the Bed's springs had probably reached the end of their durability years ago. Even with just a little weight, they creak and complain with an unpleasant noise.")
             (proc 0))
            (//
             (? (= 108 #t))
             (nop@)
-            (text "清潔そうではあるが、窓にかかった古びたカーテンと同じ年代の物だとしたら寝心地は期待しないほうがよさそうだ。")
+            (str "It looks clean, but if it's from the same era as the old Curtain hanging on the window, I shouldn't expect it to be comfortable to sleep in.")
             (proc 0)
             (nop@)
             (set-reg 109 #t))
            (//
-            (text
-             "清潔そうなシーツが用意されている。ハドスン夫人は私が訪れる事など知らなかったはずなのに、きちんとベッドメイクされている所はさすがに気配りの行き届いた女性らしい。")
+            (str "Clean-looking sheets are prepared. Mrs. Hudson shouldn't have known I was coming, but the bed is neatly made-she really is a woman attentive to every detail.")
             (proc 0)
-            (text "少なくとも壁蝨や他の不潔なものに悩まされる心配はないようだ。" 'br)
-            (text "あとはもう少し大きければ何の不満もないのだが‥‥‥")
+            (str "At least I don't have to worry about bedbugs or any other filthy stuff." 'br)
+            (str "If only it were a bit bigger, I'd have nothing to complain about...")
             (proc 0)
             (nop@)
             (set-reg 108 #t)))))
@@ -157,30 +145,28 @@
            (//
             (? (= 110 #t))
             (nop@)
-            (text
-             "わざわざ椅子が２脚用意されている理由がようやく解った。隣室とつながる扉から客同士が行き来できるようになっていたのだ。確かにこういう造りの宿はめずらしくない。")
+            (str "I finally figured out why there are two chairs set up here. There’s a door connecting to the next room so guests can go back and forth. Inns built like this aren’t all that rare, after all.")
             (proc 0)
-            (text "私も隣の部屋の客と仲良くすべきだろうか？")
+            (str "Should I try to get along with the guest next door too？")
             (proc 0))
            (//
-            (text
-             "ベッドのサイズを考えると完全な一人部屋のはずなのに、椅子は２脚用意されている。ひどくちぐはぐなような気がするが、この宿では泊まり客の部屋に誰が別の客が訪ねてくる事があるのだろうか。")
+            (str "Considering the size of the bed, it should be a single room, but there are two chairs prepared. It feels really mismatched, but maybe in this inn, other guests sometimes come to visit the rooms of staying guests.")
             (proc 0)))))
      (/
       (if (</>
            (//
             (? (= 105 #t))
             (nop@)
-            (text "扉にはしっかりと錠が下ろされている。" 'br)
-            (text "ガードナーは早くも階下の食堂に行ってしまったのだろうか。")
+            (str "The door is securely locked." 'br)
+            (str "Did Gardner already head down to the dining hall?")
             (proc 0))
            (//
             (? (= 112 #t))
             (nop@)
-            (text "やはり挨拶しておこう。" 'br)
-            (text "私は隣室につながる扉を軽くノックした。")
+            (str "I should greet him, after all." 'br)
+            (str "I lightly knocked on the door that connected to the next room.")
             (proc 0)
-            (text "程なくエール錠の開く音がして扉が開いた。")
+            (str "Before long, I heard the sound of the Ale lock opening, and the door opened.")
             (proc 0)
             (proc 3)
             (proc 9)
@@ -190,40 +176,36 @@
             (load-mem "B:CLM¥C_035B.CLM" 27984)
             (exec-mem 2928 12 16 67 287 7 1)
             (proc 1)
-            (text
-             "男は５０がらみの格幅のいい紳士で、少し鷹揚な雰囲気があるものの、大勢の使用人に無理難題を押しつける神経質な主人といった感じではない。")
+            (str "The man was a well-built gentleman in his fifties, and though he gave off a somewhat easygoing vibe, he didn’t seem like a nervous master who forced unreasonable demands on a lot of servants.")
             (proc 0)
-            (text "むしろ何人もの生徒を前に教鞭をふるう職業にある者の、包容感がある鷹揚さといった印象だ。")
+            (str "Rather, it gives the impression of the easygoing broad-mindedness of someone used to teaching groups of students.")
             (proc 0)
-            (text "おそらくハドスン夫人が言っていたガードナー教授にちがいない。" 'br)
-            (text "民族学の教師という話だが、一体どんな目的があってこのアーカムを訪れたのだろうか。")
+            (str "This must be Professor Gardner that Mrs. Hudson was talking about." 'br)
+            (str "I heard he's an ethnology teacher, but what could have brought him to visit this Arkham?")
             (proc 0)
             (nop@)
             (set-reg 113 #t))
            (//
             (? (= 111 #t))
             (nop@)
-            (text
-             "扉の向こう側から鍵がかかっているようだ。隣室の客はどんな男なのだろうか。神経質で扱いにくいタイプなら、あまり積極的に付き合おうとは思わないのだが‥‥‥‥")
+            (str "It looks like the door is locked from the other side. I wonder what kind of guy is staying in the next room. If he’s the uptight, hard-to-handle type, I’m not really interested in getting too friendly with him...")
             (proc 0)
-            (text
-             "やはり一応は挨拶しておくべきだろうか。数日の滞在とはいえ、万が一にも帰りの足が確保できない場合にはしばらくの間顔を突き合わせなければならないのだから。")
+            (str "Maybe I should at least say hi, just in case. Even if I'm only staying for a few days, if I can't find a way home, I might have to see these people for a while.")
             (proc 0)
             (nop@)
             (set-reg 112 #t))
            (//
             (? (= 110 #t))
             (nop@)
-            (text
-             "これがバスルームに通じる入り口だったらうれしかったのだが‥‥‥‥どうやらそうではないらしい。バスとトイレは階下まで行かなければ使う事は出来ないようだ。")
+            (str "I wish this was the door to the bathroom...but it doesn't look like it. Apparently, if I want to use the bath or toilet, I'll have to go downstairs.")
             (proc 0)
             (nop@)
             (set-reg 111 #t))
            (//
-            (text "廊下に通ずる扉ではない。両側から鍵がかかるような仕組みになっている所を見ると、隣の客室に通じているらしい。")
+            (str "It's not a door that leads to the hallway. Judging by the fact that it has locks on both sides, it looks like it connects to the neighboring guest room.")
             (proc 0)
-            (text "隣の部屋に逗留しているのは誰なのだろう？" 'br)
-            (text "ハドスン夫人の話では２人の男が泊まっているはずだが‥‥‥")
+            (str "I wonder who’s staying in the room next door？" 'br)
+            (str "According to Mrs. Hudson, there should be two men staying here...")
             (proc 0)
             (nop@)
             (set-reg 110 #t)))))
@@ -232,30 +214,27 @@
            (//
             (? (= 105 #t))
             (nop@)
-            (text
-             "ガードナーは一足先に食堂に向かった。くだんの興味深いアーカムの遺跡の話も聞きたいし、もう一人の泊まり客の事も気になる。身支度をととのえて食堂に向かった方がよさそうだ。")
+            (str "Gardner headed to the dining hall a little ahead of time. He wanted to hear about those intriguing Arkham ruins, and he was also curious about the other guest staying overnight. It seemed like a good idea to get ready and head to the dining hall.")
             (proc 0))
            (//
             (? (= 115 #t))
             (nop@)
-            (text
-             "ガードナーの前で落ちつきなくきょろきょろしているのは好ましくないだろう。まるで及第点をもらえるかどうかの瀬戸際にたった劣等生のようでおもしろくない。")
+            (str "It's probably not good to fidget and glance around nervously in front of Gardner. It's like a failing student on the edge of passing or not, and it's not amusing.")
             (proc 0))
            (//
-            (text "まだ髪がちりちりするような妙な冷気が漂っている。" 'br)
-            (text "しかしその事はあまり考えない方がいいだろう。どうせ高ぶった神経が起こす妙な妄想にすぎないのだ。")
+            (str "There's still a weird chill in the air that makes my hair feel frizzy." 'br)
+            (str "But it's probably better not to think too much about that. It's just some weird delusion caused by nerves on edge anyway.")
             (proc 0)))))
      (/
       (if (</>
            (//
             (? (= 115 #t))
             (nop@)
-            (text
-             "「ガードナー」　あんまりのんびりしておるとハドスン夫人の機嫌を損　　　　　　　　ねてしまうぞ。あの人を怒らせたらこの村に滞在して　　　　　　　　いる間の食生活は大層貧しいものになってしまう。")
+            (str "「Gardner」 If you take it too easy, you'll end up getting on Mrs. Hudson's bad side. If you make her mad, your meals while you're staying in this village are going to get really lousy.")
             (proc 0)
-            (text "「ジョナサン」　それは大変だ。急いで着替えてしまわないと‥‥‥‥")
+            (str "「Jonathan」 That's serious. I need to hurry up and get changed...")
             (proc 0)
-            (text "「ガードナー」　では食堂で待っておるからな。")
+            (str "「Gardner」 Well, I'll be waiting in the cafeteria.")
             (proc 0)
             (proc 3)
             (proc 9)
@@ -265,13 +244,12 @@
             (load-mem "B:CLM¥C_035A.CLM" 27984)
             (exec-mem 2928 12 16 67 287 7 0)
             (proc 1)
-            (text "そう言うとガードナーは自分の部屋に戻って行った。" 'br)
-            (text "多少高圧的な面はあるものの、なかなかの好人物のようだ。")
+            (str "Saying that, Gardner went back to his own room." 'br)
+            (str "Although he can be a bit overbearing, he actually seems like a pretty good guy.")
             (proc 0)
-            (text
-             "彼の言っていた遺跡にも興味はある。少なくとも１００年前の一人の女性の足跡を探るなどという大学の卒業論文のような仕事よりは数倍おもしろそうだ。")
+            (str "I'm interested in the Ruins he mentioned too. That sounds way more interesting than something like a college thesis about chasing after the footsteps of some woman from at least a hundred years ago.")
             (proc 0)
-            (text "もしもガードナーが案内してくれるなら、その遺跡とやらを見てみてもいいかもしれない。")
+            (str "If Gardner shows me around, maybe I wouldn't mind checking out those ruins or whatever.")
             (proc 0)
             (nop@)
             (set-reg 105 #t)
@@ -281,105 +259,83 @@
            (//
             (? (= 114 #t))
             (nop@)
-            (text
-             "「ジョナサン」　教授、あなたは何をしにこんな村にいらしたんです？　　　　　　　　ここには研究の対象となるような珍しい事例があるん　　　　　　　　ですか。")
+            (str "「Jonathan」 Professor, what brings you to a village like this?　　　　　　　　Is there something unusual here that would be a subject for your research?")
             (proc 0)
-            (text
-             "「ガードナー」　君がゴート人やアーリア民族に関する歴史や風習に興　　　　　　　　味を持っているようにはみえんが？"
-             'br)
-            (text "　　　　　　　　新聞記者特有の好奇心かね？")
+            (str "「Gardner」 You don't seem to be interested in the history or customs of the Goths or the Aryans, do you？" 'br)
+            (str "　　　　　　　　Is it that special curiosity reporters have？")
             (proc 0)
-            (text "「ジョナサン」　まあそんなところですかね。新聞のネタになるような　　　　　　　　おもしろい事がありますか？")
+            (str "「Jonathan」 Well, something like that, I guess.　　　　　　　　Got any interesting stuff that could make the papers？")
             (proc 0)
-            (text
-             "「ガードナー」　新聞の記事にできるかどうかは知らんが、私のような　　　　　　　　民俗学者にとっては非常におもしろい物がある。")
+            (str "「Gardner」 I don't know if you can make a newspaper article out of it, but for a folklorist like me, there's something really interesting here.")
             (proc 0)
-            (text "こんなさびれた村に何があると言うんだ？" 'br)
-            (text "沖の海底に大昔の財宝を満載した船でも沈んでいるのだろうか。まるで地中海のように。")
+            (str "What could there possibly be in a rundown village like this？" 'br)
+            (str "Could there be a ship loaded with ancient treasure sunken on the offshore seabed? Just like in the Mediterranean.")
             (proc 0)
-            (text
-             "「ガードナー」　この村の岬の突端に、非常に変わった遺跡がある。ど　　　　　　　　んな文化を持っておった人々が遺した物か。いや、い　　　　　　　　つの時代の物かさえ特定出来ない大変めずらしい遺跡　　　　　　　　だよ。新聞のネタになるかね？")
+            (str "「Gardner」 At the tip of the cape in this village, there's a really strange Ruins. Who were the people with such a culture who left this behind, I wonder. No, it's such a rare Ruins that we can't even figure out what era it's from. Think it's worth a newspaper story？")
             (proc 0)
-            (text
-             "それはあまりにも専門的すぎて、私が雑文を書いている大衆紙ごときでは荷が勝ちすぎる。しかし、個人的には興味がないこともない。この国に先住民族がいたという事なのだろうか、インディアンのように？")
+            (str "That's way too specialized, and it's just too much for a tabloid like the one I write my ramblings for. But personally, I'm not completely uninterested. Does that mean there were indigenous peoples in this country too, like the Indians？")
             (proc 0)
-            (text "「ジョナサン」　そんなに珍しい物なんですか？" 'br)
-            (text "　　　　　　　　今までの通説を覆してしまうほどに？")
+            (str "「Jonathan」 Is it really that rare？" 'br)
+            (str "　　　　　　　　Rare　enough　to　overturn　everything　we've　believed　so　far？")
             (proc 0)
-            (text
-             "「ガードナー」　ある意味ではそうだな。しかし、あまりにも通説とか　　　　　　　　け離れた物だけに、誰かの悪戯ではないかと疑りたく　　　　　　　　もなる。")
+            (str "「Gardner」 In a way, that's true. But it's just so far removed from conventional wisdom that I can't help but suspect it's somebody's prank.")
             (proc 0)
-            (text "「ジョナサン」　大変おもしろいですね。")
+            (str "「Jonathan」 This is really interesting.")
             (proc 0)
-            (text
-             "「ガードナー」　興味があるのなら食事の時の座興に話してあげよう。　　　　　　　　下からいいにおいがしてきたな、もうそろそろ食事の　　　　　　　　準備が出来た頃だろう。")
+            (str "「Gardner」 If you're interested, I'll tell you about it as some mealtime entertainment.　　　　　　　　I can smell something nice coming from downstairs, so dinner must be just about ready.")
             (proc 0)
             (nop@)
             (set-reg 115 #t))
            (//
-            (text
-             "「ガードナー」　おや、こんな廃村まがいの寂れた村に立て続けに逗留　　　　　　　　客がやってくるとは。珍しい事もあるもんだな。")
+            (str "「Gardner」 Oh, wow, back-to-back guests staying in a quiet little village that's practically a ghost town, huh. That's not something you see every day.")
             (proc 0)
-            (text "ガードナーは眼鏡の奥のくぼんだ目で私を見つめている。" 'br)
-            (text "オックスフォードにいた頃の主任教師に見つめてられているようで背中のあたりがむず痒い。")
+            (str "Gardner is staring at me with his sunken eyes behind his glasses." 'br)
+            (str "It feels like my head teacher from back when I was in Oxford is staring at me, and it makes my back itch.")
             (proc 0)
-            (text
-             "「ジョナサン」　初めまして。ジョナサン・スゥイフトです。あなたが　　　　　　　　ガードナー教授ですね、先ほどハドスン夫人に伺って　　　　　　　　ますよ。")
+            (str "「Jonathan」 Nice to meet you. I'm Jonathan Swift. You're Professor Gardner, right? I just heard about you from Mrs. Hudson.")
             (proc 0)
-            (text
-             "「ガードナー」　いかにも私がガードナーだ。よく解ったと誉めてあげ　　　　　　　　たい所だが、あのトマスと間違われたのではいささか　　　　　　　　気分を害していただろうな。")
+            (str "「Gardner」 Indeed, I am Gardner. I'd like to praise you for figuring it out, but if you had mistaken me for that Thomas, I would have been a bit offended.")
             (proc 0)
-            (text
-             "ガードナーは私を大学の教え子を扱うように、からかい半分にそう言って、右手を差し出した。どうやらもう一人の宿泊客は彼の生徒としては失格だったらしい。")
+            (str "Gardner said that to me, half-teasing like I was one of his university students, and held out his right hand. It seemed like the other guest had apparently failed as his pupil.")
             (proc 0)
-            (text "「ジョナサン」　アーカムには２、３日の滞在予定ですが、よろしくお　　　　　　　　ねがいしますよ。")
+            (str "「Jonathan」 I’m planning to stay in Arkham for two or three days, so please take good care of me.")
             (proc 0)
-            (text
-             "私はガードナーの手を握りしめた。その手はフィールドワークを重んじる彼の理念を反映して、ごつごつと節くれだっている。大学の自室で本をめくっている学者にこういう手の持ち主はいない。")
+            (str "I gripped Gardner's hand tightly. His hand, reflecting his belief in the importance of fieldwork, was rugged and knobby. No scholar who just sits in their university room flipping through books would have hands like this.")
             (proc 0)
-            (text
-             "「ガードナー」　しかし生憎の雨だったな。アーカムに何をしに来たの　　　　　　　　かは知らんが、これでは動きようがないだろう。"
-             'br)
-            (text "　　　　　　　　時に君は新聞記者かね？")
+            (str "「Gardner」 But it had to rain, huh. I don't know what you came to Arkham for, but with this weather, you can't really do anything, can you." 'br)
+            (str "　　　　　　　　By the way, are you a newspaper reporter？")
             (proc 0)
-            (text
-             "私は少なからず驚いて、深い皺が刻まれたガードナーの顔を凝視した。どうしてそんな事が解ったのだろう。彼のような老紳士が私の記事の愛読者だとは思えないのだが‥‥‥")
+            (str "I was more than a little surprised, and stared at Gardner's deeply lined face. How could he have known that? I couldn't really imagine an old gentleman like him being a devoted reader of my articles...")
             (proc 0)
-            (text "「ガードナー」　どうして解ったと言いたいんだろう。顔にそう書いて　　　　　　　　ある。")
+            (str "「Gardner」 I bet you're wondering how I figured it out. It's written all over your face.")
             (proc 0)
-            (text "「ジョナサン」　是非伺いたいですね。以前どこかでお会いしたことが　　　　　　　　ありましたか？")
+            (str "「Jonathan」 I'd definitely like to ask. Have we met somewhere before？")
             (proc 0)
-            (text
-             "「ガードナー」　ない。だが私にはすぐに解ったよ。種明かしをしてあ　　　　　　　　げようか？　私は奇術師ではないから手品の種を教え　　　　　　　　渋るような真似はせんよ。")
+            (str "「Gardner」 No. But I figured it out right away. Want me to reveal the trick？ I'm not a magician, so I'm not going to be stingy about showing how it's done.")
             (proc 0)
-            (text "「ガードナー」　なに、簡単な事さ。握手をした時に見た君の手には、　　　　　　　　うっすらとインクの染みがある。")
+            (str "「Gardner」 What? It's simple. When we shook hands, I saw your hand had a faint ink stain on it.")
             (proc 0)
-            (text "「ガードナー」　しかもそれは衣服を染めるような類の物ではない。" 'br)
-            (text "　　　　　　　　もっと粘りけがあって手に付いたりすると始末に負え　　　　　　　　ないやつだ。")
+            (str "「Gardner」 And what's more, it's not the kind of thing that stains clothing." 'br)
+            (str "　　　　　　　　It's even more of a pain to deal with if it gets stickier and sticks to your hands.")
             (proc 0)
-            (text
-             "「ガードナー」　これだけで君が出版かそれに類する仕事に就いている　　　　　　　　事が解る。かと言って活字を拾ったり印刷機を回して　　　　　　　　いる職工とは思えない。")
+            (str "「Gardner」 Just from this, I can tell you're in publishing or a similar line of work. But I don't think you're a typesetter or someone running the presses.")
             (proc 0)
-            (text "「ガードナー」　君の顔からはあきらかに高い教育を受けた事を伺い知　　　　　　　　ることが出来る。")
+            (str "「Gardner」 From your face, it's obvious that you've had a high level of education.")
             (proc 0)
-            (text
-             "「ガードナー」　外見から判断できる年齢にしては左手中指のタバコの　　　　　　　　脂の染みと右薬指のペンだこが際だっている。")
+            (str "「Gardner」 For someone who looks that age, the tobacco stain on the left middle finger and the callus from writing on the right ring finger really stand out.")
             (proc 0)
-            (text "「ガードナー」　どちらか片方なら単なるヘビースモーカーか役所の事　　　　　　　　務員ともおもえるが‥‥‥‥‥‥")
+            (str "「Gardner」 If it were just one or the other, you could just think of me as a plain heavy smoker or a government office worker, but......")
             (proc 0)
-            (text "「ガードナー」　両方いっぺんにそろっているとなると少し解せない。　　　　　　　　事務員は仕事中に喫煙などせんからな。")
+            (str "「Gardner」 It's a little hard to understand when both are together at the same time.　　　　　　　　Clerks don't smoke or anything while on the job, after all.")
             (proc 0)
-            (text
-             "「ガードナー」　それに対して雑誌記者は指にたこができるほどペンを　　　　　　　　握るし、いつもいらいらしているから煙草が増える。")
+            (str "「Gardner」 On the other hand, magazine reporters grip their pens so much they get calluses on their fingers, and since they're always irritated, they end up smoking more Tobacco.")
             (proc 0)
-            (text
-             "「ジョナサン」　なるほど‥‥‥確かにゲラ版の上がりを見ていると手　　　　　　　　がインクだらけになるし、煙草の量も増えますよ。ど　　　　　　　　ちらも記者にとってトレードマークみたいな物でね。")
+            (str "「Jonathan」 I see... Sure, looking at the galley proofs, your hands get covered in ink, and you end up smoking more tobacco too. Both of those are basically trademarks of a reporter, you know.")
             (proc 0)
-            (text
-             "「ジョナサン」　しかし、さすがは大学教授ですね。民族学の権威にな　　　　　　　　るとするどい洞察力も養われるんですか？")
+            (str "「Jonathan」 But, as expected of a college professor. When you become an authority on ethnology, do you also develop such sharp insight？")
             (proc 0)
-            (text "「ガードナー」　嫌みは言わんでよろしい。もううんざりしとるよ。" 'br)
-            (text "　　　　　　　　毎日学生を相手にしておると鼻持ちならん者も相手に　　　　　　　　せん訳にはいかんのでな。")
+            (str "「Gardner」 You don't need to be sarcastic. I'm already sick of it." 'br)
+            (str "　　　　　　　　When you're dealing with students every day, you can't exactly avoid dealing with the ones who really get on your nerves, you know.")
             (proc 0)
             (nop@)
             (set-reg 114 #t)))))))
@@ -395,8 +351,8 @@
          60
          100
          (</>
-          (/ (text "　") (str " ") (text "玄関ホール") (str " ") (text "　"))
-          (/ (text "　　　食堂　　　"))))
+          (/ (text "　") (str " ") (str "Entrance hall") (str " ") (text "　"))
+          (/ (str "　　　Cafeteria　　　"))))
         (proc 17))))
   (proc 14)
   (if (</>
@@ -409,11 +365,11 @@
          (</>
           (/
            (proc 1)
-           (text "そう言えば、私はまだ宿帳に何も書き込んでいなかったな。" 'br)
-           (text "ハドスン夫人は何も言わなかったが忘れてしまっていたのかも。")
+           (str "Come to think of it, I haven't written anything in the guestbook yet." 'br)
+           (str "Mrs. Hudson didn't say anything, but maybe she just forgot.")
            (proc 0)
-           (text "夫人に余計な手間を取らせるのも酷と言うものだ。" 'br)
-           (text "行ってみるとするか。")
+           (str "It'd be too much to trouble her with extra work." 'br)
+           (str "Guess I'll go check it out.")
            (proc 0)
            (proc 3)
            (proc 6)
@@ -431,7 +387,7 @@
                 (/ (mes-jump "B:MES¥NA_04B.MES"))))))))
           (/
            (proc 1)
-           (text "私は手早く濡れた服を着替えると、暖かい食事の待つ食堂に向かった。")
+           (str "I quickly changed out of my wet clothes and headed to the dining room where a hot meal was waiting.")
            (proc 0)
            (proc 3)
            (proc 6)

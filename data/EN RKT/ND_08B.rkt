@@ -32,30 +32,29 @@
         (//
          (? (= 125 #t))
          (nop@)
-         (text "ギルマンハウスの店内には、人のいる気配はない。" 'br)
-         (text "コーデリアはまだ戻っていないらしい。")
+         (str "There's no sign of anyone inside Gilman House." 'br)
+         (str "Looks like Cordelia hasn't come back yet.")
          (proc 0)
-         (text
-          "教会で見た、弾けるような全裸を聴衆の前にさらしたコーデリアの姿を思い出すと、はたしてあのまま帰ってきてしまってよかったのだろうかと自責の念にかられないわけにはいかない。")
+         (str "When I remember the image of Cordelia at the Church, showing off her bursting naked body in front of the audience, I can't help but feel guilty, wondering if it was really okay to just leave like that.")
          (proc 0)
-         (text "しかし、信者で満たされた教会の中に入り込んで放心状態のコーデリアを救い出す事など、どう考えても不可能な事だ。")
+         (str "But saving the dazed Cordelia after she's wandered into a church packed with believers is, no matter how you look at it, just impossible.")
          (proc 0)
-         (text "ナイの言葉を信じるなら、当分の間彼女の身の安全は保障されている。素直にここで待っていた方が賢明かもしれない。")
+         (str "If I trust what Nai said, then her safety is guaranteed for the time being. Maybe it's smarter to just wait here.")
          (proc 0))
         (//
          (? (= 126 #t))
          (nop@)
-         (text "店の中にコーデリアの姿は見えない。" 'br)
-         (text "何処に行ってしまったのだろうか‥‥‥‥‥‥‥")
+         (str "Cordelia's nowhere to be seen in the shop." 'br)
+         (str "Where could she have gone........")
          (proc 0))
         (//
-         (text "ギルマンハウスの店内はがらんとして、人のいる気配はない。" 'br)
-         (text "まさか、昨晩と同じように、意識のないまま何処かに出かけてしまったのだろうか。")
+         (str "The inside of Gilman House is empty, with no sign of anyone around." 'br)
+         (str "No way, did I end up going out somewhere last night without even realizing it, just like before?")
          (proc 0)
-         (text "「ジョナサン」　コーデリア、いないのか？")
+         (str "「Jonathan」 Cordelia, are you not here？")
          (proc 0)
-         (text "やはり返事はない。" 'br)
-         (text "上階の部屋で休んでいるのだろうか。")
+         (str "Still no reply." 'br)
+         (str "Maybe they're resting in the room upstairs.")
          (proc 0))))
    (proc 3)
    (loop
@@ -69,25 +68,24 @@
             (//
              (? (= 125 #t))
              (nop@)
-             (text "このまま、こうしてじっと待つしかないのか‥‥‥‥‥‥‥" 'br)
-             (text "こうしている間にも、コーデリアがダゴンの信者達に何をされているか知れないと言うのに。")
+             (str "Do I really have no choice but to just stay still and wait like this...?" 'br)
+             (str "Even while we're doing this, we have no idea what those Dagon cultists might be doing to Cordelia.")
              (proc 0)
-             (text "あの悪夢のような儀式はいつまで続くのだろう。" 'br)
-             (text "今夜のうちに村から抜け出した方がいいと言うのに、明るくなってからでは村人の目を逃れるのが難しくなってしまう。")
+             (str "I wonder how long that nightmare of a ritual will keep going." 'br)
+             (str "Even though they say we should sneak out of the village tonight, if we wait until it gets light, it'll be way harder to avoid the villagers' eyes.")
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "照明の落ちた店内に主の姿はなく、誰も座っていないストゥールがもの悲しい雰囲気をさらに強調している。")
+                (str "The owner was nowhere to be seen in the dimly lit shop, and the empty Stool just made the lonely mood feel even heavier.")
                 (proc 0)
-                (text "店内が完全に冷え切っている事を考えると、今晩は誰も暖炉に火を入れていないようだ。")
+                (str "Considering the shop is completely cold inside, it looks like nobody lit the fireplace tonight.")
                 (proc 0)
-                (text
-                 "コーデリアは当然私が来る事を知っていたはずだ、だのにどうして部屋を凍えそうな温度のままにしておいたのだろう。"))
+                (str "Cordelia obviously should have known I was coming, so why did she leave the room at a temperature that felt like it was going to freeze me?"))
                (/
-                (text "まさか、私がトマスと娼館に入る姿を見て、愛想を尽かされたのか？" 'br)
-                (text "自分というものがありながら商売女と放蕩に耽る私に我慢がならなかったのだろうか。"))))
+                (str "No way, did you see me going into a brothel with Thomas and get totally fed up with me？" 'br)
+                (str "Maybe she just couldn't stand me, even though she had me, messing around with prostitutes and indulging in debauchery."))))
              (proc 0)))))
       (/ (nop@))
       (/ (nop@))
@@ -98,23 +96,22 @@
             (//
              (? (= 125 #t))
              (nop@)
-             (text "このまま、こうしてじっと待つしかないのか‥‥‥‥‥‥‥" 'br)
-             (text "こうしている間にも、コーデリアがダゴンの信者達に何をされているか知れないと言うのに。")
+             (str "Is all I can do just wait here like this, staying still......?" 'br)
+             (str "Even while we're doing this, who knows what those Dagon cultists might be doing to Cordelia.")
              (proc 0)
-             (text "あの悪夢のような儀式はいつまで続くのだろう。" 'br)
-             (text "今夜のうちに村から抜け出した方がいいと言うのに、明るくなってからでは村人の目を逃れるのが難しくなってしまう。")
+             (str "I wonder how long that nightmare of a ritual will keep going." 'br)
+             (str "Even though I said we should slip out of the village tonight, it’s going to be a lot harder to avoid the villagers’ eyes once it gets light.")
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "今晩は汚れたグラスのひとつさえ見あたらない。" 'br)
-                (text "カウンターの上には霜が降りたように埃が積もっている。")
+                (str "Tonight, I can't even find a single dirty Glass." 'br)
+                (str "Dust has piled up on the counter like frost.")
                 (proc 0)
-                (text "どちらかと言えば几帳面な方のコーデリアが、大切な店の中を汚れたままにしておく訳がない。"))
+                (str "If anything, there's no way Cordelia, who's a pretty neat freak, would leave her precious shop dirty."))
                (/
-                (text
-                 "どちらかと言えば几帳面な方のコーデリアがカウンターを汚れた状態にしておく訳がない、そんな暇もないほど急いで出かけたのだろうか。"))))
+                (str "どちらかと言えば几帳面な方のコーデリアがカウンターを汚れた状態にしておく訳がない、そんな暇もないほど急いで出かけたのだろうか。"))))
              (proc 0)))))
       (/ (nop@))
       (/ (nop@))
@@ -125,49 +122,47 @@
             (//
              (? (= 125 #t))
              (nop@)
-             (text "コーデリアはいつになったら戻ってくるんだ。" 'br)
-             (text "このままじっとしているのには我慢がならない。")
+             (str "When is Cordelia coming back, anyway?" 'br)
+             (str "I can't stand just sitting here like this.")
              (proc 0)
-             (text "暖炉の火が落ちた店内は寒く、立っているだけでも震えがくる。" 'br)
-             (text "二階のコーデリアの部屋で待った方がいいだろうか。")
+             (str "The inside of the shop, where the fire in the Fireplace had died down, was cold, and just standing there made me shiver." 'br)
+             (str "Should I wait in Cordelia's room on the second floor?")
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "どこにでもあるような安酒ばかりが並んでいる。" 'br)
-                (text "私やガードナーがオーダーした比較的高価なボトルは置いていない。")
+                (str "Only rows of cheap liquor that you can find anywhere are lined up." 'br)
+                (str "They don't have the relatively expensive bottles that I or Gardner ordered.")
                 (proc 0)
-                (text "滅多に注文がないために、普段は店の奥にしまってあるのだろう。" 'br)
-                (text "ここの村の住人達は手っ取り早く酔えるジンやラムなどがお好みのようだから、酔って割られでもしたら大損だ。"))
-               (/ (text "ジンやラムなどの安酒ばかりで、黙って飲んでしまいたくなるような類のボトルはない。"))))
+                (str "Because it's hardly ever ordered, it's probably usually kept in the back of the shop." 'br)
+                (str "The villagers here seem to prefer quick-drunk stuff like Gin or Rum, so if they get drunk and smash it, I'd be out big time."))
+               (/ (str "ジンやラムなどの安酒ばかりで、黙って飲んでしまいたくなるような類のボトルはない。"))))
              (proc 0)))))
       (/
        (if (</>
             (//
              (? (= 125 #t))
              (nop@)
-             (text "コーデリアはいつになったら戻ってくるんだ。" 'br)
-             (text "このままじっとしているのには我慢がならない。")
+             (str "When is Cordelia coming back?" 'br)
+             (str "I can't stand just staying still like this.")
              (proc 0)
-             (text "暖炉の火が落ちた店内は寒く、立っているだけでも震えがくる。" 'br)
-             (text "二階のコーデリアの部屋で待った方がいいだろうか。")
+             (str "The fireplace fire had gone out, making the inside of the shop so cold that just standing there made me shiver." 'br)
+             (str "二階のコーデリアの部屋で待った方がいいだろうか。")
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "店の奥はちょっとした料理ができる小さなキッチンになっている。" 'br)
-                (text "客の注文に応じて食事やつまみを作るのだろう。")
+                (str "The back of the shop is a small kitchen where you can whip up some simple dishes." 'br)
+                (str "They probably make meals and snacks based on the customers' orders.")
                 (proc 0)
-                (text
-                 "確か、二階には料理どころか熱いお茶を出すための設備さえなかった。コーデリアは自分の食事やお茶も、ここで用意するのだろう。")
+                (str "If I remember right, there wasn’t even equipment upstairs for making food, or even for serving hot tea. Cordelia probably prepares her own meals and tea here.")
                 (proc 0)
-                (text
-                 "あまり豊かな生活とは言えないが、彼女の数奇な生い立ちを考えれば、これでもいい方だと思わなければならないだろう。"))
+                (str "You couldn’t really call it a luxurious lifestyle, but considering her unusual background, I have to tell myself that this is actually as good as it gets for her."))
                (/
-                (text "カウンターの奥は小さなキッチンスペースになっているようだ。" 'br)
-                (text "壁にはほんのかすかだが、油の染みが残っている。"))))
+                (str "Behind the Counter, it looks like there’s a small kitchen space." 'br)
+                (str "There are faint, but definite, oil stains left on the wall."))))
              (proc 0)))))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -181,8 +176,8 @@
          60
          100
          (</>
-          (/ (text "　") (str " ") (text "二階に行く") (str " ") (text "　"))
-          (/ (text "　　外に出る　　"))))
+          (/ (text "　") (str " ") (str "Go upstairs") (str " ") (text "　"))
+          (/ (str "　　Go outside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

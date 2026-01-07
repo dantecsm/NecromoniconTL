@@ -32,19 +32,19 @@
          (? (= 560 #t))
          (nop@)
          (proc 1)
-         (text "「コーデリア」　ジョナサン、ここにはネクロノミコンはないんじゃな　　　　　　　　いかしら。")
+         (str "「Cordelia」 Jonathan, I don't think the Necronomicon is here.")
          (proc 0)
          (proc 3))
         (//
          (proc 1)
-         (text "あたりは天井まで届く巨大な書架にその大半を占領されている。" 'br)
-         (text "これほど小さな村に、こんなに巨大な書庫を満たすだけの歴史があるとは考え難い。")
+         (str "Most of the area is taken up by giant bookshelves that reach all the way to the ceiling." 'br)
+         (str "It's hard to believe that a village this small could have enough history to fill such an enormous library.")
          (proc 0)
-         (text "大半は大学に残っていた学術書や、どこかの蒐集家が寄贈した一般の書物なのだろう。")
+         (str "Most of them are probably academic books that were left at the university, or maybe general books donated by some collector.")
          (proc 0)
-         (text "「コーデリア」　この中から探すのね‥‥‥‥‥‥")
+         (str "「Cordelia」 So I have to look for it among these.......")
          (proc 0)
-         (text "「コーデリア」　気が遠くなりそうだわ。")
+         (str "「Cordelia」 I feel like I'm going to pass out.")
          (proc 0)
          (nop@)
          (set-reg 560 #t)
@@ -60,62 +60,57 @@
             (//
              (? (= 433 #t))
              (nop@)
-             (text "どうやらこの書架にはネクロノミコンはなさそうだ。")
+             (str "Looks like there’s no Necronomicon on this bookshelf.")
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text
-                 "整然と並んだ古い書物は、他の書架と比べると背表紙も同様の材質の物に統一されており、古び方にそれぞれの年代を感じさせる。")
+                (str "The old books lined up neatly have their spines made of the same material, unified unlike the other bookshelves, and the way they've aged gives off a sense of their respective eras.")
                 (proc 0)
-                (text
-                 "おそらく、この書架には村の公的な資料や記録が保存されているのではないだろうか。こんなに整然としているのはそのせいだろう。"))
+                (str "Maybe this bookshelf is where the village's official documents and records are kept. That's probably why it's so organized."))
                (/
-                (text "どの本もかなり古そうな物ばかりだ。" 'br)
-                (text "この中になら、ネクロノミコンが紛れ込んでいたとしても解らないかもしれない。"))))
+                (str "All of these books look pretty old." 'br)
+                (str "If it's in here, I might not even notice if the Necronomicon got mixed in."))))
              (proc 0)))))
       (/
        (if (</>
             (//
              (? (= 434 #t))
              (nop@)
-             (text "どうやらこの書架にはネクロノミコンはなさそうだ。")
+             (str "Looks like there's no Necronomicon on this bookshelf.")
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "きちんと整頓されているにもかかわらず、見た目には随分乱雑に本を詰めこんだような印象を受ける。")
+                (str "Even though it's all neatly organized, it still looks like the books were stuffed in pretty messily.")
                 (proc 0)
-                (text
-                 "年代や装幀もバラバラで、羊皮ばりで文字を箔押しした高価そうな本の隣に、古本屋でも顔をしかめるようなボロボロになった屑同然の書物が並んでいたりする。"))
+                (str "The years and bindings are all over the place-there are pricey-looking books bound in sheepskin with gold-stamped letters right next to tattered, worthless tomes so beat-up even a used bookstore would cringe at them."))
                (/
-                (text
-                 "年代も本の種類もばらばらで、どんな本が収まっているのか解らない。これならかなり変わった本がまぎれていても全く違和感がないだろう。")
+                (str "The ages and types of books are all over the place, so there's no way to tell what kind of books are in here. With this, even if some pretty weird books got mixed in, it wouldn't feel out of place at all.")
                 (proc 0)
-                (text "この中になら、ネクロノミコンが紛れ込んでいたとしても解らないかもしれない。"))))
+                (str "If it's in here, even if the Necronomicon is mixed in, it might go unnoticed."))))
              (proc 0)))))
       (/
        (if (</>
             (//
              (? (= 435 #t))
              (nop@)
-             (text "どうやらこの書架にはネクロノミコンはなさそうだ。")
+             (str "Looks like there’s no Necronomicon on this bookshelf.")
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "この書架は比較的新しい本ばかりを集めた物らしい。" 'br)
-                (text "ほとんど汚れたり古びたりしていないかわりに、昔の職人の手による、凝った手仕事の形跡が全く感じられない。")
+                (str "This bookshelf seems to be filled mostly with fairly new books." 'br)
+                (str "Instead of being dirty or old, you can’t feel any trace of intricate handiwork by old craftsmen at all.")
                 (proc 0)
-                (text
-                 "それにしても、この様子ではこの棚の本はほとんど誰の手にも取られた事がないらしい。村の住人達は読書家ではないらしいな。"))
+                (str "Still, from the looks of it, it doesn’t seem like anyone’s ever picked up any of these books on the shelf. Guess the villagers aren’t much for reading, huh?"))
                (/
-                (text "私が夢の中で見たネクロノミコンは、凝った装幀に手書きの絵まで描かれたかなり高価そうな物だった。")
+                (str "The Necronomicon I saw in my dream looked pretty expensive, with elaborate binding and even hand-drawn illustrations.")
                 (proc 0)
-                (text "この書架に並んでいるような新しくてどこにでもあるような類の本の中に混じっていれば一目で解るだろう。"))))
+                (str "If it were mixed in with these new, ordinary kinds of books lined up on this shelf, you'd spot it in an instant."))))
              (proc 0)))))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -129,10 +124,10 @@
          60
          100
          (</>
-          (/ (text "　　左の書架　　"))
-          (/ (text "　") (str " ") (text "中央の書架") (str " ") (text "　"))
-          (/ (text "　　右の書架　　"))
-          (/ (text "　　受け付け　　"))))
+          (/ (str "　　Left bookshelf　　"))
+          (/ (text "　") (str " ") (str "Center bookshelf") (str " ") (text "　"))
+          (/ (str "　　The　bookshelf　on　the　right　　"))
+          (/ (str "　　Reception　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

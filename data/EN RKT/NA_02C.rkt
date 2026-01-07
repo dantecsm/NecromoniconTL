@@ -30,21 +30,21 @@
         (//
          (? (= 53 #t) (= 518 #t))
          (nop@)
-         (text "食堂には人気がなく、閑散としている。" 'br)
-         (text "あたりには火の落ちた暖炉から細かい砂塵を含んだ風が入り込んでくるというのに、数時間前の料理のにおいが今もまだ漂っている。")
+         (str "The cafeteria is deserted and quiet." 'br)
+         (str "Even though wind carrying fine dust blows in from the fireplace where the fire has gone out, the smell of the food from a few hours ago still lingers.")
          (proc 0))
         (//
          (? (= 671 #f) (= 53 #t))
          (nop@)
-         (text "食堂にはすでに誰もいない。" 'br)
-         (text "朝食の後はすっかり片づけられているようだが、ハドスン夫人は私の分を残しておいてくれなかったのだろうか？")
+         (str "There's already no one left in the cafeteria." 'br)
+         (str "It looks like breakfast has been completely cleared away, but did Mrs. Hudson not leave any for me？")
          (proc 0)
-         (text "もっとも、私の朝食があったとしてもそれと食べている時間はない。" 'br)
-         (text "あまりこだわっていると女々しいと思われはしないだろうか？")
+         (str "Even if I did have breakfast, I wouldn't have time to eat it anyway." 'br)
+         (str "If I care too much about it, won't people think I'm kind of wimpy？")
          (proc 0))
         (//
-         (text "食堂には人気がなく、閑散としている。" 'br)
-         (text "あたりには火の落ちた暖炉から細かい砂塵を含んだ風が入り込んでくるというのに、数時間前の料理のにおいが今もまだ漂っている。")
+         (str "The cafeteria is deserted and quiet." 'br)
+         (str "Even though a wind mixed with fine dust is blowing in from the Fireplace where the fire's gone out, the smell of food from a few hours ago is still hanging in the air.")
          (proc 0))))
    (proc 3)
    (loop
@@ -58,13 +58,11 @@
             (//
              (? (= 154 #t))
              (nop@)
-             (text "ここにいてもあまり楽しい事は起こりそうにない。")
+             (str "It doesn't seem like anything fun is going to happen if I stay here.")
              (proc 0))
             (//
-             (text
-              "部屋の中には私の他に誰もいない。木の床を踏む私の足音と床の軋む音が不吉とも思えるほど重々しい調子で室内に反響する。"
-              'br)
-             (text "私は一体何をしているのだろう。これではまるで、夕食の残りにありつこうと忍び込んだ使用人みたいじゃないか。")
+             (str "There's no one else in the room but me. My footsteps on the wooden floor and the creaking sounds echo through the room in such a heavy, ominous way that it almost feels foreboding." 'br)
+             (str "What the hell am I even doing? At this rate, I'm basically sneaking around like a servant trying to snag some leftover dinner.")
              (proc 0)
              (nop@)
              (set-reg 154 #t)))))
@@ -76,25 +74,24 @@
       (/ (nop@))
       (/
        (if (</>
-            (// (? (= 157 #t)) (nop@) (text "特に興味をひくような物はなさそうだが‥‥‥‥") (proc 0))
+            (// (? (= 157 #t)) (nop@) (str "Doesn't seem like there's anything particularly interesting here......") (proc 0))
             (//
              (? (= 156 #t))
              (nop@)
-             (text "長い間使い込まれてきた証のように、あちこちに傷が残っている。" 'br)
-             (text "どうやらこの食堂を使った人間の中には、良識的とは言えない者もいたようだ。")
+             (str "There are scratches left here and there, like proof that it's been used for a long time." 'br)
+             (str "Apparently, among the people who used this dining room, there were some who can't exactly be called sensible.")
              (proc 0)
              (nop@)
              (set-reg 157 #t))
             (//
              (? (= 155 #t))
              (nop@)
-             (text "私の興味をひくような物は何もない。")
+             (str "There's nothing here that grabs my interest.")
              (proc 0)
              (nop@)
              (set-reg 156 #t))
             (//
-             (text
-              "ハドスン夫人の手によってパン屑やソースの染みがきれいに片づけられている。几帳面な夫人は毎回クロスを取り替えているのだろうか。")
+             (str "Thanks to Mrs. Hudson, the bread crumbs and sauce stains have all been neatly cleaned up. I wonder if that meticulous lady changes the cloth every single time.")
              (proc 0)
              (nop@)
              (set-reg 155 #t)))))))
@@ -110,14 +107,14 @@
          60
          100
          (</>
-          (/ (text "　") (str " ") (text "玄関ホール") (str " ") (text "　"))
+          (/ (text "　") (str " ") (str "Entrance hall") (str " ") (text "　"))
           (/
            (set-reg 50 #t)
            (set-reg 51 #f)
            (nop@)
            (text "　")
            (str " ")
-           (text "夫人の部屋")
+           (str "Mrs. Hudson's room")
            (str " ")
            (text "　"))
           (/
@@ -127,10 +124,10 @@
            (nop@)
            (text "　")
            (str " ")
-           (text "夫人の部屋")
+           (str "Mrs. Hudson's room")
            (str " ")
            (text "　"))
-          (/ (text "　") (str " ") (text "自分の部屋") (str " ") (text "　"))))
+          (/ (text "　") (str " ") (str "My room") (str " ") (text "　"))))
         (proc 17))))
   (proc 14)
   (if (</>
@@ -157,7 +154,7 @@
              (/ (mes-jump "B:MES¥NA_02D.MES")))))
           (/
            (proc 1)
-           (text "私は食堂をあとにして自分の部屋に戻ることにした。")
+           (str "I left the dining room and decided to head back to my own room.")
            (proc 0)
            (proc 3)
            (proc 6)

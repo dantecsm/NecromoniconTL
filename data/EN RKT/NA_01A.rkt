@@ -30,28 +30,26 @@
         (//
          (? (= 56 #t) (= 57 #t))
          (nop@)
-         (text "「トマス」　俺ぁなんだか疲れちまったぜ。はやいとこめしを食って寝　　　　　　ちまいたいよ。")
+         (str "「Thomas」 Man, I'm just beat. I just wanna grab some food and hit the sack already.")
          (proc 0)
-         (text "「ガードナー」　若いもんが何を言っておるか、だらしのない。" 'br)
-         (text
-          "　　　　　　　　やっぱりお前さんと一緒に出かけるんじゃなかった。　　　　　　　　寒いだ疲れただと愚痴ばかりこぼしおって‥‥‥")
+         (str "「Gardner」 What are you whining about, you're young. Don't be so pathetic." 'br)
+         (str "　　　　　　　　Shouldn't have gone out with you after all. All you do is bitch about being cold and tired...")
          (proc 0))
         (//
          (? (= 56 #t))
          (nop@)
-         (text "我々は魚鱗亭の前まで戻ってきた。" 'br)
-         (text
-          "あの老人の言ったことはいつまでも私の頭の中で渦を巻いて、私がこのアーカムにやってきた事が単なる偶然でない宿命的な事なのではないかという想像をかき消す事が出来ない。")
+         (str "We made our way back to the front of the Fish Scale Inn." 'br)
+         (str "What that old man said kept swirling in my head, and I just couldn't shake the feeling that me coming to Arkham wasn't just some coincidence, but something fated.")
          (proc 0))
         (//
          (? (= 54 #t))
          (nop@)
-         (text "こんなとろこをうろうろしていていいのだろうか。" 'br)
-         (text "早く遺跡にたどり着かないとガードナー達の逆鱗に触れる事になる。")
+         (str "Is it really okay for me to be wandering around some place like this?" 'br)
+         (str "If I don't get to the ruins soon, I'm gonna piss Gardner and the others off.")
          (proc 0))
         (//
-         (text "ガードナー達はもう随分先を行ってしまったのだろうか。このあたりにはいないようだが‥‥‥‥‥" 'br)
-         (text "ハドスン夫人に言われた雑貨店に行ってみた方がいいだろうか？")
+         (str "Maybe Gardner and the others have already gone way ahead. Looks like they're not around here..." 'br)
+         (str "Should I go check out that general store Mrs. Hudson mentioned？")
          (proc 0))))
    (proc 3)
    (loop
@@ -65,26 +63,23 @@
             (//
              (? (= 57 #t))
              (nop@)
-             (text "「ガードナー」　何をしておるんだ？" 'br)
-             (text "　　　　　　　　この建物が君の好奇心を満たしうる対象となるような　　　　　　　　優れた建築物とも思えんが。")
+             (str "「Gardner」 What're you doing？" 'br)
+             (str "　　　　　　　　Doesn't　really　seem　like　this　building　would　satisfy　your　curiosity　or　anything,　doesn't　look　like　anything　special.")
              (proc 0))
             (//
              (? (= 167 #t))
              (nop@)
-             (text
-              "こんな所で建物に見入っていてもあまり意味がない。そもそも魚鱗亭自体、私の興味をひくような優れた建築物とは言えないのだから。")
+             (str "There's not much point in staring at the building here. Fish Scale Inn isn't exactly an impressive piece of architecture that would catch my interest anyway.")
              (proc 0))
             (//
              (? (= 166 #t))
              (nop@)
-             (text
-              "魚鱗亭は、あまり木材の豊富でないこのあたりには珍しい、木骨構造の建物だ。壁はオークの下見板でおおわれている。木材は長い間塩気を含んだ風にさらされて黒く変色してしまっている。")
+             (str "Fish Scale Inn is a rarity around here, where wood isn't abundant-it's a timber-framed building. The walls are covered with oak clapboards. The wood's turned black from being exposed to salty winds for so long.")
              (proc 0)
              (nop@)
              (set-reg 167 #t))
             (//
-             (text
-              "初めてこの宿にやってきたのは降りしきる雨の中だった。何故だかもう随分前の事のように感じる。別に住み心地が良いという訳でも、格別な思い入れがあるという訳でもないのに‥‥‥‥")
+             (str "The first time I came to this inn, it was pouring rain. For some reason, it feels like ages ago now. It's not like it's especially comfortable to live in, or that I have any strong attachment to it...")
              (proc 0)
              (nop@)
              (set-reg 166 #t)))))
@@ -93,22 +88,20 @@
             (//
              (? (= 57 #t))
              (nop@)
-             (text "「トマス」　おい、何をじっと見てやがる？" 'br)
-             (text "　　　　　　女房に締め出しを食らった亭主じゃあるまいし、このドア　　　　　　はいつだって開いてるじゃないか。")
+             (str "「Thomas」 Hey, what are you staring at so hard？" 'br)
+             (str "　　　　　　It's not like you're some guy locked out by his wife-this door's always open, you know.")
              (proc 0))
             (//
              (? (= 168 #t))
              (nop@)
-             (text
-              "こうしてじっと眺めていると、これからどこかに出かけようなどという酔狂なまねをする気力が次第に衰えていくようだ。"
-              'br)
-             (text "このまま部屋に帰ってしまおうか‥‥‥‥")
+             (str "When I stand here spacing out like this, I start to lose the motivation to do something crazy like go out somewhere." 'br)
+             (str "Maybe I should just head back to my room like this...")
              (proc 0))
             (//
-             (text "魚鱗亭は何者の侵入をも拒むように、固く入り口を閉ざしている。" 'br)
-             (text "しかし、ハドスン夫人が私を閉め出そうとする訳もない。")
+             (str "Fish Scale Inn keeps its entrance tightly closed, as if to block out any intruders." 'br)
+             (str "But it's not like Mrs. Hudson has any reason to shut me out.")
              (proc 0)
-             (text "あの中には、少なくともこんな吹きさらしよりははるかに快適なベッドと食事が用意されているはずだ。")
+             (str "In there, at the very least, there’s gotta be a way more comfortable bed and a meal waiting, compared to freezing out here.")
              (proc 0)
              (nop@)
              (set-reg 168 #t)))))))
@@ -124,11 +117,11 @@
          60
          100
          (</>
-          (/ (text "　　") (str " ") (text "雑貨店") (str " ") (text "　　"))
-          (/ (text "　　　広場　　　"))
-          (/ (set-reg 54 #t) (nop@) (text "　　　遺跡　　　"))
-          (/ (set-reg 56 #t) (nop@) (str " ") (text "ギルマンハウス") (str " "))
-          (/ (text "　　中に入る　　"))))
+          (/ (text "　　") (str " ") (str "General store") (str " ") (text "　　"))
+          (/ (str "　　　Square　　　"))
+          (/ (set-reg 54 #t) (nop@) (str "　　　Ruins　　　"))
+          (/ (set-reg 56 #t) (nop@) (str " ") (str "Gilman House") (str " "))
+          (/ (str "　　Go inside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

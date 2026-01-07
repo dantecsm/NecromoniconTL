@@ -116,7 +116,7 @@
   ((cmd 209) 1 2)
   (exec-mem 13536 103)
   (proc 1)
-  (text "音源の種類を選択してください。")
+  (str "Please select the type of sound source.")
   (exec-mem 256 "G 2 56 48 18 128")
   ((cmd 196) 0 8)
   ((cmd 196) 0 9)
@@ -133,8 +133,8 @@
    58
    104
    (</>
-    (/ (text "　　") (str " ") (text "内蔵") (str " ") (text "　　"))
-    (/ (text "　　") (str " ") (text "外付") (str " ") (text "　　"))))
+    (/ (text "　　") (str " ") (str "Built-in") (str " ") (text "　　"))
+    (/ (text "　　") (str " ") (str "External") (str " ") (text "　　"))))
   ((cmd 203) 5 16)
   (exec-mem 256 "P 2 56 48,F 2")
   (exec-mem 13536 101 96 16 543 287)
@@ -143,7 +143,7 @@
   (proc 3)
   (branch-var S (</> (/ (set-reg 994 #f)) (/ (set-reg 994 #t))))
   (proc 1)
-  (text "選択してください。")
+  (str "Please select.")
   (exec-mem 256 "G 2 56 48 18 128")
   ((cmd 196) 0 8)
   ((cmd 196) 0 9)
@@ -166,15 +166,15 @@
     58
     136
     (</>
-     (/ (text "　") (str " ") (text "スタート") (str " ") (text "　"))
-     (/ (set-reg 1008 #t) (nop@) (text "　　ロード　　"))
-     (/ (set-reg 1007 #t) (nop@) (text "　　音楽館　　"))
+     (/ (text "　") (str " ") (str "Start") (str " ") (text "　"))
+     (/ (set-reg 1008 #t) (nop@) (str "　　Load　　"))
+     (/ (set-reg 1007 #t) (nop@) (str "　　Music Hall　　"))
      (/
       (set-reg 996 #t)
       (nop@)
       (text "　")
       (str " ")
-      (text "デバッグ")
+      (str "Debug")
       (str " ")
       (text "　"))))
    ((cmd 203) 5 16)
@@ -230,7 +230,7 @@
             (nop@)
             (text "　")
             (str " ")
-            (text "ファイル０")
+            (str "File 0")
             (str " ")
             (text "　"))
            (/
@@ -238,7 +238,7 @@
             (nop@)
             (text "　")
             (str " ")
-            (text "ファイル１")
+            (str "File 1")
             (str " ")
             (text "　"))
            (/
@@ -246,7 +246,7 @@
             (nop@)
             (text "　")
             (str " ")
-            (text "ファイル２")
+            (str "File 2")
             (str " ")
             (text "　"))
            (/
@@ -254,7 +254,7 @@
             (nop@)
             (text "　")
             (str " ")
-            (text "ファイル３")
+            (str "File 3")
             (str " ")
             (text "　"))
            (/
@@ -262,7 +262,7 @@
             (nop@)
             (text "　")
             (str " ")
-            (text "ファイル４")
+            (str "File 4")
             (str " ")
             (text "　"))
            (/
@@ -270,7 +270,7 @@
             (nop@)
             (text "　")
             (str " ")
-            (text "ファイル５")
+            (str "File 5")
             (str " ")
             (text "　"))
            (/
@@ -278,10 +278,10 @@
             (nop@)
             (text "　")
             (str " ")
-            (text "ファイル６")
+            (str "File 6")
             (str " ")
             (text "　"))
-           (/ (text "　") (str " ") (text "キャンセル") (str " ") (text "　"))))
+           (/ (text "　") (str " ") (str "Cancel") (str " ") (text "　"))))
          (exec-mem 256 "P 3 58 80,F 3")
          (exec-mem 13536 101 96 16 543 287)
          (if (</>
@@ -527,14 +527,14 @@
               60
               268
               (</>
-               (/ (str " ") (text "ネクロノミコン") (str " "))
-               (/ (text "　ダゴンの調べ　"))
-               (/ (text "　　") (str " ") (text "黒い影") (str " ") (text "　　"))
-               (/ (text "　　戯れる指　　"))
-               (/ (str " ") (text "ダニッジの呪い") (str " "))
-               (/ (text "　　蠢く怨念　　"))
-               (/ (text "　　　出発　　　"))
-               (/ (text "　　次ページ　　"))))
+               (/ (str " ") (str "Necronomicon") (str " "))
+               (/ (str "　Investigation　of　Dagon　"))
+               (/ (text "　　") (str " ") (str "Black shadow") (str " ") (text "　　"))
+               (/ (str "　　Playful fingers　　"))
+               (/ (str " ") (str "Curse of Dunwich") (str " "))
+               (/ (str "　　Writhing grudge　　"))
+               (/ (str "　　　Departure　　　"))
+               (/ (str "　　Next page　　"))))
              (if (</>
                   (// (? (= S 255)) (nop@) (set-var Z 0))
                   (//
@@ -619,14 +619,14 @@
               60
               268
               (</>
-               (/ (text "　　深きもの　　"))
-               (/ (text "　") (str " ") (text "コ−デリア") (str " ") (text "　"))
-               (/ (text "　　焦燥の時　　"))
-               (/ (text "　　") (str " ") (text "雪化粧") (str " ") (text "　　"))
-               (/ (text "　　マ−シュ　　"))
-               (/ (text "　") (str " ") (text "破滅への道") (str " ") (text "　"))
-               (/ (text "　悪魔の交わり　"))
-               (/ (text "　　次ページ　　"))))
+               (/ (str "　　Deep One　　"))
+               (/ (text "　") (str " ") (str "Cordelia") (str " ") (text "　"))
+               (/ (str "　　Time of anxiety　　"))
+               (/ (text "　　") (str " ") (str "Snowy makeup") (str " ") (text "　　"))
+               (/ (str "　　Marsh　　"))
+               (/ (text "　") (str " ") (str "Road to ruin") (str " ") (text "　"))
+               (/ (str "　Devil's intercourse　"))
+               (/ (str "　　Next page　　"))))
              (if (</>
                   (// (? (= S 255)) (nop@) (set-var Z 0))
                   (//
@@ -701,10 +701,10 @@
               60
               148
               (</>
-               (/ (text "　") (str " ") (text "寂れた漁村") (str " ") (text "　"))
-               (/ (text "　　　炎上　　　"))
-               (/ (text "　") (str " ") (text "出生の秘密") (str " ") (text "　"))
-               (/ (text "　　次ページ　　"))))
+               (/ (text "　") (str " ") (str "Deserted fishing village") (str " ") (text "　"))
+               (/ (str "　　　On fire　　　"))
+               (/ (text "　") (str " ") (str "Secret of birth") (str " ") (text "　"))
+               (/ (str "　　Next page　　"))))
              (if (</>
                   (// (? (= S 255)) (nop@) (set-var Z 0))
                   (//

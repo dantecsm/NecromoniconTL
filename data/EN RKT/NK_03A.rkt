@@ -40,29 +40,23 @@
               (//
                (? (= 125 #t))
                (nop@)
-               (text
-                "ダゴンの教会でコーデリアが甘受していた忌まわしい儀式の事を考えると、一刻も早くギルマンハウスで彼女の帰りを待っているべきではないだろうか。")
+               (str "ダゴンの教会でコーデリアが甘受していた忌まわしい儀式の事を考えると、一刻も早くギルマンハウスで彼女の帰りを待っているべきではないだろうか。")
                (proc 0)
-               (text "ナイはコーデリアの事を『主に捧げる大切な』女だと言っていた。" 'br)
-               (text
-                "彼らがどんな教義を持ち、何を目的にダゴンの信者となったのか私が知る訳もないが、何れ黒魔術的な邪教崇拝の徒であるに違いない。")
+               (str "Nai said that Cordelia is an 'important woman to offer to the lord.'" 'br)
+               (str "彼らがどんな教義を持ち、何を目的にダゴンの信者となったのか私が知る訳もないが、何れ黒魔術的な邪教崇拝の徒であるに違いない。")
                (proc 0)
-               (text
-                "信者達に『この女に手を出してはならぬ』と命じていたナイの言葉を信ずるならば、コーデリアが今すぐ殺されるような事はないだろう。この猶予期間を使って、出来るだけ早く村から脱出しなければ。"))
+               (str "If I believe Nai's words telling the believers 'Do not lay a hand on this woman,' then Cordelia probably won't be killed right away. I have to use this window of time to escape from the village as soon as possible."))
               (//
                (? (= 126 #t))
                (nop@)
-               (text "ここにはコーデリアの姿はない。" 'br)
-               (text
-                "昼でも彼女がひとりで屋敷にやってくるとは思えないが、昨晩の夢遊病者めいた行動を思うと、屋敷の中にいる可能性も全くない訳ではない。")
+               (str "ここにはコーデリアの姿はない。" 'br)
+               (str "Even though I can't imagine she'd come to the mansion alone even during the day, when I think about her sleepwalking-like behavior last night, there's still a chance she could be inside the mansion.")
                (proc 0)
-               (text
-                "むしろダニッジ邸の与える強い印象が、意識を失ってからも記憶の中に残り、無意識のうちに屋敷にやってくるかもしれない。"))
+               (str "Rather, the strong impression left by the Dunwich Mansion might remain in my memory even after I lose consciousness, and I might end up coming to the mansion unconsciously."))
               (//
-               (text
-                "昼間でも積極的に足を踏み入れたいとは思わなかった屋敷は、夜になるとさらに幽霊屋敷そのものといった不気味なまでの雰囲気をかもしだしている。")
+               (str "The mansion, which I didn't even want to go into during the day, gives off an even creepier, outright haunted house vibe at night.")
                (proc 0)
-               (text "廃屋とはどこも同じようなものだろうが、人の住まなくなった家というのは妙な悲哀を感じさせるものだ。"))))
+               (str "Abandoned houses are probably all pretty much the same, but a house where no one lives anymore just gives off a weird kind of sadness."))))
          (proc 0))
         (//
          (? (= 606 #t))
@@ -87,10 +81,10 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "６０年前に惨殺事件が起こったダニッジ邸だ。" 'br)
-         (text "当然の事だが、誰もこの屋敷に近寄ろうとはしないのだろう、廃屋同然に荒れ果てている。")
+         (str "This is the Dunwitch Mansion, where a brutal murder happened 60 years ago." 'br)
+         (str "Of course, nobody wants to go anywhere near this mansion, so it's in total ruins, pretty much abandoned.")
          (proc 0)
-         (text "忌まわしい事件のあらましを知っていればなおのこと、屋敷には人知の及ばぬ何かが起こりそうな予感を覚えさせる。")
+         (str "Knowing the outline of that accursed incident just makes it feel all the more like something beyond human understanding is about to happen in the Mansion.")
          (proc 0))
         (//
          (if (</>
@@ -113,14 +107,12 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "ダニッジ邸の前だ。" 'br)
-         (text "今から６０年ほど前に死んだドルリイの、さらに数代前の当主が建てたものだけあって、屋敷はかなり古びた様子だ。")
+         (str "ダニッジ邸の前だ。" 'br)
+         (str "Since it was built by the head of the family several generations before Dollie, who died about 60 years ago, the mansion looks pretty old.")
          (proc 0)
-         (text
-          "ピカレスク小説の舞台となる悪漢達が隠れ家にしそうなと言うと過言に過ぎるかもしれないが、一般的な金持ちの邸宅に見られる広大な庭の奥に隠れるように建つ館とはあまりにもかけ離れている。")
+         (str "It might be an exaggeration to say it’s the kind of hideout villains in a picaresque novel would use, but it’s nothing like those mansions hidden away at the back of sprawling gardens you see in ordinary wealthy homes.")
          (proc 0)
-         (text
-          "家の立て込んだ街の中ならば話は別だが、隣家と徒歩で数十分もかかるようなアーカムでは、庭を持つ事はそれほど贅沢ではないだろう。")
+         (str "It'd be a different story in a packed city, but in Arkham, where it takes dozens of minutes just to walk to the next house, having a yard probably isn't that much of a luxury.")
          (proc 0)
          (nop@)
          (set-reg 606 #t))))
@@ -139,91 +131,87 @@
              (branch-index
               (</>
                (/
-                (text "驚いた事に、古いガス灯は今でも立派に機能している。" 'br)
-                (text
-                 "あまりの事故の多さに、ロンドンではすっかり姿を消してしまったが、アーカムではまだ一般的につかわれているようだ。")
+                (str "Surprisingly, the old Gas lamp is still working just fine." 'br)
+                (str "There have been so many accidents that they've completely disappeared from London, but it looks like they're still commonly used in Arkham.")
                 (proc 0)
-                (text "久しく手入れをされた様子はなく、ガラスが煤で汚れている。" 'br)
-                (text "そのために十分な明かりを放つ事ができないようで、ダニッジ邸の周囲はかなり暗い。"))
+                (str "It doesn't look like it's been maintained in a long time, and the glass is dirty with soot." 'br)
+                (str "It looks like it can't emit enough light for that, so it's pretty dark around the Dunwich Mansion."))
                (/
-                (text "古いガス灯だ。" 'br)
-                (text
-                 "重大な事故が発生する確率が非常に高い為に、ロンドン市内からは姿を消してしまったが、アーカムではまだ現役らしい。"))))
+                (str "It's an old gas lamp." 'br)
+                (str "Because the chance of a serious accident happening is really high, they've disappeared from within London city, but it looks like they're still active in Arkham."))))
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "古いガス灯のようだ。" 'br)
-                (text "未だ機能するのかは疑問だが、事件のあったダニッジ邸の周辺には滅多に人がやって来る事はない。")
+                (str "古いガス灯のようだ。" 'br)
+                (str "I doubt if it still works, but hardly anyone ever comes around the Dunwitch Mansion since the incident.")
                 (proc 0)
-                (text "明かりがなくても誰も文句は言わないはずだ。" 'br)
-                (text "それより問題なのは、重大な事故がおきる可能性があるという事だ。")
+                (str "No one should complain even if there's no light." 'br)
+                (str "More importantly, the problem is that there's a possibility a serious accident could happen.")
                 (proc 0)
-                (text "しばらく手入れされた様子はないようだし、ガスもれが起こっていても誰も気づかないのではないだろうか。"))
+                (str "It doesn't look like it's been maintained for a while, and I bet nobody would notice even if there was a gas leak."))
                (/
-                (text "古いガス灯が立っている。" 'br)
-                (text
-                 "忌まわしい事件が起こったダニッジ家には誰も寄りつこうとしないはずだから、たとえ明かりがついたとしても何の役にも立たないだろう。"))))
+                (str "An old Gas lamp is standing." 'br)
+                (str "忌まわしい事件が起こったダニッジ家には誰も寄りつこうとしないはずだから、たとえ明かりがついたとしても何の役にも立たないだろう。"))))
              (proc 0)))))
       (/
        (branch-index
         (</>
          (/
-          (text "村でもっとも裕福な家という割には、それほど豪華なものではない。" 'br)
-          (text "しごく平凡な扉はすっかり光沢を失って、端の方から腐りはじめているようだ。")
+          (str "村でもっとも裕福な家という割には、それほど豪華なものではない。" 'br)
+          (str "The utterly ordinary door had completely lost its shine, and it looked like it was starting to rot from the edges.")
           (proc 0)
-          (text "誰も邸に入り込む心配はないとたかをくくっているのか、玄関には鍵がかかっていない。")
+          (str "Maybe they just assume nobody would sneak into the mansion, because the front door isn't even locked.")
           (proc 0)
-          (text "盗むほどの価値がある物はとっくの昔に消失してしまったと言う事なのだろうか。"))
-         (/ (text "よほど雑な管理をしているようで、邸の鍵は開いたままになっている。いつでも自由に入り込む事が可能だ。"))))
+          (str "I guess it means that anything worth stealing disappeared a long time ago."))
+         (/ (str "よほど雑な管理をしているようで、邸の鍵は開いたままになっている。いつでも自由に入り込む事が可能だ。"))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "ダニッジ邸の居間の窓だ。" 'br)
-          (text "あの部屋にはドルリイの父、フィリップ・ダニッジのものと思われる肖像画や、家族の写真が置いてあったはずだ。")
+          (str "It's a window in the Dunwitch Mansion's living room." 'br)
+          (str "That room should have had portraits, probably of Dollie's father, Philip Dunwich, and family photos placed there.")
           (proc 0)
-          (text "奥に続く部屋の扉は、マーシュからもらった鍵では開かなかった。" 'br)
-          (text "おそらく、扉の向こうはドルリイが自ら命を絶った書斎に違いない。")
+          (str "The door to the room further inside wouldn't open with the key I got from Marsh." 'br)
+          (str "Most likely, beyond the door is the study where Dollie took their own life.")
           (proc 0)
-          (text "部屋の中に入れば、ドルリイがどうして家族を殺さねばならなかったかが解るかもしれない。"))
+          (str "If I go into the room, I might find out why Dollie had to kill their family."))
          (/
-          (text "ダニッジ家の居間の窓だ。" 'br)
-          (text "あの部屋にはドルリイの父、フィリップ・ダニッジのものと思われる肖像画や、家族の写真が置いてあったはずだ。"))))
+          (str "It's the window of the Dunwich family's living room." 'br)
+          (str "あの部屋にはドルリイの父、フィリップ・ダニッジのものと思われる肖像画や、家族の写真が置いてあったはずだ。"))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "鎧戸は開いたままになっているが、屋敷の中が暗いせいで、室内の様子を知る事は出来ない。")
+          (str "The shutters are left open, but since it's dark inside the mansion, I can't see what's going on in the room.")
           (proc 0)
-          (text "廃屋のような邸にぽっかりと穴の空いた眼底のように見えてしまうのはこの屋敷が持つ過去のせいだろうか。"))
+          (str "The reason this place looks like the bottom of an eye with a hole gaping open in a run-down house must be because of the past the Mansion holds."))
          (/
-          (text "うっかり目を離すと、誰かがこちらを覗いているように思える。" 'br)
-          (text "恐怖感のせいで、かえって目を離す事ができない。"))))
+          (str "If I carelessly look away, it feels like someone might be peeking at me from over there." 'br)
+          (str "Because of how scared I am, I actually can't look away."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "屋根裏部屋だろうか、凝った造りではあるが、住み心地はあまり良さそうではない。")
+          (str "Maybe it's the attic? It's got an elaborate design, but it doesn't really look like a comfortable place to live.")
           (proc 0)
-          (text
-           "ホテルなどにはよくありがちだが、一般家屋にはあまり向いているとは言えない。物置かゲストルームにでも使われていたのだろうか？"))
-         (/ (text "あまり住み心地が良さそうではない屋根裏部屋だ。" 'br) (text "物置にでも使われていたのだろう。"))))
+          (str "It's pretty common in hotels and such, but you can't really say it fits a regular house. Maybe it was used as a storage room or a guest room or something？"))
+         (/ (str "It doesn’t look like a very comfortable attic room." 'br) (str "It was probably used as a storage room or something."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "屋敷の前庭に植えられていた潅木が、いつの間にか成長してしまった物らしい。今では屋敷の半分ほどを覆い隠すまでになっている。")
+          (str "The shrubs that had been planted in the front yard of the mansion must have grown before anyone noticed. Now they've gotten big enough to cover almost half of the mansion.")
           (proc 0)
-          (text "奇妙にねじくれた枝が、ダニッジ邸の妖しい雰囲気をさらに増長させているようだ。")
+          (str "The bizarrely twisted branches seem to add even more to the eerie atmosphere surrounding Dunwitch Mansion.")
           (proc 0)
-          (text "これではもし邸に用がある人間がいたとしても、外観を見ただけで怖じ気づいてしまうのではないだろうか。"))
-         (/ (text "鬱蒼と生い茂った木立は、ダニッジ邸への外部の人間の進入をかたくなに拒んでいるように思える。"))))
+          (str "If anyone ever needed to visit the mansion, wouldn't they get scared off just by looking at the place?"))
+         (/ (str "The thick, overgrown woods look like they're stubbornly turning away any outsiders from entering Dunwitch Mansion."))))
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -233,7 +221,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　　地図　　　")) (/ (text "　　中に入る　　"))))
+        (menu1 60 100 (</> (/ (str "　　　Map　　　")) (/ (str "　　Go inside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

@@ -16,9 +16,10 @@ interface Message {
  * If it has a name, returns "「name」　message"
  * Otherwise, returns just the message
  */
-function reconstructText(messageObj: Message): string {
+function reconstructText(messageObj: Message, isEn: boolean = false): string {
+    const space = isEn ? " " : "　";
     if (messageObj.name) {
-        return `「${messageObj.name}」　${messageObj.message}`;
+        return `「${messageObj.name}」${space}${messageObj.message}`;
     }
     return messageObj.message;
 }
@@ -36,28 +37,6 @@ function readJsonFile(jsonPath: string): Message[] {
 }
 
 /**
- * Create a mapping from original Japanese text to English translation
- */
-function createTranslationMap(
-    jpMessages: Message[],
-    enMessages: Message[]
-): Map<string, string> {
-    const map = new Map<string, string>();
-
-    // Reconstruct Japanese texts and English texts
-    const jpTexts = jpMessages.map(reconstructText);
-    const enTexts = enMessages.map(reconstructText);
-
-    // Create mapping (should be 1-to-1 in order)
-    const minLength = Math.min(jpTexts.length, enTexts.length);
-    for (let i = 0; i < minLength; i++) {
-        map.set(jpTexts[i], enTexts[i]);
-    }
-
-    return map;
-}
-
-/**
  * Escape special characters in RKT string literals
  * Handles double quotes and backslashes
  */
@@ -72,28 +51,37 @@ function escapeRktString(text: string): string {
  */
 function replaceTextInRkt(
     rktContent: string,
-    translationMap: Map<string, string>
-): string {
-    // Replace all (text "japanese") patterns with (str "english")
-    // This regex handles both single-line and multi-line text functions
-    return rktContent.replace(
-        /\(text\s+"([^"]*)"(?:\s+'br)?\)/g,
-        (match, japaneseText) => {
-            const englishText = translationMap.get(japaneseText);
-            if (englishText !== undefined) {
-                // Escape special characters in the English text
-                const escapedText = escapeRktString(englishText);
-                // Preserve the 'br if it was in the original
-                // Change function name from 'text' to 'str'
-                if (match.includes("'br")) {
-                    return `(str "${escapedText}" 'br)`;
-                }
-                return `(str "${escapedText}")`;
-            }
-            // No translation found, keep original
-            return match;
-        }
+    jpMessages: Message[],
+    enMessages: Message[]
+): { newContent: string, replacedCount: number } {
+    const normalizedContent = rktContent.replace(
+        /\(text\s+[\s\S]*?\)/g,
+        (match) => match.replace(/\s*\n\s*/g, ' ')
     );
+    let newContent = normalizedContent;
+    const textPattern = /\(text\s+"([^"]*)"(?:\s+'br)?\)/g;
+
+    let match;
+    let idx = 0;
+    let replacedCount = 0;
+    while ((match = textPattern.exec(normalizedContent)) !== null) {
+        const extractedText = match[1];
+        if (extractedText && extractedText.trim().length > 0) {
+            const jpText = reconstructText(jpMessages[idx] as Message);
+            const enText = reconstructText(enMessages[idx] as Message, true);
+            if (jpText !== extractedText) {
+                throw new Error(`Text mismatch at index ${idx}: ${jpText} !== ${extractedText}`);
+            } else {
+                const original = match[0];
+                const replacement = original.replace('text', 'str').replace(extractedText, escapeRktString(enText));
+                newContent = newContent.replace(original, replacement);
+                idx += 1;
+                replacedCount += 1;
+            }
+        }
+    }
+
+    return { newContent, replacedCount };
 }
 
 /**
@@ -125,20 +113,12 @@ function processRktFile(
     const jpMessages = readJsonFile(jpJsonPath);
     const enMessages = readJsonFile(enJsonPath);
 
-    // Create translation map
-    const translationMap = createTranslationMap(jpMessages, enMessages);
+    if (jpMessages.length !== enMessages.length) {
+        throw new Error(`JP and EN JSON files have different lengths: ${jpJsonPath} (${jpMessages.length}) vs ${enJsonPath} (${enMessages.length})`);
+    }
 
     // Replace text in RKT content
-    const newContent = replaceTextInRkt(rktContent, translationMap);
-
-    // Count replacements
-    let replacedCount = 0;
-    translationMap.forEach((_, key) => {
-        if (rktContent.includes(`(text "${key}")`) ||
-            rktContent.includes(`(text "${key}" 'br)`)) {
-            replacedCount++;
-        }
-    });
+    const { newContent, replacedCount } = replaceTextInRkt(rktContent, jpMessages, enMessages);
 
     // Ensure output directory exists
     const outputDir = path.dirname(enRktPath);

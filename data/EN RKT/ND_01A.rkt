@@ -32,15 +32,13 @@
         (//
          (? (= 535 #t))
          (nop@)
-         (text "目の前にかつては栄えた裏道の終着点にあるギルマンハウスがある。" 'br)
-         (text "まわりには相変わらず人気がなく、いかにも寂れた裏路地といった雰囲がある。")
+         (str "Gilman House is right in front of me, standing at the end point of what was once a bustling back alley." 'br)
+         (str "There's still no sign of people around, and the atmosphere really screams deserted back street.")
          (proc 0))
         (//
-         (text
-          "我々は雑貨店の店主に聞いた裏通りに入り、その端にある角店の前までやってきた。かつては人通りもあり、それなりに繁盛していたと思われる一画にはいくつものしゃれた店構えの建物があるものの、現在ではそのほとんどが店を閉めているようだ。")
+         (str "We entered the back alley the owner of the general store told us about, and made our way to the corner shop at the end. The area used to have people passing through and seemed to be doing well enough, with several stylish-looking storefronts, but now, most of the shops appear to be closed.")
          (proc 0)
-         (text
-          "唯一営業しているのは目の前の店だけのようで、けだしこの店が雑貨店の店主が言っていたギルマンハウスに他ならない。店は港町にありがちな船乗り相手のパブとは趣を異にし、どちらかと言えばロンドン郊外によく見られる、程良くさびれた気取らなくてよい店のように見える。")
+         (str "It looks like the only place open is the shop right in front of me, and this must be the very Gilman House the general store owner talked about. Unlike the usual sailor pubs you find in port towns, the place has a different vibe-it's more like one of those unpretentious, slightly shabby hangouts you see on the outskirts of London.")
          (proc 0)
          (nop@)
          (set-reg 535 #t))))
@@ -56,18 +54,17 @@
             (//
              (? (= 200 #t))
              (nop@)
-             (text "相変わらずあたりには人影ひとつない。" 'br)
-             (text "いかに寂れているとはいえ、これほど閑散とした通りの雰囲気は尋常ではない。")
+             (str "There's still not a single person around." 'br)
+             (str "No matter how deserted it is, this kind of empty street atmosphere is just not normal.")
              (proc 0))
             (//
-             (text
-              "きちんと舗装された道はこのギルマンハウスの前で終わる。数十年を経てなお往時のままの状態が保たれているところや、錆が浮き出ているものの、今でも使用可能であると思われるガス灯からは敷設工事を計画した人間の熱意が感じられる。")
+             (str "きちんと舗装された道はこのギルマンハウスの前で終わる。数十年を経てなお往時のままの状態が保たれているところや、錆が浮き出ているものの、今でも使用可能であると思われるガス灯からは敷設工事を計画した人間の熱意が感じられる。")
              (proc 0)
-             (text "もっとも、今まで往時の様子を保っていられた原因の一端は、ここを利用した")
+             (str "Still, part of the reason it’s managed to stay the same as back then is because this place was used.")
              (text-raw 60325 60325)
-             (text "現在利用している")
+             (str "Currently using")
              (text-raw 60325 60325)
-             (text "人間の絶対数が少ないという事を証明しているような気がする。")
+             (str "I feel like this proves that the number of humans is really small.")
              (proc 0)
              (nop@)
              (set-reg 200 #t)))))
@@ -76,15 +73,12 @@
             (//
              (? (= 201 #t))
              (nop@)
-             (text
-              "確かに、アーカムの中ではモダンですぐれた建造物と言えない事もないが、あまり見ていて楽しい類のものではない。所詮この程度のパブなどどこにでも転がっているのだ。")
+             (str "Sure, you could say it's a modern and decent building by Arkham's standards, but it's not exactly the kind of place that's fun to look at. At the end of the day, pubs like this are just about everywhere.")
              (proc 0))
             (//
-             (text
-              "辻馬車が主な交通手段だった頃のロンドンの裏通りにあったような、堅牢で端正な造りの建物だ。変色した煉瓦の壁や金属に浮き出た錆が建物の古びた雰囲気を一層確かなものにしている。")
+             (str "It's a solid, handsome building, like something you'd find in the backstreets of London back when horse-drawn carriages were the main way to get around. The discolored brick walls and the rust blooming on the metal make the old, worn-out vibe of the building even more real.")
              (proc 0)
-             (text
-              "壁の一面を占領したガラス窓はよく手入れされているようだが、それでもどうする事も出来ないその物自体の老化のために中を覗き見る事が出来ない。表面が波打っているように見えるのは、当時の稚拙な技術のためだろう。")
+             (str "The glass window occupying an entire wall seems to be well maintained, but even so, because of the inevitable aging of the material itself, you can't see inside. The surface seems wavy, probably due to the crude technology of the time.")
              (proc 0)
              (nop@)
              (set-reg 201 #t)))))
@@ -93,16 +87,14 @@
             (//
              (? (= 202 #t))
              (nop@)
-             (text "建物の凝った造りに対して、看板の文字はいかにも面白味がない。" 'br)
-             (text
-              "店のオーナーは気の弱い老夫婦で、自分の主張を通そうとする建築家のなすがままになって、当初の予想とは大幅に異なる完成になってしまったという雰囲気だ。")
+             (str "In contrast to the elaborate construction of the building, the lettering on the sign is just plain boring." 'br)
+             (str "The owners of the shop are a timid elderly couple, and it feels like they just let the pushy architect do whatever he wanted, so the end result turned out way different from what was originally expected.")
              (proc 0))
             (//
-             (text "飾り気のないゴシック文字で店の名前が記してある。" 'br)
-             (text "錆びのせいでペンキが浮き上がった具合から判断すると、１０年以上はほったらかしのままだろう。")
+             (str "The shop's name is written in plain Gothic lettering." 'br)
+             (str "Judging by the way the paint is bubbling up from all the rust, it probably hasn't been touched in over ten years.")
              (proc 0)
-             (text
-              "もっとも、村の住人はこの店が何を営んでいるのか知っている筈だし、よそ者がこんなところにやってくるのは非常に希な事に違いない。看板を飾る必要性自体を疑ってしまう。")
+             (str "That said, the villagers should already know what this shop is doing, and it's gotta be super rare for outsiders to come to a place like this. Makes you wonder if there's even any need for a sign at all.")
              (proc 0)
              (nop@)
              (set-reg 202 #t)))))
@@ -111,20 +103,19 @@
             (//
              (? (= 57 #t))
              (nop@)
-             (text "たった今出て来たばかりだ。中があんな事になっていては、すぐにもう一度店に入る事は控えた方がいいだろう。")
+             (str "I just came out right now. With things inside like that, it'd be better not to go back into the shop again so soon.")
              (proc 0)
-             (text "そうでなくても、ここの村人達は皆気性が荒いようだ。" 'br)
-             (text "何をされるか解ったものではない。")
+             (str "Even if that's not the case, it seems like all the villagers here have rough tempers." 'br)
+             (str "You never know what they might do to you.")
              (proc 0))
             (//
              (? (= 203 #t))
              (nop@)
-             (text "「トマス」　いつまでじっと指をくわえて見てなきゃならないんだ？" 'br)
-             (text "　　　　　　ここまで酒の臭いが漂ってるじゃねえか、早く入ろうぜ。")
+             (str "「Thomas」 How much longer do I have to just sit here and watch with my thumb up my ass？" 'br)
+             (str "　　　　　　I can smell the booze from all the way out here, let's hurry up and go in.")
              (proc 0))
             (//
-             (text
-              "外からでは中の様子を見る事が出来ないが、どうやら中に誰かいそうな雰囲気だ。固く閉ざされた扉の向こうには程良く温められた居心地のいい店内が待っているに違いない。")
+             (str "You can't see what's going on inside from the outside, but it kinda feels like there's someone in there. Beyond the tightly shut door, there's gotta be a cozy, perfectly warmed shop waiting.")
              (proc 0)
              (nop@)
              (set-reg 203 #t)))))))
@@ -140,18 +131,18 @@
          60
          100
          (</>
-          (/ (text "　　") (str " ") (text "魚鱗亭") (str " ") (text "　　"))
-          (/ (text "　　　広場　　　"))
+          (/ (text "　　") (str " ") (str "Fish Scale Inn") (str " ") (text "　　"))
+          (/ (str "　　　Plaza　　　"))
           (/
            (set-reg 54 #t)
            (nop@)
            (text "　　")
            (str " ")
-           (text "雑貨店")
+           (str "General store")
            (str " ")
            (text "　　"))
-          (/ (text "　　　遺跡　　　"))
-          (/ (text "　　中に入る　　"))))
+          (/ (str "　　　Ruins　　　"))
+          (/ (str "　　Go inside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

@@ -35,8 +35,8 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "こんな所にコーデリアがいる訳がない。" 'br)
-         (text "それに、今は彼女を捜すよりもダニッジ邸のドルリイの書斎を調べる事の方が先だ。")
+         (str "There's no way Cordelia would be in a place like this." 'br)
+         (str "Besides, right now, checking Dollie's study at the Dunwitch Mansion comes before looking for her.")
          (proc 0))
         (//
          (? (= 622 #t))
@@ -64,8 +64,8 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "広場には誰の姿もない。" 'br)
-         (text "まるで、村全体が死んでしまったように静まり返っている。")
+         (str "There's no one in the square." 'br)
+         (str "It's like the whole village has gone completely silent, as if it died.")
          (proc 0))
         (//
          (image-file "GPC¥C_055A.GPC")
@@ -91,21 +91,21 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "村の広場だ。" 'br)
-         (text "あたりには人の気配もなく、動く者は皆無だ。")
+         (str "It's the village square." 'br)
+         (str "There’s no sign of people around, and nothing’s moving at all.")
          (proc 0)
-         (text "ハドスン夫人の事といい、私たちを除く村人全員が何処かに姿を隠してしまったかのように思える。")
+         (str "ハドスン夫人の事といい、私たちを除く村人全員が何処かに姿を隠してしまったかのように思える。")
          (proc 0)
-         (text "「コーデリア」　橋は落ちたままね。" 'br)
-         (text "　　　　　　　　誰も修理しようとしないから当たり前だけど。")
+         (str "「Cordelia」 The bridge is still down." 'br)
+         (str "　　　　　　　　Well,　it's　obvious　since　nobody's　trying　to　fix　it.")
          (proc 0)
-         (text "「ジョナサン」　これでは仮にセイラムからバスが来たとしても、村の　　　　　　　　中に入る事は出来ないな。")
+         (str "「Jonathan」 With this, even if a bus comes from Salem, there's no way it can get into the village.")
          (proc 0)
-         (text "「コーデリア」　運転手はその事を誰かに伝えてくれるかしら？" 'br)
-         (text "　　　　　　　　もしそうなら、異常を知った誰かが助けに来てくれる　　　　　　　　かもしれないわ。")
+         (str "「Cordelia」 Do you think the driver will tell someone about this？" 'br)
+         (str "　　　　　　　　If that's the case, someone who noticed the weirdness might come to help us, you know.")
          (proc 0)
-         (text "「ジョナサン」　それはあまり望みがないな。" 'br)
-         (text "　　　　　　　　あの運転手なら村に入れない事を幸いに、素知らぬ顔　　　　　　　　をしているだろう。")
+         (str "「Jonathan」 それはあまり望みがないな。" 'br)
+         (str "　　　　　　　　That　driver　is　probably　pretending　not　to　know　anything,　happy　that　he　can't　get　into　the　village.")
          (proc 0)
          (nop@)
          (set-reg 622 #t))))
@@ -120,72 +120,67 @@
        (branch-index
         (</>
          (/
-          (text "雨が降った後の舗装路には、いたる所に水たまりが出来ていて、寒さの為に半ば凍結しかかっている。")
+          (str "After the rain, puddles have formed all over the paved road, half-frozen from the cold.")
           (proc 0)
-          (text
-           "この道をコーデリアと一緒に逃げた夜が随分昔の事のような気がする。何者かによって橋が落とされ、鉄橋が見張られているとなると、陸路から逃げるもくろみは潰えた。")
+          (str "The night I ran away with Cordelia down this road feels like it happened ages ago. Now that someone has destroyed the bridge, and the railroad bridge is being watched, my plan to escape by land has been crushed.")
           (proc 0)
-          (text "他に可能性があるとすれば、海から逃げる方法しかないが‥‥‥‥"))
+          (str "If there's any other possibility, it's only to escape by sea......"))
          (/
-          (text "魚鱗亭の前を通るメインストリートの出発点だ。" 'br)
-          (text "こんなに美麗に保たれていても、それに目を止める観光客など皆無だ。村人もそれほど気に留めている様子はない。")
+          (str "This is the starting point of Main Street, which passes in front of the Fish Scale Inn." 'br)
+          (str "Even though it's kept so beautiful, not a single tourist ever stops to notice. The villagers don't seem to care much, either.")
           (proc 0)
-          (text "もっとも、利用する人間さえ皆無なのだから、修繕したりするのは無駄と最初から決めてかかっているのかもしれない。"))))
+          (str "Well, since literally nobody uses this place, maybe they've just decided from the start that fixing it up is a waste."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "あたりの建物は、ほとんどが現在は使用されていないようだ。" 'br)
-          (text "使う人間もいなければ、取り壊したり改築して使おうと思っている人間は皆無のようで、ほどんど成すがままに放置されている。")
+          (str "Almost all the buildings around here seem to be unused these days." 'br)
+          (str "With nobody using them, and apparently nobody thinking to demolish or rebuild them either, most places are just left abandoned.")
           (proc 0)
-          (text "硝子のはまっていない窓が、眼球のなくなってしまった屍体の眼底のように見える。"))
+          (str "The window frames with no glass look like the empty eye sockets of a corpse with its eyeballs gone."))
          (/
           (branch-reg
            130
            (</>
             (/
-             (text
-              "廃屋になった建物の中にネクロノミコンが隠されている可能性が全くない訳ではないが、全てを調べてみるにはあまりにも時間がかかりすぎるだろう。"))
+             (str "There's at least a chance the Necronomicon could be hidden in one of these deserted buildings, but it would just take way too long to search them all."))
             (/
-             (text "廃屋の中にコーデリアを連れたトマスが隠れている可能性はあるのだろうか。")
+             (str "Is it possible that Thomas is hiding with Cordelia in the abandoned house?")
              (proc 0)
-             (text
-              "トマスが何をどんな儀式を行うつもりなのか定かでないが、どんな所でも執り行うことが出来るような簡単な事ではないだろう。")))))))
+             (str "It's not clear what kind of ritual Thomas is planning to perform, but it's probably not something simple that can be done just anywhere.")))))))
        (proc 0))
       (/
        (branch-reg
         130
         (</>
          (/
-          (text "魚鱗亭が見える。" 'br)
-          (text "姿を消したしまったハドスン夫人は、何処に行ってしまったのだろう。")
+          (str "I can see the Fish Scale Inn." 'br)
+          (str "I wonder where Mrs. Hudson, who vanished, went off to.")
           (proc 0)
-          (text
-           "突然失踪してしまったという夫や、コーデリアの養父母、雑貨店の前の店主などと同じようにもう二度と姿を現さないつもりだろうか。"))
+          (str "突然失踪してしまったという夫や、コーデリアの養父母、雑貨店の前の店主などと同じようにもう二度と姿を現さないつもりだろうか。"))
          (/
-          (text "魚鱗亭には明かりがついていないようだ。" 'br)
-          (text "私の撃ち殺した『深きもの』が自分の夫だと語ったハドスンさんは、また姿を眩ませてしまったのだろうか。")
+          (str "魚鱗亭には明かりがついていないようだ。" 'br)
+          (str "Did Ms. Hudson, who said the 『Deep One』 I shot dead was her husband, disappear again?")
           (proc 0)
-          (text
-           "ようやく魚鱗亭の呪縛から解放され、新しい土地に向かったのか、あるいは夫と同じように『深きもの』になってしまった子供の元に行ったのか‥‥‥‥‥"))))
+          (str "Did she finally break free from the Fish Scale Inn』s curse and head to a new land, or did she go to where her child, who became a Deep One just like her husband, was...?"))))
        (proc 0))
       (/
        (branch-reg
         130
         (</>
          (/
-          (text "村で唯一営業している商店だ。" 'br)
-          (text "初めてハンスに会った頃は気のいい男だと思っていたが、今では私たちにあまり好意的ではない。")
+          (str "It's the only store that's open for business in the village." 'br)
+          (str "When I first met Hans, I thought he was a good guy, but now he's not so friendly toward us.")
           (proc 0)
-          (text "生前のマーシュのように、何かに怯えているようにも見えるが‥‥‥" 'br)
-          (text "何者かに脅されているのだろうか。"))
+          (str "Just like Marsh was when he was alive, he looks like he's scared of something..." 'br)
+          (str "I wonder if they're being threatened by someone."))
          (/
-          (text "雑貨店が見える。" 'br)
-          (text "店は深きものに荒らされて、とても営業できるような状態ではない。")
+          (str "I can see the general store." 'br)
+          (str "The shop was wrecked by Deep Ones and is in no shape to be open for business.")
           (proc 0)
-          (text "ハンスの姿は見えなかったが、深きものの餌食になったのだろうか。" 'br)
-          (text "村の人間ではないあの男がダゴンの信者の訳はないし、そうなると身を守る術などないだろう。"))))
+          (str "I couldn't see Hans, but maybe he got eaten by a Deep One." 'br)
+          (str "That guy ain't from the village, so there's no way he's a follower of Dagon, and if that's the case, he probably doesn't have any way to protect himself."))))
        (proc 0))
       (/ (nop@))
       (/ (nop@))
@@ -195,24 +190,23 @@
        (branch-index
         (</>
          (/
-          (text "「コーデリア」　ハドスンさんは何処に行ってしまったのかしらね。" 'br)
-          (text "　　　　　　　　あの人が魚鱗亭を留守にするなんて考えられないわ。")
+          (str "「Cordelia」 I wonder where Hudson went off to." 'br)
+          (str "　　　　　　　　I can't imagine that person leaving the Fish Scale Inn unattended.")
           (proc 0)
-          (text "「ジョナサン」　確かにハドスン夫人が行きそうな所など、思いあたら　　　　　　　　ないな。")
+          (str "「Jonathan」 I really can't think of anywhere Mrs. Hudson would go.")
           (proc 0)
-          (text "「コーデリア」　まさか、わたしたちが見た魚のお化けにやられちゃっ　　　　　　　　たんじゃないでしょうね。")
+          (str "「Cordelia」 No way, you don't think they got done in by that fish monster we saw, do you?")
           (proc 0)
-          (text
-           "「ジョナサン」　昨晩のうちに姿を消したという話だが、魚鱗亭で襲わ　　　　　　　　れたのならば教授やトマスが気づいたはずだろう。")
+          (str "「Jonathan」 I heard they disappeared last night, but if they were attacked at the Fish Scale Inn, the professor or Thomas would've noticed, right?")
           (proc 0)
-          (text "「コーデリア」　自分で出ていったのかしら。")
+          (str "「Cordelia」 I wonder if she left on her own.")
           (proc 0)
-          (text "「ジョナサン」　きっと用事があって少しの間留守にするだけだろう。　　　　　　　　そのうち帰ってくるさ。")
+          (str "「Jonathan」 He's probably just got something to do and will be out for a little while.　　　　　　　He'll come back before long.")
           (proc 0)
-          (text "「コーデリア」　そうね、心配しなくても大丈夫よね？"))
+          (str "「Cordelia」 Yeah, it's fine, we don't have to worry, right？"))
          (/
-          (text "「コーデリア」　何を見ているの？" 'br)
-          (text "　　　　　　　　早くネクロノミコンを探しに行きましょうよ。"))))
+          (str "「Cordelia」 What are you looking at？" 'br)
+          (str "　　　　　　　　Let's　hurry　up　and　go　look　for　the　Necronomicon."))))
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -222,7 +216,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　　地図　　　"))))
+        (menu1 60 100 (</> (/ (str "　　　Map　　　"))))
         (proc 17))))
   (proc 14)
   (if (</> (// (? (= V 0) (= S 0)) (nop@) (set-reg 905 #f) (mes-load? 4608))))

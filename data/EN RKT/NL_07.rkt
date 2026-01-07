@@ -34,8 +34,8 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "アーカムと外の世界を結ぶ吊り橋がある、村の広場に来た。" 'br)
-         (text "あたりには誰の姿も見えない。")
+         (str "I came to the village plaza with the suspension bridge that connects Arkham and the outside world." 'br)
+         (str "I can't see anyone around here.")
          (proc 0))
         (//
          (? (= 621 #t))
@@ -60,8 +60,8 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "広場には誰の姿もない。" 'br)
-         (text "昨日私たちの前にあらわれた村人は、またしても忽然と姿を消してしまい、何処に行けば彼らに会えるのかも解らない。")
+         (str "There's nobody in the plaza." 'br)
+         (str "The villager who appeared before us yesterday suddenly vanished again, and we have no idea where to go to meet them.")
          (proc 0))
         (//
          (if (</>
@@ -84,12 +84,10 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "村の広場だ。" 'br)
-         (text
-          "昨日私たちの前に現れ、マーシュを殺したのが自分達であると半ば認めるような発言をした村人は今日はどこかに姿を隠してしまったようだ。")
+         (str "It's the village square." 'br)
+         (str "The villager who showed up in front of us yesterday and almost admitted that they were the ones who killed Marsh seems to have gone into hiding somewhere today.")
          (proc 0)
-         (text
-          "アーカムでも、村人達の住処がある一画は、私たちには到底足を踏み入れる事が叶わない場所だし、そんな所にのこのこ入り込めば何をされるか解ったものではない。")
+         (str "Even in Arkham, the area where the villagers live is a place we could never set foot in, and if we carelessly wandered in there, who knows what might happen to us.")
          (proc 0)
          (nop@)
          (set-reg 621 #t))))
@@ -104,38 +102,36 @@
        (branch-index
         (</>
          (/
-          (text "まもなく雨が降り始めるのはほとんど確実というように、空気は多くの湿気を含み、まるで身体にまとわりつくようだ。")
+          (str "The air is so full of moisture, it clings to your body, making it almost certain that it’s about to start raining any minute now.")
           (proc 0)
-          (text "広場の煉瓦敷の道の上にも玉のような水滴が至る所についており、ともすれば足を滑らせてしまいそうになる。")
+          (str "There were pearl-like droplets of water all over the brick pavement road in the square, making it seem like you could slip at any moment.")
           (proc 0)
-          (text "もしもまた雨になれば、いつまでたっても復旧のめどが立たない吊り橋の補修は、ほとんど絶望的だろう。"))
+          (str "If it rains again, the chances of repairing the suspension bridge, with no prospect of recovery in sight, are pretty much hopeless."))
          (/
-          (text "魚鱗亭の前を通るメインストリートの出発点だ。" 'br)
-          (text "こんなに美麗に保たれていても、それに目を留める観光客など皆無だ。村人もそれほど気に留めている様子はない。")
+          (str "This is the starting point of the Main Street that passes in front of the Fish Scale Inn." 'br)
+          (str "Even though it's kept so beautiful, not a single tourist takes notice of it. The villagers don't seem to care much, either.")
           (proc 0)
-          (text "もっとも、利用する人間さえ皆無なのだから、修繕したりするのは無駄と最初から決めてかかっているのかもしれない。"))
+          (str "Still, since there isn't a single person who uses it, maybe they've decided from the start that fixing it up would just be a waste of time."))
          (/
-          (text "煉瓦敷の舗装路に、玉のような水滴がついている。" 'br)
-          (text "空気中の湿気はさらに多くなってきたようで、いつ雨が降り出しても不思議ではない。"))))
+          (str "On the brick pavement road, there are bead-like droplets of water." 'br)
+          (str "The moisture in the air seemed to have increased even more, so it wouldn't be surprising if it started raining at any moment."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "あたりの建物は、ほとんどが現在は使用されていないようだ。" 'br)
-          (text "使う人間もいなければ、取り壊したり改築して使おうと思っている人間も皆無のようで、ほとんど成すがままに放置されている。")
+          (str "Most of the buildings around here don't seem to be in use anymore." 'br)
+          (str "There’s nobody to use it, and it looks like there’s also nobody who wants to tear it down or renovate it, so it’s been almost completely left alone and abandoned as is.")
           (proc 0)
-          (text "硝子のはまっていない窓が、眼球のなくなってしまった屍体の眼底のように見える。"))
+          (str "A window with no glass looks like the eye socket of a corpse that's lost its eyeballs."))
          (/
-          (text "あたりには、昨日の村人の姿さえ見えない。" 'br)
-          (text
-           "野生の生物が気候をするどく察知して、災難に遭う前にさっさと巣穴に戻るように、天気の変化を予知して家に引っ込んでいるのだろうか。")
+          (str "Not even a sign of yesterday's villagers can be seen around here." 'br)
+          (str "Like how wild animals sharply sense the weather and quickly return to their burrows before disaster hits, maybe they're predicting changes in the weather and staying cooped up at home.")
           (proc 0)
-          (text
-           "そこここに躯をさらしている廃屋は激しい風雨を避けられるほど立派なものではない、ここに立っていて冷たい雨にさらされるよりは魚鱗亭に帰って部屋にいた方がいいのではなかろうか。"))
+          (str "The ruined houses exposing their corpses here and there aren’t sturdy enough to keep out the fierce wind and rain-maybe it’d be better to just go back to my room at the Fish Scale Inn instead of standing here getting drenched by the cold rain."))
          (/
-          (text "廃屋の窓が、まるで屍体のうつろな眼孔のように見える。" 'br)
-          (text "何とかしようと思う人間はいないのだろうか？"))))
+          (str "The window of the abandoned house looks just like the hollow eye sockets of a corpse." 'br)
+          (str "Isn’t there anyone who feels like doing something about this？"))))
        (proc 0))
       (/
        (branch-reg
@@ -145,37 +141,35 @@
           (branch-index
            (</>
             (/
-             (text "周囲の建物と同じぐらい古い建物だが、ほとんどが廃虚同然の空き家である中で、唯一人が住めそうな佇まいではある。")
+             (str "It’s an old building, just like the others around here, but even though most are pretty much abandoned empty houses, this one at least looks like someone could live in it.")
              (proc 0)
-             (text "外見を見ると、結構広そうだが、私たちが使っている他にどれ位の客室があるのだろう。"))
+             (str "From the outside, it seems pretty spacious, but I wonder how many guest rooms there are besides the ones we use."))
             (/
-             (text "アーカムでの私たちの唯一の拠り所である魚鱗亭だ。" 'br)
-             (text "あんな頼りなげな宿でも、屋内にいると不思議と安心できる。")))))
+             (str "The Fish Scale Inn is our only foothold here in Arkham." 'br)
+             (str "Even though it’s such a rickety inn, I weirdly feel safe when I’m inside.")))))
          (/
           (branch-index
            (</>
             (/
-             (text "ここからでは魚鱗亭の窓の明かりは見えない。" 'br)
-             (text "ハドスンさんとトマスは、まだその最中なのだろうか。")
+             (str "From here, I can’t see the Fish Scale Inn’s windows lit up." 'br)
+             (str "I wonder if Mr. Hudson and Thomas are still at it.")
              (proc 0)
-             (text
-              "貞女の好例のように、浮いた噂のひとつもなく行方を眩ませた良人の遺した魚鱗亭を切り盛りしてきたハドスンさんが、よもやあんな男と情事に耽るとは。")
+             (str "To think that Mrs. Hudson, who kept the Fish Scale Inn running after her good-for-nothing husband disappeared without even a single juicy rumor, like some model of chastity, would end up fooling around with a guy like that.")
              (proc 0)
-             (text "到底信じられない事だが、あの時の夫人の表情は、悦楽に耽溺する女のその時の表情に他ならないように思える。")
+             (str "It's absolutely unbelievable, but back then, that woman's expression looked just like the expression of a woman drowning in pleasure.")
              (proc 0)
-             (text "トマスが口走っていた、失踪した夫人の良人とその子供の件がどうにも気になって仕方がないな。"))
+             (str "I can't stop thinking about what Thomas blurted out, about the missing woman's husband and her child."))
             (/
-             (text "トマスは夫人の秘密を握っていて、それをネタに無理矢理情交を迫ったのではないだろうか。")
+             (str "I wonder if Thomas was holding onto that woman's secret and used it to force her into sleeping with him.")
              (proc 0)
-             (text "私にはハドスンさんが自分から進んであんな事をするとは思えない。" 'br)
-             (text "どちらにしても、失踪した主人とふたりの子供が関係しているようだ。")))))))
+             (str "I just can't imagine Mr. Hudson doing something like that on his own will." 'br)
+             (str "Either way, it seems like the missing husband and their two kids are involved somehow.")))))))
        (proc 0))
       (/
-       (text "村で唯一営業している商店だ。" 'br)
-       (text "気のいい若い店主が一人で経営している。")
+       (str "This is the only general store still doing business in the village." 'br)
+       (str "A friendly young shopkeeper runs it alone.")
        (proc 0)
-       (text
-        "魚鱗亭、雑貨店、ギルマンハウスとこの村で客を相手に商売している店はすべて村以外の出身者の手によって営業されている。何か理由があるのだろうか？")
+       (str "Every shop in the village that serves customers-Fish Scale Inn, general store, Gilman House-is run by people who came from outside the village. I wonder if there's a reason for that？")
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -185,7 +179,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　　地図　　　"))))
+        (menu1 60 100 (</> (/ (str "　　　Map　　　"))))
         (proc 17))))
   (proc 14)
   (if (</> (// (? (= V 0) (= S 0)) (nop@) (set-reg 905 #f) (mes-load? 4608))))

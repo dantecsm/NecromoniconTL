@@ -42,31 +42,28 @@
         (//
          (? (= 122 #t))
          (nop@)
-         (text "手足に枷をはめられ、自由を失ったままの女の屍体と、半ば炭化して床に転がったほとんど原形を留めていない屍体がある。")
+         (str "There's a woman's corpse with shackles on her hands and feet, left without freedom, and another corpse, half-charred and barely retaining its original form, lying on the floor.")
          (proc 0)
-         (text "あまり夜中にひとりで訪れるには相応しくない場所のようだ。" 'br)
-         (text "なにしろ私は、部屋の屍体を見ただけで昏倒してしまったのだから。")
+         (str "It doesn't really seem like the kind of place you should visit alone in the middle of the night." 'br)
+         (str "After all, I passed out just from seeing the corpse in the room.")
          (proc 0))
         (//
          (? (= 591 #t))
          (nop@)
-         (text "ミイラ化した女の屍体がある部屋だ。" 'br)
-         (text "何度見ても、この部屋の火災の跡の不自然さには驚かされる。")
+         (str "It's a room with the mummified corpse of a woman." 'br)
+         (str "No matter how many times I look, the unnaturalness of the fire damage in this room always surprises me.")
          (proc 0)
-         (text
-          "壁に繋がれた女の屍体は焼けこげた跡さえなく、死因が焼死でない事は明白なのに、それから数フィートしか離れていない所に横たわっている黒焦げの屍体は原形さえ留めていない。")
+         (str "The woman's corpse, chained to the wall, didn't even have any burn marks-it's obvious she didn't die from being burned-but the charred corpse lying just a few feet away was burned so badly you couldn't even tell what it used to look like.")
          (proc 0))
         (//
-         (text "ミイラ化した女の屍体がある部屋だ。" 'br)
-         (text "何度見ても、この部屋の火災の跡の不自然さには驚かされる。")
+         (str "It's a room with the mummy of a woman's corpse." 'br)
+         (str "No matter how many times I look, I'm always surprised by how unnatural the traces of fire in this room are.")
          (proc 0)
-         (text
-          "壁に繋がれた女の屍体は焼けこげた跡さえなく、死因が焼死でない事は明白なのに、それから数フィートしか離れていない所に横たわっている黒焦げの屍体は原形さえ留めていない。")
+         (str "The woman's corpse, chained to the wall, didn't even have burn marks, making it obvious that the cause of death wasn't burning, yet the charred corpse lying just a few feet away was so burned it didn't even retain its original shape.")
          (proc 0)
-         (text
-          "それを言うなら、この部屋の室内はそれほどひどく焼かれた跡がないのに、もっと奥にある、通路の突き当たりの部屋は扉が焼け落ちてしまうほどに火災の影響を受けているのは何故だろう。")
+         (str "If that's the case, then why is it that this room doesn't have much burn damage, but the room further down at the end of the hallway was so affected by the fire that even the door is burned down?")
          (proc 0)
-         (text "誰かが故意に火をつけたとしか考えられないが、神に仕える尼僧ばかりが集う修道院に火を放って何の得になるというのだろうか。")
+         (str "I can't think of any reason other than someone setting the fire on purpose, but what could anyone gain from setting fire to a monastery, a place full of nuns serving God?")
          (proc 0)
          (nop@)
          (set-reg 591 #t))))
@@ -81,111 +78,104 @@
        (branch-index
         (</>
          (/
-          (text "よく見ると、炎に焼かれて黒ずんでいる場所がまばらで、場所によってはほとんど火災の影響を受けていない所さえある。")
+          (str "If you look closely, the spots blackened by the flames are patchy, and in some places, the fire barely touched them at all.")
           (proc 0)
-          (text "床に転がった屍体とその周囲は特に酷く焼けているのに、他の部分はあまり汚れていない。")
+          (str "The area around the corpse lying on the floor is especially badly burned, but the other parts aren't all that dirty.")
           (proc 0)
-          (text
-           "その他の壁の黒い染みは煤けているのではなく、古い血の跡のようだ。どうしてこんな具合になったのか想像に苦しむが、それを言うならこの地下室全体がこんなに火災の影響を受けている事自体が不可思議だ。")
+          (str "The other black stains on the wall aren't from soot-they look more like old bloodstains. It's hard to imagine how things got this way, but if that's the case, then the fact that this whole basement was affected by the fire so much is itself bizarre.")
           (proc 0)
-          (text "どこか不自然な気がする。" 'br)
-          (text "修道院を襲った火災は、誰かが手を加えたもののような‥‥‥‥"))
-         (/ (text "前にこの部屋に入ってからひどい頭痛がしたのだが‥‥‥‥" 'br) (text "今日はそんな事はないようだ。"))))
+          (str "Something feels off about this." 'br)
+          (str "The fire that struck the monastery feels like someone tampered with it..."))
+         (/ (str "Last time I entered this room, I had an awful headache..." 'br) (str "But that doesn't seem to be happening today."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "モルタルの壁に固定された金具から鉄の鎖がぶら下がっている。" 'br)
-          (text "鎖の先には鍵で開け閉めできる鉄製の腕輪のような物があり、明らかに人間の自由を奪うための装置である事が解る。")
+          (str "An iron chain hangs down from a metal fitting fixed to the mortar wall." 'br)
+          (str "At the end of the chain is something like an iron armlet that can be locked and unlocked with a key, and it's obvious that it's a device meant to take away a person's freedom.")
           (proc 0)
-          (text
-           "これとよく似た物を、中世の城の一室や、ロンドン塔の中にあるのを見た記憶がある。中世の魔女裁判もこんな感じだったのかもしれない。")
+          (str "I remember seeing something a lot like this in a room of a medieval castle or inside the Tower of London. Maybe medieval witch trials felt something like this too.")
           (proc 0)
-          (text "捕らえられた囚人をこの装置に固定し、様々な拷問を行ったのだ。" 'br)
-          (text "どうしてこんな物が修道院の地下室にあるのだろう。")
+          (str "The captured prisoners were strapped to this device and subjected to all sorts of torture." 'br)
+          (str "I wonder why something like this is in the Monastery basement.")
           (proc 0)
-          (text "昨晩の夢の中で見た女性が言っていた『背信的な行為』と何らかの関係があるのだろうか？"))
-         (/ (text "実物を見るのは初めてだが、これは明らかに囚人などを捕らえておくための手枷に間違いない。"))))
+          (str "I wonder if it has something to do with the 'treacherous act' that the woman I saw in last night's dream was talking about？"))
+         (/ (str "It's the first time I've seen one in person, but this is definitely a pair of handcuffs meant for restraining prisoners or the like."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "途中で切れた鎖につながっていたのは、足下の屍体の右腕につながっている手枷だろう。")
+          (str "The thing connected to the broken chain halfway was probably the handcuffs attached to the right arm of the corpse at my feet.")
           (proc 0)
-          (text
-           "修道院を襲った火災の前からこの壁につながれ、しかも生きていたのだとしたら、迫ってくる火の手から逃れようともがいているうちに、鉄の鎖を引きちぎるほどの力を発揮したという事なのだろう。")
+          (str "修道院を襲った火災の前からこの壁につながれ、しかも生きていたのだとしたら、迫ってくる火の手から逃れようともがいているうちに、鉄の鎖を引きちぎるほどの力を発揮したという事なのだろう。")
           (proc 0)
-          (text
-           "生きながらにして炎に焼かれるとは、考えただけでも背筋が寒くなる。おそらく、懸命に逃れようと常識では考えられないような力を発揮したのだろう。"))
+          (str "Just thinking about being burned alive by flames sends chills down my spine. Probably, they must have shown unbelievable strength, desperately trying to escape."))
          (/
-          (text "人間のした事とは信じられないほどの強い力で、鎖が途中から引き千切られている。")
+          (str "The chain has been torn apart halfway with such incredible force, it's hard to believe a human could have done it.")
           (proc 0)
-          (text "足下に遺体となっている女性が、炎から逃れようと必死にもがいたあげく常識では考えられないような力を発揮したのだろう。"))))
+          (str "足下に遺体となっている女性が、炎から逃れようと必死にもがいたあげく常識では考えられないような力を発揮したのだろう。"))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "壁から突き出ている燭台には、溶けて落ちた蝋がこびりついている。" 'br)
-          (text "ほかに照明の設備は無い、室内の明かりはこの燭台の蝋燭だけだったようだ。")
+          (str "The candelabra jutting out from the wall is encrusted with melted wax that dripped down." 'br)
+          (str "There's no other lighting here-it looks like the only light in the room came from this candle on the candlestick.")
           (proc 0)
-          (text "壁の手枷といい、室内にたった蝋燭一本だけしか照明がない事といい、かなり陰気な雰囲気の部屋だった事に間違いはない。")
+          (str "What with the handcuffs on the wall and the fact that the only light in the room was a single candle, there was no doubt the room had a pretty gloomy atmosphere.")
           (proc 0)
-          (text "まさしく牢獄といった雰囲気だが、修道院の中にそんな部屋があるのはどういう訳なのか解らない。"))
+          (str "It totally feels like a prison cell, but I have no idea why there’s a room like that inside the Monastery."))
          (/
-          (text
-           "前回この部屋に入った時は、理由の解らない激しい頭痛が襲ってきた。今日あらためて部屋に入ると、この前の事が嘘のように私の身体に変調を来すような事はない。"))))
+          (str "Last time I came into this room, I was hit with a violent headache for no apparent reason. But coming in today, it's like what happened before was a lie-there's nothing weird happening to my body at all."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "ひどく焼けこげているせいで、生前の面影はまったく残っていない。" 'br)
-          (text "片腕を胸の上に置き、もう片方の腕を身体の脇に垂らしている姿は、苦しみもがいた様子ではない。")
+          (str "Because it's so badly burned, there's no trace left of how it looked in life." 'br)
+          (str "With one arm resting on their chest and the other hanging down at their side, it doesn't look like they're struggling in pain.")
           (proc 0)
-          (text "火災の時にはすでに死んでいたと見るのが妥当だろうが、この屍体だけが酷く焼けこげているのはどういう意味があるのだろうか。")
+          (str "It's reasonable to assume they were already dead at the time of the fire, but what does it mean that only this corpse is so badly burned?")
           (proc 0)
-          (text "まるでこの屍体を弔う為に、油でもまいて火をつけたように見える。" 'br)
-          (text "ただの偶然だとは思えないのだが‥‥‥"))
-         (/ (text "あまりにひどく焼けこげている為に、屍体が男の物かあるいは女の物なのかの区別さえつかない。"))))
+          (str "It looks like someone poured oil and set it on fire, almost as if to mourn this corpse." 'br)
+          (str "I can't believe it's just a coincidence..."))
+         (/ (str "It's so badly burnt that you can't even tell if the corpse is a man's or a woman's."))))
        (proc 0))
       (/
        (exec-mem 256 "P 5 28 48")
        (branch-index
         (</>
          (/
-          (text "囚人のように四肢を壁に固定されていたらしい。" 'br)
-          (text "迫ってくる炎から逃れようともがいたのだろう、両脚と左手の枷は途中の鎖の部分から引き千切られている。")
+          (str "It looks like the arms and legs were fixed to the wall, like a prisoner." 'br)
+          (str "Probably struggled to escape the approaching flames, the shackles on both legs and the left hand have been ripped off from the chain in the middle.")
           (proc 0)
-          (text "どういう訳か、屍体は火に焼かれた様子はなく、半ばミイラ化してその表情まではっきりと読みとる事ができる。")
+          (str "For some reason, the corpse doesn't look like it was burned by fire. It's half-mummified, and you can clearly make out the expression on its face.")
           (proc 0)
-          (text "女性のようだ、面長の端正な顔を思い浮かべる事ができる。" 'br)
-          (text "表情は苦痛に歪み、頭髪は熱で縮れてしまっている。")
+          (str "She seems like a woman; I can picture a well-shaped, long face." 'br)
+          (str "Her expression is twisted in pain, and her hair has shriveled from the heat.")
           (proc 0)
-          (text "苦悶の表情を浮かべていながら、屍体が炎に焼かれた様子がないという事は、この女性は火災のために命を落とした訳ではないのだ。")
+          (str "While she has a pained expression on her face, the lack of any signs that the corpse was burned by the flames means that this woman didn't lose her life because of the fire.")
           (proc 0)
-          (text "おそらくは‥‥‥‥‥" 'br)
-          (text "何者かが火災の後で殺したのだろう。")
+          (str "Maybe‥‥‥‥‥" 'br)
+          (str "Someone probably killed her after the fire.")
           (proc 0)
-          (text
-           "屍体がこんな有様では、女性の死因を突き止める事は困難だが、火災の後で何者かが地下室に入り込んだ形跡があるからには、餓死するまで放置されていたとは考えにくい。")
+          (str "With the body in this state, it's hard to figure out the cause of death for the woman, but since there are signs that someone entered the basement after the fire, it's hard to imagine she was just left here to starve.")
           (proc 0)
-          (text "何れにしろ、鎖につながれていたからには、罪を犯した女性なのかもしれない。")
+          (str "Either way, since she was chained up, maybe she was a woman who committed some crime.")
           (proc 0)
-          (text "昔の修道院には結構陰惨な話が多い。" 'br)
-          (text "背徳的な行為に耽溺した修道女が、嬰児を壁に塗り込めたり、魔女裁判の標的になった女性も少なくはなかったようだ。")
+          (str "Old monasteries often have some pretty grim stories." 'br)
+          (str "There were nun who indulged in immoral acts, babies being walled in, and plenty of women ended up as targets in witch trials too.")
           (proc 0)
-          (text "そう考えると、この情景も納得出来ない事もないが‥‥‥‥")
+          (str "Thinking about all that, it's not that hard to buy this scene either‥‥‥‥")
           (proc 0)
-          (text "そう言えば、私の夢の中に出てきた修道女は、ミスカトニック修道院で『背信的な行為』が行われていると言っていたようだ。"))
+          (str "Speaking of which, the nun who appeared in my dream said that 'betrayal acts' were happening at the Miskatonic Monastery."))
          (/
-          (text "まるで囚人のように、両手両脚を枷で繋がれている。" 'br)
-          (text "半ばミイラ化したその表情は、苦悶に醜く歪んでいる。")
+          (str "She's shackled at both her hands and feet, just like a prisoner." 'br)
+          (str "Her half-mummified face is twisted in ugly agony.")
           (proc 0)
-          (text
-           "躰の様子から判断すると、まだ若い女のように見えるが、何故いましめを受けてこのような醜い屍をさらす羽目になってしまったのだろう。"))))
+          (str "Judging by her body, she looks like a young woman, but I wonder why she ended up like this, put on display as such an ugly corpse after being punished."))))
        (proc 0)
        (exec-mem 256 "P 4 28 48"))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
@@ -196,7 +186,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　外に出る　　"))))
+        (menu1 60 100 (</> (/ (str "　　Go outside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

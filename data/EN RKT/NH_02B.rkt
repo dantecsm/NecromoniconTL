@@ -33,24 +33,23 @@
         (//
          (? (= 575 #t))
          (nop@)
-         (text "事務所のような部屋だ。" 'br)
-         (text "金庫は私が例の腕輪を見つけたときのままになっている。")
+         (str "It's a room like an office." 'br)
+         (str "The safe is just the way it was when I found that armlet.")
          (proc 0)
-         (text "床はいくつもの靴跡で荒らされ、何人の人間が室内に入り込んだのか容易に判断する事は出来ない。")
+         (str "The floor was messed up with lots of shoe prints, making it hard to tell how many people had come into the room.")
          (proc 0)
-         (text "いかに私たちがおどおどして慌てていたかが手に取るように解る。" 'br)
-         (text "盗人のような行いに不慣れなのだから仕方ないが‥‥‥‥")
+         (str "You can totally tell just how nervous and panicked we were." 'br)
+         (str "It's no wonder, since I'm not used to doing things like a thief...")
          (proc 0))
         (//
-         (text
-          "精錬所の隣の部屋はかつて事務所のように使われていたらしく、室内にあるのは古い無骨な金庫と、これも機能一点張りの事務机、書類などを収めておくキャビネットだけだ。")
+         (str "The room next to the Refinery seems to have been used as an office in the past, and the only things inside are an old, rugged Safe, a utilitarian desk, and a cabinet for storing documents and such.")
          (proc 0)
-         (text "壁にはこの場にはあまりにも不似合いな絵画がかけられている。" 'br)
-         (text "部屋全体が少なくとも１９世紀ごろに作られたにしてはあまりにも新しすぎるようだ。")
+         (str "An absurdly out-of-place painting is hanging on the wall." 'br)
+         (str "The whole room just looks way too new for something supposedly built at least around the 19th century.")
          (proc 0)
-         (text "絵の裏に隠してあった鍵で金庫の扉を開けると、遺跡にあった壁画と同じ模様が描かれていた。")
+         (str "絵の裏に隠してあった鍵で金庫の扉を開けると、遺跡にあった壁画と同じ模様が描かれていた。")
          (proc 0)
-         (text "フィリップ・ダニッジは金の腕輪を手に入れたのとおなじ場所から遺跡を運んできたに違いない。")
+         (str "Philip Dunwich must have brought the ruins from the same place where he got the gold armlet.")
          (proc 0)
          (nop@)
          (set-reg 575 #t))))
@@ -65,71 +64,70 @@
        (branch-index
         (</>
          (/
-          (text "何十年も無防備に放置されていたにもかかわらず、金の腕輪が残っていたとは意外だった。")
+          (str "Even though it had been left completely unguarded for decades, it was surprising that the gold armlet was still there.")
           (proc 0)
-          (text "私たちの前に誰かがこの部屋に入り込んだとしても、その人物は金庫の鍵を見つけだす事が出来なかったのだろう。"))
+          (str "私たちの前に誰かがこの部屋に入り込んだとしても、その人物は金庫の鍵を見つけだす事が出来なかったのだろう。"))
          (/
-          (text "いかにも古くて無骨な金庫だ。" 'br)
-          (text "何枚もの金属を張り合わせた現代式の物ではなく、型に溶けた鉄を流し込んで造ったものらしく、重量も相当なものだろう。")
+          (str "It's a really old and rugged safe." 'br)
+          (str "It's not a modern one made by layering sheets of metal together, but rather, it seems to be something made by pouring molten iron into a mold, so it's probably pretty heavy too.")
           (proc 0)
-          (text "これではどこかに持ち出す事はもちろん、扉を壊して中身を頂戴する事も難しい。"))))
+          (str "With this, not only is it basically impossible to take it somewhere, it's also tough to break the door and snatch what's inside."))))
        (proc 0))
       (/ (nop@))
       (/
        (branch-index
         (</>
          (/
-          (text "どうやら帳簿らしい。" 'br)
-          (text "きちんと整理されているが、もう何十年も動かした形跡はない。")
+          (str "Looks like it's a ledger." 'br)
+          (str "It's neatly organized, but there's no sign it's been touched in decades.")
           (proc 0)
-          (text "さして古い物ではなさそうだから、帳簿をつけるようになったのはそんなに前の話ではないようだ。")
+          (str "It doesn't look like it's that old, so it probably hasn't been that long since they started keeping the ledger.")
           (proc 0)
-          (text "どうせ税金をごまかす為のいい加減な内容に違いない。" 'br)
-          (text "なにしろどれだけの量の金が精錬所に持ち込まれたかは、本人達以外には調べようがないのだから。"))
+          (str "It's probably just some half-assed crap to dodge taxes anyway." 'br)
+          (str "After all, there's no way for anyone but the people themselves to find out just how much gold was brought into the Refinery."))
          (/
-          (text "精錬所の帳簿のようだ。" 'br)
-          (text "もう何十年も動かされた形跡はない。")
+          (str "Looks like the refinery's ledger." 'br)
+          (str "There haven't been any signs of it being moved for decades.")
           (proc 0)
-          (text "たとえこの部屋に忍び込んだ人間が他にいたにしても、一見して金目の物でないと解る本に触れる訳がない。"))))
+          (str "Even if someone else had sneaked into this room, there's no way they'd touch a book that isn't obviously worth money."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "漆喰の壁に乱暴にとめてある。" 'br)
-          (text "この精錬所が使われていた頃の物なのだろうから、もう何十年も前のメモという事になる。")
+          (str "It's been carelessly fastened to the plaster wall." 'br)
+          (str "この精錬所が使われていた頃の物なのだろうから、もう何十年も前のメモという事になる。")
           (proc 0)
-          (text "紙は埃と湿気の為に黄ばんで皺が寄っている。" 'br)
-          (text "内容の方は何十年も保存されるほど重要な物ではなさそうだ。"))
+          (str "The paper is yellowed and wrinkled because of dust and moisture." 'br)
+          (str "The contents don't really seem important enough to be preserved for decades."))
          (/
-          (text "湿気と埃のためにすっかり黄ばんでしまっている。" 'br)
-          (text "この事務所を使っていた人間が書き記した物なのだろうが、当の本人より走り書きのメモの方が長生きするとは皮肉なものだ。"))))
+          (str "It's completely yellowed from the humidity and dust." 'br)
+          (str "I guess it's something written by the person who used this office, but it's ironic that the scribbled memo outlives the person themself."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "鍵がかかっていて、中を見る事は出来ない。" 'br)
-          (text "どんな書類が収まっているのかは疑問だが、鍵がない以上中を見る事は不可能のようだ。")
+          (str "It's locked, so I can't look inside." 'br)
+          (str "I do wonder what kind of documents are inside, but since there's no key, it looks like there's no way to check.")
           (proc 0)
-          (text "外見はそう古い物ではないようなので、ここが放置される数年前に設置されたものに違いない。"))
-         (/ (text "あまり古くないファイルキャビネットだ。" 'br) (text "鍵がかかっていて、中を見る事は出来ない。"))))
+          (str "It doesn’t look that old, so this must have been installed just a few years before this place was abandoned."))
+         (/ (str "It's a not-so-old filing cabinet." 'br) (str "It's locked, so I can't see inside."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "金庫の鍵が隠されていた絵だ。" 'br)
-          (text
-           "装飾品など他にひとつもなく、ここで働く人間が快適さなど少しも望んでいない事が明白なのに、壁に絵がかかっているのは不自然だ。")
+          (str "It's the painting where the safe's key was hidden." 'br)
+          (str "There isn’t a single decoration or anything else here, so it’s obvious that the people working here don’t care about comfort at all, which makes it weird that there's a painting hanging on the wall.")
           (proc 0)
-          (text "私よりも前にこの部屋に忍び込んだ人間は、金庫の鍵がその裏に隠されているのに気づかなかったのだろうか。")
+          (str "Did the person who sneaked into this room before me not notice that the key to the safe was hidden behind it?")
           (proc 0)
-          (text "一目見れば解りそうなものなのに‥‥‥‥‥"))
+          (str "You'd think you'd get it just by looking at it..."))
          (/
-          (text "鍵は元のとおり絵の裏に置いておいたが、今更金庫の中を探っても何も出て来るはずがない。")
+          (str "I put the key back behind the painting just like before, but there's no way anything is going to turn up in the safe now, no matter how much we look.")
           (proc 0)
-          (text "紙屑同然になった船の保険証や、精錬所の裏帳簿などを見ても何が解る訳でもないだろう。"))))
+          (str "You probably won't figure anything out even if you look at ship insurance papers that've turned into trash or the refinery's secret ledgers."))))
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -139,7 +137,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　外に出る　　"))))
+        (menu1 60 100 (</> (/ (str "　　Go outside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

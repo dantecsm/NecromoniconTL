@@ -34,20 +34,20 @@
         (//
          (? (= 595 #t))
          (nop@)
-         (text "通路の突き当たりにある、倉庫のような部屋だ。" 'br)
-         (text "室内は一面が黒く焼け、煤に汚れている。")
+         (str "It's a room like a warehouse at the end of the hallway." 'br)
+         (str "The whole room is charred black and stained with soot.")
          (proc 0)
-         (text "他の場所より一層ひどく火災の影響を受けているようだ。" 'br)
-         (text "入り口の階段より一番遠い場所にある部屋が、もっともひどく焼けているというのは奇妙な話だが‥‥‥‥‥")
+         (str "It looks like it's been hit by the fire way worse than anywhere else." 'br)
+         (str "It's weird that the room farthest from the entrance stairs is the one that got burned the worst......")
          (proc 0))
         (//
-         (text "通路の突き当たりにある部屋だ。" 'br)
-         (text "室内はあたり一面、黒く焼けこげ、床のあちこちには様々な物の残骸が散らばっている。")
+         (str "It's the room at the end of the hallway." 'br)
+         (str "The whole room is charred black, and all kinds of debris are scattered across the floor.")
          (proc 0)
-         (text "圧倒的な残骸の量を考えると、この部屋は倉庫のような使われ方をしていたに違いない。")
+         (str "Considering the overwhelming amount of debris, there's no doubt this room was being used like a warehouse.")
          (proc 0)
-         (text "他の場所より一層ひどく火災の影響を受けているようだ。" 'br)
-         (text "入り口の階段より一番遠い場所にある部屋が、もっともひどく焼けているというのは奇妙な話だが‥‥‥‥‥")
+         (str "It looks like the fire damage is even worse here than in other places." 'br)
+         (str "It's weird that the room farthest from the entrance stairs is the most badly burned......")
          (proc 0)
          (nop@)
          (set-reg 595 #t))))
@@ -62,86 +62,84 @@
        (branch-index
         (</>
          (/
-          (text "一面にひびが入り、かなりの部分の漆喰がはげ落ちている。" 'br)
-          (text "この様子では中のモルタルも相当の被害を受けているはずだ。")
+          (str "Cracks run all over the surface, and a good chunk of the plaster has peeled off." 'br)
+          (str "この様子では中のモルタルも相当の被害を受けているはずだ。")
           (proc 0)
-          (text "この天井の上は、修道院のどのあたりに位置するのだろう。" 'br)
-          (text "たとえ地上に建物の残骸が残っていなかったとしても、床に敷いた石が降ってきただけて、ひとたまりもないだろう。")
+          (str "この天井の上は、修道院のどのあたりに位置するのだろう。" 'br)
+          (str "Even if there were no building remains left on the ground, just having the stones laid on the floor come crashing down would be too much to handle, I bet.")
           (proc 0)
-          (text "室内のひどい有様を見れば、この部屋にずっと留まっていたいなどとは決して思わない。"))
-         (/ (text "もっと入り口に近い他の場所と比べても、この部屋がもっとも火災の被害を被った事に疑いはない。"))))
+          (str "Seeing the terrible state of the room, you'd never think you’d want to stay here for long."))
+         (/ (str "Compared to the other places closer to the entrance, there's no doubt that this room took the worst damage from the fire."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "一面が黒く焼けこげていて、元の白い漆喰は全く見る事が出来ない。" 'br)
-          (text "散乱した物の量から判断して、この部屋が倉庫のような使われ方をしていた事は間違いなさそうだ。")
+          (str "The whole surface is charred black, and you can't see any trace of the original white plaster at all." 'br)
+          (str "Judging by the amount of stuff scattered around, there's no doubt this room was being used like a storage area.")
           (proc 0)
-          (text "この様子では室内に誰かが入り込んだとしたら、その跡がはっきり残っているだろう。")
+          (str "If someone had snuck into the room like this, there would definitely be clear traces left behind.")
           (proc 0)
-          (text "その形跡がないところを見ると、火災の後で部屋に入った人間は皆無のようだ。"))
+          (str "Since there are no traces of that, it looks like nobody entered the room after the fire."))
          (/
-          (text "室内には人が入った様子はない。" 'br)
-          (text "もっとも、一目見ただけで、室内にまともな物が残っている訳がないと判断できるから当然かもしれない。"))))
+          (str "There's no sign that anyone's been in the room." 'br)
+          (str "Well, maybe it's only natural since just one look is enough to tell there's nothing decent left in the room."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "麻を編んだ袋のようだ。" 'br)
-          (text "中に何が入っているかは解らないが、小麦粉かとうもろこしだろう。")
+          (str "Looks like a bag woven from hemp." 'br)
+          (str "I don't know what's inside, but it's probably flour or corn.")
           (proc 0)
-          (text "上にあった物はすっかり燃え尽きてしまっているが、この麻袋は比較的ましなようだ。")
+          (str "The stuff that was on top is all burned up, but this sack seems to be in relatively okay shape.")
           (proc 0)
-          (text "しかし中に何が入っているにせよ、今も食べられるとは思わない。" 'br)
-          (text "わざわざ開けて中を見る必要はなさそうだ。"))
-         (/ (text "麻を編んで作った袋だ。" 'br) (text "中に入っているのは多分、小麦粉かとうもろこしだろう。"))))
+          (str "But no matter what's inside, I still don't think it's edible now." 'br)
+          (str "Doesn't look like there's any need to bother opening it up and peeking inside."))
+         (/ (str "It's a bag made from woven hemp." 'br) (str "What's inside is probably either flour or corn."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "割れた陶磁器の壷のような物の破片のようだ。" 'br)
-          (text "ここが倉庫だったとすると、中身は葡萄酒かエールあたりか。")
+          (str "It looks like fragments of a broken ceramics vase or something." 'br)
+          (str "If this was a warehouse, then the contents would probably be wine or ale.")
           (proc 0)
-          (text "アーカムには広い平地は少ないようだから、あまり農作業が盛んだったとは思えない。")
+          (str "There don't seem to be many wide open fields in Arkham, so I can't imagine farming was ever that big there.")
           (proc 0)
-          (text
-           "昔の僧院や修道院では、自分の土地で作物を作ったり、羊を飼ったりしていたらしいが、この修道院で自給自足できたとは考えにくい。")
+          (str "In old monasteries and abbeys, it seems they used to grow crops and raise sheep on their own land, but it's hard to imagine that this Monastery was able to be self-sufficient.")
           (proc 0)
-          (text "どうしてこんな貧しい土地に修道院を建てたのか理解に苦しむ。" 'br)
-          (text "まだ英国国教会が力を持っていた頃の暴挙だったのだろう。"))
+          (str "I can't understand why they built a Monastery in such a poor land." 'br)
+          (str "まだ英国国教会が力を持っていた頃の暴挙だったのだろう。"))
          (/
-          (text "割れた陶磁器の破片だ。" 'br)
-          (text "おそらく木の棚に乗っていたのだろうが、棚が燃え尽きて床に落ちてしまったようだ。"))))
+          (str "割れた陶磁器の破片だ。" 'br)
+          (str "It was probably sitting on a wooden shelf, but it looks like the shelf burned up and it fell to the floor."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "漆喰がはげ落ちて、中のモルタルの壁が露出してしまっている。" 'br)
-          (text
-           "それだけで火災のすごさを物語っているが、地上に続く階段から最も遠いこの部屋が、これほどの被害を被ったのはどうしても理解に苦しむ。")
+          (str "漆喰がはげ落ちて、中のモルタルの壁が露出してしまっている。" 'br)
+          (str "That alone shows how intense the fire was, but I just can't understand why this room, which is the farthest from the stairs leading to the ground, suffered this much damage.")
           (proc 0)
-          (text "まるで、誰かが作為的にこの部屋の中にあった物を全て燃やし尽くそうとしたように見える。")
+          (str "It's like someone deliberately tried to burn everything in this room to ashes.")
           (proc 0)
-          (text "この部屋の中にどんな物が置いてあったにせよ、それらの品々は全て灰になってしまった。")
+          (str "この部屋の中にどんな物が置いてあったにせよ、それらの品々は全て灰になってしまった。")
           (proc 0)
-          (text "私にはそれを確かめる事は不可能だ。" 'br)
-          (text "他の部屋を当たってみれば、そのヒントぐらいは解るかもしれない。"))
-         (/ (text "まるで、誰かが作為的にこの部屋の中にあった物を全て燃やし尽くそうとしたように見える。"))))
+          (str "It's impossible for me to check that." 'br)
+          (str "If you try checking the other rooms, you might at least figure out a hint or two."))
+         (/ (str "It looks like someone tried to deliberately burn everything in this room to ashes."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "壁の表面が大きく剥がれ落ちて、内部が露出している。" 'br)
-          (text "地下室の構造からすると、この向こう側は土の中のはずだ。")
+          (str "The surface of the wall has peeled off in large patches, exposing the inside." 'br)
+          (str "Judging from the structure of the Basement, it should be dirt on the other side of this wall.")
           (proc 0)
-          (text "壁の向こうに何かがあるとは思えない。" 'br)
-          (text "どのみち部屋の中がこんな有様では往時の修道院の姿を知る事はほとんど不可能だろう。"))
-         (/ (text "まるで、誰かが作為的にこの部屋の中にあった物を全て燃やし尽くそうとしたように見える。"))))
+          (str "I can't imagine there's anything on the other side of the wall." 'br)
+          (str "Either way, with the room in this state, it's almost impossible to know what the Monastery looked like back in the day."))
+         (/ (str "It looks like someone tried to deliberately burn everything in this room to ashes."))))
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -151,7 +149,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　外に出る　　"))))
+        (menu1 60 100 (</> (/ (str "　　Go outside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

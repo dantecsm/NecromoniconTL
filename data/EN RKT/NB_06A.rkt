@@ -31,11 +31,11 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "雑貨店のウインドーは、何者かに破られたそのままの姿で、無惨な姿を晒している。")
+         (str "The window of the general store is left just as it was, shattered by someone, exposing its miserable state.")
          (proc 0)
-         (text "もしもハンスが帰ってきたならば、いくら商売に熱心でない彼でもこの有様をなんとかしようと思うだろう。")
+         (str "If Hans were to come back, even though he isn't that enthusiastic about business, he'd probably want to do something about this mess.")
          (proc 0)
-         (text "おそらく、店の中は私とガードナーとで入った時そのままで、撃ち殺した『深きもの』の冷たい躯が転がっているだけだろう。")
+         (str "Most likely, the inside of the store is still exactly as it was when Gardner and I went in, with only the cold corpse of the Deep One we shot lying around.")
          (proc 0))
         (//
          (? (= 528 #t))
@@ -62,8 +62,8 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "入り口の鍵こそ開いているものの、中には誰もいる様子がない。" 'br)
-         (text "ハンスは何処かに行ってしまったようだ。")
+         (str "Even though the entrance is unlocked, there doesn't seem to be anyone inside." 'br)
+         (str "It looks like Hans has gone off somewhere.")
          (proc 0))
         (//
          (image-file "GPC¥C_043.GPC")
@@ -88,16 +88,16 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "「コーデリア」　誰もいないみたい。" 'br)
-         (text "　　　　　　　　鍵はかかっていないけど‥‥‥‥‥")
+         (str "「Cordelia」 Looks like nobody's here." 'br)
+         (str "　　　　　　　　The door's not locked though.....")
          (proc 0)
-         (text "コーデリアの言うとおり、店の入り口には鍵がかかっていないものの、中に人のいる気配はない。")
+         (str "Just like Cordelia said, even though the store entrance isn't locked, there's no sign of anyone inside.")
          (proc 0)
-         (text "「ジョナサン」　ハドスン夫人の次はハンスか‥‥‥‥" 'br)
-         (text "　　　　　　　　私たちを除く村人全員が何処かに雲隠れしてしまった　　　　　　　　ようだな。")
+         (str "「Jonathan」 So first Mrs. Hudson, and now Hans....." 'br)
+         (str "　　　　　　　　Seems like all the villagers except us have disappeared somewhere into thin air.")
          (proc 0)
-         (text "どのみち、こんな所にネクロノミコンがある訳がない。" 'br)
-         (text "他をあたってみた方がよさそうだ。")
+         (str "Either way, there's no way the Necronomicon would be in a place like this." 'br)
+         (str "We should probably check somewhere else.")
          (proc 0)
          (nop@)
          (set-reg 528 #t))))
@@ -112,58 +112,54 @@
        (branch-index
         (</>
          (/
-          (text "無人の雑貨店は、もう何年も前に店じまいしてしまった後のように、時の流れから見放されてしまったように見える。")
+          (str "The deserted general store looks like it shut down years ago, like it's been abandoned by the flow of time.")
           (proc 0)
-          (text
-           "ハンスがいる時からこのままだった事は間違いないが、入り口の鍵さえそのままに放置されていると、見捨てられてしまったと思っても無理からぬ事だ。"))
+          (str "There's no doubt it's been like this since Hans was here, but if even the entrance key is left just as it is, it's no wonder people would think they've been abandoned."))
          (/
-          (text
-           "塗装の剥げた外壁や、埃をかぶって変色したショーウインドーのガラスを見ていると、とっくの昔に潰れてしまった店のような錯覚を覚えてしまう。"))))
+          (str "When I look at the peeling outer walls and the dust-covered, discolored show window glass, it almost feels like the store went out of business ages ago."))))
        (proc 0))
       (/
        (if (</>
             (//
              (? (= 130 #t))
              (nop@)
-             (text "扉のガラスは割れ、蝶番がゆるんでしまっている。" 'br)
-             (text "どのみち中に誰かがいるとは思えないが、このまま放置しておくのは、あまりにも忍びないように感じられる。")
+             (str "The glass in the door is broken, and the hinges are loose." 'br)
+             (str "どのみち中に誰かがいるとは思えないが、このまま放置しておくのは、あまりにも忍びないように感じられる。")
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "鍵がかかっていないどころか、完全に閉まっていない扉が風にガタガタ音を立てて揺れている。")
+                (str "鍵がかかっていないどころか、完全に閉まっていない扉が風にガタガタ音を立てて揺れている。")
                 (proc 0)
-                (text
-                 "油の切れた蝶番の立てるきしみは、誰からも見放されてしまった店が悲しみ、嗚咽を洩らしているように聞こえて、どうにももの悲しい気分にさせる。"))
+                (str "The creak made by the oil-starved hinges sounded like a shop abandoned by everyone was grieving, letting out sobs, and it just made me feel unbearably sad."))
                (/
-                (text "扉が風に揺られて軋んでいる様子は、中に誰もいない事を物語っているように思われる。")
+                (str "The door creaks as it's swayed by the wind, making it seem like there's nobody inside.")
                 (proc 0)
-                (text
-                 "いくらハンスでも、不快な音を立てながらガタガタ揺れている扉をそのままにしておくとは考えにくい、やはりハンスは何処かに行ってしまったのではないだろうか。"))))
+                (str "Even for Hans, it's hard to imagine he'd just leave the door rattling and making such an unpleasant noise-maybe Hans has really gone off somewhere after all."))))
              (proc 0)))))
       (/
        (if (</>
             (//
              (? (= 130 #t))
              (nop@)
-             (text "ガラスが破られたショーウインドーは、中の商品があちこちに散乱してひどい狼藉を受けた後が如実に感じられる。")
+             (str "The show window with broken glass feels like it's been seriously ransacked, with the items inside scattered all over the place.")
              (proc 0)
-             (text "これをやったのが店の中で死んでいるあの怪物だとしたら、少なくとも残虐性の部分だけは人間らしさを残しているようだ。")
+             (str "If the monster that's lying dead in the shop is the one who did this, then at the very least, it seems like they've kept a bit of their humanity in just how brutal they are.")
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "埃をかぶったガラスが変色して、中の商品がよく見えない。" 'br)
-                (text "おそらく、ハンスの前の店主が飾り付けをしたそのままに放置しておいたのだろう。")
+                (str "The dust-covered glass is discolored, so you can't really see the stuff inside." 'br)
+                (str "Probably, the previous owner before Hans just left the decorations as they were.")
                 (proc 0)
-                (text "飾ってある商品もひどく古くさい代物で、これでは私たちはおろか村人の購買意欲をそそる事さえ難しい。"))
+                (str "The items on display are terribly old-fashioned, so much so that it's hard to imagine even the villagers wanting to buy them, let alone us."))
                (/
-                (text "今ではあまりお目にかかる事がないような、古くさくて価値のない商品がぞんざいに陳列されている。")
+                (str "Old-fashioned, worthless products you hardly ever see these days are carelessly on display.")
                 (proc 0)
-                (text "これでは私はおろか、村人達の購買意欲をそそる事さえ難しい。" 'br)
-                (text "あまり熱心に商売をしている訳ではないようだ。"))))
+                (str "At this rate, not only me, but it's hard to even get the villagers interested in buying anything." 'br)
+                (str "It doesn't seem like they're doing business all that eagerly."))))
              (proc 0)))))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -173,7 +169,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　　地図　　　"))))
+        (menu1 60 100 (</> (/ (str "　　　Map　　　"))))
         (proc 17))))
   (proc 14)
   (if (</> (// (? (= V 0) (= S 0)) (nop@) (set-reg 905 #f) (mes-load? 4608))))

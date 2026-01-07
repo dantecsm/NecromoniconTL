@@ -34,33 +34,29 @@
         (//
          (? (= 636 #t))
          (nop@)
-         (text "ギルマンハウスの前に戻った。" 'br)
-         (text "相変わらず辺りには誰もいないようだ。")
+         (str "I came back in front of Gilman House." 'br)
+         (str "As usual, there doesn't seem to be anyone around.")
          (proc 0)
          (nop@)
          (set-reg 636 #f))
         (//
          (? (= 66 #t))
          (nop@)
-         (text "ギルマンハウスの前だ。" 'br)
-         (text
-          "通りに面した窓には、一階もその上階にも明かりが灯っている様子はない。もっともあんなに汚れた窓では中の様子など解ろうはずもないが。")
+         (str "In front of the Gilman House." 'br)
+         (str "There's no sign of lights on in the windows facing the street, not on the first floor or the ones above. Well, with windows that filthy, there's no way to tell what's going on inside anyway.")
          (proc 0)
-         (text "私はドアノブにかけようとした手を止めて、上階の事を思いやった。" 'br)
-         (text "時間が時間だけに、コーデリアは眠ってしまった可能性が強い。しかし他に行く所がある訳でもなし、二階にいる事は間違いない。")
+         (str "I stopped my hand as I was about to grab the doorknob and thought about the people upstairs." 'br)
+         (str "時間が時間だけに、コーデリアは眠ってしまった可能性が強い。しかし他に行く所がある訳でもなし、二階にいる事は間違いない。")
          (proc 0)
-         (text "しかし‥‥‥‥‥" 'br)
-         (text
-          "すでに勝手知った他人の家という感はあるが、彼女のプライベートな部屋に無断で乗り込むのは、まるで情婦の部屋に通う軽薄な漁色家のようで気がひけるな。")
+         (str "But......" 'br)
+         (str "It already feels like someone else's house that I've gotten used to, but barging into her private room without permission makes me feel kinda guilty, like some fickle fisherman sneaking into his mistress's room.")
          (proc 0))
         (//
-         (text "私がパブの前にたどり着いた時、時刻はすでに真夜中を二時間あまりも過ぎていた。")
+         (str "When I got to the front of the Pub, it was already over two hours past midnight.")
          (proc 0)
-         (text
-          "店の窓には明かりも見えず、入り口の扉は堅く閉ざされたままになっている。あたりには酔いつぶれて寝ている酔っぱらいの姿はおろか、残飯を漁る犬猫の類さえ見えない。")
+         (str "店の窓には明かりも見えず、入り口の扉は堅く閉ざされたままになっている。あたりには酔いつぶれて寝ている酔っぱらいの姿はおろか、残飯を漁る犬猫の類さえ見えない。")
          (proc 0)
-         (text
-          "あたりをおおい尽くそうとする闇のベールを追い払おうとでも言うのか弱々しいガス灯の明かりが、さびれた裏道はさらにもの悲しい雰囲気を漂わせている。")
+         (str "The faint light of the gas lamp, as if trying to drive away the veil of darkness attempting to cover everything, only makes the desolate back alley feel even more melancholic.")
          (proc 0))))
    (proc 3)
    (loop
@@ -74,16 +70,15 @@
             (//
              (? (= 304 #t))
              (nop@)
-             (text "まるで私ひとりを残して村人全員がどこかにいってしまったようだ。" 'br)
-             (text "人いきれに辟易させられるロンドンに暮らしていては、これほど空虚な気分になるのは随分久しぶりのような気がする。")
+             (str "まるで私ひとりを残して村人全員がどこかにいってしまったようだ。" 'br)
+             (str "Living in London, exhausted by the press of people, it feels like it's been ages since I've felt this empty.")
              (proc 0))
             (//
-             (text "しんと静まりかえった通りには、酔いつぶれた酔っぱらいはおろか、残飯にありつこうと徘徊する犬猫の類さえ見えない。")
+             (str "On the dead silent street, there wasn’t even a passed-out drunk, not to mention not a single stray dog or cat roaming around trying to get at some leftovers.")
              (proc 0)
-             (text
-              "明かりの消えた店々は廃屋のようだ。黒々とした窓はぽっかりと空洞になった死人の眼孔のように見え、所々ガラスの割れた戸口は歯抜け老人の皺の寄った口を連想させる。")
+             (str "The shops with their lights out look like abandoned buildings. Their pitch-black windows look like the empty eye sockets of a corpse, and here and there, doorways with broken glass remind me of the wrinkled mouth of a toothless old man.")
              (proc 0)
-             (text "唯一まともな体裁を保っているのはギルマンハウスだけだが、店のはねた後では活気に満ちた様子を想像するのが難しい。")
+             (str "The only place that still looks halfway decent is the Gilman House, but it's hard to imagine it being lively after the store's closed up for the night.")
              (proc 0)
              (nop@)
              (set-reg 304 #t)))))
@@ -92,15 +87,12 @@
             (//
              (? (= 305 #t))
              (nop@)
-             (text
-              "確かに、アーカムの中ではモダンですぐれた建造物と言えない事もないが、あまり見ていて楽しい類のものではない。所詮この程度のパブなどどこにでも転がっているのだ。")
+             (str "確かに、アーカムの中ではモダンですぐれた建造物と言えない事もないが、あまり見ていて楽しい類のものではない。所詮この程度のパブなどどこにでも転がっているのだ。")
              (proc 0))
             (//
-             (text
-              "辻馬車が主な交通手段だった頃のロンドンの裏通りにあったような、堅牢で端正な造りの建物だ。変色した煉瓦の壁や金属に浮き出た錆が建物の古びた雰囲気を一層確かなものにしている。")
+             (str "It's a sturdy and neat building, like one you might have found on the backstreets of London back when horse-drawn carriages were the main way to get around. The discolored brick walls and the rust showing on the metal make the building's old, worn-out vibe feel even more real.")
              (proc 0)
-             (text
-              "壁の一面を占領したガラス窓はよく手入れされているようだが、それでもどうする事が出来ないその物自体の老化のために中を覗き見る事が出来ない。表面が波打っているように見えるのは、当時の稚拙な技術のためだろう。")
+             (str "The glass window taking up one whole wall seems well maintained, but still, because of the inevitable aging of the material itself, you can't look inside. The way the surface looks wavy is probably due to the crude technology of those days.")
              (proc 0)
              (nop@)
              (set-reg 305 #t)))))
@@ -109,16 +101,14 @@
             (//
              (? (= 306 #t))
              (nop@)
-             (text "建物の凝った造りに対して、看板の文字はいかにも面白味がない。" 'br)
-             (text
-              "店のオーナーは気の弱い老夫婦で、自分の主張を通そうとする建築家のなすがままになって、当初の予想とは大幅に異なる完成になってしまったという雰囲気だ。")
+             (str "Despite the building's elaborate construction, the sign's lettering is totally boring." 'br)
+             (str "The shop’s owners are a timid elderly couple, and with the architect pushing through his own ideas, it seems like the place ended up completely different from what was originally planned.")
              (proc 0))
             (//
-             (text "飾り気のないゴシック文字で店の名前が記してある。" 'br)
-             (text "錆びのせいでペンキが浮き上がった具合から判断すると、１０年以上はほったらかしのままだろう。")
+             (str "The store's name is written in plain Gothic letters." 'br)
+             (str "Judging from how the paint is peeling up because of the rust, it's probably been left alone for over 10 years.")
              (proc 0)
-             (text
-              "もっとも、村の住人はこの店が何を営んでいるのか知っている筈だし、よそ者がこんなところにやってくるのは非常に希な事に違いない。看板を飾る必要性自体を疑ってしまう。")
+             (str "Still, the villagers probably know what kind of shop this is, and outsiders coming to a place like this must be really rare. Makes me question whether there's even any need for a signboard at all.")
              (proc 0)
              (nop@)
              (set-reg 306 #t)))))
@@ -127,41 +117,38 @@
             (//
              (? (= 309 #t))
              (nop@)
-             (text "鍵は開いている。" 'br)
-             (text
-              "何故だか知らないが、いくら不用心だと注意しても田舎の人間はけして施錠しようとしない。私のような者からすれば盗人に施しをしてやっているようで不安で仕方がない。")
+             (str "The door's unlocked." 'br)
+             (str "I don't know why, but no matter how much I warn them about being careless, country folks just never try to lock up. For someone like me, it feels like we're just handing out gifts to thieves, and it makes me uneasy as hell.")
              (proc 0))
             (//
              (? (= 308 #t))
              (nop@)
-             (text "私は店の入り口のドアノブに手をかけた。" 'br)
-             (text "塗装のはげ落ちた真鍮の握りはざらざらしていて、錆と金属の地金が放つ血の臭いにも似た悪臭をわずかに漂わせている。")
+             (str "I put my hand on the doorknob at the entrance of the shop." 'br)
+             (str "The worn-down brass handle feels rough, and it gives off a faint stench, kind of like the smell of blood, from the rust and bare metal beneath the paint.")
              (proc 0)
-             (text "扉は私の意に反して、軽々と開いてしまった。" 'br)
-             (text "鍵は閉まっていない。中に誰かがいるようだ。")
+             (str "Against my will, the door swung open easily." 'br)
+             (str "It's not locked. Looks like someone is inside.")
              (proc 0)
              (nop@)
              (set-reg 309 #t))
             (//
              (? (= 307 #t))
              (nop@)
-             (text "そういえば、女がどこに住んでいるのか聞いていなかったな。" 'br)
-             (text "まさかこんな寂れた裏通りの酒場に寝泊まりしているという訳ではないだろうに。")
+             (str "Come to think of it, I never did ask where the woman lived." 'br)
+             (str "No way she's crashing in a run-down back alley tavern like this... right?")
              (proc 0)
-             (text "ハドスン夫人に聞いてみようか‥‥‥‥" 'br)
-             (text "同じアーカムで、女ひとりで店を切り盛りしている者同士だし、何かと助け合っているのではないかな。")
+             (str "Maybe I should ask Mrs. Hudson......" 'br)
+             (str "Since we're both running businesses alone here in Arkham, maybe they're helping each other out with stuff.")
              (proc 0)
-             (text "夫人に妙な勘ぐりを入れられるのは面白くないが‥‥‥‥" 'br)
-             (text "こんな村に異国の女が、しかも一人で酒場をやっているなんて、興味をひかない事もないしな。")
+             (str "I wouldn't like it if the lady started getting weird ideas, though......" 'br)
+             (str "I mean, a foreign woman running a tavern all by herself in a village like this, it's kinda hard not to get curious, you know?")
              (proc 0)
              (nop@)
              (set-reg 308 #t))
             (//
-             (text
-              "約束の時間を随分過ぎてしまったが、女は待っていてくれるだろうか。ここからでは中の様子をうかがい知る事はできないが‥‥‥‥")
+             (str "I've gone way past the promised time-will the woman still be waiting for me? I can't tell what's happening inside from here though......")
              (proc 0)
-             (text
-              "昼間約束した時も、あまり乗り気ではなさそうだったし、私が時間に遅れた事を幸いに、家に帰ってしまったのではないだろうか。")
+             (str "When we made plans during the day, he didn't seem all that eager, and since I was late, maybe he used that as an excuse and just went home.")
              (proc 0)
              (nop@)
              (set-reg 307 #t)))))))
@@ -177,11 +164,11 @@
          60
          100
          (</>
-          (/ (text "　　　広場　　　"))
-          (/ (text "　　") (str " ") (text "魚鱗亭") (str " ") (text "　　"))
-          (/ (text "　　") (str " ") (text "雑貨店") (str " ") (text "　　"))
-          (/ (text "　　　遺跡　　　"))
-          (/ (set-reg 309 #t) (nop@) (text "　　中に入る　　"))))
+          (/ (str "　　　Plaza　　　"))
+          (/ (text "　　") (str " ") (str "Fish Scale Inn") (str " ") (text "　　"))
+          (/ (text "　　") (str " ") (str "General store") (str " ") (text "　　"))
+          (/ (str "　　　Ruins　　　"))
+          (/ (set-reg 309 #t) (nop@) (str "　　Go inside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

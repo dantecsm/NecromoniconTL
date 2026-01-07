@@ -31,32 +31,31 @@
         (//
          (? (= 57 #t))
          (nop@)
-         (text "「ガードナー」　どうしたんだ、まだ何か用事が残っていたのか？")
+         (str "「Gardner」 What's up, do you still have something left to do？")
          (proc 0)
-         (text
-          "ガードナーはもう疲れはてて、一刻も早く魚鱗亭に戻りたくて仕方がないといった様子だ。こんな所に寄り道している私を非難がましい目で見ている。")
+         (str "Gardner already looks exhausted, like he just wants to get back to the Fish Scale Inn as soon as possible. He's shooting a reproachful look at me for stopping off at a place like this.")
          (proc 0))
         (//
          (? (= 56 #t))
          (nop@)
-         (text "「トマス」　なんだってこんな所に来たんだよ。" 'br)
-         (text "　　　　　　俺達は一杯やりに行く途中だったんじゃなかったか？")
+         (str "「Thomas」 Why the hell did we come to a place like this?" 'br)
+         (str "　　　　　　Weren't we on our way to get a drink？")
          (proc 0)
-         (text "トマスはまるでおしゃぶりを取り上げられた赤ん坊のように、早く酒にありつきたくて仕方がないようだ。")
+         (str "Thomas looks like a baby who's had his pacifier taken away, desperate to get his hands on some booze as soon as possible.")
          (proc 0))
         (//
          (? (= 526 #t))
          (nop@)
-         (text "村で唯一の雑貨店の前だ。" 'br)
-         (text "あいかわず客の姿はなく、あまり繁盛している様子でもない。これで店が成り立つと言うのなら、随分楽な商売をしている。")
+         (str "We're in front of the only general store in the village." 'br)
+         (str "As usual, there aren't any customers, and it doesn't look like business is booming. If you can run a shop like this and still make it, that's a pretty easy living.")
          (proc 0)
-         (text "もっとも、ここには商売敵になるような店は他に一軒もない訳だから、村人達は嫌でもここで買い物をしなければならない訳だ。")
+         (str "Well, it's not like there's any other shop in the village to compete with this one, so the villagers have to shop here whether they like it or not.")
          (proc 0))
         (//
-         (text "ここが夫人の言っていた雑貨店か。" 'br)
-         (text "店がまえはロンドンの下町にならどこにでもありそうな、小ぢんまりとしたもので、特にこれといった特徴はない。")
+         (str "So this is the general store the lady was talking about." 'br)
+         (str "The storefront is humble, nothing special, the kind you'd find anywhere in the downtown areas of London.")
          (proc 0)
-         (text "しかし、ここが片田舎の漁村である事を考えると、なかなか立派な外見と言えないこともない。")
+         (str "But considering this is a remote fishing village, you could almost say it looks pretty decent from the outside.")
          (proc 0)
          (nop@)
          (set-reg 526 #t))))
@@ -72,12 +71,11 @@
             (//
              (? (= 170 #t))
              (nop@)
-             (text
-              "魚鱗亭に比べると随分新しい建物のようだ。このあたりが栄華を極めていた頃のアーカムのメインストリートだったのだろうか。この店が出来た頃がその時代に相当するとしたら、せいぜい５０年ぐらい前の事の話だろう。")
+             (str "Compared to the Fish Scale Inn, this building looks pretty new. Maybe this was Arkham's Main Street back when the area was at its peak. If this shop was built around then, we're talking at most about fifty years ago.")
              (proc 0))
             (//
-             (text "店はあまり繁盛してはいないようで、客の姿は見えない。" 'br)
-             (text "うら寂れた様子がどんよりとした空模様に相まって、絵はがきのような叙情的な雰囲気をかもしだしている。")
+             (str "The shop doesn't seem very busy, and I don't see any customers." 'br)
+             (str "The rundown look, together with the dull, gloomy sky, gives off a sort of postcard-like, sentimental vibe.")
              (proc 0)
              (nop@)
              (set-reg 170 #t)))))
@@ -86,14 +84,13 @@
             (//
              (? (= 171 #t))
              (nop@)
-             (text "店が営業中である事を証明するような物は一切ない。" 'br)
-             (text "本当にやっているのだろうか。")
+             (str "There's nothing at all to prove that the shop is actually open for business." 'br)
+             (str "Is it really even operating?")
              (proc 0))
             (//
-             (text
-              "すっかり塗装のはげ落ちたオーク材の扉は、表面こそ痛んで見えるもののまだしっかりと役目を果たしている。ガラス窓は長らく掃除された事が無いらしく、かなり汚れている。")
+             (str "The oak door, with all its paint peeled off, looks pretty worn on the surface, but still does its job just fine. The glass windows haven't been cleaned in ages and are pretty filthy.")
              (proc 0)
-             (text "扉にしっかりと固定されたドアノブは真鍮製で、実用本位の飾り気の無い物だ。使い込まれて地金の鈍い光沢を放っている。")
+             (str "The doorknob, firmly fixed on the door, is made of brass and totally plain, all about function. It's well-used and has a dull, metallic shine.")
              (proc 0)
              (nop@)
              (set-reg 171 #t)))))
@@ -102,15 +99,14 @@
             (//
              (? (= 172 #t))
              (nop@)
-             (text "このての店には、時に非常に貴重な掘り出し物が埋もれている可能性がある。しかし今の私に役立つような品はなさそうだ。")
+             (str "With shops like this, sometimes you can find some seriously rare hidden treasures. But it doesn't look like there's anything here I could actually use right now.")
              (proc 0)
-             (text "私は缶入りスープのラベル収集や、洗濯糊の宣伝ポスターを鑑賞する趣味はない。")
+             (str "I've got no hobby of collecting soup can labels or admiring laundry starch ad posters.")
              (proc 0))
             (//
-             (text
-              "ショーウインドーの中の品々は随分古い物のように思われる。店を見栄えよく飾ろうなどという努力は、もう随分前にやめてしまったらしい。")
+             (str "The items in the show window look pretty old. It seems like they gave up trying to make the store look nice a long time ago.")
              (proc 0)
-             (text "埃が積もり黄色く変色しはじめたガラスは、最後に掃除されたのがいつの事なのか判別出来ないほど汚れている。")
+             (str "埃が積もり黄色く変色しはじめたガラスは、最後に掃除されたのがいつの事なのか判別出来ないほど汚れている。")
              (proc 0)
              (nop@)
              (set-reg 172 #t)))))))
@@ -126,11 +122,11 @@
          60
          100
          (</>
-          (/ (text "　　") (str " ") (text "魚鱗亭") (str " ") (text "　　"))
-          (/ (text "　　　広場　　　"))
-          (/ (set-reg 54 #t) (nop@) (text "　　　遺跡　　　"))
-          (/ (set-reg 56 #t) (nop@) (str " ") (text "ギルマンハウス") (str " "))
-          (/ (text "　　中に入る　　"))))
+          (/ (text "　　") (str " ") (str "Fish Scale Inn") (str " ") (text "　　"))
+          (/ (str "　　　Plaza　　　"))
+          (/ (set-reg 54 #t) (nop@) (str "　　　Ruins　　　"))
+          (/ (set-reg 56 #t) (nop@) (str " ") (str "Gilman House") (str " "))
+          (/ (str "　　Go inside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

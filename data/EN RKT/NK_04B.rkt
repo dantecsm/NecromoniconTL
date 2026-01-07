@@ -33,33 +33,31 @@
         (//
          (? (= 122 #t))
          (nop@)
-         (text "玄関ホールには上階に上がる階段と、部屋の左右にそれぞれひとつづつ扉がある。")
+         (str "In the entrance hall, there are stairs leading upstairs and a door on each side of the room.")
          (proc 0)
-         (text
-          "左の扉をくぐると地下に続く階段があり、右の扉は家族の居間に続いている。ネクロノミコンのページにはさまっていた鍵は、おそらくその居間にある、奥の部屋に続く扉の鍵に違いない。")
+         (str "When you go through the left door, there's a staircase leading down to the basement, and the right door leads to the family living room. The key tucked between the pages of the Necronomicon is probably for the door in the living room that leads to the back room.")
          (proc 0))
         (//
          (? (= 608 #t))
          (nop@)
-         (text "玄関ホールには上階に上がる階段と、部屋の左右にそれぞれひとつづつ扉がある。")
+         (str "In the entrance hall, there are stairs going up to the upper floor and one door each on both the left and right sides of the room.")
          (proc 0)
-         (text
-          "左の扉をくぐると地下に続く階段があり、右の扉は家族の居間に続いている。その奥にある今私の持っている鍵では開かない部屋が、ドルリイの書斎だろう。")
+         (str "Passing through the left door, there are stairs leading down to the basement, and the right door leads to the family living room. The room further back, the one I can't open with the key I have now, is probably Dollie's study.")
          (proc 0))
         (//
-         (text "「コーデリア」　また全部の部屋を探さなければならないのね。" 'br)
-         (text "　　　　　　　　気が遠くなりそう。")
+         (str "「Cordelia」 We have to search all the rooms again, huh." 'br)
+         (str "　　　　　　　　I feel like I'm about to pass out.")
          (proc 0)
-         (text "確かにいくつもの部屋のあるダニッジ邸を、全部調べて回るのは骨の折れる仕事だ。")
+         (str "Sure, checking every single room in the Dunwich Mansion is a real pain in the ass.")
          (proc 0)
-         (text "「ジョナサン」　全部の部屋を調べる必要はないだろう。" 'br)
-         (text "　　　　　　　　子供部屋や地下室には、ネクロノミコンを隠してある　　　　　　　　可能性は薄いんじゃないかな。")
+         (str "「Jonathan」 We probably don't need to check every room." 'br)
+         (str "　　　　　　　　I don't think there's much chance they've got the Necronomicon hidden in a kid's room or the basement.")
          (proc 0)
-         (text "「コーデリア」　怪しいのは、居間と二階の実験室みたいな部屋ね。" 'br)
-         (text "　　　　　　　　居間の奥にある部屋は、鍵がないから入れないし。")
+         (str "「Cordelia」 The suspicious places are the living room and that laboratory-like room on the second floor." 'br)
+         (str "　　　　　　　　The room at the back of the living room can't be entered because there's no key.")
          (proc 0)
-         (text "「ジョナサン」　そうだ、その扉の鍵も探さなければならない。" 'br)
-         (text "　　　　　　　　あの部屋が一番怪しいのだから。")
+         (str "「Jonathan」 Yeah, we also have to look for the key to that door." 'br)
+         (str "　　　　　　　　That room is the most suspicious, after all.")
          (proc 0)
          (nop@)
          (set-reg 608 #t))))
@@ -74,84 +72,82 @@
        (branch-index
         (</>
          (/
-          (text "床の上には厚く埃が積もっている。" 'br)
-          (text "私たちの足跡以外は、少なくともここ数十年の間は誰もホールを歩いた者はいないらしい。")
+          (str "There's a thick layer of dust on the floor." 'br)
+          (str "Other than our footprints, it looks like nobody's walked these halls for at least the past few decades.")
           (proc 0)
-          (text "ここには血の跡は見られないが、邸内を回っていくうちに、陰惨な事件のあった部屋にも嫌でも入らなければならない訳だ。"))
+          (str "There aren't any traces of blood here, but as I go around the mansion, I have no choice but to enter the room where that gruesome incident happened, whether I like it or not."))
          (/
-          (text "我々の足跡以外には何もみつからない。" 'br)
-          (text "どのみち、この屋敷に好んで入ろうなどという人間は、他にはいないだろう。"))))
+          (str "We can't find anything except our own footprints." 'br)
+          (str "Either way, there's probably no one else who would willingly come into this mansion."))))
        (proc 0))
       (/
        (branch-reg
         130
         (</>
          (/
-          (text "「コーデリア」　二階で調べなければならないのは、子供部屋の向かい　　　　　　　　にある実験室みたいな部屋ね。")
+          (str "「Cordelia」 The place we have to check upstairs is the room that looks like a laboratory across from the kids' room.")
           (proc 0)
-          (text "「コーデリア」　机や棚はいろんな物でごちゃごちゃしてるし、何かを　　　　　　　　隠すにはもってこいじゃないかしら？")
+          (str "「Cordelia」 The desk and shelves are all cluttered with stuff, so wouldn't this be the perfect place to hide something？")
           (proc 0)
-          (text "「ジョナサン」　そうだな、あそこなら本や鍵を隠すには絶好の場所か　　　　　　　　もしれない。")
+          (str "「Jonathan」 そうだな、あそこなら本や鍵を隠すには絶好の場所か　　　　　　　　もしれない。")
           (proc 0)
-          (text "「コーデリア」　行ってみましょう？" 'br)
-          (text "　　　　　　　　ギシギシ言う廊下はちょっと恐いけど‥‥‥‥"))
+          (str "「Cordelia」 Shall we go try it out？" 'br)
+          (str "　　　　　　　　The creaking hallway is kinda scary though......"))
          (/
-          (text "上階に続く階段がある。" 'br)
-          (text "ドルリイのふたりの娘のうちのどちらかの部屋と、誰が使っていたのかは定かでない実験室のような部屋がある。")
+          (str "There's a staircase leading to the upper floor." 'br)
+          (str "There's a room that belongs to one of Dollie's two daughters, and another room that looks like a laboratory, but it's not clear who used it.")
           (proc 0)
-          (text "今の私には、どちらもあまり関係がない。" 'br)
-          (text "目指すはドルリイの書斎だけだ。"))))
+          (str "Right now, neither of those really matter to me." 'br)
+          (str "Our only goal is Dollie's study."))))
        (proc 0))
       (/
-       (text "二階の各部屋をつなぐ廊下に入る為の廊下だ。" 'br)
-       (text "築後かなりの年月を経ており、さらに人が住まなくなって久しいために床が傷んでいて今にも抜けてしまいそうになっている。")
+       (str "It's the hallway to enter the corridor that connects all the rooms on the second floor." 'br)
+       (str "Many years have passed since it was built, and because people haven't lived here for a long time, the floor is worn out and looks like it could collapse at any moment.")
        (proc 0)
        (branch-reg
         130
         (</>
          (/
-          (text
-           "「コーデリア」　わたし、二階の実験室みたいな部屋が怪しいと思う。　　　　　　　　あの部屋にはいろんな道具なんかが散乱していて、何　　　　　　　　かを隠すにはもってこいだと思うの。")
+          (str "「Cordelia」 I think that room on the second floor that looks like a laboratory is suspicious.　　　　　　　　There are all sorts of tools and stuff scattered around in there, so I think it's the perfect place to hide something.")
           (proc 0)
-          (text "「コーデリア」　もしもこの屋敷の中にネクロノミコンが隠してあれば　　　　　　　　の話だけどね。"))
-         (/ (text "今は特に二階に行く理由はないだろう。" 'br) (text "目指すはドルリイの書斎だけだ。"))))
+          (str "「Cordelia」 If the Necronomicon really is hidden somewhere in this mansion　　　well, that's another story."))
+         (/ (str "There's no particular reason to go upstairs right now." 'br) (str "The only goal is Dollie's Study."))))
        (proc 0))
       (/
        (branch-reg
         130
         (</>
          (/
-          (text "「コーデリア」　居間か‥‥‥‥‥")
+          (str "「Cordelia」 The living room, huh.........")
           (proc 0)
-          (text "「コーデリア」　あの部屋に何かを隠すような場所があったかしら？" 'br)
-          (text "　　　　　　　　小さな机と、クローゼットがあったみたいだけど。")
+          (str "「Cordelia」 Was there any place in that room where you could hide something？" 'br)
+          (str "　　　　　　　　小さな机と、クローゼットがあったみたいだけど。")
           (proc 0)
-          (text "「ジョナサン」　クローゼットの中は空だったように記憶している。" 'br)
-          (text "　　　　　　　　おそらく事件の後で屋敷を調べた人間がそっくり中身　　　　　　　　をさらってしまったんだろう。")
+          (str "「Jonathan」 I remember the closet was empty." 'br)
+          (str "　　　　　　　　Probably someone who checked the mansion after the incident made off with everything inside.")
           (proc 0)
-          (text "「コーデリア」　それに文句を言える人間もいなかった訳だしね。" 'br)
-          (text "　　　　　　　　じゃあ、あの部屋は望みがないかしら。"))
+          (str "「Cordelia」 Guess there wasn't anyone around who could complain about it, either." 'br)
+          (str "　　　　　　　　Well then, I wonder if there's no hope for that room."))
          (/
-          (text "ダニッジ邸の居間に続く扉だ。" 'br)
-          (text "居間の向こうにはドルリイの使っていた書斎がある。")
+          (str "ダニッジ邸の居間に続く扉だ。" 'br)
+          (str "Beyond the living room, there's the study that Dollie used.")
           (proc 0)
-          (text
-           "マーシュがドルリイの書斎で何を見たのか知らないが、あの部屋に今私が巻き込まれているアーカムの秘密の全貌が隠されているのは間違いないはずだ。"))))
+          (str "I don't know what Marsh saw in Dollie's study, but I'm sure that room is hiding the whole secret of Arkham that I'm tangled up in right now."))))
        (proc 0))
       (/
        (branch-reg
         130
         (</>
          (/
-          (text "「コーデリア」　地下室の扉よ？" 'br)
-          (text "　　　　　　　　どうしてそんな所に行かなきゃならないの。")
+          (str "「Cordelia」 The basement door？" 'br)
+          (str "　　　　　　　　Why do we have to go to a place like that.")
           (proc 0)
-          (text "コーデリアは地下室へ足を踏み入れる事を嫌っているようだ。" 'br)
-          (text "あのひどい悪臭と古い血の染みを見れば誰でも躊躇するだろうが‥‥‥")
+          (str "Cordelia seems to hate stepping into the basement." 'br)
+          (str "Anyone would hesitate after seeing that awful stench and the stains of old blood...")
           (proc 0)
-          (text "「コーデリア」　あそこはドルリイの奥さんが殺された所でしょ？" 'br)
-          (text "　　　　　　　　わたし、あんまり行きたくないな。"))
-         (/ (text "地下へ続く階段がある扉だが‥‥‥‥‥" 'br) (text "今の私には全く興味がわかない。"))))
+          (str "「Cordelia」 That's where Dollie's wife was killed, right？" 'br)
+          (str "　　　　　　　　I really don't wanna go there."))
+         (/ (str "It's a door with stairs leading to the basement, but....." 'br) (str "I'm not interested at all right now."))))
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -165,9 +161,9 @@
          60
          100
          (</>
-          (/ (set-reg 130 #f) (nop@) (text "　　二階廊下　　"))
-          (/ (text "　　　居間　　　"))
-          (/ (text "　　外に出る　　"))))
+          (/ (set-reg 130 #f) (nop@) (str "　　Second floor hallway　　"))
+          (/ (str "　　　Living room　　　"))
+          (/ (str "　　Go outside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

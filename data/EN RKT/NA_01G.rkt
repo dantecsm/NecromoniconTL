@@ -38,15 +38,14 @@
         (//
          (? (= 523 #t))
          (nop@)
-         (text "「トマス」　またか。確かに俺はどこぞの爺と違って、早寝の習慣はな　　　　　　いがね‥‥‥‥‥ひょっとして嫌がらせなのか？")
+         (str "「Thomas」 Again, huh. Sure, unlike some old man somewhere, I don't exactly have a habit of going to bed early, but...... is this some kind of harassment or what？")
          (proc 0))
         (//
-         (text "「トマス」　なんでぇ‥‥‥誰かと思えば。" 'br)
-         (text
-          "　　　　　　確かに用があったらいつでもとは言ったがなぁ、こんな時　　　　　　間に男の訪問なんざお世辞にも嬉しいとは言えねえな。")
+         (str "「Thomas」 Well, well... Look who it is." 'br)
+         (str "　　　　　　I did say you could come by anytime if you needed something, but having a guy show up at this hour... I can't exactly say I'm happy about it.")
          (proc 0)
-         (text "トマスは冗談めかしてそう言った。" 'br)
-         (text "最初に会ったときと何も変わらず、飄々としたふてぶてしい態度を崩していない。")
+         (str "Thomas said that jokingly." 'br)
+         (str "He's just as cheeky and nonchalant as when we first met, not letting go of that cocky attitude at all.")
          (proc 0)
          (nop@)
          (set-reg 523 #t))))
@@ -62,15 +61,12 @@
             (//
              (? (= 145 #t))
              (nop@)
-             (text
-              "英国紳士気取りのトマスにすれば、こんな古びた簡素な部屋に滞在するのは不本意だろう。ひょっとするとトマスはハドスン夫人の前でその事を言い、夫人の不興をかってしまったのだろうか？")
+             (str "For Thomas playing the English gentleman, staying in a shabby old room like this must be pretty unpleasant. Maybe Thomas actually complained about it in front of Mrs. Hudson and ended up annoying her？")
              (proc 0))
             (//
-             (text
-              "表の通りに面した私やガードナーの部屋から比べると、トマスの部屋は日当たりも悪そうでジメジメした雰囲気がある。調度品の類は私たちの部屋とそう大差ない。")
+             (str "Compared to my room and Gardner's room, which face the street, Thomas's room looks poorly lit and has a damp, gloomy vibe. The furnishings aren't much different from ours.")
              (proc 0)
-             (text
-              "ハドスン夫人が、今日私がこの宿にやってくる事を知っていた訳もないのだから、トマスがこの部屋に通されたのは何か特別な意味があっての事なのかもしれない。")
+             (str "There's no way Mrs. Hudson could have known I would be coming to this inn today, so maybe there was some special reason why Thomas was shown to this room.")
              (proc 0)
              (nop@)
              (set-reg 145 #t)))))
@@ -79,29 +75,27 @@
             (//
              (? (= 146 #t))
              (nop@)
-             (text "どうも気になる‥‥‥‥" 'br)
-             (text "トマスは私に隠し事をしているに違いない。")
+             (str "Something's really bothering me..." 'br)
+             (str "Thomas must be hiding something from me.")
              (proc 0))
             (//
              (? (= 52 #t))
              (nop@)
-             (text
-              "これが秘密結社のしるしか。確かに知らない者から見れば何の意味もない図形の組み合わせにしか思えない。結社の構成員達はこの指輪を見てお互いの身分を確かめ合う訳だ。")
+             (str "Is this the symbol of the secret society? Sure enough, to someone who doesn't know, it would just look like a meaningless combination of shapes. The members of the society use this ring to confirm each other's identities.")
              (proc 0)
              (nop@)
              (set-reg 146 #t))
             (//
              (? (= 149 #t))
              (nop@)
-             (text "トマスは否定しているが、どうも歯切れが悪い。やはり指輪には何らかの意味が隠されているようだ。")
+             (str "Thomas denies it, but he's oddly evasive. It really seems like there's some hidden meaning behind the Ring.")
              (proc 0)
-             (text "本人の口から聞くことが出来ないとなると‥‥‥‥")
+             (str "If I can't hear it straight from them...")
              (proc 0)
              (nop@)
              (set-reg 146 #t))
             (//
-             (text
-              "私はトマスの左手指にはまった指輪を見た。最初に見た時から何らかの意味があるに違いないと思ったが、今ではその思いはさらに強くなっている。")
+             (str "I saw the ring on Thomas's left hand. From the moment I first saw it, I thought it must have some special meaning, but now that feeling is even stronger.")
              (proc 0)
              (nop@)
              (set-reg 146 #t)))))
@@ -110,18 +104,15 @@
             (//
              (? (= 149 #t))
              (nop@)
-             (text
-              "トマスは一向にうろたえた様子もなく、口の端に辛辣な含み笑いを浮かべた表情でそこに立っている。内心何を考えているのか、外見からは読みとることが出来ない。")
+             (str "Thomas stands there, not looking flustered at all, with a sharp, sarcastic smirk at the corner of his mouth. You can’t tell what’s going on in his mind just by looking at him.")
              (proc 0))
             (//
              (? (= 147 #t))
              (nop@)
-             (text
-              "落ちつきなく体を前後に揺すっている。すっかり退屈して、一刻も早く私との話を打ち切りたいと思っている様子がありありと解る。")
+             (str "She’s fidgeting, rocking her body back and forth. It’s obvious she’s completely bored and wants to end this conversation with me as soon as possible.")
              (proc 0))
             (//
-             (text
-              "トマスは訪ねてきたのが私である事を知ると、さも残念そうに舌打ちして、来訪者に対する興味を失ってしまったようだ。私の他に誰か訪ねてくる予定でもあったのだろうか。")
+             (str "When Thomas realized it was me who had come to visit, he clicked his tongue in obvious disappointment, and seemed to lose all interest in his visitor. Was he expecting someone else besides me to come by?")
              (proc 0)
              (nop@)
              (set-reg 147 #t)))))
@@ -130,8 +121,8 @@
             (//
              (? (= 149 #t))
              (nop@)
-             (text "「トマス」　おい、変な言いがかりはそれぐらいにしておけよ！" 'br)
-             (text "　　　　　　誰に吹き込まれたかしらねえが、俺はそんなもんとは無関　　　　　　係なんだからな。")
+             (str "「Thomas」 Hey, cut it out with those weird accusations already！" 'br)
+             (str "　　　　　　I don't know who put that in your head, but I've got nothing to do with that crap.")
              (proc 0))
             (//
              (? (= 150 #t))
@@ -140,78 +131,70 @@
               139
               (</>
                (/
-                (text "「トマス」　この俺になんの用なんだ？")
+                (str "「Thomas」 What do you want with me？")
                 (proc 0)
-                (text "「ジョナサン」　用という程の事ではないんだ。")
+                (str "「Jonathan」 It's not really anything worth mentioning.")
                 (proc 0)
-                (text "「トマス」　だったら明日にしろよ。俺はこれから用事が‥‥‥")
+                (str "「Thomas」 Then just do it tomorrow. I’ve got stuff to do now...")
                 (proc 0)
-                (text
-                 "こんな時間に何の用があると言うのだ。こんな村では夜の街に繰り出すという訳にもいくまい。しかし、それを詮索する訳にはいくまい。それより気になるのは、トマスが私の目から隠そうとしている指輪だ。")
+                (str "What could you possibly want at this hour? In a village like this, it's not like you can go out into the nightlife or anything. Still, it's not my place to pry. What's more on my mind is the Ring that Thomas is trying to hide from my sight.")
                 (proc 0)
-                (text
-                 "「ジョナサン」　少し気になる事があったもんでね。君のその指輪、前　　　　　　　　にどこかで見たような気がするんだ。ほら、その表面　　　　　　　　の模様、かなり珍しいからね。")
+                (str "「Jonathan」 Something just caught my attention. I feel like I've seen that Ring of yours somewhere before. You know, the pattern on its surface-it's pretty unusual after all.")
                 (proc 0)
-                (text
-                 "「トマス」　指輪？　ああ、これね‥‥‥どういういわれがあるのかは　　　　　　俺も知らん。ちょっと珍しいから持ってるだけだ。")
+                (str "「Thomas」 Ring？ Ah, this... I don't really know what the story behind it is either. I just have it because it's kinda rare.")
                 (proc 0)
-                (text "本当かどうか疑わしいな。この男はどうも信用ならない、いかがわしい雰囲気だ。")
+                (str "I'm not sure if that's true. This guy just can't be trusted, he's got a shady vibe to him.")
                 (proc 0)
-                (text "「ジョナサン」　ところで、誰か訪ねてくる予定でもあったのかい？")
+                (str "「Jonathan」 By the way, were you expecting someone to drop by？")
                 (proc 0)
-                (text "「トマス」　どうして。別にそんなもんありゃしねえよ。")
+                (str "「Thomas」 Why? It's not like there's anything like that, you know.")
                 (proc 0)
-                (text "「ジョナサン」　なんだかそわそわしていないかね？")
+                (str "「Jonathan」 Aren't you feeling kind of antsy？")
                 (proc 0)
-                (text "「トマス」　変な事言うなよ。こんなシケた村に知り合いなんている訳　　　　　　がねえだろ。"))
+                (str "「Thomas」 Don't say weird stuff. There's no way I'd know anyone in a crappy village like this."))
                (/
-                (text "「ジョナサン」　その指輪、フリーメイスンの証だろう。なんで君がそ　　　　　　　　んな物を持ってるんだ？")
+                (str "「Jonathan」 That ring, it's proof you're a Freemason, right? Why do you have something like that?")
                 (proc 0)
-                (text
-                 "「トマス」　へえ？　そうなのかい。全然知らなかったぜ。俺はただ　　　　　　　ちょっと珍しいから着けてるだけで、そんな意味がある　　　　　　　なんて初耳だ。")
+                (str "「Thomas」 Huh? Really? I had no idea. I just wear it because it's kinda unusual, that's all-never heard it had any meaning like that.")
                 (proc 0)
-                (text
-                 "本当だろうか‥‥‥とぼけた表情の裏側で何を思っているのか真意をつかめない男だ。本当に知らなかったとすれば、あれはガードナーの誇大な妄想という事だが‥‥‥")
+                (str "Is it really true...? He's a guy whose true intentions I can't read, hiding something behind that dumb look on his face. If he really didn't know, then what Gardner said was just an overblown delusion...")
                 (proc 0)
-                (text "「トマス」　それで？　フリーメイスンがどうしたって？")
+                (str "「Thomas」 So？ What's up with the Freemason？")
                 (proc 0)
-                (text
-                 "「ジョナサン」　いや、なんでもない。少し立ち入った事を聞くが、君　　　　　　　　は一体何をしにこのアーカムに来たんだ？")
+                (str "「Jonathan」 No, it's nothing. This might be a bit personal, but what exactly did you come to Arkham for？")
                 (proc 0)
-                (text "「トマス」　そんな事聞いてどうするってんだ。")
+                (str "「Thomas」 Why do you even want to know that?")
                 (proc 0)
-                (text "「ジョナサン」　別に深い意味はない。単なる好奇心に過ぎないんだ。")
+                (str "「Jonathan」 It doesn't mean anything special. I'm just curious, that's all.")
                 (proc 0)
-                (text "「トマス」　大方、ガードナーの爺さんに何か吹き込まれたんだろ？")
+                (str "「Thomas」 Most likely, Gardner's old man filled your head with something, right？")
                 (proc 0)
-                (text "「ジョナサン」　‥‥‥‥‥")
+                (str "「Jonathan」 ‥‥‥‥‥")
                 (proc 0)
-                (text
-                 "「トマス」　あいつ、俺の事を山師だなんだと言いやがって。てめえこ　　　　　　そ功名心に取り付かれた欲ボケ爺じゃねえか。遺跡の件に　　　　　　しても果たしてそれほど大層な物なのか疑わしいぜ。")
+                (str "「Thomas」 That guy, calling me a gambler and whatever. He's the one who's just a greedy old geezer obsessed with fame. Even about the ruins, I'm not sure they're really all that big of a deal.")
                 (proc 0)
-                (text "『それじゃあ、どうして君は遺跡に興味を示したんだ？』" 'br)
-                (text "そう聞きたい所だが、どうせこの男の事だ適当な言い訳を考え出して、のらくらとはぐらかすに違いない。"))))
+                (str "『So then, why did you get interested in the Ruins？』" 'br)
+                (str "That's what I'd like to ask, but knowing this guy, he'll just come up with some lame excuse and dodge the question like always."))))
              (proc 0)
              (nop@)
              (set-reg 149 #t))
             (//
              (? (= 148 #t) (= 146 #t))
              (nop@)
-             (text "「トマス」　どうしたんだいこんな時間に。")
+             (str "「Thomas」 What's up, coming here at this hour?")
              (proc 0)
-             (text "「ジョナサン」　いや、少し聞いておきたい事があったもんでね。")
+             (str "「Jonathan」 Nah, there was just something I wanted to ask you.")
              (proc 0)
              (nop@)
              (set-reg 150 #t))
             (//
-             (text "「ジョナサン」　急に訪ねて済まなかったな。")
+             (str "「Jonathan」 Sorry for dropping by out of nowhere.")
              (proc 0)
-             (text "「トマス」　客がせめてハドスン夫人だったらよかったのにな。男が部　　　　　　屋に来たって嬉しかねえ。")
+             (str "「Thomas」 I wish the guest could've at least been Mrs. Hudson. I'm not happy when a man comes to my room, you know.")
              (proc 0)
-             (text "「ジョナサン」　悪かったな。なんなら私は退散しようか？")
+             (str "「Jonathan」 My bad. If you want, I can just leave？")
              (proc 0)
-             (text
-              "「トマス」　まあ気にしなさんな。しかしあの女、こんなシケた田舎の　　　　　　宿で未亡人にしておくにゃぁ勿体ないと思わんか？")
+             (str "「Thomas」 Well, don’t worry about it. But hey, don’t you think it’s a waste for a woman like her to stay a widow in a dumpy country inn like this？")
              (proc 0)
              (nop@)
              (set-reg 148 #t)))))))
@@ -226,7 +209,7 @@
         (menu1
          60
          100
-         (</> (/ (text "　") (str " ") (text "自分の部屋") (str " ") (text "　"))))
+         (</> (/ (text "　") (str " ") (str "My own room") (str " ") (text "　"))))
         (proc 17))))
   (proc 14)
   (if (</>
@@ -234,8 +217,8 @@
         (? (= V 0) (!= S 255))
         (nop@)
         (proc 1)
-        (text "この男と話していても大した収穫はなさそうだ。" 'br)
-        (text "私は自分の部屋に帰る事にした。")
+        (str "Doesn't seem like talking to this guy will get me much." 'br)
+        (str "I decided to go back to my own room.")
         (proc 0)
         (proc 3)
         (proc 6)

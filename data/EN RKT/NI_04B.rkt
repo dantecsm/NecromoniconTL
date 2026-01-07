@@ -35,47 +35,46 @@
         (//
          (? (= 585 #t))
          (nop@)
-         (text "地下の通路に戻った。" 'br)
-         (text "目の前に５つの部屋に通じる扉がある。")
+         (str "Returned to the underground passage." 'br)
+         (str "There are doors in front of me leading to five rooms.")
          (proc 0)
          (nop@)
          (set-reg 585 #f))
         (//
          (? (= 130 #t))
          (nop@)
-         (text "地下の通路だ。" 'br)
-         (text "あたりには火災の跡が如実に残っている。")
+         (str "It's an underground passage." 'br)
+         (str "Traces of the fire remain plainly all around.")
          (proc 0))
         (//
          (? (= 584 #t))
          (nop@)
-         (text "「ガードナー」　何度来ても無駄ではないのかね？" 'br)
-         (text "　　　　　　　　よほどの幸運がなければ、このひどい火災の後で燃え　　　　　　　　残っている物などあるまい。")
+         (str "「Gardner」 Isn't it useless no matter how many times we come here？" 'br)
+         (str "　　　　　　　　Unless we get really lucky, I doubt there's anything left unburnt after such a terrible fire.")
          (proc 0)
-         (text "「ガードナー」　時間の浪費に過ぎないと思うが‥‥‥")
+         (str "「Gardner」 I feel like it's just a waste of time...")
          (proc 0))
         (//
-         (text "修道院の地下にある通路にやって来た。" 'br)
-         (text "目の前には５つの扉があり、それぞれが部屋に通じている。")
+         (str "Came to the passage under the Monastery." 'br)
+         (str "In front of me there are five doors, each leading to a room.")
          (proc 0)
-         (text
-          "「ジョナサン」　よく考えると、アーカムにやってきた最初の日に見た　　　　　　　　夢の中で何者かに犯されていた女がいたのはこの地下　　　　　　　　の何処かだったのかもしれないな。")
+         (str "「Jonathan」 Now that I think about it, maybe this underground is where I saw that woman being violated by someone in my dream on the first day I came to Arkham.")
          (proc 0)
-         (text "「コーデリア」　それじゃ、あの屍体があった部屋もそういう事に使わ　　　　　　　　れていたのかしら。")
+         (str "「Cordelia」 Does that mean the room with the corpse was used for that kind of thing too?")
          (proc 0)
-         (text "「ジョナサン」　手足に枷をはめられた女の屍体は、恥辱を受けながら　　　　　　　　死んだ修道女の物なのかもしれないな。")
+         (str "「Jonathan」 The corpse of the woman who had shackles on her arms and legs might have been a nun who died in shame.")
          (proc 0)
-         (text "「コーデリア」　酷いわ‥‥‥‥")
+         (str "「Cordelia」 That's awful...")
          (proc 0)
-         (text "「コーデリア」　でも、どうして修道院の地下でそんな事が行われてい　　　　　　　　たの？")
+         (str "「Cordelia」 But, why the hell was that kind of thing happening under the Monastery？")
          (proc 0)
-         (text "「ジョナサン」　それは解らない。" 'br)
-         (text "　　　　　　　　ピエトロという男は、何かの実験をしていたようだ。")
+         (str "「Jonathan」 I don't know." 'br)
+         (str "　　　　　　　　This guy Pietro seemed to be doing some sort of experiment.")
          (proc 0)
-         (text "「コーデリア」　実験って？")
+         (str "「Cordelia」 Experiment？")
          (proc 0)
-         (text "「ジョナサン」　そこまでは解らない。" 'br)
-         (text "　　　　　　　　先が知りたかったらまた夢を見るしかないな。")
+         (str "「Jonathan」 I don't know that much." 'br)
+         (str "　　　　　　　　If we want to know more, we've got no choice but to see another dream.")
          (proc 0)
          (nop@)
          (set-reg 584 #t))))
@@ -90,29 +89,29 @@
        (branch-index
         (</>
          (/
-          (text "炎に焼かれて、モルタルが変質してしまっている。" 'br)
-          (text "非常にもろくていつ頭上に崩れてきてもおかしくはない。")
+          (str "The mortar has changed because of the flames." 'br)
+          (str "It's super fragile, and it wouldn't be weird if it collapsed on top of us at any moment.")
           (proc 0)
-          (text "まるで落盤を恐れる炭坑夫のように、耐え難いほどの恐怖感と圧迫感を覚え、すぐにでも逃げ出したい気分になる。"))
+          (str "Like a coal miner afraid of a cave-in, I feel an unbearable sense of fear and oppression, and I just want to run away right now."))
          (/
-          (text "いつ崩れてきてもおかしくはなさそうだ。" 'br)
-          (text "事実、天井の一部にはひびが入り、崩れ落ちている場所もある。"))))
+          (str "It wouldn't be strange if it collapsed at any moment." 'br)
+          (str "事実、天井の一部にはひびが入り、崩れ落ちている場所もある。"))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "火災の後だというのに、床は灰などで汚れている様子でもない。" 'br)
-          (text "そう言えば、地下室に降りる階段も、自然に埋もれたと言うよりは人為によって隠されたようにも思える。")
+          (str "Even though it's right after a fire, the floor doesn't look dirty with ash or anything." 'br)
+          (str "Come to think of it, the stairs leading down to the basement seem less like they were naturally buried and more like someone deliberately hid them.")
           (proc 0)
-          (text "長い間放置されていたのに間違いはないようだが、火災の後で何者かがこの地下室に入り込んだ事も事実のようだ。")
+          (str "There's no doubt it had been left alone for a long time, but it also seems to be true that someone snuck into this Basement after the fire.")
           (proc 0)
-          (text "私たち以外にも、修道院に興味を持った人間がいるという事か？" 'br)
-          (text "それとも、この火災に不審な点があって調査が行われたのかも‥‥‥"))
+          (str "Does that mean there are other people besides us who are interested in the Monastery？" 'br)
+          (str "Or maybe, there was something suspicious about this fire, so an investigation was done..."))
          (/
-          (text "細かい瓦礫が散乱しているが、行き来出来ない程でもない。" 'br)
-          (text "火災の後なら床も灰で汚れていて当然だろうに、そんな様子は無い。" 'br)
-          (text "誰かが片づけたのだろうか。"))))
+          (str "細かい瓦礫が散乱しているが、行き来出来ない程でもない。" 'br)
+          (str "You'd think the floor would be dirty with ash after a fire, but there's no sign of that at all." 'br)
+          (str "Did someone clean it up, I wonder?"))))
        (proc 0))
       (/
        (if (</>
@@ -122,99 +121,91 @@
              (branch-index
               (</>
                (/
-                (text "ほかの扉と同じように、ほとんど炭化してしまっていて、触っただけで崩れてしまいそうだ。")
+                (str "Just like the other doors, it's almost completely charred and looks like it'll crumble apart just by touching it.")
                 (proc 0)
-                (text "取っ手などは熱で溶け落ちて、すでに原型を留めていないようだ。" 'br)
-                (text "室内に入り込むのは容易だが、こんなにも酷い有様で室内に何が残っているかは疑問だ。"))
+                (str "Things like the handle have melted and fallen off from the heat, so it doesn't even keep its original shape anymore." 'br)
+                (str "It's easy to get inside, but with the place in such a terrible state, I doubt there's anything left in here."))
                (/
-                (text "ここはピエトロが実験室に使っていた部屋だな。" 'br)
-                (text "ネクロノミコンを見ながら、もうひとりの男と何事か話していた。")
+                (str "This is the room Pietro used as his laboratory, huh." 'br)
+                (str "While looking at the Necronomicon, he was talking about something with another guy.")
                 (proc 0)
-                (text
-                 "修道院を使って『深きもの』を大量に作り出す計画だったようだが、その野望もサラによって阻まれ、火災によって命を落としたに違いない。")
+                (str "It seems like they had a plan to mass-produce Deep Ones using the Monastery, but that ambition was thwarted by Sarah, and they must have lost their life in the fire.")
                 (proc 0)
-                (text "それとも、ピエトロは修道院を無事脱出してその後も計画を続けたのだろうか。"))))
+                (str "Or maybe, did Pietro escape the monastery safely and keep going with his plan afterward?"))))
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "この部屋は、確か実験室のようにビーカーや薬瓶の原型を留めた、溶けたガラス片が落ちていた部屋だ。")
+                (str "This room is, if I recall, the one where melted shards of glass that still looked like beakers and medicine bottles from the laboratory were lying around.")
                 (proc 0)
-                (text "夢の中でピエトロともう一人の男がネクロノミコンを手に何事かを話ていたのもこの部屋だったような気がする。")
+                (str "I feel like this was also the room where Pietro and another man were talking about something with the Necronomicon in their hands in my dream.")
                 (proc 0)
-                (text "もしも、この修道院の跡に本があるとしたら、もっとも可能性が高いのはこの部屋に間違いない"))
+                (str "もしも、この修道院の跡に本があるとしたら、もっとも可能性が高いのはこの部屋に間違いない"))
                (/
-                (text "「コーデリア」　この部屋がどうかしたの？")
+                (str "「Cordelia」 この部屋がどうかしたの？")
                 (proc 0)
-                (text "「ジョナサン」　夢の中でピエトロという男がネクロノミコンを読んで　　　　　　　　いた部屋だ。")
+                (str "「Jonathan」 夢の中でピエトロという男がネクロノミコンを読んで　　　　　　　　いた部屋だ。")
                 (proc 0)
-                (text
-                 "「コーデリア」　中にはガラスの溶けたのとか、古い本のような物が落　　　　　　　　ちていたんじゃなかったかしら。")
+                (str "「Cordelia」 Wasn't there some melted glass and stuff like old books that fell in there?")
                 (proc 0)
-                (text "「コーデリア」　それと、部屋の壁に穴が空いていたのよね。" 'br)
-                (text "　　　　　　　　隣の部屋にはもっと地下に続く階段が‥‥‥‥")
+                (str "「Cordelia」 Also, there was a hole in the wall of the room." 'br)
+                (str "　　　　　　　　In the next room, there are stairs that go even deeper underground......")
                 (proc 0)
-                (text "「ジョナサン」　ピエトロは自分が部屋に開けた出入口を塞いだと言っ　　　　　　　　ていたような気がする。"))))
+                (str "「Jonathan」 ピエトロは自分が部屋に開けた出入口を塞いだと言っ　　　　　　　　ていたような気がする。"))))
              (proc 0)))))
       (/
        (branch-index
         (</>
          (/
-          (text "瓦礫が扉をおおっているために、中に入ることが出来ない。" 'br)
-          (text "隣の実験室の壁が崩れた部分から隣室に入る事が可能だが、この部屋には何かがあるようではない。")
+          (str "Rubble is covering the door, so you can't get inside." 'br)
+          (str "It's possible to enter the next room through the collapsed part of the wall in the Laboratory next door, but it doesn't look like there's anything in this room.")
           (proc 0)
-          (text "アーカムを横断し、海に面した断崖まで続く地下道があるが、そこに行くだけの重要な意味があるとは思えない。"))
+          (str "There’s an underground passage that cuts across Arkham and goes all the way to the cliffs facing the sea, but I don’t think there’s any real point in actually going there."))
          (/
-          (text "この部屋に続く扉は瓦礫の為に入り込む事が出来ない。" 'br)
-          (text "隣の実験室のような部屋の壁に開いた穴から入り込むしかない。")
+          (str "The door leading to this room is blocked by rubble and can't be gotten through." 'br)
+          (str "We have no choice but to slip in through the hole in the wall of the room next door that looks like a laboratory.")
           (proc 0)
-          (text
-           "初めてあの壁を見た時から出入口を漆喰で塞いだ跡のように見えたが、夢の中で聞いたピエトロの言葉を信ずるならば、例の異形の怪物が出す耐えられない匂いの為に自分で入り口を塞いだという。")
+          (str "初めてあの壁を見た時から出入口を漆喰で塞いだ跡のように見えたが、夢の中で聞いたピエトロの言葉を信ずるならば、例の異形の怪物が出す耐えられない匂いの為に自分で入り口を塞いだという。")
           (proc 0)
-          (text
-           "残念ながら夢の中の匂いまでは感じとる事が出来なかったが、それがどんな匂いなのかが解れば、すぐ側に怪物が現れた時にそれと解るかもしれない。"))))
+          (str "Unfortunately, I couldn't pick up the smell in my dream, but if I knew what kind of smell it was, I might be able to tell when the monster showed up right next to me."))))
        (proc 0))
       (/
        (branch-reg
         130
         (</>
          (/
-          (text "ふたつの屍体がある部屋の扉だ。" 'br)
-          (text
-           "壁から吊るされた手足につける枷や、壁と床に染み着いた古い血の跡から考えると、何人もの修道女がピエトロの犠牲になったのだろう。")
+          (str "It's the door to the room with two corpses." 'br)
+          (str "Judging from the shackles attached to the arms and legs hanging from the wall, and the old bloodstains soaked into the walls and floor, many nuns must have become victims of Pietro.")
           (proc 0)
-          (text "何かの研究をしていたようだが、それほど大勢の修道女の命を犠牲にしなければならないような重要な事だったのだろうか。")
+          (str "It looks like he was conducting some kind of research, but was it really something so important that it required sacrificing that many nuns?")
           (proc 0)
-          (text "ナイがコーデリアを狙っている理由も、ピエトロのように自分の研究の実験台にしたいが為なのか？"))
+          (str "Is Nai targeting Cordelia because, like Pietro, he wants to use her as an experiment for his own research？"))
          (/
-          (text
-           "アンジェリカと、もうひとり性別の解らない人間の屍体がある部屋だ。夢の中で見た状況を考えると、もうひとりはリュションかピエトロの物と考えるのが自然だ。")
+          (str "It’s the room with Angelica’s and another corpse whose gender is unknown. Considering what I saw in the dream, it makes sense to think the other one is Lushion or Pietro.")
           (proc 0)
-          (text "しかし、自身がサラにひとりの修道女も生かしておかないように命じておきながら自分が助かろうなどとするだろうか。"))))
+          (str "But would someone who ordered Sarah not to let a single nun live then try to save herself?"))))
        (proc 0))
       (/
-       (text "多くの棺が放置されたままになった部屋だ。" 'br)
-       (text "おそらく中に収められているのは身よりのない修道女の遺骸に違いないが、それにしても弔いのひとつもされていないのは酷すぎる。")
+       (str "It’s a room where many coffins have been left abandoned." 'br)
+       (str "Probably the ones in the coffins are the bodies of nuns with no family, but still, not even a single act of mourning is just too cruel.")
        (proc 0)
-       (text
-        "粗末な棺に収められ、墓参に訪れる人間などいるはずもない暗い地下室に放置された彼女らは、自分達のあまりに酷い処遇をどう考えているのだろうか。")
+       (str "Shut in shabby coffins and left in the dark basement where no one comes to visit their graves, how do they feel about being treated so horribly?")
        (proc 0))
       (/
        (branch-reg
         130
         (</>
          (/
-          (text "この部屋は特にひどく焼けてしまったらしい。" 'br)
-          (text "入り口の扉は跡形もなくなってしまっており、周囲の壁もひどく黒ずんでいる。")
+          (str "Apparently, this room was especially badly burned." 'br)
+          (str "The entrance door is completely gone, and the walls around it are terribly blackened.")
           (proc 0)
-          (text "暗くて中を見る事は出来ないが、特に燃えやすいような物をしまっておく部屋だったのだろうか。"))
+          (str "It's too dark to see inside, but maybe it was a room where they stored particularly flammable stuff."))
          (/
-          (text "サラが油の樽を見つけ、そこいら中に中身をぶちまけたせいだろう。" 'br)
-          (text "この部屋は他のどの場所よりひどく燃えた跡がある。")
+          (str "It's probably because Sarah found a barrel of oil and dumped its contents all over the place." 'br)
+          (str "This room has burn marks worse than anywhere else.")
           (proc 0)
-          (text
-           "油の樽は力の弱い少女がひとりで持つには重かったろうし、修道院の中全部にまいて回るには、何度となく倉庫を往復しなければならなかったはずだ。"))))
+          (str "The oil barrels must've been heavy for a weak girl to carry alone, and to spread oil all over the whole monastery, she would've had to make countless trips between here and the storeroom."))))
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -228,11 +219,11 @@
          60
          100
          (</>
-          (/ (str " ") (text "左の手前の部屋") (str " "))
-          (/ (str " ") (text "右の手前の部屋") (str " "))
-          (/ (text "　右の奥の部屋　"))
-          (/ (text "　　奥の部屋　　"))
-          (/ (text "　　外に出る　　"))))
+          (/ (str " ") (str "Room on the front left") (str " "))
+          (/ (str " ") (str "Room on the front right") (str " "))
+          (/ (str "　Room in the back right　"))
+          (/ (str "　　Room in the back　　"))
+          (/ (str "　　Go outside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

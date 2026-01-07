@@ -33,8 +33,8 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "ダゴンの教会の前だ。" 'br)
-         (text "さっきまで教会の中から聞こえてきた怪しげな信者達の声は、今はもう聞こえない。")
+         (str "It's in front of the Church of Dagon." 'br)
+         (str "The suspicious voices of the believers that I could hear from inside the Church until just now are already gone.")
          (proc 0))
         (//
          (? (= 122 #t) (= 400 #t))
@@ -61,20 +61,19 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "あれは一体なんだったんだ‥‥‥‥‥" 'br)
-         (text "甘い香の匂いに痺れた頭を、冷たい外気が正気に戻してくれるようだ。")
+         (str "What the hell was that......" 'br)
+         (str "甘い香の匂いに痺れた頭を、冷たい外気が正気に戻してくれるようだ。")
          (proc 0)
-         (text "教会からは依然として信者が発する怒声と悲鳴が聞こえる。" 'br)
-         (text "ナイはコーデリアを『あるじ』の為の大切な女だと言っていた。")
+         (str "From the Church, you can still hear the angry shouts and screams of the believers." 'br)
+         (str "Nai said that Cordelia is an important woman for 'Master'.")
          (proc 0)
-         (text "『盟約者』とは何の事だか解らないが、まるで中世の黒魔術さながらの生けにえの儀式に違いない。")
+         (str "I don't know what 'Contractor' means, but it's gotta be some kind of live sacrifice ritual straight out of medieval black magic.")
          (proc 0)
-         (text
-          "未だにそんな信仰を持っている人間がいる事さえ驚きだが、その為にわざわざ長い年月をかけてコーデリアを育ててきたかと思うと背筋が寒くなる思いだ。")
+         (str "I'm still surprised there are people who believe in that kind of thing, but thinking that they've gone out of their way to spend so many years raising Cordelia for that reason sends chills down my spine.")
          (proc 0)
-         (text "すぐに事を始めるつもりではないようだが、出来るだけ早くコーデリアを村から脱出させた方がいいようだ。")
+         (str "It doesn't look like they're going to start right away, but it seems best to get Cordelia out of the village as soon as possible.")
          (proc 0)
-         (text "このままでは愚かで狂信的な村人の手にかかって儀式の生けにえにされる事は目に見えている。")
+         (str "At this rate, it's obvious she'll end up as a ritual sacrifice at the hands of those foolish, fanatical villagers.")
          (proc 0))
         (//
          (? (= 122 #t))
@@ -101,14 +100,14 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "ダゴンの教会の前だ。" 'br)
-         (text "いつもならばしんと静まりかえって、物音ひとつ聞こえないはずなのにあたりには怪しげな声が聞こえてくる。")
+         (str "In front of the Church of Dagon." 'br)
+         (str "Normally it would be dead silent, and you wouldn't hear a single sound, but right now you can hear some suspicious voices around.")
          (proc 0)
-         (text "どうやら教会の中から聞こえるようだ。" 'br)
-         (text "よく見えないが、窓には明かりが灯されているようにも見える。")
+         (str "Looks like it's coming from inside the Church." 'br)
+         (str "I can't really see, but it looks like there's a light on in the window.")
          (proc 0)
-         (text "中で何かが行われているようだが‥‥‥‥" 'br)
-         (text "こんな時間に一体何が？")
+         (str "It looks like something's going on inside though......" 'br)
+         (str "What the hell is going on at this hour？")
          (proc 0))
         (//
          (? (= 570 #t))
@@ -133,8 +132,8 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "ダゴンの教会の前にやって来た。" 'br)
-         (text "まだ陽も高いというのに、厚くかかった雲の為にあたりは夜のように暗く、陰鬱な雰囲気だ。")
+         (str "I came in front of the Church of Dagon." 'br)
+         (str "Even though the sun is still high, the heavy clouds make everything dark like night, creating a gloomy mood.")
          (proc 0))
         (//
          (if (</>
@@ -157,31 +156,28 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "ダゴンの教会の前にやって来た。" 'br)
-         (text "まだ陽も高いというのに、厚くかかった雲の為にあたりは夜のように暗く、陰鬱な雰囲気だ。")
+         (str "I arrived in front of the Church of Dagon." 'br)
+         (str "まだ陽も高いというのに、厚くかかった雲の為にあたりは夜のように暗く、陰鬱な雰囲気だ。")
          (proc 0)
-         (text
-          "教会らしくない建物は、ここからでは中の様子など全く解ろうはずもなく、室内でどんな怪しげな儀式が行われていたとしてもその様子を知る事は出来ない。")
+         (str "The building, which doesn’t look like a Church at all, gives no clue from here about what’s inside, and there’s no way to know what kind of suspicious rituals might be going on in there.")
          (proc 0)
-         (text "コーデリアは相変わらず教会の前に立つだけで不快に思うらしく、表情には嫌悪の念が感じとれる。")
+         (str "Cordelia still seems to get uncomfortable just standing in front of the Church, and you can see disgust all over her face.")
          (proc 0)
          (branch-reg
           117
           (</>
            (/
-            (text
-             "どうして彼女がこの教会をそれほどまでに嫌っているのか、彼女自身にさえ覚えのない過去の記憶がそうさせているのに間違いはなさそうだ。")
+            (str "There's no doubt that it's those forgotten memories from her past, ones even she doesn't remember, that make her hate this Church so much.")
             (proc 0)
-            (text "その記憶の断片でも探し出す事さえ出来たなら、コーデリアの過去の秘密を暴くのも不可能ではないだろう。"))
+            (str "If I could just find even a fragment of those memories, uncovering Cordelia's secret past probably wouldn't be impossible."))
            (/
-            (text
-             "ハドスン夫人が言っていた、コーデリアがここで育てられたという事実が、彼女がこうまでダゴンの教会に嫌悪感を催す原因になっている事に間違いはない。")
+            (str "There's no doubt that what Mrs. Hudson said-that Cordelia was raised here-is the reason why she feels such disgust toward the Church of Dagon.")
             (proc 0)
-            (text "かつてここで何が行われていたのか。" 'br)
-            (text "それを知る事が出来れば、コーデリアとダゴン教団の不可解な関わり合いを解明する手がかりとなるだろう。")
+            (str "What exactly used to happen here?" 'br)
+            (str "If I can find that out, it might be the clue to unraveling the mysterious connection between Cordelia and the Dagon Cult.")
             (proc 0)
-            (text "そしてそれは、私やこの村の秘密を暴く発端になるのかもしれない。" 'br)
-            (text "アーカムを支配する不可解な空気の原因がダゴン教団にあるという想像はいつまでも私の頭から離れない。"))))
+            (str "And that might be the thing that sets off the revelation of my secrets, or this village's." 'br)
+            (str "The thought that the strange atmosphere controlling Arkham is caused by the Dagon Cult just won't leave my mind."))))
          (proc 0)
          (nop@)
          (set-reg 570 #t))))
@@ -199,55 +195,48 @@
                   (//
                    (? (= 125 #t))
                    (nop@)
-                   (text "教会の中から聞こえていた、絶叫ともすすり泣きともとれる怪しげな祈りは、今はもう聞こえない。")
+                   (str "The eerie prayers, which from inside the Church sounded like either screams or sobs, can no longer be heard now.")
                    (proc 0)
-                   (text "中世の頃に頻繁に行われていたという悪夢の黒ミサのような儀式はもう終わったようだ。")
+                   (str "It looks like the nightmare-like black mass rituals that were said to be held frequently back in the Middle Ages are over now.")
                    (proc 0)
-                   (text "すると、コーデリアは家に帰ったのだろうか。" 'br)
-                   (text "身の丈ほどもある巨大なステンドグラスの前に立ったコーデリアは意識をなくして自失の状態にあったようだ。")
+                   (str "すると、コーデリアは家に帰ったのだろうか。" 'br)
+                   (str "Cordelia, who stood before the enormous stained glass, as tall as herself, seemed to have lost consciousness and was in a daze.")
                    (proc 0)
-                   (text "あれでは後で記憶がなくても仕方がない。" 'br)
-                   (text "ナイはコーデリアを使って何をしようとしているのだろう‥‥‥‥"))
+                   (str "With that, it's no wonder you don't remember anything afterward." 'br)
+                   (str "I wonder what Nai is trying to do using Cordelia........"))
                   (//
                    (? (= 400 #t))
                    (nop@)
-                   (text "教会からは、ダゴンの信者達が洩らす絶叫と悲鳴が聞こえる。" 'br)
-                   (text "儀式は未だ終わる気配を見せようとはしない。")
+                   (str "From the Church, you can hear the screams and shrieks let out by Dagon's followers." 'br)
+                   (str "The ritual still shows no sign of ending.")
                    (proc 0)
-                   (text
-                    "ナイはコーデリアが彼の言う『あるじ』に対する捧物だと言っていた。ダゴンがどんな信仰を持っているのか知らないが、コーデリアを羊か鶏とでも思っているのだろうか。")
+                   (str "ナイはコーデリアが彼の言う『あるじ』に対する捧物だと言っていた。ダゴンがどんな信仰を持っているのか知らないが、コーデリアを羊か鶏とでも思っているのだろうか。")
                    (proc 0)
-                   (text
-                    "すぐにでも教会に乗り込んで、コーデリアを助け出したいところだが、おおぜいの信者に囲まれていてはそうする事も叶わない。")
+                   (str "I want to rush into the Church right now and save Cordelia, but surrounded by so many believers, that's just not possible.")
                    (proc 0)
-                   (text
-                    "幸いにも、ナイはすぐにコーデリアをどうこうしようとは思っていないようだ、昨晩もどうやら無事に帰って来た事だし、パブで帰りを待ってそれから村を逃げよう。"))
+                   (str "Luckily, Nai doesn't seem to be planning to do anything to Cordelia just yet, and she apparently got back safely last night too, so I'll wait for her return at the Pub and then escape the village."))
                   (//
                    (? (= 122 #t))
                    (nop@)
-                   (text
-                    "教会の中から聞こえる、大勢の人間の絶叫ともすすり泣きとも聞こえる奇妙な声の為に、夜中とは思えないほど騒がしい。")
+                   (str "It's so noisy you'd never think it's the middle of the night, thanks to the strange sounds coming from inside the Church-crying, wailing, maybe even a chorus of screams from a bunch of people.")
                    (proc 0)
-                   (text
-                    "教会の前である事を考えれば、祈りの声とも思えるが、回教徒達が日に５回もある祈りの時間にマッカに向かって祈る時の、流麗で詩情に溢れる美しい声とは似ても似つかない。")
+                   (str "教会の前である事を考えれば、祈りの声とも思えるが、回教徒達が日に５回もある祈りの時間にマッカに向かって祈る時の、流麗で詩情に溢れる美しい声とは似ても似つかない。")
                    (proc 0)
-                   (text "この声から感じられるのは阿片窟で薬がもたらす悪夢から逃れようとする中毒患者達の恐怖の悲鳴と似ている。"))
+                   (str "What I feel from this voice is similar to the terrified screams of addicts trying to escape the nightmares brought on by drugs in an opium den."))
                   (//
-                   (text "昼間だと言うのに、教会の周囲には背筋を凍らせるような不穏な空気が満ちている。")
+                   (str "Even though it's daytime, there's a chilling, unsettling air all around the Church.")
                    (proc 0)
-                   (text
-                    "私がここで経験した事柄が、そんな印象をおぼえさせるのか、それともこの場所は本当に忌まわしい過去を持っているのか‥‥‥"))))
+                   (str "Is it because of what I experienced here that gives me that kind of impression, or does this place really have an accursed past..."))))
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "どんよりと曇った空に届かんばかりに喬木が立っている。" 'br)
-                (text
-                 "樅や山毛欅など木々はどれもこれも強い風に煽られて妙にひねた育ち方をしていて、風景画のような周囲の佇まいに嫌な影を落としている。")
+                (str "Tall trees are standing as if they could reach the heavy, overcast sky." 'br)
+                (str "All the trees-like firs and beeches-had grown in weird, twisted shapes from being battered by strong winds, casting an unsettling shadow on the otherwise picturesque landscape.")
                 (proc 0)
-                (text "こんな不気味な様子では、どんな画家でも絵筆を取ろうとは思わないだろう。"))
-               (/ (text "こんな不気味な様子では、どんな画家でも絵筆を取ろうとは思わないだろう。"))))
+                (str "With such a creepy atmosphere, no painter would feel like picking up their brush."))
+               (/ (str "With such a creepy atmosphere, no painter would feel like picking up their brush."))))
              (proc 0)))))
       (/
        (if (</>
@@ -258,48 +247,44 @@
                   (//
                    (? (= 125 #t))
                    (nop@)
-                   (text "先ほどまでの喧噪が嘘のように静まりかえり、いつもの静寂が教会を包んでいる。")
+                   (str "The commotion from earlier has died down like it was all a lie, and the usual silence is enveloping the Church.")
                    (proc 0)
-                   (text "中で行われていた悪夢のような儀式は、もう終わったのだろうか。" 'br)
-                   (text "するとコーデリアは‥‥‥‥‥‥‥")
+                   (str "Has that nightmare-like ritual that was going on inside finally ended?" 'br)
+                   (str "Then Cordelia‥‥‥‥‥‥‥")
                    (proc 0)
-                   (text "無事に家に帰ったのだろうか、それともナイの手によって連れ去られてしまったのか？")
+                   (str "Did they make it home safely, or were they taken away by Nai's hand？")
                    (proc 0)
-                   (text
-                    "昨晩の、コーデリアの失踪もおそらくナイとダゴン教団の仕業だろう。それ以前にも何度となく同じような儀式が繰り返されていたはずだ。"
-                    'br)
-                   (text "ならば、コーデリアの身に危険が及ぶとは考えられないが‥‥‥‥"))
+                   (str "Last night's, Cordelia's disappearance was probably also the work of Nai and the Dagon Cult. The same kind of ritual must have been repeated many times before that, too." 'br)
+                   (str "In that case, I can't imagine any danger coming to Cordelia..."))
                   (//
                    (? (= 400 #t))
                    (nop@)
-                   (text "まだ悪夢のような儀式が続いているようだ。" 'br)
-                   (text "大勢の信者に囲まれていてはコーデリアを助ける事さえままならない。")
+                   (str "It seems like the nightmarish ritual is still going on." 'br)
+                   (str "With so many followers around me, I can’t even manage to help Cordelia.")
                    (proc 0)
-                   (text "もしも無理矢理コーデリアを連れ出そうとしたら、私ばかりか彼女の命さえ危なくなるかもしれないのだから。")
+                   (str "もしも無理矢理コーデリアを連れ出そうとしたら、私ばかりか彼女の命さえ危なくなるかもしれないのだから。")
                    (proc 0)
-                   (text
-                    "幸いナイは今すぐコーデリアに何かをしようという訳ではないようだ。パブでコーデリアの帰りを待った方がいいだろう。"))
+                   (str "Luckily, it doesn't seem like Nai is about to do something to Cordelia right now. It's probably better to wait for Cordelia to return at the pub."))
                   (//
-                   (text "ここからではよく見えないが、教会の窓には明かりが灯されているように見える。")
+                   (str "I can't see very well from here, but it looks like the Church's windows are lit up.")
                    (proc 0)
-                   (text "周囲に響く、大勢の人間の絶叫のような声は、教会の中から聞こえてくるに違いない。"))))
+                   (str "The sound of countless people screaming, echoing all around, is definitely coming from inside the Church."))))
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "この建物は何の目的で使用されているのだろうか。" 'br)
-                (text "ナイははっきりと『わたしの教会』と言っていたが、私の慣れ親しんだ教会とは趣を異にするように思われる。")
+                (str "I wonder what this building is being used for." 'br)
+                (str "Nai clearly said 'my Church', but it feels different from the Church I'm used to.")
                 (proc 0)
-                (text "何よりまず奇異な所は、この建物には十字架をはじめとする教会につきものの装飾が一切施されていないところだ。")
+                (str "The most peculiar thing above all is that this building doesn’t have any of the decorations typical of a Church, starting with the Cross.")
                 (proc 0)
-                (text "ダゴン教団とは何を目的とした団体なのだろう、このアーカムで何をしようとしているのか‥‥‥‥‥"))
+                (str "What exactly is the Dagon Cult after, and what are they trying to do here in Arkham....."))
                (/
-                (text "随分古い建物のようだが、さして貴重な建築物という訳ではない。" 'br)
-                (text
-                 "そんな事より、建物のもつ雰囲気はある種の険悪な感情を呼び起こす。教会が持っている壮麗な印象などみじんも感じられない。")
+                (str "It looks like a pretty old building, but it’s not exactly a valuable piece of architecture or anything." 'br)
+                (str "More than that, the atmosphere of the building stirs up a kind of hostile feeling. There's not even a shred of the grand impression that the Church usually has.")
                 (proc 0)
-                (text "背筋が寒くなるような怪しげな雰囲気は、コーデリアでなくても嫌悪の念を覚えずにはいられない。"))))
+                (str "That spine-chilling creepy vibe would make anyone feel disgusted, not just Cordelia."))))
              (proc 0)))))
       (/
        (exec-mem 256 "G 4 28 48 24 192")
@@ -317,21 +302,20 @@
        (branch-index
         (</>
          (/
-          (text "教会の入り口の上には、トマスの指輪と同じ模様を型どった紋章がかかげられている。")
+          (str "Above the entrance of the Church, there's an emblem bearing the same pattern as Thomas's Ring.")
           (proc 0)
-          (text "これが単なる偶然とは考えにくい。" 'br)
-          (text "トマスは否定しているが、やはり彼の所属する秘密結社とダゴン教団は全くの無関係という訳ではないのだろう。")
+          (str "It's hard to believe this is just a coincidence." 'br)
+          (str "Thomas denies it, but after all, the secret society he's part of and the Dagon Cult probably aren't completely unrelated.")
           (proc 0)
-          (text "トマスが口走っていた『失われた鍵』とは何を意味するのか。" 'br)
-          (text "それがこのアーカムの何処かに隠されているのだろうか。"))
+          (str "What does the 'Lost key' that Thomas was blurting out mean?" 'br)
+          (str "I wonder if it's hidden somewhere here in Arkham."))
          (/
-          (text "腕のいい石工が、慎重な作業で石版に刻み込んだ物に違いない。" 'br)
-          (text "紋の形事態はそれほど複雑なものではないが、表面の磨耗した具合から見てかなりの年月を経たものである事に間違いない。")
+          (str "腕のいい石工が、慎重な作業で石版に刻み込んだ物に違いない。" 'br)
+          (str "The shape of the crest itself isn't that complicated, but judging by how worn the surface is, there's no doubt it's been around for quite a few years.")
           (proc 0)
-          (text
-           "それでもなおひび割れたり欠けたりしていない事から、細工を施した職人が並外れた技能を持っていた事を推し量る事が出来よう。それにしてもこの紋章は、教会に掲げられるには適当ではないように思われる。")
+          (str "Even so, the fact that it’s not cracked or chipped at all suggests the craftsman who worked on it had some extraordinary skill. Still, I don’t think this emblem is really suitable to be displayed in a Church.")
           (proc 0)
-          (text "そもそも掲げられた石版が、この建物を教会らしく見えなくさせている要因の一つだとも言える。"))))
+          (str "To begin with, you could say that the stone tablet that's been put up is one of the reasons this building doesn't really look like a Church."))))
        (proc 0)
        (exec-mem 256 "P 4 28 48"))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
@@ -346,8 +330,8 @@
          60
          100
          (</>
-          (/ (text "　　　地図　　　"))
-          (/ (set-reg 400 #f) (nop@) (text "　　中に入る　　"))))
+          (/ (str "　　　Map　　　"))
+          (/ (set-reg 400 #f) (nop@) (str "　　Go inside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

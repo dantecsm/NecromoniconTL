@@ -31,20 +31,20 @@
         (//
          (? (= 557 #t))
          (nop@)
-         (text "やはり書庫の中にはネクロノミコンはなさそうだ。" 'br)
-         (text "他に、この資料館で探すべき部屋と言ったら‥‥‥‥‥‥‥‥")
+         (str "Looks like the Necronomicon isn't in the archives after all." 'br)
+         (str "Other than that, if we're talking about rooms we should check out in the Archives......")
          (proc 0)
          (nop@)
          (set-reg 557 #f))
         (//
          (? (= 556 #t))
          (nop@)
-         (text "受け付けにはドロシーの姿はない。" 'br)
-         (text "何処で油を売っているのかしらないが、こんなに長い間受け付けを留守にしていて大丈夫なのだろうか。")
+         (str "Dorothy isn't at the reception." 'br)
+         (str "I don't know where you're loafing around, but is it really okay to leave the reception unattended for this long?")
          (proc 0))
         (//
-         (text "資料館の前の受け付けには、ドロシーの姿がない。" 'br)
-         (text "普段ならば職務怠慢だと叱りつけるところだが、今日は彼女がいない方が都合がいい。")
+         (str "資料館の前の受け付けには、ドロシーの姿がない。" 'br)
+         (str "普段ならば職務怠慢だと叱りつけるところだが、今日は彼女がいない方が都合がいい。")
          (proc 0)
          (nop@)
          (set-reg 556 #t))))
@@ -59,50 +59,47 @@
        (branch-index
         (</>
          (/
-          (text "資料館の受け付けだ。" 'br)
-          (text "床は大理石で出来ているが、かなり古い物で手入れもよくないらしく、特有の光沢を失って久しいようだ。")
+          (str "This is the front desk of the Archives." 'br)
+          (str "The floor is made of marble, but it seems to be quite old and not well taken care of, so it's been a long time since it lost its characteristic shine.")
           (proc 0)
-          (text "奥にある扉は、かつての大学内につながっているのだろう。" 'br)
-          (text "どれほどの収集物があるのか知らないが、外見に中身が勝っている可能性は非常に低い。"))
+          (str "The door in the back probably leads to what used to be inside the university." 'br)
+          (str "I don't know how many collectibles there are, but it's highly unlikely that what's inside is better than how it looks."))
          (/
-          (text "部屋の奥にあるのは、書庫に通じる扉だ。" 'br)
-          (text "前に学長室に忍び込んで以来、ドロシーは書庫にさえ入れてくれようとはしなかったが、今ならば黙って侵入する事が出来る。")
+          (str "At the back of the room, there's a door that leads to the library." 'br)
+          (str "Ever since I snuck into the dean's office before, Dorothy hasn't even let me into the library, but now I can slip in quietly.")
           (proc 0)
-          (text "書庫の中にネクロノミコンがある可能性はあまり高くはないが、調べてみない訳にもいかないだろう。"))
+          (str "There's not a very high chance the Necronomicon is in the library, but I can't exactly not check."))
          (/
-          (text "うら寂れた片田舎の資料館にしては、立派な建物だ。" 'br)
-          (text "惜しむらくは、村人や役人達がこの建物の保存にあまり熱心でなさそうなところだな。"))))
+          (str "For an archives in a lonely, rundown rural backwater, it's a pretty impressive building." 'br)
+          (str "The only pity is that the villagers and officials don't seem all that eager to preserve this building."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "蔵書や様々な収集物の問い合わせに答えられるようにあつらえられた、インデックスカードらしい。")
+          (str "It looks like an index card made to answer questions about book collections and various other collectibles.")
           (proc 0)
-          (text
-           "しかし村を訪れる観光客が皆無で、しかも村人達が自分達の村の歴史に無頓着とあっては、さしてその効力を発揮しているとは思えない"))
+          (str "But with absolutely no tourists visiting the village, and the villagers themselves being totally indifferent to their own village's history, I can't really say it's having much effect."))
          (/
-          (text
-           "きちんと整頓されたインデックスカードが、壁一面にそなえつけられている。このドロシーという女がひとりで管理しているのだとしたら、かなりの几帳面のようだ。"))))
+          (str "Neatly arranged index cards are set up across the entire wall. If this woman named Dorothy is managing all of them by herself, she must be pretty meticulous."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "長いこと使い続けられたカウンターは、表面の光沢が失せて黒ずんで、全く無価値なガラクタになってしまっている。")
+          (str "長いこと使い続けられたカウンターは、表面の光沢が失せて黒ずんで、全く無価値なガラクタになってしまっている。")
           (proc 0)
-          (text "この建物がまだ大学だった頃には、ここは学生たちが集うただのホールだったはずだから、それほど古い物とは思われない。" 'br)
-          (text "よっぽど粗雑な扱いを受け続けていたのだろう。"))
+          (str "Back when this building was still a university, this was just a hall where students gathered, so it probably isn’t all that old." 'br)
+          (str "She must have been treated really roughly for a long time."))
          (/
-          (text "ドロシーの姿はない。" 'br)
-          (text
-           "きちんと整頓されてそこにいたという形跡さえ残していない几帳面さが仇なして、常に仕事を抜け出して遊び歩いているように思われそうだ。")
+          (str "Dorothy's nowhere to be seen." 'br)
+          (str "Their meticulousness is so extreme that not even a trace is left to show they were ever there, which ironically backfires and makes it seem like they're always skipping out on work to goof off.")
           (proc 0)
-          (text "実際には、ドロシーはただの気の弱い事務員の女にすぎず、規則を破る者に厳しいのは自分がとばっちりを受けるのが嫌だからだ。"))
+          (str "In reality, Dorothy is just a timid office lady, and the reason she's strict with rule breakers is because she doesn't want to get caught up in the fallout herself."))
          (/
-          (text "カウンターの上はきちんと整頓されて、ドロシーの個性を感じさせるような私物は一切無い。")
+          (str "カウンターの上はきちんと整頓されて、ドロシーの個性を感じさせるような私物は一切無い。")
           (proc 0)
-          (text "さして利用者がいる訳でもない資料館で、彼女はどうやって退屈な時間を潰しているのだろうか。"))))
+          (str "さして利用者がいる訳でもない資料館で、彼女はどうやって退屈な時間を潰しているのだろうか。"))))
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -116,9 +113,9 @@
          60
          100
          (</>
-          (/ (text "　　　書庫　　　"))
-          (/ (text "　　") (str " ") (text "学長室") (str " ") (text "　　"))
-          (/ (text "　　外に出る　　"))))
+          (/ (str "　　　Archive　　　"))
+          (/ (text "　　") (str " ") (str "President's Office") (str " ") (text "　　"))
+          (/ (str "　　Go outside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

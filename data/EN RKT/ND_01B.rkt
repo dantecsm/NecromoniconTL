@@ -34,26 +34,24 @@
        (//
         (? (= 543 #t))
         (nop@)
-        (text "すばやく私から身体を離した女は、何事もなかったようにカウンターの奥に戻っていった。")
+        (str "The woman quickly pulled away from me and went back behind the Counter like nothing had happened.")
         (proc 0)
-        (text "客達は彼女の言うことを聞いて、一応はストゥールの上に腰掛けたが、いつまた衝動的に私たちに襲いかかってくるやもしれない。")
+        (str "The customers listened to what she said and, for now, sat down on the Stools, but there was still a chance they might impulsively attack us again at any moment.")
         (proc 0)
         (nop@)
         (set-reg 543 #f))
        (//
         (? (= 57 #t))
         (nop@)
-        (text "「バーテン」　ちょっと、あなた達っ！")
+        (str "「Bartender」 Hey, you guys！")
         (proc 0)
-        (text
-         "バーテンは我々の姿を見た途端に叫びそうになった声を、ぐっと飲み込んだ。ここからでもカウンターに座った村人達の、殺気といってもいいぐらいの激しい憎悪を感じとることが出来る。")
+        (str "The Bartender gulped back a scream the moment he saw us. Even from here, I could feel the villagers sitting at the Counter radiating an intense hatred so strong it could be called murderous intent.")
         (proc 0))
        (//
-        (text "私たちはパブの扉を開いて室内に入った。蝶番の油が切れていて、扉はひどく重い。")
+        (str "We opened the pub door and went inside. The hinges needed oil, and the door was really heavy.")
         (proc 0)
-        (text "室内は私が想像していたほど快適ではなさそうだ。" 'br)
-        (text
-         "Ｌ字型に曲がったカウンターに１０席ほどせの高いストゥールが並べてあり、他にはテーブル席がいくつか。現在は４人ほどの客がカウンターに陣取っているだけだ。")
+        (str "The room doesn't look as comfortable as I imagined." 'br)
+        (str "Ｌ字型に曲がったカウンターに１０席ほどせの高いストゥールが並べてあり、他にはテーブル席がいくつか。現在は４人ほどの客がカウンターに陣取っているだけだ。")
         (proc 0))))
   (proc 3)
   (loop
@@ -67,17 +65,14 @@
            (//
             (? (= 205 #t))
             (nop@)
-            (text
-             "特に目立った物はない。場末のパブにありがちな、有名画家の複製画も著名人と笑って握手する店主の写真も、薔薇のささった一輪挿しも。"
-             'br)
-            (text "そんな無機質な感じがこの店には妙に合っているような気がする。")
+            (str "Nothing stands out in particular. No famous artist reproductions, no photos of the owner laughing and shaking hands with celebrities, no vase with a single rose stuck in it-just the usual stuff you'd see at a rundown pub." 'br)
+            (str "That kind of sterile vibe weirdly seems to fit this place.")
             (proc 0))
            (//
-            (text "外見から感じたほど快適そうではない。" 'br)
-            (text "カウンターのうしろに作りつけられた棚には結構な数のボトルが並べられてはいるが、いずれも大した銘柄ではない。")
+            (str "It doesn't seem as comfortable as it looked." 'br)
+            (str "Quite a few bottles are lined up on the built-in shelves behind the Counter, but none of them are really notable brands.")
             (proc 0)
-            (text
-             "下町あたりによくあるような、娼婦やごく下層の労働者を相手に安酒を売っている場末の酒場とそう大差ない。ラム酒がエール用のピッチャーで出てくるような店だ。")
+            (str "It's not much different from a back-alley tavern you’d find in the slums, selling cheap liquor to prostitutes and the lowest-level workers. It's the kind of place where rum comes out in pitchers meant for ale.")
             (proc 0)
             (nop@)
             (set-reg 205 #t)))))
@@ -86,12 +81,12 @@
            (//
             (? (= 206 #t))
             (nop@)
-            (text "あいかわらず険悪な雰囲気だな‥‥‥‥" 'br)
-            (text "あまり関わり合いにならない方がよさそうだ。")
+            (str "It's as tense as ever......" 'br)
+            (str "It looks like it's better not to get too involved.")
             (proc 0))
            (//
-            (text "さっきから店に入ってきた私たちをじっと凝視している。" 'br)
-            (text "その目には、見慣れぬ客に対する好奇心というより、陰湿で根拠のない敵愾心と言うべき険悪の念が見て取れる。")
+            (str "They've been staring intently at us ever since we came into the store." 'br)
+            (str "In those eyes, you could see not curiosity toward an unfamiliar guest, but rather a nasty, baseless sense of hostility that could be called downright animosity.")
             (proc 0)
             (nop@)
             (set-reg 206 #t)))))
@@ -100,13 +95,11 @@
            (//
             (? (= 207 #t))
             (nop@)
-            (text
-             "我々の姿を見ながらジョッキのエールをあおる男は、努めて興味がないふうを装っている。よそ者の姿をみただけでこれほどの反応を示すとは思わなかった。")
+            (str "The man chugs his mug of Ale while watching us, pointedly pretending he doesn't care. I didn't expect just the sight of strangers to get that much of a reaction.")
             (proc 0))
            (//
-            (text "つとめて無神経を装っているが、その努力は徒労に終わっている。" 'br)
-            (text
-             "偶然のふりをしながら我々の挙動に神経を向けている事が手に取るように解るし、紅潮した頬からは極度の緊張がにじみ出ている。")
+            (str "He tries to act completely insensitive, but all that effort ends up being pointless." 'br)
+            (str "I can tell at a glance that she's pretending it's a coincidence while watching our every move, and the blush on her cheeks gives away how tense she is.")
             (proc 0)
             (nop@)
             (set-reg 207 #t)))))
@@ -115,20 +108,17 @@
            (//
             (? (= 57 #t))
             (nop@)
-            (text
-             "『インスマウス顔』という言葉を聞いたときの村人達の過剰な反応を考えれば、女の言う事を聞いた方が正しい。さっきの約束を反故にするなどと言われなければいいのだが‥‥‥‥")
+            (str "Thinking about how the villagers overreacted when they heard the words 'Innsmouth look', it's smarter to listen to what the woman says. I just hope she doesn't accuse me of breaking the promise we made earlier...")
             (proc 0))
            (//
             (? (= 208 #t))
             (nop@)
-            (text
-             "いったいどういう経緯でこのアーカムにたどり着いたのだろう。魚鱗亭のハドスン夫人を見た時にも同じような疑問を感じたが、このバーテンほどアーカムに不似合いな人間もいないのではなかろうか。")
+            (str "Just what sort of circumstances led him to end up in this Arkham? I felt a similar kind of doubt when I saw Mrs. Hudson of the Fish Scale Inn, but I can’t think of anyone who seems more out of place in Arkham than this bartender.")
             (proc 0))
            (//
-            (text "バーテンのユニフォームを着た女は、落ちつかない様子で場違いな侵入者である私たちを見ている。")
+            (str "The woman in the bartender's uniform is watching us, the out-of-place intruders, looking uneasy.")
             (proc 0)
-            (text
-             "どうやら東洋人らしいが、どこの国の生まれなのかは見当もつかない。もっとも、我々英国人にとってはどこの生まれでも大した違いはない。黄色人種は皆同じ顔に見えるのだから。")
+            (str "どうやら東洋人らしいが、どこの国の生まれなのかは見当もつかない。もっとも、我々英国人にとってはどこの生まれでも大した違いはない。黄色人種は皆同じ顔に見えるのだから。")
             (proc 0)
             (nop@)
             (set-reg 208 #t)))))
@@ -137,20 +127,17 @@
            (//
             (? (= 57 #t))
             (nop@)
-            (text "「バーテン」　帰ってって言ったでしょう？" 'br)
-            (text "　　　　　　　あなた達、どんな目にあっても知らないわよ！")
+            (str "「Bartender」 I told you to go home, didn't I？" 'br)
+            (str "　　　　　　　You guys, I won't be responsible for whatever happens to you！")
             (proc 0))
            (//
             (? (= 211 #t))
             (nop@)
-            (text
-             "「バーテン」　岬からいらしたんなら、ずいぶん寒かったでしょうね。　　　　　　　暖炉の側のテーブルにお座りになってはいかがです？")
+            (str "「Bartender」 If you came from the cape, it must've been pretty cold, huh.　　　　　　　How about taking a seat at the Table by the Fireplace？")
             (proc 0)
-            (text
-             "もっともな勧めではあるが、女の態度からすると、我々一行と村人の間に少しでも距離をおこうという配慮なのではないかと勘ぐりたくなる。")
+            (str "It's a reasonable suggestion, but judging from the woman's attitude, I can't help but suspect it's an attempt to put some distance between our group and the villagers.")
             (proc 0)
-            (text
-             "「トマス」　やれやれだ。ようやくまともな飲み物にありつけそうだ。　　　　　　ガキじゃあるまいし、温かいミルクやココアで満足できる　　　　　　訳がねえよな。")
+            (str "「Thomas」 Good grief. Looks like I can finally get my hands on a decent drink.　　　　　　I'm not a kid, there's no way I'd be satisfied　　　　　　with warm milk or cocoa.")
             (proc 0)
             (proc 3)
             (proc 6)
@@ -158,33 +145,29 @@
            (//
             (? (= 210 #t))
             (nop@)
-            (text "「バーテン」　何になさいますか。")
+            (str "「Bartender」 What’ll it be?")
             (proc 0)
-            (text "女の声は冷たく無機質だ。" 'br)
-            (text "我々はよほど招かれざる客だったらしい。")
+            (str "The female voice is cold and mechanical." 'br)
+            (str "Looks like we were really unwanted guests.")
             (proc 0)
-            (text "「トマス」　えらく殺風景なパブだなぁ、それになんだか寒いぜ。" 'br)
-            (text "　　　　　　とりあえず温ったまるもんを頼む。")
+            (str "「Thomas」 This pub is really barren, and it's kinda cold, too." 'br)
+            (str "　　　　　　For now, I'll order something to warm me up.")
             (proc 0)
-            (text
-             "トマスはバーテンの女はおろか、険悪な雰囲気の客の様子さえ気にかけていないようだ。あきれるほど図太い神経もこんな時には役に立つ。")
+            (str "Thomas doesn't seem to care about the bartender lady, let alone the customers with a hostile vibe. Having such unbelievably thick skin actually comes in handy at times like this.")
             (proc 0)
-            (text "「バーテン」　お客さん達、どちらからいらしたんです？")
+            (str "「Bartender」 Where are you folks from？")
             (proc 0)
-            (text
-             "「ジョナサン」　ロンドンです。この村にめずらしい遺跡があるって聞　　　　　　　　いたものですから。今さっき見てきた所なんです。")
+            (str "「Jonathan」 It's London. I heard there's a rare ruins in this village, so I came here. I just went and saw it a moment ago.")
             (proc 0)
-            (text
-             "女の顔に緊張が走った。さっき遺跡で遭遇した老人の件といい、ここの人間は遺跡に関わる事を極度に恐れているかのように見える。")
+            (str "Tension ran across the woman's face. Like with what happened earlier with the Old man at the Ruins, it looks like people here are extremely afraid of anything to do with the Ruins.")
             (proc 0)
             (nop@)
             (set-reg 211 #t))
            (//
-            (text "「バーテン」　‥‥‥いらっしゃいませ。" 'br)
-            (text "　　　　　　　どうぞ、お入りになって下さい。")
+            (str "「Bartender」 ...Welcome." 'br)
+            (str "　　　　　　　Please, come on in.")
             (proc 0)
-            (text
-             "女のバーテンの声は、言葉とは裏腹に私たちの訪問を歓迎してはいない様子だった。妙にそわそわして、カウンターに陣取った村人達に神経質な視線を走らせている。")
+            (str "The female bartender's voice, despite her words, didn't seem to welcome our visit. She was oddly fidgety, nervously glancing at the villagers occupying the Counter.")
             (proc 0)
             (nop@)
             (set-reg 210 #t)))))))
@@ -196,7 +179,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　外に出る　　"))))
+        (menu1 60 100 (</> (/ (str "　　Go outside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

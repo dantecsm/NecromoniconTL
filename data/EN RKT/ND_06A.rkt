@@ -34,11 +34,11 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "ギルマンハウスの窓には明かりが灯っていない。" 'br)
-         (text "コーデリアはまだ教会にいるのだろうか。")
+         (str "There aren't any lights on in the windows of Gilman House." 'br)
+         (str "コーデリアはまだ教会にいるのだろうか。")
          (proc 0)
-         (text "空には相変わらず厚い雨雲がかかり、今にも雨が降りだしそうだ。" 'br)
-         (text "早くしないと村から抜け出す事が困難になってしまう。")
+         (str "Thick rain clouds still cover the sky, and it looks like it's going to start raining any minute." 'br)
+         (str "If we don't hurry, it'll get harder to sneak out of the village.")
          (proc 0))
         (//
          (? (= 122 #t))
@@ -65,7 +65,7 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "ギルマンハウスの周囲には、明かりのついた家も通りを歩く人の姿も見あたらない。")
+         (str "Around Gilman House, there are neither houses with lights on nor any people walking on the streets.")
          (proc 0))
         (//
          (? (= 541 #t))
@@ -90,7 +90,7 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "「コーデリア」　遅くなって御免なさい。")
+         (str "「Cordelia」 Sorry I'm late.")
          (proc 0)
          (proc 3)
          (proc 9)
@@ -99,18 +99,18 @@
          (proc 8)
          (exec-mem 2928 12 16 67 287 7 1)
          (proc 1)
-         (text "バーテンの衣装から普段着に着替えたコーデリアが店から出てきた。" 'br)
-         (text "私たちの飲んだグラスを片づけてきたようで、服の袖の部分が少し濡れている。")
+         (str "Cordelia, who had changed from her bartender outfit into her casual clothes, came out of the shop." 'br)
+         (str "It looked like she'd just cleared away our glasses, since the sleeve of her clothes was a little wet.")
          (proc 0)
-         (text "「コーデリア」　なんだかもう随分長い間、お店を開けてないみたい。　　　　　　　　このままじゃ身体がなまってしまうわ。")
+         (str "「Cordelia」 It feels like it's been ages since we had the place open.　　　　　　　　If this keeps up, I'm gonna get all out of shape.")
          (proc 0)
-         (text "「ジョナサン」　たまにはいいんじゃないか？" 'br)
-         (text "　　　　　　　　長い間働き続けだったんだから、少しの間の息抜きは　　　　　　　　必要だろう。")
+         (str "「Jonathan」 Isn't it nice to take a break once in a while？" 'br)
+         (str "　　　　　　　　You've been working non-stop for a long time, so you need a little break, right?")
          (proc 0)
-         (text "「コーデリア」　そうかもしれないけど、お客さんがこのパブの事を忘　　　　　　　　れちゃったらどうしよう。")
+         (str "「Cordelia」 That might be true, but what if the customers forget about this pub?")
          (proc 0)
-         (text "「コーデリア」　わたし、どうやって暮らしていったらいいの。" 'br)
-         (text "　　　　　　　　ジョナサン、あなた責任とってくれる？")
+         (str "「Cordelia」 How am I supposed to live?" 'br)
+         (str "　　　　　　　　Jonathan, will you take responsibility for me？")
          (proc 0)
          (proc 3)
          (proc 9)
@@ -142,8 +142,8 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "ギルマンハウスの前だ。" 'br)
-         (text "当然店は閉まっているが、ひと休みして行こうか。")
+         (str "We're in front of the Gilman House." 'br)
+         (str "Of course, the shop's closed, but should we take a little break here?")
          (proc 0))))
    (proc 3)
    (loop
@@ -157,127 +157,123 @@
             (//
              (? (= 125 #t))
              (nop@)
-             (text "あたりには人の気配さえない。" 'br)
-             (text "もしも私とコーデリアが村を抜け出そうとしたら、村人達はどうするだろう。")
+             (str "There's not even a trace of people around." 'br)
+             (str "If Cordelia and I tried to escape the village, what would the villagers do?")
              (proc 0)
-             (text "秘密を知った私はマーシュのように惨殺され、コーデリアは捕らわれの身になるのだろうか。")
+             (str "Since I know the secret, would I be brutally murdered like Marsh, and Cordelia end up being held captive?")
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "寂しい裏通りには、相変わらず人気がない。" 'br)
-                (text "このあたりで唯一活気のあったギルマンハウスが休業中とあってはなおさらだ。")
+                (str "The lonely backstreets are as deserted as ever." 'br)
+                (str "And with Gilman House-the only lively place around here-closed for business, it's even more so.")
                 (proc 0)
-                (text
-                 "村人から苦情が出る前にコーデリアに店を開業させないと、ただでさえ敵意に満ちた村人が、さらに我々を目の敵にすることは明白だ。")
+                (str "If we don't get Cordelia to open the shop before the villagers start complaining, it's obvious that the already hostile villagers will single us out even more.")
                 (proc 0)
-                (text "村人がギルマンハウスの事を忘れてしまう前に、コーデリアに店を開けさせるようにしよう。"))
+                (str "Let's have Cordelia open the shop before the villagers forget about the Gilman House."))
                (/
-                (text "湿気を含んだ重苦しい空気があたりに満ちている。" 'br)
-                (text "この村にやって来て以来、天候に恵まれる事はなかったが、今夜はまた雨になりそうな気配だ。")
+                (str "The air around is heavy and damp with moisture." 'br)
+                (str "Ever since I came to this village, the weather's never been good, and tonight it looks like it's gonna rain again.")
                 (proc 0)
-                (text "先日の大雨のせいで通行が出来なくなっていた吊り橋は、今度こそ駄目になってしまうだろう。")
+                (str "Because of the heavy rain the other day, the suspension bridge became impassable, and this time it's probably finished for good.")
                 (proc 0)
-                (text "私がアーカムを抜け出す事が出来るのはいつの事になるのか。" 'br)
-                (text "もうしばらくここに釘付けにされる事は間違いないが‥‥‥‥‥"))))
+                (str "I wonder when I'll be able to get out of Arkham." 'br)
+                (str "One thing's for sure-I'm stuck here for a while longer..."))))
              (proc 0)))))
       (/
        (if (</>
             (//
              (? (= 125 #t))
              (nop@)
-             (text "のんびり眺めている場合ではない。" 'br)
-             (text "コーデリアが戻った様子もないし、今にも雨が降りだしそうな気配だ。")
+             (str "This isn't the time to just sit back and watch." 'br)
+             (str "Cordelia still hasn't come back, and it looks like it's about to start raining any minute.")
              (proc 0)
-             (text "なんとかしなければ‥‥‥‥‥" 'br)
-             (text "しかし、どうすればいいと言うんだ。")
+             (str "I have to do something..." 'br)
+             (str "But what am I even supposed to do?")
              (proc 0)
-             (text "まさかナイはあのままコーデリアを切り刻んで、何者とも知れない神への捧げ物にしてしまうつもりではないだろうな。")
+             (str "No way, Nai isn’t actually planning to hack up Cordelia as she is and offer her as some kind of sacrifice to an unknown god, right?")
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "古びた煉瓦造りのパブだ。" 'br)
-                (text
-                 "ロンドンから郊外に向かう街道沿いによくある、ビールと軽い食事を出す、あまり高級とは言えない種類のパブによく似ている。")
+                (str "It's an old brick pub." 'br)
+                (str "It's just like the kind of pub you'd often find along the road heading out of London into the suburbs, serving beer and light meals-not exactly what you'd call fancy.")
                 (proc 0)
                 (branch-reg
                  117
                  (</>
                   (/
-                   (text "今までコーデリアひとりでよく店をやって来れたものだ。" 'br)
-                   (text "それとも、村人達は若い娘には寛容なのだろうか。"))
+                   (str "I'm amazed Cordelia managed to run the shop all by herself until now." 'br)
+                   (str "Or maybe the villagers just go easy on young girls?"))
                   (/
-                   (text "ハドスン夫人の言っていた、村人がコーデリアの為に他の全ての店を潰してしまったという言葉を思い出す。")
+                   (str "I remember what Mrs. Hudson said, about the villagers closing down all the other shops for Cordelia.")
                    (proc 0)
-                   (text "どうしてたかが娘ひとりの為にそこまでする必要があったのか。" 'br)
-                   (text "村人にとってコーデリアが特別な存在であった理由はなんなのだろう。")
+                   (str "Why did you have to go that far just for your daughter?" 'br)
+                   (str "I wonder why Cordelia was such a special person to the villagers.")
                    (proc 0)
-                   (text "ダゴン教団と何らかのつながりがある事は間違いなさそうだ。" 'br)
-                   (text "まさかナイを問いつめる訳にもいかないし、他に事情を知っている人間は我々に冷たい村人だけだ。")))))
+                   (str "It seems pretty clear there's some kind of connection to the Dagon Cult." 'br)
+                   (str "It's not like I can exactly press Nai about it, and the only other people who know what's going on are the villagers, who are all cold to us.")))))
                (/
-                (text "そんな余裕もなかっただろうが、店の外は長い間補修の手を加えられた様子もない。")
+                (str "You probably didn't have that kind of luxury, but the outside of the shop hasn't shown any signs of being fixed up for a long time.")
                 (proc 0)
-                (text "もし、まだ当分営業を続けるつもりなら、早急に修理の手配をした方がいいだろう。"))))
+                (str "If you're planning to keep the business running for a while longer, you should probably arrange repairs as soon as possible."))))
              (proc 0)))))
       (/
        (if (</>
             (//
              (? (= 125 #t))
              (nop@)
-             (text "強い風に煽られて、ギシギシと軋む音を立てながら揺れている。" 'br)
-             (text "風はますます強くなったようで、私の耳の脇を音を立てながら吹き抜けていく。")
+             (str "Swaying while creaking and groaning under the force of the strong wind." 'br)
+             (str "The wind seemed to get even stronger, whistling right past my ear.")
              (proc 0)
-             (text "この強風のせいで、頼りない吊り橋が落ちてしまわなければいいが。" 'br)
-             (text "もしそうなれば、私たちは完全に村から抜け出す手段を失ってしまう。")
+             (str "I just hope this flimsy suspension bridge doesn't collapse from these strong winds." 'br)
+             (str "If that happens, we'll completely lose any way to get out of the village.")
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "失踪したというコーデリアの養父の手によるものだろう、無骨な文字でパブの名前が記してある。")
+                (str "It's probably written by Cordelia's adoptive father, who went missing-the name of the Pub is scrawled in rugged handwriting.")
                 (proc 0)
                 (branch-reg
                  117
                  (</>
                   (/
-                   (text "かつてはこの通りにも、ギルマンハウス以外のパブがあったはずだ。" 'br)
-                   (text "あまり自己主張が強いとは言えない店構えでどれほどの客が集まったのかはななだ疑問ではある。")
+                   (str "There must've been other pubs besides the Gilman House on this street back in the day." 'br)
+                   (str "With a storefront that's not exactly flashy or attention-grabbing, it's pretty questionable how many customers actually showed up.")
                    (proc 0)
-                   (text
-                    "ギルマンハウスがアーカムで生き残れたのは、店が繁盛していたからと言うより、幸運にも後継者がいたお陰だというのは間違いあるまい。"))
+                   (str "It's gotta be true that the Gilman House managed to survive in Arkham not so much because the place did well, but just thanks to the lucky fact that they had someone to take over."))
                   (/
-                   (text "あまり自己主張が強いとも、特別に雰囲気いいのパブとも言えない。" 'br)
-                   (text "わざわざ周囲の店を潰してまで残さなければならない価値があろうとも思えない。")
+                   (str "You can't really say it's a particularly atmospheric pub, or that it's especially assertive either." 'br)
+                   (str "I don't think there's any value in going out of your way to crush the surrounding shops just to keep this one.")
                    (proc 0)
-                   (text "すると、やはりコーデリアの為だけにそんな真似をしたという事か。" 'br)
-                   (text "村人にとって彼女がどれほど重要な存在だったのか、私には推測する事すらできない。")))))
+                   (str "So, does that mean you really did that just for Cordelia after all?" 'br)
+                   (str "I can't even begin to guess how important she was to the villagers.")))))
                (/
-                (text "飾り気のないゴシック文字で店の名前が記してある。" 'br)
-                (text "錆びのせいでペンキが浮き上がった具合から判断すると、１０年以上はほったらかしのままだろう。"))))
+                (str "The shop's name is written in plain Gothic letters." 'br)
+                (str "Judging by how the paint is bubbling up because of the rust, it's probably been left alone for over 10 years."))))
              (proc 0)))))
       (/
        (if (</>
             (//
              (? (= 125 #t))
              (nop@)
-             (text "鍵が開いたままになっているのは、コーデリアが意識がないまま連れ出されたからに違いない。")
+             (str "The reason the door was left unlocked must be because Cordelia was taken away while she was unconscious.")
              (proc 0)
-             (text "何者かがギルマンハウスに押し入り、コーデリアに薬を飲ませたのだ。こんな事は今夜が初めてではないのだろう。")
+             (str "Someone broke into Gilman House and made Cordelia drink some kind of drug. This probably isn't the first time this has happened.")
              (proc 0))
             (//
              (branch-reg
               122
               (</>
                (/
-                (text "あまり頼りになるとは思えないが、一応鍵がかかっている。" 'br)
-                (text "店内に金目の物がある訳ではないが、ここの村人達はわずか１パイントの酒の為に平気で人を殺しかねない。"))
+                (str "I can't say it's very reassuring, but at least the door is locked for now." 'br)
+                (str "There's nothing particularly valuable in the store, but the villagers here wouldn't hesitate to kill someone just for a single pint of booze."))
                (/
-                (text "どうやら入り口の鍵は開いたままになっているようだ。" 'br)
-                (text
-                 "昼間あんな光景を目にした後ではあまりにも軽率で愚かしい行為だが、お陰で寒い店の前で待たされる心配はない。"))))
+                (str "It looks like the front door has been left unlocked." 'br)
+                (str "It's a reckless and stupid thing to do, especially after seeing something like that in broad daylight, but at least I don't have to worry about being left waiting in the cold outside."))))
              (proc 0)))))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -287,7 +283,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　　地図　　　")) (/ (text "　　中に入る　　"))))
+        (menu1 60 100 (</> (/ (str "　　　Map　　　")) (/ (str "　　Go inside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

@@ -31,26 +31,26 @@
         (//
          (? (= 127 #t))
          (nop@)
-         (text "海につながる通路の端までやってきた。" 'br)
-         (text "丘陵の上にある修道院の地下からここまでは数マイルもの距離がある。")
+         (str "I made it to the end of the passage that leads to the sea." 'br)
+         (str "It's several miles from the underground of the monastery on the hills to here.")
          (proc 0)
-         (text "歩いて来るのも不可能ではないだろうが、重い荷物を持って行き来するのはかなり骨だ。" 'br)
+         (str "It wouldn't be impossible to walk, but hauling heavy stuff back and forth would be pretty tough." 'br)
          (proc 0)
-         (text "かつてこの通路を使っていた人間は、やはり船で移動していたと考える方が妥当だろう。")
+         (str "It's more reasonable to think that people who used this passage back then traveled by boat after all.")
          (proc 0))
         (//
-         (text "「ジョナサン」　海だ。" 'br)
-         (text "　　　　　　　　やはりこの通路は海に出るためのものだったのか。")
+         (str "「Jonathan」 It's the sea." 'br)
+         (str "　　　　　　　　So this corridor really was meant to go out to the sea, huh.")
          (proc 0)
-         (text "「ガードナー」　おそらく、密輸をしていた人間が人目に触れずに荷物　　　　　　　　を運び込む為に使っていたのだろうな。")
+         (str "「Gardner」 おそらく、密輸をしていた人間が人目に触れずに荷物　　　　　　　　を運び込む為に使っていたのだろうな。")
          (proc 0)
-         (text "「ジョナサン」　だとすれば、かなり頭のいい奴ですね。" 'br)
-         (text "　　　　　　　　誰だって修道院からそんな荷物が運び出されるなんて　　　　　　　　思いませんからね。")
+         (str "「Jonathan」 If that's the case, he's a pretty smart guy." 'br)
+         (str "　　　　　　　　Nobody would ever think that stuff like that would be taken out from the Monastery.")
          (proc 0)
-         (text "そう言った瞬間、ある男の顔が私の頭の中に浮かんだ。" 'br)
-         (text "勇猛果敢で頭の切れる山師のような男、しかもその男は海外との貿易を生業としていたはずだ。")
+         (str "The moment I said that, a certain man's face popped into my head." 'br)
+         (str "勇猛果敢で頭の切れる山師のような男、しかもその男は海外との貿易を生業としていたはずだ。")
          (proc 0)
-         (text "「ジョナサン」　もしかして、この通路を造らせたのはフィリップなの　　　　　　　　かもしれませんね。")
+         (str "「Jonathan」 Maybe Philip was the one who had this passage built, you know.")
          (proc 0)
          (nop@)
          (set-reg 127 #t))))
@@ -65,44 +65,42 @@
        (branch-index
         (</>
          (/
-          (text "ここは湾内のかなり深い場所のようだ。" 'br)
-          (text "遺跡のある岬や、マーシュの廃船が停泊する港より、さらにひとつ岬を越えたここは、漁師達でさえ近寄らないのだろう。")
+          (str "Looks like this is a pretty deep spot inside the bay." 'br)
+          (str "This place, past the cape with the Ruins and even farther than the harbor where Marsh's abandoned ship is anchored, is probably somewhere even the fishermen don't go near.")
           (proc 0)
-          (text
-           "これだけ小さい出入口ならば人目につかないだろうし、たとえ誰かが見たとしても、フィリップ・ダニッジのする事ならば村人がそれを咎める訳もない。")
+          (str "If the entrance is this small, it probably won't catch anyone's eye, and even if someone does see it, no villager would ever object to something done by Philip Dunwich.")
           (proc 0)
-          (text "役人達はこんな所まで気を配る事はまずないだろう。" 'br)
-          (text "ガードナーが言ったように、やはり密輸品を丘に上げるために修道院の地下まで通路を掘ったと考えた方が妥当だろう。"))
+          (str "The officials probably wouldn't bother to pay attention to somewhere like this." 'br)
+          (str "Like Gardner said, it's probably more reasonable to think they dug a tunnel to the monastery's underground to bring up the smuggled goods onto the hill."))
          (/
-          (text "通路の端は丁度海面の高さと同じくらいだ。" 'br)
-          (text "小舟ならば十分に行き来できるだろう。")
+          (str "The end of the passage is just about the same height as the sea level." 'br)
+          (str "If it’s a small boat, you can come and go just fine.")
           (proc 0)
-          (text "積み荷を満載した船が誰にも見とがめられる事なく修道院の地下まで行き来出来る訳だ。"))))
+          (str "積み荷を満載した船が誰にも見とがめられる事なく修道院の地下まで行き来出来る訳だ。"))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "海に面した岸壁にぽっかりと口を開ける格好で終点になっている。" 'br)
-          (text
-           "通路の中から見るとあきらかに人為的に掘った穴である事は明白だが、そとから見ただけでは自然に出来たほら穴だと思うかもしれない。")
+          (str "It ends at the seaside cliff, with an opening gaping wide." 'br)
+          (str "Looking from inside the passage, it's obvious that it's a hole dug by someone, but just seeing it from outside, you might think it's a naturally formed cave.")
           (proc 0)
-          (text "こんな通路を造ろうとかんがえる人間は、かなり頭のいい男だったに違いない。"))
-         (/ (text "ここで終点だ。" 'br) (text "後は修道院の地下まで引き返すしかない。"))))
+          (str "Whoever thought about building a passage like this must've been a pretty smart guy."))
+         (/ (str "This is the end of the line." 'br) (str "後は修道院の地下まで引き返すしかない。"))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "石壁の表面にはぬるぬるする苔がびっしり生えている。" 'br)
-          (text "地下で湿気が多いのと、満潮時には海中に没して絶えず濡れている事が苔の生息に適しているのだろう。")
+          (str "The surface of the stone wall is covered in slimy moss." 'br)
+          (str "The constant dampness from being underground, and getting submerged at high tide and always wet, is probably what makes this place perfect for moss to live.")
           (proc 0)
-          (text "厚く密生したそれらの植物は、私が手で触れても容易に剥がれようとはしない。")
+          (str "Those thickly grown plants don't come off easily, even when I touch them with my hand.")
           (proc 0)
-          (text "誰かが今でもこの通路を使っていて、あやまって壁に手をついてしまったとしても、その痕跡は全く残らないだろう。"))
+          (str "Even if someone was still using this passage right now and accidentally put their hand on the wall, there probably wouldn't be any trace left behind."))
          (/
-          (text "厚く密生した苔が壁の表面をおおっている。" 'br)
-          (text "私が手を触れたぐらいでは容易に剥がれようとしない。"))))
+          (str "Thick, densely packed moss covers the surface of the wall." 'br)
+          (str "It won't come off easily just from me touching it."))))
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -115,7 +113,7 @@
         (menu1
          60
          100
-         (</> (/ (text "　") (str " ") (text "通路を戻る") (str " ") (text "　"))))
+         (</> (/ (text "　") (str " ") (str "Go back down the corridor") (str " ") (text "　"))))
         (proc 17))))
   (proc 14)
   (if (</>

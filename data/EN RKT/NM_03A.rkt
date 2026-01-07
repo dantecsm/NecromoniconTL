@@ -35,7 +35,7 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "娼館の前に戻った。")
+         (str "I came back in front of the Brothel.")
          (proc 0))
         (//
          (? (= 130 #t))
@@ -63,10 +63,10 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "娼館の前に来た。" 'br)
-         (text "隣にいるガードナーは、こんな所にやってきた私をみて何を考えているのかとあきれ顔だ。")
+         (str "I came in front of the Brothel." 'br)
+         (str "Gardner, who's next to me, looks exasperated, probably wondering what the hell I'm doing coming to a place like this.")
          (proc 0)
-         (text "しかし、これから私を待っている過酷な現実に対面する前に少しぐらいのお楽しみを味わっても悪くないだろう。")
+         (str "But before I face the harsh reality waiting for me, it wouldn't hurt to enjoy myself a little.")
          (proc 0))
         (//
          ((cmd 206) 1 5)
@@ -93,13 +93,13 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "「コーデリア」　ジョナサン‥‥‥‥‥")
+         (str "「Cordelia」 ジョナサン‥‥‥‥‥")
          (proc 0)
-         (text "「コーデリア」　あなた、こんな時にどういうつもりなの？" 'br)
-         (text "　　　　　　　　真面目に探すつもりがないのなら、どうぞひとりで楽　　　　　　　　しんで来てちょうだい。")
+         (str "「Cordelia」 What are you thinking at a time like this？" 'br)
+         (str "　　　　　　　　If　you　don't　really　intend　to　look,　then　by　all　means,　go　have　fun　on　your　own.")
          (proc 0)
-         (text "「コーデリア」　わたしはひとりでも行くわよ。" 'br)
-         (text "　　　　　　　　さあ、どうするの？")
+         (str "「Cordelia」 I can go by myself, you know." 'br)
+         (str "　　　　　　　　So, what'll you do？")
          (proc 0))))
    (proc 3)
    (loop
@@ -113,84 +113,81 @@
         130
         (</>
          (/
-          (text "娼館をじっと凝視している私の姿を見たコーデリアは、半ばあきれたような顔で目線を外す。")
+          (str "Cordelia saw me staring intently at the brothel and looked away, half exasperated.")
           (proc 0)
-          (text
-           "確かにこんな時にこんな場所にやって来るのはあまりに非常識すぎる。今は私たちの命がかかっているんだ、酔狂な遊びに浸っている場合ではない。"))
+          (str "Sure, coming to a place like this at a time like this is way too reckless. Our lives are on the line right now; this is no time to be messing around with some crazy game."))
          (/
           (branch-reg
            430
            (</>
             (/
-             (text "外から見た限りでは、娼館はいつもどおり欲望を吐き出しにやって来る男達を待っているように見える。")
+             (str "From the outside, the brothel looks like it's waiting for the usual men to come and spill their desires.")
              (proc 0)
-             (text "襲われた様子はないが、娼婦達は無事なのだろうか。" 'br)
-             (text "人間の女とする事が出来る深きものが、娼婦達を放っておく訳がないように思われるのだが。"))
+             (str "It doesn't look like there was an attack, but I wonder if the prostitutes are okay." 'br)
+             (str "It just doesn't seem likely that Deep Ones, who can have sex with human women, would leave the prostitutes alone."))
             (/
-             (text "スウとメーベルが殺され、ただひとり残ったメアリはこれからどうするつもりなのだろう。")
+             (str "Sue and Mabel have been killed, so what is Mary, left all alone, planning to do now?")
              (proc 0)
-             (text "無事にアーカムを抜け出せる可能性は低いが、私たちと一緒に行く意志もないと言う‥‥‥‥‥")
+             (str "The chances of making it out of Arkham safely are low, but you’re saying you don’t even want to come with us......")
              (proc 0)
-             (text "ふたりの若い娘の死に責任を感じているようだが、この娼館で死ぬつもりなのだろうか？")))))))
+             (str "ふたりの若い娘の死に責任を感じているようだが、この娼館で死ぬつもりなのだろうか？")))))))
        (proc 0))
       (/
        (branch-reg
         130
         (</>
          (/
-          (text "娼館をじっと凝視している私の姿を見たコーデリアは、半ばあきれたような顔で目線を外す。")
+          (str "Cordelia sees me staring intently at the brothel, then averts her eyes with a look that's half exasperated.")
           (proc 0)
-          (text
-           "確かにこんな時にこんな場所にやって来るのはあまりに非常識すぎる。今は私たちの命がかかっているんだ、酔狂な遊びに浸っている場合ではない。"))
+          (str "It's true that coming to a place like this at a time like this is way too reckless. Our lives are on the line right now, this is no time to mess around with crazy games."))
          (/
           (branch-reg
            430
            (</>
             (/
-             (text "外から見た限りでは、娼館はいつもどおり欲望を吐き出しにやって来る男達を待っているように見える。")
+             (str "From the outside, the brothel looks like it's waiting, as usual, for men to come and spill out their desires.")
              (proc 0)
-             (text "襲われた様子はないが、娼婦達は無事なのだろうか。" 'br)
-             (text "人間の女とする事が出来る深きものが、娼婦達を放っておく訳がないように思われるのだが。"))
+             (str "It doesn't look like they were attacked, but are the prostitutes okay?" 'br)
+             (str "It seems like there's no way Deep Ones who can fuck human women would just leave prostitutes alone."))
             (/
-             (text "スウとメーベルが殺され、ただひとり残ったメアリはこれからどうするつもりなのだろう。")
+             (str "スウとメーベルが殺され、ただひとり残ったメアリはこれからどうするつもりなのだろう。")
              (proc 0)
-             (text "無事にアーカムを抜け出せる可能性は低いが、私たちと一緒に行く意志もないと言う‥‥‥‥‥")
+             (str "The chances of getting out of Arkham safely are low, but you’re saying you don’t even want to come with us...")
              (proc 0)
-             (text "ふたりの若い娘の死に責任を感じているようだが、この娼館で死ぬつもりなのだろうか？")))))))
+             (str "You seem to feel responsible for the deaths of those two young girls, but do you intend to die in this brothel？")))))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "確かにアーカムの一般の家より随分瀟洒な造りのようだ。" 'br)
-          (text "煉瓦の上に漆喰を塗り、女の厚化粧のようになった様は、内部の様子とよく合っているように思う。")
+          (str "It definitely looks way fancier than a regular house in Arkham." 'br)
+          (str "The way plaster is smeared over the bricks, making it look like a woman wearing heavy makeup, seems to match the inside pretty well.")
           (proc 0)
-          (text "家の中で毎晩何が行われているかを知っているだけに、どれだけ凝った家だろうと美しいという感情は浮かばない。")
+          (str "Knowing what happens in the house every night, no matter how elaborate the place is, I just can't feel it's beautiful.")
           (proc 0)
-          (text "それにしても、どうしてアーカムに娼館などあるのだろう。" 'br)
-          (text "他にも足りない物はいくらでもあると言うのに。"))
+          (str "それにしても、どうしてアーカムに娼館などあるのだろう。" 'br)
+          (str "Even though there are still plenty of other things we're missing."))
          (/
-          (text "確かにアーカムの一般の家より随分瀟洒な造りのようだ。" 'br)
-          (text "煉瓦の上に漆喰を塗り、女の厚化粧のようになった様は、内部の様子とよく合っているように思う。"))))
+          (str "確かにアーカムの一般の家より随分瀟洒な造りのようだ。" 'br)
+          (str "Plaster is applied over the bricks, making it look like a woman wearing heavy makeup, and I think that look matches well with the inside."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "娼館の扉は、昼夜の区別なくいつでも鍵がかかっていないようだ。" 'br)
-          (text "自分の事も悦ばせてくれる娼婦達の住処に忍び込むなど、いかに盗人だとはいえ無粋だと思うとたかをくくっているのだろうか。")
+          (str "The brothel’s door doesn’t seem to ever be locked, day or night." 'br)
+          (str "Even if you're a thief, sneaking into the homes of prostitutes who make even themselves feel good-do they really think that's not just crude?")
           (proc 0)
-          (text "それとも、娼婦達にとっての財産とは自分の躰ひとつで、他に盗られる物など何もないという意識のあらわれなのか？")
+          (str "Or maybe it's just that, for prostitutes, their only asset is their own body, so they don't think there's anything else that could be stolen from them？")
           (proc 0)
-          (text
-           "どちらにしても剛胆な事だが、いつも危険な出来事に遭遇している彼女らにとっては、特に気に留めるほどの事ではないのかもしれない。"))
+          (str "Either way, it's a bold move, but for them, who are always running into dangerous situations, maybe it's nothing worth paying special attention to."))
          (/
-          (text "娼館の扉は、昼夜の区別なくいつでも鍵がかかっていないようだ。" 'br)
-          (text "客にとっては便利このうえない事だが、女所帯の娼館では不用心すぎるようにも思われる。"))))
+          (str "娼館の扉は、昼夜の区別なくいつでも鍵がかかっていないようだ。" 'br)
+          (str "It's super convenient for customers, but in a brothel full of women, it seems a bit too careless."))))
        (proc 0))
       (/
-       (text "「コーデリア」　わたしはひとりでも行くわよ。" 'br)
-       (text "　　　　　　　　さあ、どうするの？")
+       (str "「Cordelia」 I'll go by myself, you know." 'br)
+       (str "　　　　　　　　So, what are you gonna do？")
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -204,8 +201,8 @@
          60
          100
          (</>
-          (/ (text "　　　地図　　　"))
-          (/ (set-reg 130 #t) (nop@) (text "　　中に入る　　"))))
+          (/ (str "　　　地図　　　"))
+          (/ (set-reg 130 #t) (nop@) (str "　　Go inside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

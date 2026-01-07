@@ -34,30 +34,30 @@
         (//
          (? (= 222 #t))
          (nop@)
-         (text "アーカムでただひとつの墓地だ。" 'br)
-         (text "こんな所にコーデリアがいる訳がない、あたりには昼間に出会った墓守の姿さえない。")
+         (str "It's the only cemetery in Arkham." 'br)
+         (str "There's no way Cordelia would be in a place like this, I can't even see the gravekeeper I met earlier today anywhere around.")
          (proc 0)
-         (text "弱い風が小さな窪地のような墓地の中を吹き抜け、茂った大木の枝を揺するたびに、不気味なざわざわという音を立てている。")
+         (str "A weak wind blows through the little hollow-like graveyard, and every time it shakes the branches of the thickly grown big trees, it makes an eerie rustling sound.")
          (proc 0)
-         (text "昼間でも彼女がひとりでこんな所に来るとは考えにくいのに、こんな時刻ではなおさらだ。")
+         (str "It's hard to believe she'd come to a place like this alone even during the day, let alone at a time like this.")
          (proc 0))
         (//
          (? (= 598 #t))
          (nop@)
-         (text "アーカムの墓地だ。" 'br)
-         (text "こんな所にひとりでいると、その昔自らの研究のために新鮮な屍体を漁り続けていたという気違い科学者になったような気分になる。")
+         (str "It's Arkham's cemetery." 'br)
+         (str "Being alone in a place like this makes me feel like I've become one of those mad scientists from back in the day, who kept digging up fresh corpses for their research.")
          (proc 0))
         (//
-         (text "アーカムの墓地だ。" 'br)
-         (text "あたりには人気がなく、わずかに吹く弱い風が木の枝をゆするざわざわという音がいやに響いて聞こえる。")
+         (str "It's the Arkham cemetery." 'br)
+         (str "There’s no sign of people around, and the faint rustling sound of the weak breeze swaying the tree branches echoes uncomfortably loud.")
          (proc 0)
-         (text "冬枯れした芝は寒さのために凍り付いて、私が歩くたびに音を立てて崩れていく。")
+         (str "冬枯れした芝は寒さのために凍り付いて、私が歩くたびに音を立てて崩れていく。")
          (proc 0)
-         (text "こんな所に来るべきではないのかもしれない。" 'br)
-         (text "これではまるで、その昔自分の研究のために屍体を漁っていたという、気違いの科学者になったような気分だ。")
+         (str "Maybe I shouldn't have come to a place like this." 'br)
+         (str "Like this, it's almost like I’ve turned into a crazy scientist who used to dig up corpses for his research back in the day.")
          (proc 0)
-         (text "確か、あの男もこのアーカムの出身だったはずだ。" 'br)
-         (text "今私が歩いているのと同じ道を、墓暴きの道具を背負って歩いていたのかもしれない。")
+         (str "I'm pretty sure that guy was from this Arkham too." 'br)
+         (str "Maybe he was walking down the same road I'm on now, carrying grave robbing tools on his back.")
          (proc 0)
          (nop@)
          (set-reg 598 #t))))
@@ -72,71 +72,65 @@
        (branch-index
         (</>
          (/
-          (text "木立の隙間から厚く雲が垂れ込めた空が覗いている。" 'br)
-          (text "彼方に見える丘陵は背後に黒い雲を背負って、とびきり不吉な風景画のようだ。")
+          (str "Through the gaps in the trees, the thick, cloud-covered sky can be seen." 'br)
+          (str "The hills visible in the distance are carrying black clouds on their backs, looking just like a particularly ominous landscape painting.")
           (proc 0)
-          (text
-           "まさに墓地には相応しいと言えるが、それでもなおこの場所がアーカムの中でも比較的快適で清々しいイメージである事に変わりない。"))
+          (str "It’s definitely fitting for a graveyard, but even so, this place still has a relatively comfortable and refreshing image among Arkham."))
          (/
-          (text "こんな時刻とあっては、空を飛ぶ鳥の姿さえ見えない。" 'br)
-          (text "雲間から覗く青い月の光は、不浄の地アーカムを浄化しようとしているように感じられる。")
+          (str "At this hour, you can't even see a single bird flying in the sky." 'br)
+          (str "The blue moonlight peeking through the clouds feels like it's trying to purify the unholy land of Arkham.")
           (proc 0)
-          (text "まるでこの地に生きる全ての生き物を冷たい光で凍り付かせてしまおうとしているようだ。"))
+          (str "It's like it's trying to freeze all living things on this land with its cold light."))
          (/
-          (text "空には不穏な様子の、黒い雲が垂れ込めている。" 'br)
-          (text "木々の枝をゆする風も上空の雨雲を払いのける役には立たないらしい。"))))
+          (str "Ominous-looking black clouds are hanging low in the sky." 'br)
+          (str "Even the wind shaking the branches doesn’t seem to do any good at driving away the rain clouds overhead."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "強い海風を受ける事がないからか、墓地の敷地内にある喬木は、どれも真っすぐにのびている。")
+          (str "Maybe because they don't get hit by strong sea winds, all the tall trees in the graveyard stand up straight.")
           (proc 0)
-          (text
-           "これが夏ならば、丁度いい木陰を作り、その下で休んでみようという気にもなるのだろうが、身も凍らんばかりのこの季節には誰もそんな木々などに気を留めようともしない。"))
+          (str "If it were summer, these would make just the right shade, and you might feel like taking a break underneath, but in this bone-chilling season, no one even bothers to notice trees like that."))
          (/
-          (text "あまり緑豊かとはいえないアーカムの中で、唯一やすらぎを感じさせてくれる木々だ。")
+          (str "Among the not-so-green Arkham, these are the only trees that give me any sense of peace.")
           (proc 0)
-          (text "もっとも、真夜中の墓地という状況では、青々とした樹木もあたりの不気味さを煽るようであまり有り難くはない。"))
+          (str "Still, in the setting of a graveyard at midnight, the lush greenery of the trees just makes the creepy vibe worse, so it's not exactly appreciated."))
          (/
-          (text "下草をきちんと刈り取られ、邪魔な枝を払われている。" 'br)
-          (text "あの墓守の仕業なのだろうが、これだけの努力を払っても、それを正当に評価してくれるような人間はいない。")
+          (str "The undergrowth has been neatly cut, and the troublesome branches have been cleared away." 'br)
+          (str "It's probably that gravekeeper's doing, but even with all this effort, there's nobody around who'll actually appreciate it.")
           (proc 0)
-          (text "異様な雰囲気ばかりが目立つアーカムで、墓地が唯一まともな場所だというのは随分皮肉なことだ。"))))
+          (str "It's pretty ironic that in Arkham, which just reeks of weirdness, the graveyard is the only halfway normal place."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "冬枯れした芝生の中に、規則正しい配列で整然と墓石が並んでいる。" 'br)
-          (text "アーカムにはここの他に墓地などないだろうに、並んでいる墓石の数はそれほど多くない。")
+          (str "In the winter-withered lawn, gravestones are lined up in an orderly, regular arrangement." 'br)
+          (str "There's probably no other cemetery besides here in Arkham, but there aren't that many gravestones lined up.")
           (proc 0)
-          (text
-           "ここの村人達が、昔の野蛮な風習を継続しているのでなければいいが。この近海の魚達が、海に流された村人の屍体を餌にしているなどという事になれば、二度と魚に手を付ける気にはなれないだろう。"))
+          (str "I just hope the villagers here aren’t still continuing with those old savage customs. If it turns out that the fish in these nearby waters have been feeding on the corpses of villagers washed out to sea, I don’t think I could ever bring myself to eat fish again."))
          (/
-          (text "村で唯一の共同墓地だが、平坦な土地の少ない村で、全ての住人の遺骸を収めるには少しばかり小さすぎるようだ。")
+          (str "It's the only communal graveyard in the village, but since the village doesn't have much flat land, it seems to be just a bit too small to hold the remains of all the residents.")
           (proc 0)
-          (text
-           "芝を敷き詰め、あたりを樹木で囲まれた一画は本当にここがアーカムの一部とは思えないほど清々しい印象だが、それが墓地となると、あまり長居したいとは思えない。"))
+          (str "A patch of grass completely laid out and surrounded by trees gives such a refreshing impression, it's hard to believe it's really a part of Arkham, but since it's a cemetery, I can't really say I want to linger here for long."))
          (/
-          (text "ここの村人が自分の先祖を敬う気持ちを持っているとは考えにくいが、墓地は丹念に手入れされているようだ。")
+          (str "ここの村人が自分の先祖を敬う気持ちを持っているとは考えにくいが、墓地は丹念に手入れされているようだ。")
           (proc 0)
-          (text "昼間会った墓守の仕事なのだろうが、これほど熱心にしてやってもそれを正当に評価してやる人間がいるとは思えない。"))))
+          (str "It’s probably the job of the gravedigger I met during the day, but no matter how hard he works, I doubt there’s anyone who’ll give him proper credit for it."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text
-           "このあたりで産した物なのだろうか、普通の墓石よりも黒ずんだ石で造られた墓標は、どれもこれも測ったように同様の形をしている。")
+          (str "I wonder if these were made from things produced around here; the gravestones, built from stone that's darker than ordinary gravestones, all have exactly the same shape, like they were measured out.")
           (proc 0)
-          (text "アーカムには自分の墓石に金をかけようなどという余裕のある人間は、ほとんどいないようだ。"))
+          (str "アーカムには自分の墓石に金をかけようなどという余裕のある人間は、ほとんどいないようだ。"))
          (/
-          (text "多くの墓石が並んでいるが、アーカムで死んだ全ての人間の墓となるといかにも数が少ない。")
+          (str "There are many gravestones lined up, but when it comes to the graves of everyone who died in Arkham, the number sure seems small.")
           (proc 0)
-          (text
-           "漁師の村だから、海で命を落とした者も少なくないのだろうが、それらの人間は全く弔われる事もなく忘れ去られてしまうのだろうか。"))
-         (/ (text "何百年もの齢を経た古い物から、つい最近の物らしい真新しい墓標が、規則正しく並んでいる。"))))
+          (str "Since it's a fishing village, I guess there are quite a few people who've lost their lives at sea, but I wonder if those people just get completely forgotten without anyone mourning them at all."))
+         (/ (str "何百年もの齢を経た古い物から、つい最近の物らしい真新しい墓標が、規則正しく並んでいる。"))))
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -146,7 +140,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　　地図　　　")) (/ (text "　　中に入る　　"))))
+        (menu1 60 100 (</> (/ (str "　　　Map　　　")) (/ (str "　　Go inside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

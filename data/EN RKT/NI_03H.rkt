@@ -41,40 +41,39 @@
         (//
          (? (= 597 #t))
          (nop@)
-         (text "海へ続く地下通路だ。" 'br)
-         (text "あたりには潮の香りに混じって、今では嗅ぎ慣れてしまった、魚が腐敗した時に出すような嫌な匂いが篭もっている。")
+         (str "It's an underground passage leading to the sea." 'br)
+         (str "Mixed with the scent of the tide, the unpleasant smell like rotting fish-one I've gotten used to by now-lingers in the air around here.")
          (proc 0)
-         (text "通路の中は満潮になるたびに海水で満たされ、洗い流されるはずだ。" 'br)
-         (text "この匂いは周囲の壁や通路に染み着いてしまっているのだろうか。")
+         (str "Every time the tide comes in, the passageway fills with seawater and gets washed clean." 'br)
+         (str "I wonder if this smell has seeped into the surrounding walls and hallways.")
          (proc 0))
         (//
          (? (= 127 #t))
          (nop@)
-         (text "修道院の地下室に通じる階段の前に戻ってきた。" 'br)
-         (text "さすがに５マイル以上の距離を往復するのは身体にこたえる。")
+         (str "I came back to the stairs leading down to the Monastery's basement." 'br)
+         (str "さすがに５マイル以上の距離を往復するのは身体にこたえる。")
          (proc 0)
-         (text "平坦な道であるにもかかわらず動悸が激しいのは、いつ屋根が落ちるかもしれないという恐怖心のせいだろうか。")
+         (str "Even though the path is flat, my heart is pounding-maybe it's because I'm scared the roof could collapse at any moment.")
          (proc 0)
          (nop@)
          (set-reg 597 #t))
         (//
-         (text "「ジョナサン」　これは‥‥‥‥")
+         (str "「Jonathan」 This is......")
          (proc 0)
-         (text "「ガードナー」　通路のようだな。" 'br)
-         (text "　　　　　　　　どこまで続いておるのか解らんが、明らかに人が通る　　　　　　　　ために造られた物だ。")
+         (str "「Gardner」 Looks like a hallway." 'br)
+         (str "　　　　　　　　I　don't　know　how　far　it　goes,　but　it's　clearly　something　made　for　people　to　pass　through.")
          (proc 0)
-         (text "通路の中は濃厚な潮の香りと、今ではもう嗅ぎ慣れてしまった魚が腐敗したときに出すような生臭い匂いで満たされている。")
+         (str "Inside the passageway, it’s filled with a strong smell of the sea and that fishy, rotten stench you get when fish go bad-one I’m already used to by now.")
          (proc 0)
-         (text "「ジョナサン」　どうして潮の匂いがするんだ？" 'br)
-         (text "　　　　　　　　修道院は海から離れた丘陵の上にあったはずなのに。")
+         (str "「Jonathan」 Why does it smell like the ocean？" 'br)
+         (str "　　　　　　　　The monastery should have been on top of the hills away from the sea.")
          (proc 0)
-         (text "「ガードナー」　通路が海まで続いているという事か。" 'br)
-         (text "　　　　　　　　何マイルあるのか知らんが、かなりの労力を要したに　　　　　　　　違いない。")
+         (str "「Gardner」 通路が海まで続いているという事か。" 'br)
+         (str "　　　　　　　　I don't know how many miles it is, but it must've taken a hell of a lot of effort.")
          (proc 0)
-         (text
-          "あたりの岩は苔むして、かなり昔に造られた物である事に間違いない。人の力で土を掘り、石壁を築いたのだとしたら、確かに並の苦労ではなかっただろう。")
+         (str "The rocks around here are covered in moss, so there's no doubt they were made a long time ago. If people really dug out the earth and built these stone walls with their own hands, it must've been one hell of a tough job.")
          (proc 0)
-         (text "よほど重要な目的がなければ、わざわざこんな通路を掘ったりはしないはずだ。")
+         (str "Unless there was a really important reason, there's no way they'd bother digging a passage like this.")
          (proc 0))))
    (proc 3)
    (loop
@@ -87,62 +86,59 @@
        (branch-index
         (</>
          (/
-          (text "人の頭より大きな不揃いの石が、壁のように一面に埋め込んである。" 'br)
-          (text "明らかに人為的に造られた物に間違いない。")
+          (str "Irregular stones bigger than a person's head are embedded all over, like a wall." 'br)
+          (str "There's no doubt it's something clearly man-made.")
           (proc 0)
-          (text "石の表面はすっかり苔むしてしまっていて、相当に古い物である事は間違いなさそうだ。")
+          (str "The surface of the stone is completely covered in moss, so it's definitely pretty old.")
           (proc 0)
-          (text
-           "わざわざ修道院の地下室に通路を造るという事は、あまり他人の目には触れたくなかったのだろう、おおぜいの人間を使う事はしなかったはずだから、かなり長い時間をかけて造られたのだろう。"))
+          (str "わざわざ修道院の地下室に通路を造るという事は、あまり他人の目には触れたくなかったのだろう、おおぜいの人間を使う事はしなかったはずだから、かなり長い時間をかけて造られたのだろう。"))
          (/
-          (text
-           "これほどの量の資材を狭い地下室から持ち込むのはかなりの苦労だったろう、人の頭より大きな石は、ひとつ運ぶにもふたり以上の人間の力を必要としたはずだ。"))))
+          (str "It must've been a real pain to haul this much material out from that cramped Basement. Stones bigger than a person's head would've needed at least two people to carry each one."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "人が歩きやすいように鉄道の枕木ぐらいの大きさの木の板を何枚も組み合わせて通路を造ってある。")
+          (str "They made a path by putting together several wooden planks about the size of railroad ties so people could walk easily.")
           (proc 0)
-          (text "両側の壁に通路があるが、地下道の中央は小舟が通れるぐらいの大きさの水路のようになっている。")
+          (str "There are passages on both sides of the walls, but the center of the underground tunnel is like a waterway just big enough for a small boat to pass through.")
           (proc 0)
-          (text "水路の部分はそれほど深くはなく、平底の船ならばなんとか底を擦らずに通れる程度になっている。"))
-         (/ (text "人が歩きやすいように鉄道の枕木ぐらいの大きさの木の板を何枚も組み合わせて通路を造ってある。"))))
+          (str "The waterway isn't that deep, just enough for a flat-bottomed boat to make it through without scraping the bottom."))
+         (/ (str "They made a walkway by putting together a bunch of wooden planks about the size of railroad ties so people can walk easily."))))
        (proc 0))
       (/
        (exec-mem 256 "P 5 28 48")
        (branch-index
         (</>
          (/
-          (text "「ジョナサン」　フナムシだ。" 'br)
-          (text "　　　　　　　　海辺にいる生物のはずなのに、こんな内陸の方まで入　　　　　　　　り込んでくるなんて。")
+          (str "「Jonathan」 フナムシだ。" 'br)
+          (str "　　　　　　　　海辺にいる生物のはずなのに、こんな内陸の方まで入　　　　　　　　り込んでくるなんて。")
           (proc 0)
-          (text "「ガードナー」　これらの生物は、自分に適した環境があるならばどこ　　　　　　　　にでも入り込んで来るさ。")
+          (str "「Gardner」 These creatures will crawl in anywhere there's an environment that suits them.")
           (proc 0)
-          (text "「ジョナサン」　こんな陽の当たらない地下でも生息出来るんですね。　　　　　　　　餌なんてあるんでしょうか？")
+          (str "「Jonathan」 Even down here underground where no sunlight reaches, they can survive, huh.　　　　　　　　I wonder if there's anything for them to eat？")
           (proc 0)
-          (text
-           "しかし、そもそも私はフナムシが何を食べて生きているのか知らない。ガードナーも生物学者ではないのだからそんな事は知らないだろう。"))
+          (str "しかし、そもそも私はフナムシが何を食べて生きているのか知らない。ガードナーも生物学者ではないのだからそんな事は知らないだろう。"))
          (/
-          (text "大量のフナムシが固まってうごめいている。" 'br)
-          (text "別に虫が嫌いという訳ではないが、あまり気味のいい光景ではない。")
+          (str "大量のフナムシが固まってうごめいている。" 'br)
+          (str "It's not like I hate bugs or anything, but it's not exactly a pleasant sight.")
           (proc 0)
-          (text "まさか人間に襲いかかって来る訳ではないだろうが、出来るだけ刺激しないようにしたほうがいいだろう。"))))
+          (str "まさか人間に襲いかかって来る訳ではないだろうが、出来るだけ刺激しないようにしたほうがいいだろう。"))))
        (proc 0)
        (exec-mem 256 "P 4 28 48"))
       (/
        (branch-index
         (</>
          (/
-          (text "石壁の表面にはぬるぬるする苔がびっしり生えている。" 'br)
-          (text "地下で湿気が多いのと、満潮時には海中に没して絶えず濡れている事が苔の生息に適しているのだろう。")
+          (str "The surface of the stone wall is completely covered in slimy moss." 'br)
+          (str "The high humidity underground and the fact that it's constantly getting wet when submerged at high tide probably make it a good habitat for moss.")
           (proc 0)
-          (text "厚く密生したそれらの植物は、私が手で触れても容易に剥がれようとはしない。")
+          (str "Those thick, densely packed plants wouldn't come off easily, even when I tried to pull them with my hands.")
           (proc 0)
-          (text "誰かが今でもこの通路を使っていて、あやまって壁に手をついてしまったとしても、その痕跡は全く残らないだろう。"))
+          (str "Even if someone still uses this passage today and accidentally touches the wall, there probably wouldn't be any trace left at all."))
          (/
-          (text "厚く密生した苔が壁の表面をおおっている。" 'br)
-          (text "私が手を触れたぐらいでは容易に剥がれようとしない。"))))
+          (str "Thick, densely-packed moss covers the surface of the wall." 'br)
+          (str "It doesn't come off easily just by me touching it."))))
        (proc 0))
       (/
        (branch-reg
@@ -152,26 +148,25 @@
           (branch-index
            (</>
             (/
-             (text "私は通路から手を伸ばして、通路の中央を流れる水路に手を沈めた。" 'br)
-             (text "水は冷たく、あっというまに指先の感覚がなくなってしまう。")
+             (str "I reached out from the corridor and plunged my hand into the waterway flowing down the center of the corridor." 'br)
+             (str "The water is cold, and in no time at all, I lose feeling in my fingertips.")
              (proc 0)
-             (text "指についた水の滴を口に含むと、濃度の濃い塩水である事が解る。" 'br)
-             (text "やはりこの通路は海まで続いているに違いない。")
+             (str "When I put the drops of water from my finger in my mouth, I realize it's strong saltwater." 'br)
+             (str "This passage must be connected to the sea after all.")
              (proc 0)
-             (text "「ジョナサン」　やはり海水のようです。" 'br)
-             (text "　　　　　　　　ここから海まで何マイルぐらいでしょうか？")
+             (str "「Jonathan」 Looks like it's seawater after all." 'br)
+             (str "　　　　　　　　How many miles do you think it is from here to the sea？")
              (proc 0)
-             (text "「ガードナー」　５、６マイルといったところかな。" 'br)
-             (text "　　　　　　　　よくもそんな長い距離を掘ったものだ。"))
+             (str "「Gardner」 I'd say about five or six miles." 'br)
+             (str "　　　　　　　　They　really　dug　out　such　a　long　distance,　huh."))
             (/
-             (text "水路の水を舐めてみると、かなり塩辛い。" 'br)
-             (text "この通路が海まで続いていることはもはや疑いない事実だ。")))))
+             (str "When I try licking the water in the canal, it's pretty salty." 'br)
+             (str "It's now an undeniable fact that this passage leads all the way to the sea.")))))
          (/
-          (text
-           "引き潮のこの時刻で海面が丁度通路の高さと同じくらいだという事は、潮が満ちてくるとこの通路一帯は夜の間は海面下に没してしまうという事だ。")
+          (str "At this time of low tide, the sea surface is just about the same height as the passage, which means that when the tide comes in, this entire passage will be submerged under the sea during the night.")
           (proc 0)
-          (text "すると、この水路は昼の間しか使用できないという事になる。" 'br)
-          (text "数マイルもの距離を呼吸なしで行き来出来る人間などいる訳がない。"))))
+          (str "So that means this waterway can only be used during the daytime." 'br)
+          (str "There’s no way a human could go back and forth for miles without breathing."))))
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -185,8 +180,8 @@
          60
          100
          (</>
-          (/ (text "　　先に進む　　"))
-          (/ (set-reg 127 #t) (nop@) (str " ") (text "上の部屋に戻る") (str " "))))
+          (/ (str "　　Go forward　　"))
+          (/ (set-reg 127 #t) (nop@) (str " ") (str "Return to the room above") (str " "))))
         (proc 17))))
   (proc 14)
   (if (</>

@@ -34,32 +34,30 @@
         (//
          (? (= 547 #t))
          (nop@)
-         (text "「コーデリア」　おまちどうさま。")
+         (str "「Cordelia」 おまちどうさま。")
          (proc 0)
-         (text "コーデリアが私たちの前に酒の入ったグラスを置く。" 'br)
-         (text "本人はバーテンの衣装に着替えて立ったままだ。")
+         (str "Cordelia places a glass filled with alcohol in front of us." 'br)
+         (str "He's still standing there in his bartender uniform.")
          (proc 0))
         (//
-         (text "「コーデリア」　おまちどうさま。")
+         (str "「Cordelia」 Sorry to keep you waiting.")
          (proc 0)
-         (text "コーデリアが私たちの前に酒の入ったグラスを置く。" 'br)
-         (text "自分の分はないようだから、陽の高い間は飲むつもりはないらしい。")
+         (str "Cordelia sets glasses filled with booze in front of us." 'br)
+         (str "Looks like there's none for himself, so he probably doesn't plan on drinking while the sun's still up.")
          (proc 0)
-         (text "それとも、ガードナーやトマスがいる前では慎みのない姿を見せるのが嫌なのだろうか。")
+         (str "Or maybe she just doesn't want to show such a shameless side of herself in front of Gardner or Thomas.")
          (proc 0)
          (branch-reg
           121
           (</>
            (/
-            (text "くったくのない笑顔を浮かべた様子からは、今朝の夢遊病〜の話を気に病んでいるようには見えない。")
+            (str "From the way she's smiling so innocently, she doesn't look like she's worried at all about the sleepwalking thing this morning.")
             (proc 0)
-            (text
-             "それとも、この笑顔はパブにいる間だけの、仕事用の顔なのだろうか。だとしたら少なくとも私たちの前ではそんな無理をする必要がない事を教えてやった方がいいだろう。"))
+            (str "Or maybe, this smile is just her work face she puts on while she's at the Pub. If that's the case, I should probably let her know that at least around us, she doesn't have to force herself like that."))
            (/
-            (text "表面上は笑みを浮かべているが、内心では私が娼館に入った事を怒っているに違いない。")
+            (str "On the surface, she's smiling, but deep down, she's definitely pissed that I went into the brothel.")
             (proc 0)
-            (text
-             "ガードナーやトマスの前では言い争いをしたくないという事だろうか。だとしたら、当分ふたりきりになるのは避けた方がよさそうだ。"))))
+            (str "Maybe it's that they don't want to argue in front of Gardner or Thomas. If that's the case, it's probably better to avoid being alone together for a while."))))
          (proc 0)
          (nop@)
          (set-reg 547 #t))))
@@ -79,38 +77,33 @@
            121
            (</>
             (/
-             (text "一緒に娼館に行って以来、妙な仲間意識を持ったようで、いやに馴れ馴れしくて困る。")
+             (str "Ever since we went to the brothel together, there's been this weird sense of camaraderie, and he's been way too familiar with me, it's a pain.")
              (proc 0)
-             (text
-              "仲のいい遊び仲間が、ちょっとした酔狂で一緒に女を買いに行くという話は何度も聞いたことがあるが、私とトマスがそういったくだけた友人同士だと思われては迷惑だ。"))
+             (str "I've heard plenty of stories about close friends going to buy a girl together just for kicks, but it'd be a pain if people thought Thomas and I were that kind of laid-back buddies."))
             (/
-             (text "涼しい顔をして何を考えているのか知らないが、この男が女を抱けない身体だと言うのは本当なのだろうか。")
+             (str "I don't know what he's thinking with that cool expression, but is it really true that this guy's got a body that can't sleep with women?")
              (proc 0)
-             (text
-              "私に何を隠しているのか知らないが、わざわざ抱きもしない娼婦に金を払い、さらに多分なチップさえくれてやってまで隠そうというのだ。")
+             (str "I don't know what you're hiding from me, but you're paying money to a whore you don't even bother to fuck, and even giving her a big tip just to keep it secret.")
              (proc 0)
-             (text
-              "ナイとの関係も自分で言ったように、全くの見ず知らずという訳ではないだろう、教会の前で口にした『失われた鍵』というのが大きな意味を持っていそうだ。")))))
+             (str "Like you said about your relationship with Nai, it's not like you're total strangers; that 'Lost key' you mentioned in front of the Church seems to have some big meaning.")))))
          (/
-          (text "あいかわらずとぼけた表情を崩さない。" 'br)
-          (text "深夜の教会でナイに向けていた、怒りをあらわにした表情がまるで嘘のようだ。"))))
+          (str "Still keeping that clueless look on your face as always." 'br)
+          (str "The angry look she had aimed at Nai in the church at midnight seems like a total lie now."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "かなり疲れているようだ。" 'br)
-          (text "連日の強行軍がかなりこたえているのではないだろうか。")
+          (str "She looks pretty tired." 'br)
+          (str "Isn't the nonstop forced march the past few days really wearing us down?")
           (proc 0)
-          (text
-           "もしもそう出来るのならば、さっさとバスに押し込んでロンドン行きの汽車が出る駅まで送り届けたいのだが、セイラム行きのバスがいつ村にやって来るのかさえわからないようではそうする事も出来ない。")
+          (str "If I could do that, I'd hurry up and shove them onto a bus and drop them off at the station where the train for London leaves, but I can't even do that if I don't know when the bus to Salem is coming to the village.")
           (proc 0)
-          (text "ひとりで魚鱗亭の部屋にいるよりは、多少肉体的な苦痛を強いてでも、私たちと一緒にいる方がましだろう。"))
+          (str "Rather than being alone in a room at the Fish Scale Inn, it's probably better to be with us, even if you have to put up with a bit of physical discomfort."))
          (/
-          (text "昨日の調べで遺跡がアーカムに元々あった物ではなく、何者かが運んできた偽物だったと判明したせいで、あまり元気がないようだ。")
+          (str "Because it was found out in yesterday's investigation that the ruins weren't originally in Arkham but were actually fakes brought in by someone, he doesn't seem too energetic.")
           (proc 0)
-          (text
-           "もうアーカムを調べる意欲を失ってしまったようだが、例の遺跡が何処で産した物で、どんな意味を持っているのか解っていない以上、調査は完全に終わった訳ではないと思うのだが‥‥‥‥"))))
+          (str "It seems like they've already lost the motivation to investigate Arkham, but since we still don't know where those Ruins were produced or what they mean, I don't think the investigation is truly over yet..."))))
        (proc 0))
       (/
        (branch-index
@@ -120,79 +113,75 @@
            121
            (</>
             (/
-             (text
-              "明るく微笑んでいる表情からは、昨晩自分が何処に行っていたのか自分でも解らないという奇妙な出来事を気にしているようには見えない。")
+             (str "From her bright smiling expression, it doesn't look like she's bothered at all by the strange event of not even knowing where she went last night.")
              (proc 0)
-             (text
-              "普段が明るく陽気な娘だけに、あまり落ち込んだ暗い表情をされていても困るが、私たちに気を遣って取り繕った笑顔を浮かべているのだとしたら、余計に困った事だ。"))
+             (str "She's usually such a bright and cheerful girl, so it would be awkward if she looked too down and gloomy, but if she's just forcing a smile to spare our feelings, that's even more of a problem."))
             (/
              (branch-reg
               124
               (</>
                (/
-                (text "全く何事もなかったように明るく微笑んでいるが、内心どれほど私の事を怒っているか解らない。")
+                (str "She's smiling brightly like nothing ever happened, but I have no idea how mad she actually is at me inside.")
                 (proc 0)
-                (text
-                 "確かに私が不実を犯した事は認めるが、それはトマスが何を企んでいるのか確かめようとしての事だ、話も聞かずに一方的に責められるのは納得がいかない。"))
+                (str "I admit that I did cheat, but it was because I was trying to find out what Thomas was up to. I can't accept being blamed one-sidedly without even being heard out."))
                (/
-                (text "娼館に行った訳を話した事で、一応納得したようだ。" 'br)
-                (text "笑顔は嘘ではないのだろうが、最後に言った『気持ちよかった〜』という言葉が気にかかる。")
+                (str "After I explained why I went to the brothel, she seemed to be convinced for now." 'br)
+                (str "The smile probably wasn't a lie, but the words she said at the end, 'That felt so good...,' are stuck in my mind.")
                 (proc 0)
-                (text "まだ嫉妬しているのだろうか。" 'br)
-                (text "女とは厄介なほど執念深いからな‥‥‥‥‥"))))))))
+                (str "I wonder if I'm still feeling jealous." 'br)
+                (str "Women are ridiculously persistent, you know......"))))))))
          (/
-          (text "いつものバーテンの服装に着替えて、かいがいしく私たちに酒を運んでいる。")
+          (str "Changing into his usual bartender outfit, he's diligently bringing us drinks.")
           (proc 0)
-          (text "客がいる前では飲まない主義なのか、自分の分のグラスはない。" 'br)
-          (text
-           "一度飲み始めると止まらないタイプのようだから、すっかり酔っぱらってガードナー達の前で醜態を晒される心配をしなくていいのは助かる。"))))
+          (str "客がいる前では飲まない主義なのか、自分の分のグラスはない。" 'br)
+          (str "一度飲み始めると止まらないタイプのようだから、すっかり酔っぱらってガードナー達の前で醜態を晒される心配をしなくていいのは助かる。"))))
        (proc 0))
       (/
        (if (</>
             (//
              (? (= 415 #t))
              (nop@)
-             (text "「トマス」　あんまり女を泣かせるような真似はするなよ。" 'br)
-             (text "　　　　　　遊びとそうでないのの区別は、はっきりしとかないとな。")
+             (str "「Thomas」 あんまり女を泣かせるような真似はするなよ。" 'br)
+             (str "　　　　　　遊びとそうでないのの区別は、はっきりしとかないとな。")
              (proc 0))
             (//
-             (text "「トマス」　どうだい、俺が言ったとおりだろうが。")
+             (str "「Thomas」 どうだい、俺が言ったとおりだろうが。")
              (proc 0)
-             (text "「ジョナサン」　何が？")
+             (str "「Jonathan」 What？")
              (proc 0)
-             (text "「トマス」　お前みてぇな奴は癖になるってよ。" 'br)
-             (text "　　　　　　真面目そうな顔した奴ほど、一度羽目を外すとなかなか元　　　　　　に戻れねえもんなんだ。")
+             (str "「Thomas」 Guys like you get addictive, you know." 'br)
+             (str "　　　　　　Guys who look all serious are the type who, once they let loose, just can't really go back to how they were.")
              (proc 0)
-             (text "「ジョナサン」　‥‥‥‥‥‥‥‥‥")
+             (str "「Jonathan」 ‥‥‥‥‥‥‥‥‥")
              (proc 0)
-             (text "「トマス」　あんまり蕩尽が過ぎると女にも見捨てられるぜ。" 'br)
-             (text "　　　　　　程々にしといた方がいい。")
+             (str "「Thomas」 If you blow through your money too much, even the girls will ditch you." 'br)
+             (str "　　　　　　You'd better not overdo it.")
              (proc 0)
-             (text "「ジョナサン」　私は誘われたからついていっただけだ。" 'br)
-             (text "　　　　　　　　自分から進んでなど‥‥‥‥")
+             (str "「Jonathan」 I just went along because I was invited." 'br)
+             (str "　　　　　　　　Going ahead on my own...")
              (proc 0)
              (branch-reg
               121
               (</>
                (/
-                (text "「ジョナサン」　私は今までそんな事に走った事はなかったんだぞ。" 'br)
-                (text "　　　　　　　　君と一緒にしてもらっては困るな。")
+                (str "「Jonathan」 私は今までそんな事に走った事はなかったんだぞ。" 'br)
+                (str "　　　　　　　　Don't lump me in with you.")
                 (proc 0)
-                (text "「トマス」　本当にそうかな？" 'br)
-                (text "　　　　　　俺にゃあそうは見えないぜ。")
+                (str "「Thomas」 Are you really sure about that？" 'br)
+                (str "　　　　　　Doesn't look that way to me.")
                 (proc 0)
-                (text "「トマス」　まあ、次に行く時にゃあ俺を誘ってくれよな。" 'br)
-                (text "　　　　　　そういう誘いならいつでも歓迎するぜ。"))
+                (str "「Thomas」 Well, next time you go, invite me, alright?" 'br)
+                (str "　　　　　　If it's that kind of invitation, I'll always be up for it."))
                (/
-                (text "「トマス」　じゃあ、さっきのはどうなるんだ。" 'br)
-                (text "　　　　　　別に俺が誘った訳じゃないぜ。")
+                (str "「Thomas」 So, what about what happened earlier?" 'br)
+                (str "　　　　　　It's not like I was the one who did the inviting anyway.")
                 (proc 0)
-                (text "「ジョナサン」　あれは‥‥‥‥‥‥")
+                (str "「Jonathan」 That was........")
                 (proc 0)
-                (text "「トマス」　これで若いふたりは味見したって訳だ。" 'br)
-                (text "　　　　　　今度はあのマダムをやってみるかい？")
+                (str "「Thomas」 So that means the two youngsters have had a little taste now, huh?" 'br)
+                (str "　　　　　　Wanna　try　being　that　Madam　this　time？")
                 (proc 0)
-                (text "「トマス」　俺にゃあそういう趣味はないが、年増女ってのもなかなか　　　　　　いいもんらしいぜ。"))))
+                (str "「Thomas」 I'm not into that kind of thing, but I hear older women can be pretty damn good too."))))
              (proc 0)
              (nop@)
              (set-reg 415 #t)))))
@@ -201,75 +190,70 @@
             (//
              (? (= 416 #t))
              (nop@)
-             (text
-              "「ガードナー」　セイラム行きのバスが来るまでは一緒に行動しよう。　　　　　　　　君たちの足を引っ張らなければいいがな。")
+             (str "「Gardner」 Let's stick together until the bus to Salem gets here.　　　　　　　  I just hope I don't slow you guys down.")
              (proc 0))
             (//
-             (text
-              "「ガードナー」　私はもう疲れたよ、やはり君たち若い者のペースにあ　　　　　　　　わせて行動するには歳をとりすぎたようだ。")
+             (str "「Gardner」 私はもう疲れたよ、やはり君たち若い者のペースにあ　　　　　　　　わせて行動するには歳をとりすぎたようだ。")
              (proc 0)
-             (text "「ジョナサン」　そうですか‥‥‥‥" 'br)
-             (text "　　　　　　　　魚鱗亭で休んでおられたら如何です？")
+             (str "「Jonathan」 I see......" 'br)
+             (str "　　　　　　　　How about taking a rest at the Fish Scale Inn？")
              (proc 0)
-             (text "「ガードナー」　それはあまりぞっとせんな。" 'br)
-             (text "　　　　　　　　陰気な部屋にひとり篭もっておっては鬱病にかかって　　　　　　　　しまう。")
+             (str "「Gardner」 That doesn’t really creep me out." 'br)
+             (str "　　　　　　　　If I keep shutting myself away alone in this gloomy room, I'll end up getting depression.")
              (proc 0)
-             (text
-              "「ガードナー」　第一、毎日部屋でごろごろされていてはハドスンさん　　　　　　　　も迷惑だろう、こんな年寄りの相手ではな‥‥‥")
+             (str "「Gardner」 First of all, if I just loaf around in the room every day, I'd be bothering Hudson too, since dealing with an old man like me...")
              (proc 0)
-             (text "「ジョナサン」　ではどうなさるつもりです？")
+             (str "「Jonathan」 So what are you gonna do？")
              (proc 0)
-             (text "「ガードナー」　うん、セイラム行きのバスが来るまでは君たちと一緒　　　　　　　　に行動することにしよう。")
+             (str "「Gardner」 Yeah, I'll stick with you guys until the bus to Salem gets here.")
              (proc 0)
-             (text
-              "「ガードナー」　現状ではそうしたくとも村を出る事は出来んからな。　　　　　　　　私とていつまでも大学を留守にする訳にはいかん。")
+             (str "「Gardner」 Even if I wanted to, I can't leave the village right now.　　　　　　　　I can't stay away from the university forever either.")
              (proc 0)
              (nop@)
              (set-reg 416 #t)))))
       (/
        (if (</>
-            (// (? (= 414 #t)) (nop@) (text "「コーデリア」　もうその話はしないで頂戴。") (proc 0))
+            (// (? (= 414 #t)) (nop@) (str "「Cordelia」 Please don't talk about that anymore.") (proc 0))
             (//
              (branch-reg
               121
               (</>
                (/
-                (text "「ジョナサン」　疲れているんじゃないか？" 'br)
-                (text "　　　　　　　　あまり顔色がよくないが‥‥‥‥")
+                (str "「Jonathan」 Aren't you tired？" 'br)
+                (str "　　　　　　　　You don't look so good......")
                 (proc 0)
-                (text "「コーデリア」　ううん、疲れてはいないわ。" 'br)
-                (text "　　　　　　　　そんな事より‥‥‥‥‥‥‥‥‥‥")
+                (str "「Cordelia」 No, I'm not tired." 'br)
+                (str "　　　　　　　　More importantly‥‥‥‥‥‥‥‥‥‥")
                 (proc 0)
-                (text "「ジョナサン」　まだ今朝の話を気にしているのか？" 'br)
-                (text "　　　　　　　　それほど深刻になる事はないんじゃないかい。")
+                (str "「Jonathan」 Are you still bothered about what happened this morning？" 'br)
+                (str "　　　　　　　　It’s not something you have to get so worked up about, is it?")
                 (proc 0)
-                (text "「コーデリア」　ジョナサンは自分の事じゃないからそんなに悠長な事　　　　　　　　を言ってられるのよ。")
+                (str "「Cordelia」 Jonathan, you can say that because it’s not happening to you, you know.")
                 (proc 0)
-                (text "「コーデリア」　わたしの身にもなってみてよ。")
+                (str "「Cordelia」 Try putting yourself in my shoes for a second.")
                 (proc 0)
-                (text "「コーデリア」　自分でも解らない間に、村中歩いているのよ？" 'br)
-                (text "　　　　　　　　その時どんな格好をしているのか‥‥‥事によったら　　　　　　　　素っ裸なのかもしれないのよ。")
+                (str "「Cordelia」 I was walking all around the village without even realizing it myself, you know？" 'br)
+                (str "　　　　　　　　What kind of outfit are you wearing at that time... I mean, depending on the situation, you might even be completely naked.")
                 (proc 0)
-                (text "「ジョナサン」　そうか‥‥‥‥‥済まなかった。")
+                (str "「Jonathan」 I see......... Sorry about that.")
                 (proc 0)
-                (text "「ジョナサン」　今夜から君が何処かに行ってしまわないように、私が　　　　　　　　見張っている事にしよう。")
+                (str "「Jonathan」 From tonight on, I'll keep an eye on you so you don't go running off somewhere.")
                 (proc 0)
-                (text "「コーデリア」　ありがとう‥‥‥‥‥‥"))
+                (str "「Cordelia」 Thank you........."))
                (/
-                (text "「ジョナサン」　まだ怒っているのか？")
+                (str "「Jonathan」 Are you still mad？")
                 (proc 0)
-                (text "「コーデリア」　何の事かしら。")
+                (str "「Cordelia」 I wonder what you're talking about.")
                 (proc 0)
-                (text "「ジョナサン」　私が娼館に行った事だよ。")
+                (str "「Jonathan」 It's about the time I went to the brothel.")
                 (proc 0)
-                (text "「コーデリア」　ああ、その事ね。")
+                (str "「Cordelia」 Ah, that thing, right.")
                 (proc 0)
-                (text "「ジョナサン」　涼しい顔をしているが、本当は気にしているんじゃな　　　　　　　　いのか？")
+                (str "「Jonathan」 You're keeping a cool face, but aren't you actually bothered by it？")
                 (proc 0)
-                (text "「コーデリア」　ジョナサン‥‥‥‥")
+                (str "「Cordelia」 Jonathan......")
                 (proc 0)
-                (text
-                 "「コーデリア」　何もこんな所でそんな事話さないでもいいでしょう？　　　　　　　　わたしたちふたりきりじゃないのよ。"))))
+                (str "「Cordelia」 You really don't have to talk about that kind of thing in a place like this, do you？　　　　　　　　We're not alone here, you know."))))
              (proc 0)
              (nop@)
              (set-reg 414 #t)))))))
@@ -281,7 +265,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　外に出る　　"))))
+        (menu1 60 100 (</> (/ (str "　　Go outside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

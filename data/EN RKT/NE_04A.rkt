@@ -37,11 +37,10 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "かつて栄華を極めたミスカトニック大学の前だ。" 'br)
-         (text "今は村の歴史を伝える資料館になっているが、ここを訪れる村人は希有で、巨大な建物はまるで墓標のようになんの意味も持たない。")
+         (str "This is in front of the once-glorious Miskatonic University." 'br)
+         (str "Now it's an archives telling the village's history, but villagers rarely visit, and this huge building stands there like a tombstone, totally meaningless.")
          (proc 0)
-         (text
-          "夜になるとその不気味さはさらに凄味を増し、かつてこの大学で異彩を放っていた狂人と言われた学者の怪しげな研究の内容を想像せずにはいられない。")
+         (str "夜になるとその不気味さはさらに凄味を増し、かつてこの大学で異彩を放っていた狂人と言われた学者の怪しげな研究の内容を想像せずにはいられない。")
          (proc 0))
         (//
          (load-mem "CLM¥C_073B.CLM" 27984)
@@ -65,11 +64,10 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "かつてのミスカトニック大学、現在のアーカム資料館の前だ。" 'br)
-         (text
-          "オックスフォードに現存する著名な博物館を真似て設計された建物は、寂れて時の流れからも見捨てられたようなこの村にはあまりにも不似合いのように思われる。")
+         (str "This is the front of what was once Miskatonic University, now the Arkham Archives." 'br)
+         (str "A building designed to imitate a famous museum still standing in Oxford seems far too out of place for this village, which feels desolate and abandoned even by the flow of time itself.")
          (proc 0)
-         (text "哀れなことに現在ではその荘厳な建築物を称える聴衆さえなく、建物はただ朽ち果てるのを待つばかりだ。")
+         (str "Sadly, these days there isn't even an audience left to admire that magnificent building, and all it can do is wait to crumble away.")
          (proc 0))))
    (proc 3)
    (loop
@@ -82,53 +80,49 @@
        (branch-index
         (</>
          (/
-          (text "そびえ立つ煉瓦の建物の向こうに見える空には、未だ厚い雲がかかり、古びた建物を押し潰さんばかりだ。")
+          (str "In the sky beyond the towering brick building, thick clouds still hang, looking like they're about to crush the old building.")
           (proc 0)
-          (text
-           "ほとんどが、せいぜい二階建てどまりの家屋ばかりが並ぶアーカムではこの資料館が唯一の高層建築物だ、まるで空を支える唯一の支柱のように見える。")
+          (str "In Arkham, where most of the houses are at best two stories high, this Archives building is the only high-rise, standing like the lone pillar holding up the sky.")
           (proc 0)
-          (text "孤独で崇高な命を与えられたこの煉瓦の建築物は、あとどれくらいの間その役目を全うできるのだろう。"))
+          (str "Given a lonely and noble life, how much longer will this brick building be able to fulfill its role?"))
          (/
-          (text "アーカムの陰気で湿っぽい雰囲気を助長するかのように、厚い雲は一向に晴れる気配を見せない。")
+          (str "As if to amplify Arkham's gloomy and damp mood, the thick clouds show no sign of clearing up.")
           (proc 0)
-          (text "おそらくここは、大ブリテン島でももっとも人間が住むに相応しくない土地に違いない。")
+          (str "This is probably the least suitable land for humans to live on in all of Great Britain.")
           (proc 0)
-          (text
-           "ここに暮らす村人達は一年にどれほど太陽の姿を見る事が出来るのか。それともこの不穏な天候は、アーカムに入り込んだ場違いな侵入者である私たちのせいなのだろうか。"))))
+          (str "How many times a year do the villagers living here get to see the sun? Or maybe this unsettling weather is because of us-out-of-place intruders who have slipped into Arkham."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "こんな辺鄙な村に大学が造られたのは、フィリップ・ダニッジが持ち込んだ金の力があってこそだろう。")
+          (str "こんな辺鄙な村に大学が造られたのは、フィリップ・ダニッジが持ち込んだ金の力があってこそだろう。")
           (proc 0)
-          (text "ドルリイ・ダニッジは、自分の父親が力で築き上げた大学の、しかも最後の学長になった訳だ。")
+          (str "Dollie Dunwich ended up as the last president of the university that his father built up with sheer force.")
           (proc 0)
-          (text "その事もドルリイにとっては重荷だったのではないだろうか。" 'br)
-          (text "父が行方不明になり、蓄えの金も底を尽きると、村の財力は急激に衰え始める。")
+          (str "I wonder if that was also a burden for Dollie." 'br)
+          (str "When my father went missing and our savings ran out, the village's wealth started to decline rapidly.")
           (proc 0)
-          (text "アーカムに関心を持っていた人々は、次第に村を離れていく‥‥‥‥" 'br)
-          (text "きっと村人達は村を支えていたダニッジ家の最後の当主であるドルリイを目の敵にしていたのではないだろうか。"))
+          (str "The people who were interested in Arkham gradually left the village......" 'br)
+          (str "I'm sure the villagers must have had it out for Dollie, the last head of the Dunwich family who supported the village."))
          (/
-          (text "鋭く切り立った屋根は、教会の鐘楼塔を思わせる。" 'br)
-          (text "いずれにしても大学の校舎というにはあまりにも不自然なように思われるが‥‥‥‥")
+          (str "The sharply pointed roof reminds me of the Church bell tower." 'br)
+          (str "Anyway, it seems way too unnatural to be a university building...")
           (proc 0)
-          (text "ミスカトニック大学をこの地に造ったフィリップ・ダニッジは、大学に何を求めたのだろう。"))))
+          (str "What did Philip Dunwich, who built Miskatonic University in this land, seek from the university?"))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text
-           "私の母校があるオクスフォードのユニバーシティ博物館を模して造られたものであろう、切り立った屋根と明かり取りの窓が彼の地を思い起こさせる。")
+          (str "It must have been modeled after the University Museum in Oxford where my alma mater is, with its steeply pitched roof and skylight windows reminding me of that place.")
           (proc 0)
-          (text
-           "大学の創設者であるフィリップ・ダニッジは、アーカムをゴチック風の尖塔が立ち並ぶオクスフォードのような街にしたかったのだろうか。")
+          (str "Did Philip Dunwich, the founder of the university, want to make Arkham into a city like Oxford, lined with Gothic spires?")
           (proc 0)
-          (text "だとすれば、彼は私が感じていたような金の亡者ではない。" 'br)
-          (text "大昔の領主のように、自分の土地が繁栄する事を願うまっとうな人物像を思い浮かべる事が出来るではないか。"))
+          (str "If that's the case, then he's not the kind of money-grubber I thought he was." 'br)
+          (str "Just like a feudal lord from ancient times, isn't it possible to picture a decent person who simply wishes for their own land to thrive?"))
          (/
-          (text "かつては威圧的な雄姿を誇っていたのだろうが、所々スレートの剥がれ落ちた様子からは、当時の威厳など全く感じられない。"))))
+          (str "It probably used to boast a commanding presence, but with slate peeling off here and there, you can't feel a shred of that dignity anymore."))))
        (proc 0))
       (/
        (if (</>
@@ -138,35 +132,30 @@
              (branch-index
               (</>
                (/
-                (text
-                 "入り口の扉は開いたままになっているが、昼間でさえ寄りつく人がないのに、夜半に入り込もうなどという人間がいる訳がないと決めつけているのだろうか。")
+                (str "The entrance door is left open, but maybe they just assume that no one would try to get in at night when nobody even comes near the place during the day.")
                 (proc 0)
-                (text "確かに、ここに盗むような価値があるとも思えないし、そんな物があるならとうの昔に持ち去られているだろう。")
+                (str "Sure, I don't really think there's anything here worth stealing, and if there was, it would've been taken a long time ago anyway.")
                 (proc 0)
-                (text "ひとりで膨大な書架を漁っても仕方がないし‥‥‥‥" 'br)
-                (text "また明日にでも出直して来るとしようか。"))
+                (str "It’s pointless to rummage through this massive bookshelf all by myself......" 'br)
+                (str "Guess I'll just come back again tomorrow or something."))
                (/
-                (text "夜更けすぎだというのに資料館の扉は開いたままになっている。" 'br)
-                (text
-                 "盗難に対する備えなどないに等しいが、今まで何の被害もなかったのはアーカムの住人がいかに資料館の存在を忘れているかを証明している。"))))
+                (str "Even though it's way past midnight, the door to the Archives is still left open." 'br)
+                (str "There's basically no protection against theft, but the fact that nothing has ever happened just proves how much the people of Arkham have forgotten about the Archives."))))
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text
-                 "大がかりな門を潜ると中はかつて中庭として使われていた場所に出る。かつてはぐるりを囲む回廊があり、学生たちの憩いの場だったのだろうが、今では往時の面影は全く残っていない。")
+                (str "Passing through the massive gate, you enter what used to be a courtyard. It used to have a cloister all around it and was probably a place where students would hang out, but now there's no trace of how it used to be at all.")
                 (proc 0)
-                (text "現在でも使用に耐えるのは広大な校舎の中のほんの一画で、他の部分は全く朽ちるままにされている。")
+                (str "Even now, only a small part of the vast school building is still usable, while the rest has been left to rot completely.")
                 (proc 0)
-                (text
-                 "フィリップ・ダニッジがこの光景を目にしたらあまりの体たらくに憤慨するかもしれないが、こうなってしまった原因は彼自身にある。")
+                (str "If Philip Dunwich saw this scene, he might be furious at how pathetic it is, but he's the one to blame for how things ended up like this.")
                 (proc 0)
-                (text
-                 "富を横取りされることを恐れたのだろうが、どういう手段で金を手に入れるか、その方法を知っていたのはフィリップひとりで、彼が行方不明となってからは、誰にもアーカムの没落を止める事は出来なかった。"))
+                (str "They were probably afraid of having their wealth snatched away, but the only one who knew how to actually get the money was Philip, and after he went missing, nobody could stop Arkham's decline."))
                (/
-                (text "開きっぱなしの扉をくぐると、中は芝生の庭になっているようだ。" 'br)
-                (text "建物の外観から想像すると、庭もどれくらいあれ果てているのか想像するに難くない。"))))
+                (str "When I pass through the wide-open door, it looks like there's a grassy yard inside." 'br)
+                (str "Judging from the exterior of the building, it's not hard to imagine just how rundown the garden must be too."))))
              (proc 0)))))
       (/ (nop@))
       (/ (nop@))
@@ -183,8 +172,8 @@
          60
          100
          (</>
-          (/ (text "　　　地図　　　"))
-          (/ (set-reg 122 #f) (nop@) (text "　　中に入る　　"))))
+          (/ (str "　　　Map　　　"))
+          (/ (set-reg 122 #f) (nop@) (str "　　Go inside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

@@ -32,11 +32,11 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "私が殺したはずの『深きもの』の屍体がない。" 'br)
-         (text "何者かがここにやって来て片づけたとしか思えないが‥‥‥‥")
+         (str "The corpse of the Deep One I should have killed is gone." 'br)
+         (str "I can only think that someone came here and cleaned this up...")
          (proc 0)
-         (text "ナイやダゴンの信者達は何処に行ってしまったのだろうか。" 'br)
-         (text "大切に慈しみ育ててきたコーデリアが、トマスの手にかかろうとしているというのに、何もしないつもりなのか？")
+         (str "ナイやダゴンの信者達は何処に行ってしまったのだろうか。" 'br)
+         (str "Are you really not going to do anything, even though Cordelia, whom you've cherished and raised with so much love, is about to fall into Thomas's hands？")
          (proc 0))
         (//
          (? (= 130 #t))
@@ -63,17 +63,17 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "「ガードナー」　誰もおらんようだな‥‥‥‥")
+         (str "「Gardner」 Looks like there's nobody here......")
          (proc 0)
-         (text "教会の中はもぬけの空だ。" 'br)
-         (text "ダゴンの信者達は何処に姿を消してしまったのだろう。")
+         (str "The inside of the Church is completely empty." 'br)
+         (str "Where could Dagon's followers have disappeared to?")
          (proc 0)
-         (text "「ジョナサン」　ここにいても仕方がないようですね。" 'br)
-         (text "　　　　　　　　秘密の抜け穴や隠し部屋もありそにないし。")
+         (str "「Jonathan」 ここにいても仕方がないようですね。" 'br)
+         (str "　　　　　　　　There probably aren't any secret passages or hidden rooms either.")
          (proc 0)
-         (text "「ガードナー」　そうだな‥‥‥‥‥‥ジョナサン！")
+         (str "「Gardner」 That's right...... Jonathan！")
          (proc 0)
-         (text "「ガードナー」　後ろだ！")
+         (str "「Gardner」 Behind you！")
          (proc 0)
          (proc 3)
          (proc 6)
@@ -164,10 +164,10 @@
          (exec-mem 13536 1 24288)
          (proc 7)
          (proc 1)
-         (text "「ジョナサン」　まだ他にもいるかもしれない‥‥‥‥" 'br)
-         (text "　　　　　　　　人間よりも怪物をよく見かけるなんて。")
+         (str "「Jonathan」 There might still be more of them out there......" 'br)
+         (str "　　　　　　　　I see monsters more often than people.")
          (proc 0)
-         (text "「ガードナー」　早く抜け出そう、これでは身体が持たんよ。")
+         (str "「Gardner」 Let's get out of here quick, my body can't take this.")
          (proc 0)
          (nop@)
          (set-reg 427 #t)
@@ -199,7 +199,7 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "ダゴンの信者達は姿を消してしまったようだが、何処に行ってしまったのだろうか。")
+         (str "The followers of Dagon seem to have disappeared, but I wonder where they went.")
          (proc 0))
         (//
          (exec-mem 11504 "C B:GPC¥C_120.GPC,C")
@@ -224,8 +224,8 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "ダゴンの教会の中に入った。" 'br)
-         (text "ここに来ると、否応なく昨晩のコーデリアの姿態を思い出さずにはいられない。")
+         (str "I went inside the Church of Dagon." 'br)
+         (str "Coming here, I can't help but remember Cordelia's figure from last night, whether I want to or not.")
          (proc 0)
          (proc 3)
          ((cmd 209) 0 2)
@@ -240,10 +240,9 @@
          (proc 8)
          ((cmd 209) 1 2)
          (proc 1)
-         (text
-          "意識を失い、ナイの命ずるままに裸体をさらしたコーデリアの姿は、殺された後慎重に保存された美しい標本のようでもあり、極めて精巧に作られた人形のようでもあった。")
+         (str "Unconscious, Cordelia exposed her naked body at Nai's command. She looked like a beautiful specimen carefully preserved after being killed, and also like an extremely delicately crafted doll.")
          (proc 0)
-         (text "狂気に支配されたダゴンの信者達の、淫らな欲望に血走った視線が、その躰を舐めるように走っていく‥‥‥‥‥")
+         (str "The lust-crazed gazes of the Dagon cultists, ruled by madness, run over her body as if licking it‥‥‥‥‥")
          (proc 0)
          (proc 3)
          (proc 9)
@@ -251,10 +250,9 @@
          (proc 8)
          (exec-mem 9584 1)
          (proc 1)
-         (text "開かれてはいるものの、何をも見てはいないコーデリアの瞳は、ガラス細工の義眼のようだ。")
+         (str "Even though they're open, Cordelia's eyes that see nothing look just like glass prosthetic eyes.")
          (proc 0)
-         (text
-          "呼吸にあわせて上下する豊かな胸と、わずかに開かれた唇がうわごとを言うように時折動く様子だけが、彼女が生きている事の数少ない証だ。")
+         (str "Her full chest rising and falling with each breath, and her slightly parted lips occasionally moving as if mumbling in her sleep, are some of the few signs that she’s still alive.")
          (proc 0)
          (proc 3)
          ((cmd 209) 0 2)
@@ -281,118 +279,106 @@
              (branch-index
               (</>
                (/
-                (text "一目見れば解る事だが、ここにはコーデリアの姿はない。" 'br)
-                (text "ここには隠れられそうな場所はないし、どこかに通じる抜け穴などという物もありそうにはない。")
+                (str "You can tell at a glance, but Cordelia isn't here." 'br)
+                (str "There doesn't seem to be anywhere to hide here, and it doesn't look like there's any hidden passage leading somewhere else, either.")
                 (proc 0)
-                (text "確固たる理由もなしに村を歩き回るのは徒労以外の何者でもない。" 'br)
-                (text "こんな事をして、時間を浪費するのは無駄のように思うが‥‥‥‥"))
+                (str "Walking around the village without a solid reason is nothing but a waste of time." 'br)
+                (str "こんな事をして、時間を浪費するのは無駄のように思うが‥‥‥‥"))
                (/
-                (text
-                 "ただ徒に手当たり次第に村を回ってみてもあまり意味はないのかもしれない、こんな所で時間を浪費するぐらいなら、もっと先に調べなければならない事があるはずだ。")
+                (str "ただ徒に手当たり次第に村を回ってみてもあまり意味はないのかもしれない、こんな所で時間を浪費するぐらいなら、もっと先に調べなければならない事があるはずだ。")
                 (proc 0)
-                (text "ダニッジ邸のドルリイの書斎を調べるのが先決だろう。" 'br)
-                (text "あそこに行けば、この村で何が起こっているのか全て解るはずだ。")
+                (str "We should probably check out Dollie's study in the Dunwich Mansion first." 'br)
+                (str "If we go there, we should be able to figure out everything that's happening in this village.")
                 (proc 0)
-                (text
-                 "ドルリイの死後、部屋に入ったマーシュがそこで秘密の全てを知ったのは、何かが残されていたからに他ならない。"))))
+                (str "After Dollie's death, the only reason Marsh learned all the secrets when he entered the room was because something had been left behind."))))
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "教会の床は石が敷き詰めてあるし、周囲の壁は漆喰で固めてある。" 'br)
-                (text "こんな所に本を隠せる訳もない。")
+                (str "The floor of the Church is covered with stone, and the surrounding walls are reinforced with plaster." 'br)
+                (str "There's no way I could hide a book in a place like this.")
                 (proc 0)
-                (text "それに、よく考えてみれば、ネクロノミコンの本来の所有者はダゴンの信者とナイなのではないだろうか。")
+                (str "Also, if you think about it, aren’t the true owners of the Necronomicon actually Dagon’s followers and Nai?")
                 (proc 0)
-                (text "彼らがネクロノミコンを隠さねばならない理由はどこにもない。" 'br)
-                (text "もしもナイがそれを持っていたとしたら、信者達の前で本を誇らしげに掲げるだろう。"))
+                (str "There's no reason for them to have to hide the Necronomicon." 'br)
+                (str "If Nai had it, she’d probably hold up the book in front of her followers with a proud look on her face."))
                (/
-                (text "ナイはネクロノミコンを持っていないのではないだろうか。" 'br)
-                (text "もしもナイがそれを持っていたとしたら、信者達の前で本を誇らしげに掲げるだろう。")
+                (str "I wonder if Nai doesn't have the Necronomicon." 'br)
+                (str "If Nai had that, she'd probably proudly hold the book up in front of her followers.")
                 (proc 0)
-                (text
-                 "もしかすると、彼らもまたネクロノミコンの在処をずっと探し続け、それが村の何処かに隠されているのを確信しながら未だに見つけだす事が出来ずにいるのかもしれない。"))))
+                (str "Maybe they're also still searching for the Necronomicon, convinced it's hidden somewhere in the village, but still haven't been able to find it."))))
              (proc 0)))))
       (/
        (if (</>
             (//
              (? (= 130 #t))
              (nop@)
-             (text "信者達の前で誇らしげに弁舌を振るっていたナイは何処に行ってしまったのだろうか。")
+             (str "I wonder where Nai, who used to proudly speak with eloquence in front of the believers, has gone.")
              (proc 0)
-             (text "コーデリアがトマスに連れ去られた今、ナイも彼らを捜しているのかもしれないな。")
+             (str "Now that Cordelia has been taken away by Thomas, maybe Nai is searching for them too.")
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "「ジョナサン」　こんな所に何かが隠してあるとは思えないな‥‥‥" 'br)
-                (text "　　　　　　　　大体、この教会には物が少なすぎる。")
+                (str "「Jonathan」 I can't believe something's hidden in a place like this..." 'br)
+                (str "　　　　　　　　Basically,　there’s　way　too　little　stuff　in　this　Church.")
                 (proc 0)
-                (text "「コーデリア」　教会にはこの部屋しかないのかしら。" 'br)
-                (text "　　　　　　　　ナイはどこに寝泊まりしているの？")
+                (str "「Cordelia」 Is this really the only room in the Church?" 'br)
+                (str "　　　　　　　　Where does Nai sleep and stay？")
                 (proc 0)
-                (text "「ジョナサン」　私がそんな事を知ってる訳ないだろう。" 'br)
-                (text
-                 "　　　　　　　　他の部屋があるにしても、何処から行っていいのか解　　　　　　　　らないし、ナイと鉢合わせするのもご免だ。")
+                (str "「Jonathan」 私がそんな事を知ってる訳ないだろう。" 'br)
+                (str "　　　　　　　　Even if there are other rooms, I have no idea where I should go from, and I definitely don't want to run into Nai.")
                 (proc 0)
-                (text "「コーデリア」　そんな事を言っていたら、いつまでたっても見つから　　　　　　　　ないわよ。"))
+                (str "「Cordelia」 If you keep saying things like that, you'll never find it no matter how long you wait."))
                (/
-                (text "「ジョナサン」　実はナイはネクロノミコンを持っていないんじゃない　　　　　　　　かと思うんだ。")
+                (str "「Jonathan」 Actually, I kinda think Nai might not have the Necronomicon.")
                 (proc 0)
-                (text
-                 "「コーデリア」　だってわたしたちが見た魚のお化けみたいのは、ナイ　　　　　　　　の命令で動いているんでしょう？")
+                (str "「Cordelia」 But the fish ghost-like thing we saw is moving under Nai's orders, right？")
                 (proc 0)
-                (text
-                 "「コーデリア」　ネクロノミコンっていう本がなければ、あいつらを思　　　　　　　　いのままに操る事は出来ないんでしょう？")
+                (str "「Cordelia」 If you don't have that book called the Necronomicon, you can't control them however you want, right？")
                 (proc 0)
-                (text "「ジョナサン」　もしかしたら、そうではないのかもしれない。" 'br)
-                (text "　　　　　　　　何度かダゴンのミサを覗き見たが、ナイが本を手にし　　　　　　　　ている姿は目にしていない。")
+                (str "「Jonathan」 Maybe that's not actually the case." 'br)
+                (str "　　　　　　　　何度かダゴンのミサを覗き見たが、ナイが本を手にし　　　　　　　　ている姿は目にしていない。")
                 (proc 0)
-                (text
-                 "「ジョナサン」　もしもそんなに権威のある書物を持っていたとしたら　　　　　　　　信者達の前で誇らしげに読んで聞かせるのが普通だと　　　　　　　　思わないか？")
+                (str "「Jonathan」 If they really had such an authoritative book, wouldn't you think it'd be normal to proudly read it out loud in front of their followers？")
                 (proc 0)
-                (text "「コーデリア」　そう言われればそうかもしれないけど‥‥‥‥")
+                (str "「Cordelia」 Now that you mention it, maybe that's true...")
                 (proc 0)
-                (text
-                 "「ジョナサン」　ナイはきっとネクロノミコンを持ってはいなくて、村　　　　　　　　の何処かにそれが隠されているのは知っているが今ま　　　　　　　　で見つける事が出来なかったんじゃないだろうか。"))))
+                (str "「Jonathan」 I bet Nai doesn't actually have the Necronomicon, but knows it's hidden somewhere in the village and just hasn't been able to find it until now."))))
              (proc 0)))))
       (/
        (if (</>
             (//
              (? (= 130 #t))
              (nop@)
-             (text "美しい色ガラスの小片を巧みにはめ込んで造られた、人の背丈ほどもあるステンドグラスだ。")
+             (str "It's a stained glass, about as tall as a person, skillfully made by fitting together beautiful pieces of colored glass.")
              (proc 0)
-             (text
-              "この殺風景な教会で、唯一華々しさを感じさせる物だが、周囲の風景とあまりにもかけ離れすぎていて、むしろ場違いな印象を受ける。")
+             (str "In this bleak Church, it's the only thing that brings a sense of splendor, but it's so out of place compared to the surroundings that it actually feels completely wrong here.")
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text
-                 "この前に立ったコーデリアの白い裸身は、背後の色の洪水のせいでさら厚い雲におおわれ、陽光が差し込まないために細かい細工を施された色ガラスは沈んだ黒色に見える。")
+                (str "Cordelia's white naked body standing in front of this is overshadowed by the flood of colors behind her, and because thick clouds block out the sunlight, the intricately crafted stained glass looks like a dull black.")
                 (proc 0)
-                (text
-                 "この前に立ったコーデリアの白い裸身は、背後の色の洪水のせいでさらに美しく、頭を痺れさせるような荘厳な雰囲気さえ持っていた。")
+                (str "Cordelia's white naked body, standing before me, was made even more beautiful by the flood of color behind her, possessing an almost head-spinning, majestic atmosphere.")
                 (proc 0)
-                (text "その光景を見慣れているはずの信者達にとっても、美しい裸身は特別の感情を催す道具となるだろう。"))
+                (str "Even for the believers who should be used to seeing that sight, her beautiful naked body would become a tool to stir up special feelings."))
                (/
-                (text
-                 "ステンドグラスの模様からは、ダゴンに関する事や、ネクロノミコンがどこに隠されているのかというような情報を得る事は出来そうにない。"))))
+                (str "From the patterns on the stained glass, it doesn't look like I can get any information about Dagon, or about where the Necronomicon is hidden, or anything like that."))))
              (proc 0)))))
       (/
        (if (</>
             (//
              (? (= 130 #t))
              (nop@)
-             (text "まさかこの中に人が隠れる事が出来るとは思わない。" 'br)
-             (text "蒸気を送るパイプはひどく高温になるはずだし、人が入れるほどのスペースはないだろう。")
+             (str "I never would have thought someone could hide in here." 'br)
+             (str "蒸気を送るパイプはひどく高温になるはずだし、人が入れるほどのスペースはないだろう。")
              (proc 0))
             (//
-             (text "オルガンの中は様々なパイプが所狭しと走り、とても中に何かを隠す場所などないはずだ。")
+             (str "Inside the organ, all kinds of pipes run through every inch, so there shouldn't be anywhere to hide anything in there.")
              (proc 0)))))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -402,7 +388,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　外に出る　　"))))
+        (menu1 60 100 (</> (/ (str "　　Go outside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

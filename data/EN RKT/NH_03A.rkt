@@ -34,22 +34,22 @@
         (//
          (? (= 130 #t))
          (nop@)
-         (text "ダニッジの精錬所跡にやってきた。" 'br)
-         (text "トマスとコーデリアの姿はない。")
+         (str "I came to the ruins of the Dunwich Refinery." 'br)
+         (str "Thomas and Cordelia aren't here.")
          (proc 0))
         (//
          (? (= 574 #t))
          (nop@)
-         (text "ダニッジの精錬所の跡だ。" 'br)
-         (text "今では見る影もないほどあれ果てているが、当時はここでアーカムの行く末を左右するほどの巨万の富を産み出していた訳だ。")
+         (str "It's the remains of the Dunwich refinery." 'br)
+         (str "Now it's fallen into such ruin that it's unrecognizable, but back then, this place was churning out such enormous wealth that it could decide the fate of Arkham.")
          (proc 0))
         (//
-         (text "フィリップ・ダニッジが建てた金の精錬所の跡だ。" 'br)
-         (text "今では見る影もないが、当時はここでアーカムの行く末を変えてしまうほどの富を産み出していた。")
+         (str "This is the remains of the gold refinery built by Philip Dunwich." 'br)
+         (str "Though now it's a shadow of its former self, back then this place was creating enough wealth to completely change Arkham's future.")
          (proc 0)
-         (text "謎に包まれた岬の遺跡とともに、金によく似た金属を手に入れた山師は村の全てを支配し、そして行方を眩ませてしまった。")
+         (str "Along with the ruins on the mysterious cape, the prospector who got his hands on a metal that looked a lot like gold ended up controlling the whole village, then disappeared without a trace.")
          (proc 0)
-         (text "ダゴン教団が遺跡を奉っているという事は、ナイとフィリップが無関係でないという事を示している。")
+         (str "The fact that the Dagon Cult worships the Ruins shows that Nai and Philip aren't unrelated.")
          (proc 0)
          (nop@)
          (set-reg 574 #t))))
@@ -64,49 +64,47 @@
        (branch-index
         (</>
          (/
-          (text "どういう仕組みになっているのか皆目見当がつかない。" 'br)
-          (text "フィリップはこの装置を使って何をしていたのだろうか。")
+          (str "I have no idea how this thing works." 'br)
+          (str "What was Philip doing with this device, I wonder.")
           (proc 0)
-          (text "ただ単に金を精製するのなら、不純物の混じった金を溶かして、不純物を飛ばしてしまえば済む事なのに。")
+          (str "If all you want is to refine gold, you can just melt gold with impurities and get rid of the impurities, that's all.")
           (proc 0)
-          (text "これらの機械はそんな単純な行程をこなすだけの為に造られた物とも思えない。"))
+          (str "これらの機械はそんな単純な行程をこなすだけの為に造られた物とも思えない。"))
          (/
-          (text
-           "ダニッジ邸の二階で見た、科学者の実験室のような部屋は、フィリップが手に入れた金に似た金属を、本物の金に変えるための研究をしていた部屋なのかもしれない。")
+          (str "The room on the second floor of the Dunwich Mansion that looked like a scientist’s laboratory might have been a place where Philip was researching how to turn the gold-like metal he obtained into real gold.")
           (proc 0)
-          (text "これらの何をするための装置だか解らない機械は、その為に特別にあつらえたものなのだろう。"))))
+          (str "These machines, which I have no idea what they're for, are probably specially made just for that purpose."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "密造酒を蒸留するための釜のような形をしている。" 'br)
-          (text "おそらく純度の悪い金を精製するする為の装置なのだろうが、こんな妙な形の物は今まで見たことがない。")
+          (str "It looks like a pot used for distilling moonshine." 'br)
+          (str "It's probably a device used to refine impure gold, but I've never seen anything shaped so weird before.")
           (proc 0)
-          (text "そう言えば、マーシュはフィリップが貿易先から持ち込んだのは、金のような物だと言っていたようだ。")
+          (str "Come to think of it, Marsh said that what Philip brought back from his trade destination was something like gold.")
           (proc 0)
-          (text "これらの装置は、その『金のような物』を金に変える為の物なのか？" 'br)
-          (text "ただの精製の為ならばこれほど大がかりな装置は必要ないはずだ。")
+          (str "Are these devices for turning that 'gold-like stuff' into real gold？" 'br)
+          (str "If it was just for purification, there shouldn't be any need for such an elaborate setup.")
           (proc 0)
-          (text "煤に汚れ、錆が浮いた機械は、少なくとも表面的には整備さえしてやれば今でも動きそうに見える。"))
+          (str "Covered in soot and rusted, the machine at least looks like it could still run if you just did some basic maintenance on the surface."))
          (/
-          (text "巨大なボイラーのような装置だ。" 'br)
-          (text
-           "どういう仕組みになっているのかはっきりしないが、単に金の純度を高める為ならばこれほど大がかりな仕掛けは必要ないはずだ。"))))
+          (str "It's a device like a giant boiler." 'br)
+          (str "It's not clear how the mechanism works, but if it's just to increase gold purity, there shouldn't be a need for anything this elaborate."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "扉が壊されてしまっているせいで、床には埃の他に細かい砂や、枯れた植物の葉などが積もってしまっている。")
+          (str "Because the door has been broken, there's not just dust on the floor, but also fine sand and dried plant leaves that have piled up.")
           (proc 0)
-          (text "この小屋に興味を持った人間がいるとしても、中に入り込んだのはもう随分前の事になるのだろう。")
+          (str "Even if someone was once interested in this Hut, it's probably been a really long time since anyone actually came inside.")
           (proc 0)
-          (text "もうここには価値のある物は残っていないという事か‥‥‥‥" 'br)
-          (text "フィリップ・ダニッジが何かを残しているとしても、とっくの昔に持ち去られてしまっているだろう。"))
+          (str "So that means there's nothing valuable left here anymore......" 'br)
+          (str "Even if Philip Dunwich left something behind, it would have been taken away long ago."))
          (/
-          (text "床には埃の他に、細かい砂や枯れた植物などが積もっている。" 'br)
-          (text "随分長い間誰も小屋に入っていない事は明白だ。"))))
+          (str "Besides dust, fine sand and dried plants and stuff are piling up on the floor." 'br)
+          (str "随分長い間誰も小屋に入っていない事は明白だ。"))))
        (proc 0))
       (/
        (if (</>
@@ -116,68 +114,65 @@
              (branch-index
               (</>
                (/
-                (text "隣の事務所のような部屋に通じている入り口だ。" 'br)
-                (text "前に来た時に、金に目の眩んだトマスが力ずくで壊してしまったので、当然鍵はかかっていない。")
+                (str "It's an entrance that leads to a room like the office next door." 'br)
+                (str "When I came here before, Thomas, blinded by greed, broke it open by force, so of course it's not locked.")
                 (proc 0)
-                (text "もっとも、部屋の中はあらかた調べつくしてしまったから、今更行っても特別何かが見つかるとは思えない。")
+                (str "That said, I've already pretty much searched the whole room, so I don't think I'll find anything special even if I go now.")
                 (proc 0)
-                (text "どうせならダニッジ邸の実験室を調べた方がましだろう。" 'br)
-                (text "棚の中にあった薬品類のサンプルでも収集しようか‥‥‥‥‥‥"))
+                (str "Might as well check out the Laboratory in the Dunwitch Mansion while we're at it." 'br)
+                (str "棚の中にあった薬品類のサンプルでも収集しようか‥‥‥‥‥‥"))
                (/
-                (text "隣の事務所のような部屋に続く扉だ。" 'br)
-                (text "鍵はトマスが壊した後なので、当然かかっていない。"))))
+                (str "It's a door that leads to a room like the office next door." 'br)
+                (str "Since Thomas broke the lock, obviously it isn't locked."))))
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "隣の事務所のような部屋に通じる扉がある。" 'br)
-                (text "鍵は以前に私とトマスとで壊してしまったので、誰でも自由に出入りが可能になってしまった。")
+                (str "There's a door leading to a room like the office next door." 'br)
+                (str "鍵は以前に私とトマスとで壊してしまったので、誰でも自由に出入りが可能になってしまった。")
                 (proc 0)
-                (text "「コーデリア」　こっちの部屋には何もないみたいね。" 'br)
-                (text "　　　　　　　　隣はどうかしら、ここよりは見込みがあるかも。")
+                (str "「Cordelia」 Looks like there's nothing in this room." 'br)
+                (str "　　　　　　　　I wonder about the next one. Maybe we've got a better chance there.")
                 (proc 0)
-                (text "「ジョナサン」　しかし、金庫は開けて調べた後だし、机の上や引き出　　　　　　　　しも開く所は全部開けてみた。")
+                (str "「Jonathan」 But we've already opened up the safe and checked it, and I tried every drawer and spot on the desk that looked like it could open.")
                 (proc 0)
-                (text "「コーデリア」　それらしい物はなかったわよね‥‥‥‥")
+                (str "「Cordelia」 There wasn't anything that really fit, was there...")
                 (proc 0)
-                (text "「ジョナサン」　机の上に置いてあった帳簿が『それらしい物』と呼べ　　　　　　　　ないならば。")
+                (str "「Jonathan」 Unless that ledger on top of the desk could be called 'something that fits.'")
                 (proc 0)
-                (text "「コーデリア」　何処にあるのかしら‥‥‥‥"))
+                (str "「Cordelia」 Where could it be..."))
                (/
-                (text "隣の事務所のような部屋に通じる扉がある。" 'br)
-                (text "鍵は以前に私とトマスとで壊してしまったので、誰でも自由に出入りが可能になってしまった。"))))
+                (str "There's a door that leads to the next room-it looks kind of like an office." 'br)
+                (str "Thomas and I broke the lock before, so now anyone can come and go as they please."))))
              (proc 0)))))
       (/
        (branch-index
         (</>
          (/
-          (text "天井からは金属の笠がかかった電球がぶら下がっている。" 'br)
-          (text "フィリップ・ダニッジがこの精錬所を造った時代には、まだ電灯など無かったはずだ。")
+          (str "A lightbulb with a metal shade hangs from the ceiling." 'br)
+          (str "Back when Philip Dunwich built this refinery, there probably weren't even electric lights yet.")
           (proc 0)
-          (text "後の人間が取り付けた物と言う事になるが‥‥‥‥" 'br)
-          (text "その頃には蓄えの金はすでに枯渇しかけていたのではないだろうか。")
+          (str "So that means someone installed it later..." 'br)
+          (str "By then, I get the feeling their funds were already running dry.")
           (proc 0)
-          (text "それでも小屋を使おうという意志があったと言う事は、どこかから新たに金が手に入るあてがあったという事なのだろうか。")
+          (str "Even so, the fact they still wanted to use this hut... maybe that means they had some reason to think they could get more money from somewhere.")
           (proc 0)
-          (text
-           "学者肌のドルリイに山師的な才覚があったとも思えないし、とすると、ダニッジ家の人間ではない誰かがやった事なのかもしれない。"))
+          (str "Dollie was a scholar type-not the kind to have a gambler’s cunning-so maybe it wasn't anyone from the Dunwich family, but someone else entirely who did it."))
          (/
-          (text
-           "埃をかぶって今でも使えるかどうかは怪しい電球がぶら下がっている。ダニッジ家以外の誰かがこの精錬所を使おうとしていたらしい。"))))
+          (str "There's a dust-covered light bulb hanging here that barely looks usable. Seems like someone other than the Dunwich family tried to use this Refinery."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "廃材を組んて建てたように安普請だ。" 'br)
-          (text "このいかがわしさは、その昔、酒に多額の税が課せられていた頃に多く見られたもぐりの蒸留所のようだ。")
+          (str "It looks like it was cheaply thrown together out of scrap materials." 'br)
+          (str "This shady vibe is just like the bootleg distilleries that were common back when alcohol was hit with huge taxes.")
           (proc 0)
-          (text "こんな場所からひとつの村を大きく変えてしまうほどの多額の富を産み出していたとはとても考えられない。")
+          (str "It's hard to believe that so much wealth was being generated from a place like this-enough to completely change an entire village.")
           (proc 0)
-          (text
-           "それもこれもフィリップ・ダニッジという山師のお陰なのだが、現在の村人達のダニッジ家に対する態度はあまりにも理不尽すぎる。"))
-         (/ (text "アーカムに鉄道や大学まで作ってしまった程の、巨大な富を産み出した場所とは到底信じられないほど安っぽい建物だ。"))))
+          (str "It's all thanks to that swindler Philip Dunwich, but the current villagers' attitude toward the Dunwich family is way too unreasonable."))
+         (/ (str "It's such a cheap-looking building that it's hard to believe this is the place that generated the huge wealth that even built things like railroads and a university in Arkham."))))
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -191,8 +186,8 @@
          60
          100
          (</>
-          (/ (text "　　　地図　　　"))
-          (/ (set-reg 130 #f) (nop@) (text "　　隣の部屋　　"))))
+          (/ (str "　　　Map　　　"))
+          (/ (set-reg 130 #f) (nop@) (str "　　Next room　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

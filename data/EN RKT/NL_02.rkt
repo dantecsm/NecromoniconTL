@@ -32,32 +32,30 @@
         (//
          (? (= 57 #t))
          (nop@)
-         (text
-          "私たちは魚鱗亭の前を通り過ぎて、かつてのメインストリートが一望できる村の広場にやってきた。相変わらず空には厚い雲がかかり、今にも雨が降り出しそうだ。私はこの村に来てからまだ一度も晴天の空を見ていないが、それも英国らしいといえばその通りかもしれない。")
+         (str "We passed by the Fish Scale Inn and came to the village square, where you can get a full view of what used to be Main Street. Thick clouds still hung in the sky, and it looked like it might start raining any minute. Since I came to this village, I haven't seen a single clear sky, but I guess that's just how England is.")
          (proc 0)
-         (text "私が観景に見とれる間にも、ガードナーは苛立たしげにパイプをふかしトマスはわざとらしく腕組みをしながら足を踏みならした。")
+         (str "私が観景に見とれる間にも、ガードナーは苛立たしげにパイプをふかしトマスはわざとらしく腕組みをしながら足を踏みならした。")
          (proc 0))
         (//
          (? (= 56 #t))
          (nop@)
-         (text "アーカムのメインストリートを一望する広場だ。あたりには相変わらず人影ひとつ見えはしない。")
+         (str "It's a plaza with a view of Main Street in Arkham. As usual, there isn't a single person in sight.")
          (proc 0)
-         (text "「トマス」　こんな所に来て何をするってんだ？" 'br)
-         (text "　　　　　　俺達はパブに行って一杯やる途中だったと思ったんだが？")
+         (str "「Thomas」 What the hell are we doing coming to a place like this？" 'br)
+         (str "　　　　　　I thought we were on our way to the Pub for a drink？")
          (proc 0)
-         (text "「ガードナー」　うむ、こんな男の考えに同意するのはしゃくだが私も　　　　　　　　そのように記憶している。")
+         (str "「Gardner」 Hmph, it annoys me to agree with a man like this, but I also remember it that way.")
          (proc 0))
         (//
          (? (= 54 #t))
          (nop@)
-         (text "どうやらここは遺跡ではないようだ。" 'br)
-         (text "どこをどう間違えればこんな所に来てしまうのか‥‥‥‥")
+         (str "Apparently, this isn’t the ruins after all." 'br)
+         (str "How do you even make a mistake and end up in a place like this...")
          (proc 0))
         (//
-         (text "ここは広場だが‥‥‥‥ガードナーとトマスの姿は何処にも見えない。もっともふたりがこんな所にいるとは思えないが。")
+         (str "This is a plaza, but... there's no sign of Gardner or Thomas anywhere. Not that I can imagine either of them being in a place like this, anyway.")
          (proc 0)
-         (text
-          "ハドスン夫人の言っていた雑貨店に急いだ方がいいのではなかろうか。早くしないとふたりに会える可能性がどんどん低くなってしまう。")
+         (str "Shouldn't we hurry to the general store Mrs. Hudson mentioned? If we don't move fast, our chances of meeting the two of them will just keep dropping.")
          (proc 0))))
    (proc 3)
    (loop
@@ -71,16 +69,13 @@
             (//
              (? (= 233 #t))
              (nop@)
-             (text
-              "初めてここに降り立ったのはつい昨日の事なのに、ずいぶん長い時間が経過したように感じてしまう。この村はまるで外界の時間の流れと隔絶されたようなのでそんな錯覚を覚えてしまうのかもしれない。")
+             (str "Even though it was just yesterday that I first set foot here, it feels like a whole lot of time has passed. Maybe it's because this village seems completely cut off from the flow of time in the outside world, so it messes with my sense of time like that.")
              (proc 0))
             (//
-             (text "石畳の舗装路がずっと先まで続いている。" 'br)
-             (text
-              "かつては多くの人がこの道を歩いていたのだろうが、今は誰の姿も見えない。左右に延びた脇道は何処に通じているのかよく解らない。")
+             (str "The stone-paved road stretches on far ahead." 'br)
+             (str "A lot of people probably used to walk this road, but now there's no one in sight. I have no idea where the side paths stretching left and right actually lead.")
              (proc 0)
-             (text
-              "ここの地図でも手に入ればいいのだが、私の持っている列車の路線図では現在持っている以上の情報を入手することは困難のようだ。")
+             (str "It'd be great if I could get a map here, but with the train route map I have, it seems difficult to get any more info than what I already have.")
              (proc 0)
              (nop@)
              (set-reg 233 #t)))))
@@ -89,13 +84,12 @@
             (//
              (? (= 234 #t))
              (nop@)
-             (text
-              "道端に点々と設置されている街灯は、どうやら５０年も前のガス灯のようだ。現在も使用できる確率は非常に低い。それ以降新たに設けられた公共設備はないと言うことか？")
+             (str "The streetlights dotted along the roadside look like gas lamps from fifty years ago. The chances of them still working now are pretty much zero. Does that mean no new public facilities have been put in since then？")
              (proc 0))
             (//
-             (text "あたりの建物はゆうに２０年ぐらいはペンキを塗られた様子さえない。まさに荒廃への道を辿っている村といった雰囲気だ。")
+             (str "The buildings around here haven't even been painted in like, 20 years. It seriously feels like a village on the road to ruin.")
              (proc 0)
-             (text "村の入り口付近でさえこの有り様だ。もっと奥に入ればどうなっているのか、想像するのは容易だ。")
+             (str "Even near the entrance of the village, it's already like this. It's easy to imagine what it must be like further in.")
              (proc 0)
              (nop@)
              (set-reg 234 #t)))))
@@ -104,12 +98,12 @@
             (//
              (? (= 235 #t))
              (nop@)
-             (text "あと５０年ぐらい何事もなく営業を続けていれば立派な文化遺産になるだろう。")
+             (str "If they keep running the business for another 50 years without any incidents, it’ll probably become a fine cultural heritage site.")
              (proc 0))
             (//
-             (text "ハドスン夫人が待っている魚鱗亭だ。窓に明かりは見えないが、ちゃんと営業している。")
+             (str "It's the Fish Scale Inn where Mrs. Hudson is waiting. There aren't any lights in the windows, but it's definitely open for business.")
              (proc 0)
-             (text "魚鱗亭はアーカムで唯一、文化的生活を守り通している牙城と言ってもいいのではなかろうか。")
+             (str "Maybe you could even say that the Fish Scale Inn is the last stronghold in Arkham that's still protecting civilized living.")
              (proc 0)
              (nop@)
              (set-reg 235 #t)))))
@@ -118,18 +112,17 @@
             (//
              (? (= 236 #t))
              (nop@)
-             (text "アーカムの住人は滅多に町に現れないとセイラムの駅員は言っていた。それじゃあ、どうやって商品を揃えているんだろう。")
+             (str "The station attendant in Salem said that Arkham’s residents rarely show up in town. So then, how do they stock their goods?")
              (proc 0))
             (//
              (branch-reg
               54
               (</>
                (/
-                (text "あれがハドスン夫人の言っていた雑貨店だろう。" 'br)
-                (text "今から行けばガードナーとトマスに追いつけるかもしれない。"))
+                (str "That's probably the general store Mrs. Hudson was talking about." 'br)
+                (str "If I leave now, I might be able to catch up to Gardner and Thomas."))
                (/
-                (text
-                 "アーカムには不似合いなほどの、豊富で雑多な商品を扱っている雑貨店だった。私が行った時には一人の客もいなかったが、繁盛しているのだろうか。"))))
+                (str "It was a general store that handled a surprisingly rich and eclectic mix of goods, something you wouldn't expect in Arkham. When I went there, there wasn't a single customer, but I wonder if it's actually doing well."))))
              (proc 0)
              (nop@)
              (set-reg 236 #t)))))))
@@ -145,17 +138,17 @@
          60
          100
          (</>
-          (/ (text "　　") (str " ") (text "魚鱗亭") (str " ") (text "　　"))
+          (/ (text "　　") (str " ") (str "Fish Scale Inn") (str " ") (text "　　"))
           (/
            (set-reg 164 #t)
            (nop@)
            (text "　　")
            (str " ")
-           (text "雑貨店")
+           (str "General store")
            (str " ")
            (text "　　"))
-          (/ (set-reg 54 #t) (nop@) (text "　　　遺跡　　　"))
-          (/ (set-reg 56 #t) (nop@) (str " ") (text "ギルマンハウス") (str " "))))
+          (/ (set-reg 54 #t) (nop@) (str "　　　Ruins　　　"))
+          (/ (set-reg 56 #t) (nop@) (str " ") (str "Gilman House") (str " "))))
         (proc 17))))
   (proc 14)
   (if (</>

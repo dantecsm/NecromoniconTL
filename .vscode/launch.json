@@ -1,0 +1,47 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "bun",
+            "request": "launch",
+            "name": "调试 insert.ts",
+            "program": "${workspaceFolder}/src/insert.ts",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "bun",
+            "request": "launch",
+            "name": "调试 compile.ts",
+            "program": "${workspaceFolder}/src/compile.ts",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "bun",
+            "request": "launch",
+            "name": "调试 hdi.ts",
+            "program": "${workspaceFolder}/src/hdi.ts",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "bun",
+            "request": "launch",
+            "name": "调试 decompile.ts",
+            "program": "${workspaceFolder}/src/decompile.ts",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "bun",
+            "request": "launch",
+            "name": "调试 extract.ts",
+            "program": "${workspaceFolder}/src/extract.ts",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "bun",
+            "request": "launch",
+            "name": "调试当前文件",
+            "program": "${file}",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

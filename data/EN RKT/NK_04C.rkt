@@ -28,26 +28,26 @@
        (//
         (? (= 611 #t))
         (nop@)
-        (text "ダニッジ邸の二階の廊下だ。" 'br)
-        (text "左右にふたつの扉があり、もっと奥は暗くてよくわからない。")
+        (str "It's the second floor hallway of the Dunwitch Mansion." 'br)
+        (str "There are two doors on the left and right, and further in it's too dark to really tell.")
         (proc 0)
-        (text "「ジョナサン」　床が抜けるかもしれない、静かに歩いてくれよ。" 'br)
-        (text "　　　　　　　　なにしろ古い建物だから‥‥‥‥")
+        (str "「Jonathan」 The floor might give way, so walk quietly, okay?" 'br)
+        (str "　　　　　　　　After all, it's an old building......")
         (proc 0))
        (//
-        (text "ダニッジ邸の二階の廊下だ。" 'br)
-        (text "左右にふたつの扉があり、もっと奥は暗くてよくわからない。")
+        (str "It's the hallway on the second floor of the Dunwitch Mansion." 'br)
+        (str "左右にふたつの扉があり、もっと奥は暗くてよくわからない。")
         (proc 0)
-        (text "「コーデリア」　お屋敷の中ってこんなふうになってたのね。" 'br)
-        (text "　　　　　　　　薄暗くて恐いわ。")
+        (str "「Cordelia」 So this is what the inside of the mansion looks like." 'br)
+        (str "　　　　　　　　It's dim and scary.")
         (proc 0)
-        (text "コーデリアは私の腕に躰を押しつけ、耳元で囁くように言う。" 'br)
-        (text "腕に当たる柔らかい胸の感触は悪くないが、こう躰を密着させていては歩きにくいことこのうえない。")
+        (str "Cordelia presses her body against my arm and whispers in my ear." 'br)
+        (str "The soft feeling of her chest pressing against my arm isn't bad, but with our bodies so close together like this, it's seriously hard to walk.")
         (proc 0)
-        (text "「ジョナサン」　もう少し離れてくれ、これじゃあ上手く歩けないよ。　　　　　　　　ただでさえ暗いのに‥‥‥‥")
+        (str "「Jonathan」 Move away a bit, I can't walk properly like this.　　　　　　　It's already dark enough as it is...")
         (proc 0)
-        (text "「コーデリア」　だって恐いんですもの。" 'br)
-        (text "　　　　　　　　わたしがこの家の子供だったら、毎日こんな廊下を歩　　　　　　　　くなんて絶対に出来ないわ。")
+        (str "「Cordelia」 Because it's scary." 'br)
+        (str "　　　　　　　　If I were a kid in this house, there's no way I could walk down a hallway like this every day.")
         (proc 0)
         (nop@)
         (set-reg 611 #t))))
@@ -63,44 +63,42 @@
       (branch-index
        (</>
         (/
-         (text "１００年以上も前に造られた床だ、いつ抜けてもおかしくはない。" 'br)
-         (text "所々黒ずんでいるように見えるのは、床板が腐ってしまっているのか、例の事件の名残りなのか‥‥‥‥")
+         (str "It's a floor that was built over a hundred years ago; it wouldn't be weird if it gave way any second." 'br)
+         (str "The spots that look kind of blackened here and there-are the floorboards rotting, or is it some leftover trace from that incident...?")
          (proc 0)
-         (text "窓がないおかげでどこからも埃が入ってきたりしないからなのか、玄関ホールほど汚れてはいない。")
+         (str "窓がないおかげでどこからも埃が入ってきたりしないからなのか、玄関ホールほど汚れてはいない。")
          (proc 0)
-         (text
-          "これでは誰かが先に進入していたとしても、その足跡を発見するのは困難だろう。もっとも、屋敷に入る手段が玄関以外にあったとしたらの話だが。"))
+         (str "With this, even if someone had entered before, it'd be hard to find their tracks. Well, that's assuming there's any way into the mansion other than the front door."))
         (/
-         (text "思ったほど埃が積もっていないが、所々黒く変色している。" 'br)
-         (text "床板が腐っているのか、事件の名残りなのかは定かでない。"))))
+         (str "There's not as much dust piled up as I thought, but here and there it's blackened and discolored." 'br)
+         (str "It's not clear if the floorboards are rotten or if it's a remnant of the incident."))))
       (proc 0))
      (/
       (branch-index
        (</>
         (/
-         (text "綺麗に漆喰を塗られた天井は、蜘蛛の巣があるくらいで当時のまま残っている。")
+         (str "The ceiling, neatly plastered with stucco, is pretty much just like it was back then, aside from a few spider webs.")
          (proc 0)
-         (text "上階は屋根裏部屋かなにかのはずだが、このあたりにはそれらしい階段は見あたらない。")
+         (str "The upper floor should be an attic or something, but I don't see any stairs around here that look like they'd go up there.")
          (proc 0)
-         (text "ドルリイが生きていた頃からすでに使われておらず、階段を取り去ってしまっていたのだろうか。"))
+         (str "Maybe it hadn't been used since Dollie was alive, and they had already taken away the stairs or something."))
         (/
-         (text "漆喰の所々にひび割れが見えるものの、大きな痛みはない。" 'br)
-         (text "上階が普通の部屋として使われていたのなら、振動でもっとひどい事になっていても不思議ではないのだが‥‥‥‥"))))
+         (str "You can see cracks here and there in the plaster, but there's no major damage." 'br)
+         (str "If the upper floor had been used as a regular room, it wouldn't be surprising if things had gotten even worse from the vibrations......"))))
       (proc 0))
      (/
       (branch-index
        (</>
         (/
-         (text "ほとんど明かりがない為に、奥の方は何があるのかよく解らない。" 'br)
-         (text "奥にはきっとドルリイ夫妻の寝室や、もう片方の娘の部屋などもあるのだろう。")
+         (str "Because there’s almost no light, I can’t really tell what’s in the back." 'br)
+         (str "There’s probably Dollie couple’s bedroom and the other daughter’s room further in, too.")
          (proc 0)
-         (text
-          "今のところそれらの部屋を漁る必要はないだろうが、必要に迫られたとしても、薄汚いこそ泥のように他人の家を土足で踏み荒らすのはあまり好ましくない。")
+         (str "Right now, there's probably no need to rummage through those rooms, but even if it became necessary, barging into someone's house with your shoes on and tearing the place up like some filthy petty thief isn't exactly something I want to do.")
          (proc 0)
-         (text "ネクロノミコンを探す為ならやむを得ないが、それらのあまり重要でない部屋に本を隠したとは考えにくい。"))
+         (str "If we have to, we can’t help it if it’s to find the Necronomicon, but it’s hard to believe they hid the book in those rooms that aren’t all that important."))
         (/
-         (text "今のところ、奥にある部屋を探す必要は感じられない。" 'br)
-         (text "もしも屋敷の中にネクロノミコンが隠されているのだとしたら、もう少し関連がありそうな場所をあたってみた方がいいだろう。"))))
+         (str "For now, I don't feel like there's any need to check out the room in the back." 'br)
+         (str "もしも屋敷の中にネクロノミコンが隠されているのだとしたら、もう少し関連がありそうな場所をあたってみた方がいいだろう。"))))
       (proc 0))
      (/
       (proc 9)
@@ -118,20 +116,19 @@
       (branch-index
        (</>
         (/
-         (text
-          "「コーデリア」　わたしはこの部屋が一番怪しいと思うんだけどな‥‥　　　　　　　　ここは他の場所とはどこか違う雰囲気をしていると思　　　　　　　　うのよ。")
+         (str "「Cordelia」 I think this room is the most suspicious... I feel like this place has a different vibe from everywhere else.")
          (proc 0)
-         (text "確かにそう言われればそうかもしれない。" 'br)
-         (text "豪奢とも端麗とも言えないながら、それなりに意匠に気を使った屋敷の中で、この部屋の扉はあまりにも無骨すぎる。")
+         (str "Yeah, now that you mention it, that might be true." 'br)
+         (str "Even though you couldn't call it luxurious or elegant, this room's door is way too rugged for a Mansion that at least cares about its design.")
          (proc 0)
-         (text "何者かが必要に迫られてした事なのだろうが、それにしてもこんなに頑丈な扉をつけなければならない理由とは何なのだろうか。"))
+         (str "Someone must have done it out of necessity, but still, what's the reason for needing a door this sturdy?"))
         (/
-         (text "無骨な鉄の扉がある。" 'br)
-         (text "鍵はすでに開いているが‥‥‥‥‥")
+         (str "There's a clunky iron door." 'br)
+         (str "The lock's already open, though...")
          (proc 0)
-         (text "どうしてこの部屋だけが鋼鉄の頑丈な物に変えられているのか、未だに理解に苦しむ。")
+         (str "I still can't figure out why only this room was turned into something sturdy, like steel.")
          (proc 0)
-         (text "かつてこの部屋で、どんな事が行われていたのだろう。"))))
+         (str "I wonder what kind of things were done in this room before."))))
       (proc 0)
       (proc 3)
       (proc 9)
@@ -150,22 +147,22 @@
       (branch-index
        (</>
         (/
-         (text "どうやら普通の部屋の扉のようだ。" 'br)
-         (text "二階の日当たりの良さそうな向きにある事を考えると、ドルリイのふたりの娘、ロリーナかハンナの部屋である可能性が高い。")
+         (str "Looks like an ordinary room door." 'br)
+         (str "Considering it's facing in a sunny direction on the second floor, it's most likely the room of Dollie's daughters, Lorina or Hannah.")
          (proc 0)
-         (text "どちらの娘も、父親の振り下ろした斧によって殺されたのだったな。" 'br)
-         (text "特にロリーナの方は両手両足を切り落とされた惨たらしい姿で発見されたと記されていたように記憶している。")
+         (str "Both girls were killed by an axe swung down by their father." 'br)
+         (str "I especially remember it being recorded that Lorina was found in a gruesome state, with both her arms and legs cut off.")
          (proc 0)
-         (text "この部屋がその現場である事は間違いない。" 'br)
-         (text "部屋のベッドシーツや、床に付着していた黒ずんだ血の跡は、その事を如実に物語っている"))
+         (str "There's no doubt this room is the scene of the incident." 'br)
+         (str "The Bed Sheet in the room and the darkened blood stains left on the floor clearly tell the story."))
         (/
-         (text "「コーデリア」　ここ、女の子が殺された子供部屋でしょう？" 'br)
-         (text "　　　　　　　　わたしにはこの部屋が怪しいとは思えないな‥‥‥")
+         (str "「Cordelia」 ここ、女の子が殺された子供部屋でしょう？" 'br)
+         (str "　　　　　　　　I don't really think this room is suspicious...")
          (proc 0)
-         (text "「コーデリア」　だってそうでしょう？" 'br)
-         (text "　　　　　　　　殺人のあった現場なら、警察も念入りに捜査するはず　　　　　　　　ですもの。")
+         (str "「Cordelia」 Because that's how it is, right？" 'br)
+         (str "　　　　　　　　If it was a murder scene, the police would definitely do a thorough investigation there.")
          (proc 0)
-         (text "「コーデリア」　何かを隠しておいたとしても、見つかる確率がすごく　　　　　　　　高いんじゃないかしら。"))))
+         (str "「Cordelia」 Even if you try to hide something, isn’t the chance of it getting found pretty damn high?"))))
       (proc 0))))
    (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -179,9 +176,9 @@
          60
          100
          (</>
-          (/ (text "　　") (str " ") (text "実験室") (str " ") (text "　　"))
-          (/ (text "　　子供部屋　　"))
-          (/ (text "　") (str " ") (text "玄関ホール") (str " ") (text "　"))))
+          (/ (text "　　") (str " ") (str "Laboratory") (str " ") (text "　　"))
+          (/ (str "　　kids' room　　"))
+          (/ (text "　") (str " ") (str "Entrance hall") (str " ") (text "　"))))
         (proc 17))))
   (proc 14)
   (if (</>

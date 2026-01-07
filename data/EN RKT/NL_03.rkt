@@ -34,14 +34,12 @@
         (//
          (? (= 619 #t))
          (nop@)
-         (text
-          "奇跡的にまだ機能を果たしているガス灯のほのかな明かりがあたりを照らしている。煉瓦をしきつめた街路はその光を反射せず、ほんの少し離れてしまうとその頼りない明かりさえ届かない。")
+         (str "The faint light of the gas lamp, which is miraculously still working, illuminates the surroundings. The brick-paved street doesn't reflect that light, and if you go just a little farther away, even that unreliable light doesn't reach.")
          (proc 0))
         (//
-         (text
-          "いかにも夜も更けた田舎町の風景と言ってしまえばそれまでだが、広場には人影もなく、大都市にはつきものの浮浪者さえ、この貧しい漁村には皆無のようだ。")
+         (str "You could just say it's the typical scene of a country town late at night, but there's not a soul in the square, and it looks like there aren't even any homeless people, which you normally find in big cities, in this poor fishing village.")
          (proc 0)
-         (text "遥か彼方の浜の波音が、母親の子宮に宿っていた頃の胎児記憶を呼び覚ますように、延々と単調なリズムで繰り返されている。")
+         (str "遥か彼方の浜の波音が、母親の子宮に宿っていた頃の胎児記憶を呼び覚ますように、延々と単調なリズムで繰り返されている。")
          (proc 0)
          (nop@)
          (set-reg 619 #t))))
@@ -57,20 +55,16 @@
             (//
              (? (= 289 #t))
              (nop@)
-             (text "未だ現役で活躍中のガス灯が柔らかい光を投げかけている。" 'br)
-             (text
-              "普通なら彼の地ロンドンの有りし日を思い起こさせるような叙情的な雰囲気と思うのだが、このアーカムにいる限りはガス灯の弱々しい明かりがうらめしい。")
+             (str "A still-active Gas lamp is casting a soft light." 'br)
+             (str "Normally, I’d think of it as a nostalgic mood that reminds me of London in its heyday, but as long as I’m here in Arkham, the faint light of the gas lamp just feels miserable.")
              (proc 0)
-             (text
-              "闇の中から人ならぬ何者かが牙を剥いて襲ってくるような錯覚にとらわれてしまいそうだ。そんな非現実的な思いを抱いてしまうのは、この土地の湿っぽさが原因なのかもしれない。")
+             (str "It feels like something not human is baring its fangs and attacking me from the darkness. Maybe this weird, unreal feeling is because of how damp this place is.")
              (proc 0))
             (//
-             (text "夜半過ぎになって海からの冷たい風は幾分治まりかけたようだ。" 'br)
-             (text
-              "その代わりに湿気を含んだ大気が飽和状態になり、濃霧を作り出している。このあたりは随分湿気が多い土地柄のようだが、毎晩こんな具合では気分が悪くなりそうだ。")
+             (str "After midnight, the cold wind from the sea seemed to have somewhat calmed down." 'br)
+             (str "Instead, the humidity-saturated air has reached its limit, creating a thick fog. This area seems to be pretty damp in general, but if it's like this every night, I'm gonna start feeling sick.")
              (proc 0)
-             (text
-              "よく見ると、足下の煉瓦もうっすらと苔むして、歩きにくい事このうえない。いかに廃村同然とはいえ、もっとも人通りが激しいはずの通りにつながった広場がこんな有り様では、本当に人が住んでいるのかも疑わしいものだ。")
+             (str "Looking closer, even the bricks underfoot are faintly mossy, making it unbelievably hard to walk. Even if it’s practically an abandoned village, the fact that the plaza connected to what should be the busiest street is in this state makes you really wonder if anyone actually lives here.")
              (proc 0)
              (nop@)
              (set-reg 289 #t)))))
@@ -79,17 +73,15 @@
             (//
              (? (= 290 #t))
              (nop@)
-             (text
-              "依然として誰かに見られているのではないかという、背中がむず痒いような感覚が続いている。私を始めとする魚鱗亭の宿泊客を、村の秘密を暴こうとする厄介者と思っている節がある村人達が相手では、そんな被害妄想を覚えてしまうのも無理からぬ事かもしれない。")
+             (str "I still have that itchy feeling on my back, like someone’s watching me. With some of the villagers who seem to think that guests like me at the Fish Scale Inn are a bunch of troublemakers trying to expose the village’s secrets, maybe it’s no wonder I’m starting to get paranoid like this.")
              (proc 0)
-             (text
-              "どうもここに長居するのはよくなさそうだが、魚鱗亭に戻ったところでこの不安な気持ちを抱いたままでは心地よく眠る事など無理な相談だ。ベッドに入ったまま、まんじりともせず朝を迎える事になるだろう。")
+             (str "It doesn't seem like a good idea to stay here too long, but even if I go back to the Fish Scale Inn, there's no way I can sleep comfortably while still feeling this uneasy. If I get into bed like this, I'll probably just toss and turn until morning without getting a wink of sleep.")
              (proc 0))
             (//
-             (text "広場の周りに建てられた、今はもう使われていない廃屋同然の建物が、薄明かりの中にぼんやりと浮かび上がっている。")
+             (str "Buildings that were built around the plaza, now practically abandoned and unused, are dimly looming in the twilight.")
              (proc 0)
-             (text "さっきから背中に感じる憎悪のこもった視線のような物は、果たして本当に私の錯覚なのだろうか。" 'br)
-             (text "それとも、私が目を離した隙に、廃屋のどこかの窓から何者かが私を監視しているのだろうか。")
+             (str "That hateful gaze I’ve been feeling on my back for a while now-am I really just imagining it?" 'br)
+             (str "Or maybe, while I wasn’t looking, someone’s been watching me through a window somewhere in this abandoned house.")
              (proc 0)
              (nop@)
              (set-reg 290 #t)))))
@@ -98,15 +90,12 @@
             (//
              (? (= 291 #t))
              (nop@)
-             (text
-              "こんなに怯えながら村の中をうろつき回るなど、ひどく滑稽で無意味な事のように思える。魚鱗亭の中なら安全という事もないのだが、こうして外に佇んでいるよりはいくらかましというものだ。")
+             (str "Wandering around the village so scared like this just seems terribly ridiculous and pointless. It's not like being inside the Fish Scale Inn is really safe either, but it's at least a little better than just standing out here like this.")
              (proc 0))
             (//
-             (text
-              "忍び寄る濃霧と全てを包み込む闇のせいで、その姿はおぼろげにしか見る事が出来ない。あの頼りない宿が私にとってこの村での唯一の拠り所だと思うと、たまらなく不安な気持ちになってしまう。")
+             (str "忍び寄る濃霧と全てを包み込む闇のせいで、その姿はおぼろげにしか見る事が出来ない。あの頼りない宿が私にとってこの村での唯一の拠り所だと思うと、たまらなく不安な気持ちになってしまう。")
              (proc 0)
-             (text
-              "おかしな事だが、今まで何十年もの間ああしてあそこに建っていたはずなのに、明日まであそこに存在しているかどうか確信が持てない。")
+             (str "おかしな事だが、今まで何十年もの間ああしてあそこに建っていたはずなのに、明日まであそこに存在しているかどうか確信が持てない。")
              (proc 0)
              (nop@)
              (set-reg 291 #t)))))
@@ -115,17 +104,15 @@
             (//
              (? (= 292 #t))
              (nop@)
-             (text
-              "考えてみれば、村と外界をつなぐ吊り橋は危険で誰も渡る事が出来ない状態なのだから、あの店主も今日は店で寝泊まりしているはずだ。")
+             (str "Come to think of it, since the suspension bridge that connects the village to the outside world is so dangerous that nobody can cross it, that shop owner should be sleeping at the store tonight too.")
              (proc 0)
-             (text "別に何の用がある訳でもないが‥‥‥‥" 'br)
-             (text "これだけ寂しいと誰でもいいから人の顔が見たくなってくる。")
+             (str "It's not like I have any particular reason or anything..." 'br)
+             (str "When it gets this lonely, I just want to see someone's face, doesn't matter who.")
              (proc 0))
             (//
-             (text "村で唯一の雑貨店も、この時間では堅く門を閉ざして明日の朝まで誰の進入をも許さない構えをしている。")
+             (str "村で唯一の雑貨店も、この時間では堅く門を閉ざして明日の朝まで誰の進入をも許さない構えをしている。")
              (proc 0)
-             (text
-              "あの若い店主は店で寝泊まりしているのだろうか、それとも店を閉めてしまった後は村の外で生活しているのかもしれない。もしも私ならば、どれだけ金を積まれたところでこの村に永住しようなどという気にはならないだろう。")
+             (str "I wonder if that young shopkeeper sleeps in the store, or maybe after closing up, he lives outside the village. If it were me, no matter how much money I was offered, I wouldn't feel like settling down in this village for good.")
              (proc 0)
              (nop@)
              (set-reg 292 #t)))))))
@@ -141,10 +128,10 @@
          60
          100
          (</>
-          (/ (text "　　") (str " ") (text "魚鱗亭") (str " ") (text "　　"))
-          (/ (text "　　") (str " ") (text "雑貨店") (str " ") (text "　　"))
-          (/ (text "　　　遺跡　　　"))
-          (/ (str " ") (text "ギルマンハウス") (str " "))))
+          (/ (text "　　") (str " ") (str "Fish Scale Inn") (str " ") (text "　　"))
+          (/ (text "　　") (str " ") (str "General store") (str " ") (text "　　"))
+          (/ (str "　　　Ruins　　　"))
+          (/ (str " ") (str "Gilman House") (str " "))))
         (proc 17))))
   (proc 14)
   (if (</>

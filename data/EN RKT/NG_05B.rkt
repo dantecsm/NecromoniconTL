@@ -32,10 +32,10 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "誰もいない。" 'br)
-         (text "室内には吐き気を催すような甘い煙がいまだに残り、悪夢のような儀式が私の思い違いでなかった事を証明している。")
+         (str "Nobody's here." 'br)
+         (str "The sickly sweet smoke still lingers in the room, proving that the nightmare-like ritual wasn't just my imagination.")
          (proc 0)
-         (text "信者達は忽然と姿を消してしまい、祭壇の前にまるで贄のように無防備な姿で立たされていたコーデリアの姿もない。")
+         (str "The followers suddenly disappeared without a trace, and even Cordelia, who had been standing helplessly like an offering in front of the altar, is nowhere to be seen.")
          (proc 0))
         (//
          (? (= 122 #t))
@@ -65,22 +65,21 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "広い教会の中を多くの信者達が埋めている。" 'br)
-         (text "室内には吐き気を催させるような甘い香の匂いがたちこめ、信者達はその煙の中で深い陶酔を味わっているようだ。")
+         (str "A lot of believers are filling up the big Church." 'br)
+         (str "A sickly sweet incense fills the room, and the believers seem to be deeply intoxicated in the smoke.")
          (proc 0)
-         (text
-          "おそらく自動演奏の装置が組み込まれているのだろう、演者が座っていないにもかかわらず、オルガンは荘厳で威圧的な調べを流し続ける。")
+         (str "おそらく自動演奏の装置が組み込まれているのだろう、演者が座っていないにもかかわらず、オルガンは荘厳で威圧的な調べを流し続ける。")
          (proc 0)
-         (text "これはまさしく邪悪な信仰に染まった人々が集う黒ミサそのものだ。" 'br)
-         (text "やはりダゴンとはそういう教団だったのだ。")
+         (str "This is exactly a black mass where people steeped in evil faith gather." 'br)
+         (str "So Dagon really was that kind of cult after all.")
          (proc 0)
-         (text "信者達は我を忘れ、ある者は一心に祈りを捧げ、またある者は獣のように荒々しく粗野な叫びを発している。")
+         (str "The believers lose themselves, some praying earnestly, while others let out wild, savage cries like beasts.")
          (proc 0)
-         (text "演壇に立ったナイは、信者にはさして関心を払っている様子もなく傍らのステンドグラスの前に立った全裸の女に神経を集中している。")
+         (str "Nai, standing at the podium, doesn’t seem to pay much attention to the believers and instead focuses all his attention on the naked woman standing in front of the stained glass at his side.")
          (proc 0)
-         (text "そして‥‥‥‥‥")
+         (str "And then......")
          (proc 0)
-         (text "ナイの傍らにいる全裸の女とは‥‥‥‥‥")
+         (str "Who is the naked woman by Nai's side......")
          (proc 0)
          (proc 3)
          ((cmd 209) 0 2)
@@ -98,26 +97,26 @@
          (delay 50)
          (exec-mem 9584 1)
          (proc 1)
-         (text "「ジョナサン」　コーデリア‥‥‥‥‥")
+         (str "「Jonathan」 Cordelia......")
          (proc 0)
-         (text "ステンドグラスの前に全裸で立つ女はコーデリアに間違いない。" 'br)
-         (text "僅かな月明かりのせいで弱々しく沈んだ光を放つ原色のガラスの前に、雪のように白い肌を惜しげもなくさらしている。")
+         (str "The woman standing naked in front of the stained glass is unmistakably Cordelia." 'br)
+         (str "In front of the primary-colored glass, shining weak and subdued because of the faint moonlight, she bares her snow-white skin without hesitation.")
          (proc 0)
-         (text "「ジョナサン」　一体どうしてこんな所に‥‥‥‥‥‥‥")
+         (str "「Jonathan」 Why the hell is she in a place like this......")
          (proc 0)
-         (text "信者達の絶叫の前に私の言葉はかき消され、コーデリアはおろかひとり平静を保っているナイにさえ届いてはいないだろう。")
+         (str "My words are drowned out by the screams of the followers, and probably don’t even reach Nai, never mind Cordelia, who alone is keeping her composure.")
          (proc 0)
-         (text "たとえ私の声がコーデリアに届いていたとしても、彼女がそれを理解出来たとは思えない。")
+         (str "Even if my voice did reach Cordelia, I doubt she would have been able to understand it.")
          (proc 0)
-         (text "真っ直ぐに正面を見据えるコーデリアの瞳は瞳孔が開き、外部からのどんな刺激にも全く反応しようとしない。")
+         (str "Cordelia's eyes, staring straight ahead, have dilated pupils and don't react at all to any external stimulus.")
          (proc 0)
-         (text "自分の力でじっと立っているのだから、死んでいる訳ではない。" 'br)
-         (text "むきだしにされ、聴衆の前にあらわにされた乳房は、浅い呼吸にあわせて上下し、心臓の鼓動にわずかに振るえている。")
+         (str "She's standing still on her own, so she can't be dead." 'br)
+         (str "Her exposed breasts, revealed to the audience, rise and fall with her shallow breaths and tremble slightly with the beating of her heart.")
          (proc 0)
-         (text "薬でも飲まされたのだろうか。" 'br)
-         (text "昨晩の失踪の原因もナイに意識を消失させられていたからに違いない。")
+         (str "Maybe she was drugged or something." 'br)
+         (str "That must be why she disappeared last night too, Nai probably made her lose consciousness.")
          (proc 0)
-         (text "コーデリアは私の懊悩など全く意に介せず、端整な顔には表情のかけらさえ見つける事は出来ない。")
+         (str "Cordelia doesn't care at all about my anguish, and I can't find even a trace of expression on her beautiful face.")
          (proc 0)
          (proc 3)
          ((cmd 209) 0 2)
@@ -127,39 +126,36 @@
          (image-mem 0)
          ((cmd 209) 1 2)
          (proc 1)
-         (text "「ナイ」　もうすぐだ‥‥‥‥‥")
+         (str "「Nai」 It's almost time.........")
          (proc 0)
-         (text "「ナイ」　もうすぐお前の出番がやってくる。" 'br)
-         (text "　　　　　私はずっと待っていたのだ、盟約者の末裔が現れる事を。")
+         (str "「Nai」 Your turn is coming up soon." 'br)
+         (str "　　　　　I've been waiting all this time for the descendant of the covenantor to appear.")
          (proc 0)
-         (text
-          "ナイは意識を失っているはずのコーデリアに向かって話しかけている。コーデリアがそれを理解したとは思えない、ナイは誰に向かってともなくただ喋り続けている。")
+         (str "Nai is talking to Cordelia, who should be unconscious. It doesn't seem like Cordelia understood him, but Nai just keeps talking, not really to anyone in particular.")
          (proc 0)
-         (text "「ナイ」　お前はまもなく盟約者と交わり、『糧となる者』によって満　　　　　たされた我が主の忠実なる僕を産み落とすのだ。")
+         (str "「Nai」 Soon, you will mate with the covenant bearer and give birth to my lord's faithful servant, filled full by the one who will become the 'nourishment.'")
          (proc 0)
-         (text "信者達はナイの言葉をあおり立てるように、さらに激しく叫びをあげ、中には嗚咽を洩らし涙を流す者さえいる。")
+         (str "The believers, roused on by Nai's words, shout even louder, and some are even sobbing and shedding tears.")
          (proc 0)
-         (text
-          "「ナイ」　お前はその為にこの村に連れて来られ、長い年月をかけて育　　　　　てられたのだ、その恩に報いる日がもうすぐやって来る！")
+         (str "「Nai」 You were brought to this village for that reason, and raised over many long years; the day to repay that debt is coming soon！")
          (proc 0)
-         (text
-          "「ナイ」　お前のその美しい躰は、怒り昂ぶる我が主を鎮めるためにだ　　　　　けあるのだ、盟約者の末裔以外の男に許す事は認めんぞ。")
+         (str "「Nai」 That beautiful body of yours exists only to soothe my enraged master. I won't allow you to give it to any man other than the descendant of the pact-bearer.")
          (proc 0)
-         (text "ナイのからみつくような視線が、惜しげもなくあらわにされたコーデリアの裸体に走る。")
+         (str "Nai's clinging gaze runs over Cordelia's completely exposed naked body without any hint of restraint.")
          (proc 0)
-         (text "「ナイ」　なんとも惜しい事よ‥‥‥‥‥‥‥" 'br)
-         (text "　　　　　お前のような女は、あの修道院にもおらなんだ。")
+         (str "「Nai」 What a damn shame........." 'br)
+         (str "　　　　　There wasn't a woman like you even in that monastery.")
          (proc 0)
-         (text "「ナイ」　これならば我が主人も満足される事だろう。" 'br)
-         (text "　　　　　よいか、誰もこの女に手出ししてはならんぞ。")
+         (str "「Nai」 With this, my master will surely be satisfied." 'br)
+         (str "　　　　　Listen, nobody is to lay a hand on this woman.")
          (proc 0)
-         (text "信者達は渋々といった雰囲気でナイの言葉に頷く。" 'br)
-         (text "ナイはそれを確認すると、表情に乏しい顔をほころばせた。")
+         (str "The followers reluctantly nod at Nai's words." 'br)
+         (str "When Nai confirmed it, his usually expressionless face softened into a smile.")
          (proc 0)
-         (text "「ナイ」　それも女が大役を果たすまでの事。" 'br)
-         (text "　　　　　その後は好きにするがいい。")
+         (str "「Nai」 That's just until the woman finishes her big role." 'br)
+         (str "　　　　　Do　whatever　you　want　after　that.")
          (proc 0)
-         (text "「ナイ」　もう少し‥‥‥‥‥‥今しばらくの辛抱だ。")
+         (str "「Nai」 Just a little longer......... Hang in there a bit more.")
          (proc 0)
          (nop@)
          (set-reg 400 #t)
@@ -190,8 +186,8 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "誰もいないようだ。" 'br)
-         (text "室内はがらんとして、しばらく人が入ったような形跡もない。")
+         (str "Looks like nobody's here." 'br)
+         (str "The room is empty, and there’s no sign that anyone’s been in here for a while.")
          (proc 0))
         (//
          (load-mem "B:CLM¥C_120B.CLM" 27984)
@@ -215,14 +211,12 @@
                (sound '|| 1))))
          (proc 7)
          (proc 1)
-         (text "誰もいないようだ。" 'br)
-         (text "室内はがらんとして、しばらく人が入ったような形跡もない。")
+         (str "Looks like no one's here." 'br)
+         (str "The room is empty, and there's no sign anyone's been in for a while.")
          (proc 0)
-         (text
-          "外の冷たく湿気を含んだ空気もこの中までは入り込んでいないようで、部屋の中には甘く吐き気を催すような、香を焚いた後のような異臭がまだ残っている。")
+         (str "It seems like even the cold, damp air from outside hasn't made its way in here; inside the room, there's still a sweet, nauseating stench, kind of like the smell left over after burning incense.")
          (proc 0)
-         (text
-          "中世の黒ミサなどでは、出席した信者を無我の境地に誘うための幻覚剤と同じような効能を持った香を焚いていたというが、この匂いの原因はそれなのではないだろうか。")
+         (str "In medieval black masses and such, they say they burned incense with effects similar to hallucinogens to lead attending believers into a state of selflessness, so maybe that's what's causing this smell.")
          (proc 0)
          (nop@)
          (set-reg 572 #t))))
@@ -241,49 +235,45 @@
              (branch-index
               (</>
                (/
-                (text "高揚し錯乱状態になった信者が発する汗と恐怖の匂いがまだ室内に残っているようだ。")
+                (str "The scent of sweat and fear from the agitated, delirious cultists still seems to linger in the room.")
                 (proc 0)
-                (text
-                 "これまでにも何度か狂信的な宗教団体の集まりを目にした事があるが、先刻のダゴンのミサは、今までのそれとは明らかに違う中世の黒ミサを思わせる迫力が感じられた。")
+                (str "I've seen gatherings of fanatic religious groups a few times before, but the Dagon mass just now had an intensity that was clearly different, almost reminiscent of a medieval black mass.")
                 (proc 0)
                 (branch-reg
                  117
                  (</>
                   (/
-                   (text
-                    "コーデリアを生けにえにしているように見えたのは気のせいだろうか。彼女がダゴンの信者だという話はこれまでに聞いた事がないし、教会にを極端に嫌っていたコーデリアが進んでミサに参加するとも思えない。")
+                   (str "Was it just my imagination that it looked like Cordelia was being offered as a sacrifice? I've never heard anything about her being a Dagon Cult believer, and I can't imagine Cordelia, who always hated the Church, willingly taking part in the mass.")
                    (proc 0)
-                   (text "そう言えば、見開かれたコーデリアの目からは、全く生気が感じられなかったように思える。")
+                   (str "Come to think of it, Cordelia's wide-open eyes seemed completely lifeless.")
                    (proc 0)
-                   (text
-                    "まるで催眠術をかけられたか、薬を飲まされでもしたようだったが‥‥ナイならばそれぐらいの事はやりかねないかもしれない。"))
+                   (str "It was like she was hypnotized or maybe drugged... but Nai might just do something like that."))
                   (/
-                   (text
-                    "ナイが身よりのないコーデリアを引き取って教会で育てた裏には、彼女をダゴン教団の儀式に使うためだったのかもしれない。")
+                   (str "Maybe the real reason Nai took in Cordelia, who had no family, and raised her at the Church was to use her in a Dagon Cult ritual.")
                    (proc 0)
-                   (text "それで、村人がコーデリアと特別に扱う理由が説明できる。" 'br)
-                   (text "黒魔術の儀式のように、美しい乙女を贄として捧げるつもりだろうか。")
+                   (str "That would explain why the villagers treat Cordelia so specially." 'br)
+                   (str "Like some kind of black magic ritual, maybe they're planning to offer a beautiful maiden as a sacrifice.")
                    (proc 0)
-                   (text "だとしたらコーデリアの身が危ない。" 'br)
-                   (text "一刻も早く探し出して、村から逃げなければ。")))))
+                   (str "If that's the case, Cordelia's in danger." 'br)
+                   (str "I have to find it as soon as possible and get out of the village.")))))
                (/
-                (text "ろくな暖房設備さえ整っていないはずなのに、広い室内は汗ばむほどに暖かい。")
+                (str "There shouldn't even be decent heating equipment, but the spacious room is warm enough to make you sweat.")
                 (proc 0)
-                (text "先刻まで室内を満たしていた信者達の熱気のせいなのだろうが、今では彼らの姿はここにはない。"))))
+                (str "It's probably because of the lingering heat from all the believers who filled the room until a moment ago, but now they're nowhere to be seen."))))
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "堅い木のベンチが規則正しく並んでいる。" 'br)
-                (text "床は荒削りの石を敷いたもので、綺麗に磨かれている。")
+                (str "Sturdy wooden benches are lined up in neat rows." 'br)
+                (str "The floor is made of roughly hewn stone, polished nice and clean.")
                 (proc 0)
-                (text "どちらも教会には独特な物だが、あたりの寒々しさを一層あおりたてるようで、あまり好感は持てそうにもない。")
+                (str "どちらも教会には独特な物だが、あたりの寒々しさを一層あおりたてるようで、あまり好感は持てそうにもない。")
                 (proc 0)
-                (text "教会が忍耐力を鍛えるための場所だという私の信念は、ここでも裏付けられたようだ。"))
+                (str "It seems my belief that the Church is a place to build endurance has been proven true here as well."))
                (/
-                (text "堅い木のベンチが並んでいる。" 'br)
-                (text "出来る事なら、こんな所で退屈な説教を何時間も聞かされるなんて羽目にならなければいいのだが。"))))
+                (str "There are rows of hard wooden benches." 'br)
+                (str "If possible, I'd rather not end up stuck here listening to boring lectures for hours."))))
              (proc 0)))))
       (/
        (if (</>
@@ -293,32 +283,29 @@
              (branch-index
               (</>
                (/
-                (text
-                 "信者達を煽り、全裸のコーデリアの躰になまめかしい視線を走らせていたナイは、今では他の信者達と同じように姿を消してしまっている。")
+                (str "Nai, who had been riling up the followers and letting a lascivious gaze wander over Cordelia’s naked body, has now disappeared just like the other followers.")
                 (proc 0)
-                (text "儀式は終わり、皆家へ帰ってしまったようだが、そもそもナイの家とは村の何処にあるのだろう。")
+                (str "The ritual is over, and it looks like everyone has gone home, but where even is Nai's house in the village, anyway?")
                 (proc 0)
-                (text "ナイはこの建物を『私の教会』と言っていた。" 'br)
-                (text "すると、この教会に住んでいるのだろうか。"))
+                (str "Nai called this building 'my church'." 'br)
+                (str "So, does that mean she lives in this church?"))
                (/
-                (text "コーデリアが裸体をさらして立っていた演壇だ。" 'br)
-                (text "今はそのコーデリアもその傍らで弁舌を振るっていたナイの姿もない。")
+                (str "This is the podium where Cordelia stood exposing her naked body." 'br)
+                (str "Now, neither Cordelia nor the figure of Nai, who used to speak eloquently at her side, is here.")
                 (proc 0)
-                (text "このまま村に留まれば、コーデリアは何をされるか解らない。" 'br)
-                (text "早く見つけだして村を逃げるべきだろう。"))))
+                (str "If she stays in the village like this, there's no telling what might happen to Cordelia." 'br)
+                (str "I should find her quickly and escape the village."))))
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "他の信者が座るベンチよりも一段高くなっている。" 'br)
-                (text "ただでさえ飛び抜けて身長の高いナイが演壇に登れば、周囲の信者に威圧的な効果を与えられるだろう。")
+                (str "It's one step higher than the benches where the other believers sit." 'br)
+                (str "If Nai, who's already ridiculously tall, stands on the podium, it would definitely have an intimidating effect on the nearby believers.")
                 (proc 0)
-                (text
-                 "それにしても、普通ならばこのあたりに洗礼盤やキリスト像などがあってもいいはずなのに、まるで学校の教卓のようになんの装飾もない極めて簡素な机がひとつあるだけだ。"))
+                (str "Even so, normally there would be things like a baptismal font or Christ statue around here, but instead, there's just a single extremely simple desk with no decorations at all, like a teacher's podium in a school."))
                (/
-                (text
-                 "演壇のまわりにはどんな装飾品も飾られておらず、簡素というよりあっさりしすぎていて寂しいような気さえする。"))))
+                (str "There aren't any decorations around the podium, and rather than just simple, it feels almost too plain-so much so that it seems kind of lonely."))))
              (proc 0)))))
       (/
        (if (</>
@@ -328,46 +315,43 @@
              (branch-index
               (</>
                (/
-                (text "コーデリアが全裸で立たされていた背後にあったステンドグラスだ。" 'br)
-                (text "厚い雲におおわれ、陽光が差し込まないために細かい細工を施された色ガラスは沈んだ黒色に見える。")
+                (str "It's the stained glass that was behind Cordelia when she was made to stand there naked." 'br)
+                (str "Covered by thick clouds, the sunlight can't shine through, so the finely crafted colored glass looks like a dull black.")
                 (proc 0)
-                (text
-                 "この前に立ったコーデリアの白い裸身は、背後の色の洪水のせいでさらに美しく、頭を痺れさせるような荘厳な雰囲気さえ持っていた。")
+                (str "Cordelia's white naked body as she stood before this used to look even more beautiful thanks to the flood of colors in the background, and carried an awe-inspiring atmosphere intense enough to make your head swim.")
                 (proc 0)
-                (text "その光景を見慣れているはずの信者達にとっても、美しい裸身は特別の感情を催す道具となるだろう。")
+                (str "Even to the believers who should be used to that scene, a beautiful naked body would probably serve as a tool to stir up special feelings.")
                 (proc 0)
-                (text "おそらくこのステンドグラスがここにあるのは、その前に全裸になった贄の女をより引き立たせるためだろう。")
+                (str "Maybe the reason this stained glass is here is to make the naked sacrificial woman in front of it stand out even more.")
                 (proc 0)
-                (text "すると、この教会の設計をする段階ですでにコーデリアが贄になる事は決まっていたのだろうか。")
+                (str "So, was it already decided at the stage of designing this Church that Cordelia would become the sacrifice?")
                 (proc 0)
-                (text "それとももっと以前から何人もの生けにえが存在して、コーデリアはその中のひとりにすぎないのか？"))
+                (str "Or have there been numerous sacrifices from way earlier, and Cordelia is just one of them？"))
                (/
-                (text "おそらくこのステンドグラスがここにあるのは、その前に全裸になった贄の女をより引き立たせるためだろう。"))))
+                (str "Maybe the reason this stained glass is here is to make the naked sacrificial woman in front of it stand out even more."))))
              (proc 0))
             (//
              (branch-index
               (</>
                (/
-                (text "美しい色ガラスの小片を巧みにはめ込んで造られた、人の背丈ほどもあるステンドグラスだ。")
+                (str "It's a stained glass, about as tall as a person, made with beautiful colored glass pieces skillfully fitted together.")
                 (proc 0)
-                (text
-                 "この殺風景な教会で、唯一華々しさを感じさせる物だが、周囲の風景とあまりにもかけ離れすぎていて、むしろ場違いな印象を受ける。"))
+                (str "It's the only thing that brings a touch of splendor to this dreary Church, but it's so out of place with the scenery around it that it actually gives off a sense of awkwardness."))
                (/
-                (text "美しい物だが、それほど古さは感じない。" 'br)
-                (text "教会によくある絵柄とは多少異なるようだが‥‥‥‥"))))
+                (str "It's beautiful, but it doesn't really feel that old." 'br)
+                (str "The pattern seems a little different from what's usually found in Churches, though......"))))
              (proc 0)))))
       (/
        (branch-index
         (</>
          (/
-          (text "スチームを大小のパイプに送り込んで音を出すタイプのオルガンのようだが、その巨大さから言ってかなり高価な装置のはずだ。")
+          (str "It looks like the kind of organ that makes sound by sending steam into big and small pipes, and from its sheer size, it must be an insanely expensive piece of equipment.")
           (proc 0)
-          (text "こんな小さな教会には不釣り合いとも思えるが‥‥‥‥" 'br)
-          (text "第一、本当に賛美歌を奏でる為に使われているのかどうか疑わしい。"))
+          (str "It feels kind of out of place in such a small Church, though......" 'br)
+          (str "First off, I'm not even sure if it's really used for playing hymns."))
          (/
-          (text "何百本もの大小のパイプを組み合わせたオルガンだ。" 'br)
-          (text
-           "この教会で価値があるものと言ったら、左右の窓にはめ込まれた巨大なステンドグラスと、このパイプオルガンぐらいのものだろう。"))))
+          (str "It's an organ made by combining hundreds of pipes, big and small." 'br)
+          (str "If you asked what's valuable in this church, it's probably just the huge stained glass windows set into the left and right walls, and this pipe organ."))))
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -377,7 +361,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　外に出る　　"))))
+        (menu1 60 100 (</> (/ (str "　　Go outside　　"))))
         (proc 17))))
   (proc 14)
   (if (</>

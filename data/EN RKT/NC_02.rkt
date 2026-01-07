@@ -34,18 +34,16 @@
         (//
          (? (= 532 #t))
          (nop@)
-         (text "ここは村はずれの海に突き出た岬だ。" 'br)
-         (text "月明かりの下で何者かが遺した遺跡が青白く不気味に光っている。")
+         (str "This is a cape jutting out into the sea on the outskirts of the village." 'br)
+         (str "Under the moonlight, some Ruins left behind by someone glow with an eerie pale blue light.")
          (proc 0)
-         (text "昼間でも村人達はここに近寄る事を避けていると聞くが、それが夜ならばなおのこと。私だってこんな所に長居したいとは思わない。")
+         (str "I hear that even during the day, the villagers avoid coming near here, and even more so at night. I don't want to hang around a place like this either.")
          (proc 0))
         (//
-         (text "私は村はずれの岬にある遺跡の前にやってきた。" 'br)
-         (text
-          "ひょっとしたらあの昼間の老人に出会えるかもしれないと淡い期待を抱いていたのだが、こんな陰気な場所に、しかも夜の夜中に近づこうなどという酔狂な人間は私の他にはいなかったようだ。")
+         (str "I came to the front of the Ruins on the cape at the edge of the village." 'br)
+         (str "I was vaguely hoping that I might run into that Old man from earlier today, but it seemed like I was the only weirdo who would come near such a gloomy place, especially in the middle of the night.")
          (proc 0)
-         (text
-          "さすがにここまで来ると、打ち寄せる波の音は耳を裂かんばかりの轟音になり、それが虫の声ひとつないあたりの状況と相まってなおさらひどく耳障りに聞こえる。")
+         (str "As expected, coming this far, the sound of the crashing waves turns into an ear-splitting roar, and combined with the complete lack of any insect noises around here, it sounds all the more grating.")
          (proc 0)
          (nop@)
          (set-reg 532 #t))))
@@ -61,48 +59,39 @@
             (//
              (? (= 301 #t))
              (nop@)
-             (text
-              "私はしばらくのあいだ、冷たく指先に吸い付くような石の表面に指を走らせ、微妙な突起さえない完璧な仕事の成果を楽しんだ。")
+             (str "For a while, I ran my fingers along the stone's surface, which felt cold and clung to my fingertips, enjoying the results of a flawless job with not even the slightest bump.")
              (proc 0)
-             (text
-              "私は建築家ではないし、ましてやこの石がどのような方法で切り出されたのかなど、解ろうはずもない。しかし、この種の完璧な仕事の成果を目の当たりにすると、それが誰の作であろうと手に触れる者に陶酔に近い敬意を抱かせずにはおかない。")
+             (str "I'm not an architect, and there's no way I could possibly know how these stones were cut in the first place. But when you're faced with the results of perfectly executed work like this, whoever did it, you can't help but feel a reverence that's almost intoxicating just by touching it.")
              (proc 0))
             (//
              (? (= 299 #t))
              (nop@)
-             (text "私はおそるおそる遺跡の柱の一本に手を伸ばした。" 'br)
-             (text
-              "ぬめるような光沢を放つ石の表面は、高熱で溶かしたように平らで、風雨にけずられた部分だけがざらざらと指先に引っかかる。")
+             (str "I reached out hesitantly to touch one of the columns of the Ruins." 'br)
+             (str "The stone's surface, shining with a slimy gloss, is flat as if melted by intense heat, and only the parts worn by wind and rain feel rough against my fingertips.")
              (proc 0)
-             (text
-              "いくつもの石を積み重ねて高さをかせいでいると思われるのに、各々の石のつなぎ目は剃刀の刃さえ入らぬほど、寸分違わぬ精巧さでつなぎ合わせてある。")
+             (str "Even though it looks like a bunch of stones have been stacked up to make it taller, the joints between each stone fit together so precisely, not even a razor blade could slip between them.")
              (proc 0)
-             (text
-              "現代の技術をもってしても、これほど緻密な建築物が造り出せるとは考えにくい。一体だれが、どのようにしてこの精巧な建築物を造り出したというのだろう。")
+             (str "Even with modern technology, it's hard to believe such a meticulous structure could be built. Just who, and how, could have created this intricate building?")
              (proc 0)
              (nop@)
              (set-reg 301 #t))
             (//
              (? (= 298 #t))
              (nop@)
-             (text
-              "造られてからどれほどの年月を経過したのか解らないが、石の表面には細かな亀裂や、風雨に削り取られた傷跡が残っている。その割には苔や蔦などの植物類の進入を許していないところが、また奇妙と言えばそれに違いない。")
+             (str "I don't know how many years have passed since it was made, but the surface of the stone is covered in fine cracks and scars gouged by wind and rain. Strangely enough, though, there isn't any moss or ivy or other plants growing on it, which is kind of weird in itself.")
              (proc 0)
              (nop@)
              (set-reg 299 #t))
             (//
-             (text "その石柱は、月の光を浴びて青白くぬめるような光を放っている。" 'br)
-             (text
-              "昼間の陽光の下では、陽の光を吸収してしまうように光沢のない、ただの黒色の石にしか思えなかったのに、月明かりの下ではむしろ爛々と光を放っているように見える。")
+             (str "That stone pillar glows with a pale, slimy sort of light under the moonlight." 'br)
+             (str "Under the sunlight during the day, it looked like just a plain black stone, dull and absorbing the light, but under the moonlight, it actually seemed to shine with a vivid glow.")
              (proc 0)
-             (text "陽光を嫌い、月明かりの下で光を放つとは。" 'br)
-             (text "まるで闇の中を闊歩する邪悪な化け物みたいじゃないか。")
+             (str "To hate sunlight and yet shine under moonlight." 'br)
+             (str "It's like I'm some kind of evil monster strutting through the darkness.")
              (proc 0)
-             (text
-              "なるほどこんな光沢を持った石材は英国には存在しない。いや、私の知る限り、世界のどんな所を探してもこんな物を産出する国があろうとは容易に信じられない。")
+             (str "I see, a stone with this kind of gloss doesn't exist in England. No, as far as I know, it's hard to believe there could be a country anywhere in the world that produces something like this.")
              (proc 0)
-             (text
-              "一体誰が、何の目的ではるか見知らぬ土地からこれほど巨大な石材を運んで来たのだろう。その労力を考えると気が遠くなりそうだ。よほど重要な目的の為に造られた建物であることは間違いあるまい。")
+             (str "Who on earth brought these enormous stones from such a far and unknown place, and for what purpose? Just thinking about the effort makes me feel faint. There's no doubt this building was constructed for an extremely important reason.")
              (proc 0)
              (nop@)
              (set-reg 298 #t)))))
@@ -111,12 +100,12 @@
             (//
              (? (= 300 #t))
              (nop@)
-             (text "あまりじっと見ていたくない。" 'br)
-             (text "あのレリーフを凝視していると、魂まで邪悪な何かに染まってしまいそうな恐怖を覚えてしまう。")
+             (str "I don't really want to stare at it." 'br)
+             (str "When I stare at that Relief, I feel a fear that my soul might get stained by something evil.")
              (proc 0))
             (//
-             (text "私は遺跡の神殿様の建造物に目を向けた。" 'br)
-             (text "昼間ガードナーらと見たくだんの半人半魚の男のレリーフが、月明かりに神々しい光のようなものを放っている。")
+             (str "I turned my eyes to the building of the Ruins' Temple." 'br)
+             (str "The relief of the half-human, half-fish man that Gardner and the others saw during the day is giving off something like a divine light in the moonlight.")
              (proc 0)
              (proc 3)
              (proc 9)
@@ -132,14 +121,11 @@
              (proc 8)
              (exec-mem 8304 12 16 67 287 8 1)
              (proc 1)
-             (text
-              "これがガードナーの言う『神』を型どった物だとしたら、遺跡は我々と同様の文化を営んでいた人々が遺した物だとは言えまい。")
+             (str "If this really is the thing Gardner said was modeled after a 'god,' then we can't say the ruins were left behind by people with a culture similar to ours.")
              (proc 0)
-             (text
-              "このレリーフから私が感じとる事の出来るのは恐れ、畏怖、恐怖といったものだ。お世辞にも神々しいなどという言葉は口をついて出てくる事はない。")
+             (str "このレリーフから私が感じとる事の出来るのは恐れ、畏怖、恐怖といったものだ。お世辞にも神々しいなどという言葉は口をついて出てくる事はない。")
              (proc 0)
-             (text
-              "こうして夜の夜中に一人で見入っていると、そのまがまがしさに身も心も染まってしまいそうな、そんな恐怖感さえ覚えてしまう。")
+             (str "Watching it alone like this in the middle of the night, I start to feel like both my body and soul might get tainted by how sinister it is-it's honestly kinda scary.")
              (proc 0)
              (proc 3)
              (proc 9)
@@ -163,17 +149,15 @@
             (//
              (? (= 302 #t))
              (nop@)
-             (text "私のような門外漢がいくら頭を捻ったところで、専門家のガードナーでさえお手上げのこの問題を解きあかせる訳がない。")
+             (str "私のような門外漢がいくら頭を捻ったところで、専門家のガードナーでさえお手上げのこの問題を解きあかせる訳がない。")
              (proc 0)
-             (text "考えるだけ無駄だな。")
+             (str "It's pointless to even think about it.")
              (proc 0))
             (//
-             (text "ギリシアにある古い神々を奉った神殿のような建物だ。" 'br)
-             (text
-              "もしもこの遺跡がそれらの神と同等の信仰の対象だったとしたら、後生の我々にその存在が残っていないのはどういう訳なのだろうか。")
+             (str "It's a building like a temple dedicated to the old gods in Greece." 'br)
+             (str "If these Ruins had been worshiped on the same level as those gods, then why is it that their existence hasn’t been left behind for us in later generations?")
              (proc 0)
-             (text
-              "ここの神が極めてローカルな、この村や周辺部に限ったものだとしたらこれほど大がかりな建造物を残せたはずもないのに‥‥‥‥")
+             (str "If the god here were really just a local one limited to this village and surrounding areas, there's no way they could've left behind such a massive structure...")
              (proc 0)
              (nop@)
              (set-reg 302 #t)))))
@@ -182,24 +166,21 @@
             (//
              (? (= 303 #t))
              (nop@)
-             (text "まるで全ての生命を否定するかのような、圧倒的な青の世界だ。" 'br)
-             (text "波の音が催眠術師が被験者を眠りの世界に誘うように、圧倒的な力で私を深い海の底に導いているようだ。")
+             (str "まるで全ての生命を否定するかのような、圧倒的な青の世界だ。" 'br)
+             (str "The sound of the waves is like a hypnotist luring their subject into the world of sleep, drawing me down to the depths of the sea with overwhelming power.")
              (proc 0))
             (//
-             (text
-              "青白い月明かりに照らされて、あたりは青白いベールに包まれたようになっている。静寂の中に響く規則正しい波音と相まって、ある種神秘的とさえ言える奇妙な雰囲気だ。")
+             (str "Bathed in pale moonlight, everything around looks like it's wrapped in a pale blue veil. Combined with the rhythmic sound of waves echoing in the silence, it's got this strange vibe that's almost kind of mystical.")
              (proc 0)
-             (text "巨大な遺跡の中にあって、私は自分の無力さを痛切に味わっている。" 'br)
-             (text
-              "もしも、あのエジプトのピラミッドの前で夜明かしする事になったとしたらやはり同じ用な無力感を味わう事になるのだろうか？")
+             (str "Standing inside the huge Ruins, I'm painfully aware of just how powerless I am." 'br)
+             (str "If I ever had to spend the night in front of those Egyptian pyramids, would I end up feeling the same kind of helplessness？")
              (proc 0)
-             (text "多分そうではないだろう。" 'br)
-             (text "今、私が感じているのは様々な辛苦を経て強大なモニュメントを造り通した先人達への畏怖の念ではない。")
+             (str "Probably not." 'br)
+             (str "What I'm feeling right now isn't awe for the people before me who went through all kinds of hardships and managed to build this massive monument.")
              (proc 0)
-             (text
-              "否、私はこの遺物がそのような苦労の末に造られた物であるという考えそのものを否定しようとしているのだ。この建造物はなにか信じがたい力によって、一夜にして構築されたのではないか？")
+             (str "No, what I'm trying to deny is the very idea that this relic was made through such hardship. Isn't it possible that this structure was built overnight by some unbelievable power？")
              (proc 0)
-             (text "そう思わずにはいられない。それほどこの遺跡は圧倒的な技術と信じがたい工法によって造られたものなのだ。")
+             (str "I can't help but think that. That's how much these Ruins were built with overwhelming technology and unbelievable construction methods.")
              (proc 0)
              (nop@)
              (set-reg 303 #t)))))))
@@ -215,10 +196,10 @@
          60
          100
          (</>
-          (/ (text "　　") (str " ") (text "魚鱗亭") (str " ") (text "　　"))
-          (/ (text "　　　広場　　　"))
-          (/ (text "　　") (str " ") (text "雑貨店") (str " ") (text "　　"))
-          (/ (str " ") (text "ギルマンハウス") (str " "))))
+          (/ (text "　　") (str " ") (str "Fish Scale Inn") (str " ") (text "　　"))
+          (/ (str "　　　Plaza　　　"))
+          (/ (text "　　") (str " ") (str "General store") (str " ") (text "　　"))
+          (/ (str " ") (str "Gilman House") (str " "))))
         (proc 17))))
   (proc 14)
   (if (</>

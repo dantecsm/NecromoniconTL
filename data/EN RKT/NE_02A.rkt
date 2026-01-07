@@ -34,23 +34,21 @@
         (//
          (? (= 222 #t))
          (nop@)
-         (text "ここにはコーデリアの姿はない。" 'br)
-         (text "わざわざ調べ物をしに来るには適した時間とは言えない、他に彼女が行きそうな場所があるだろう。")
+         (str "ここにはコーデリアの姿はない。" 'br)
+         (str "It's not exactly the right time to come all the way here just to look something up. There's probably somewhere else she'd go.")
          (proc 0))
         (//
          (? (= 551 #t))
          (nop@)
-         (text "かつて栄華を極めたミスカトニック大学の前だ。" 'br)
-         (text "今は村の歴史を伝える資料館になっているが、ここを訪れる村人は希有で、巨大な建物はまるで墓標のようになんの意味も持たない。")
+         (str "かつて栄華を極めたミスカトニック大学の前だ。" 'br)
+         (str "Now it's an archives that tells the village's history, but villagers hardly ever visit, so this huge building stands there like a gravestone, utterly meaningless.")
          (proc 0))
         (//
-         (text
-          "廃校になって久しいミスカトニック大学の前には、昼間でさえ寄りつく人の姿はなく、夜半をとっくに過ぎたこの時刻ではなおさら行き交う人などいる訳もない。")
+         (str "In front of the long-abandoned Miskatonic University, not a soul comes near even during the day, and at this hour, well past midnight, there’s definitely no one passing by.")
          (proc 0)
-         (text "そんな事をする必要さえないという事なのか、正門は昼間と同じように開いたままになっている。")
+         (str "そんな事をする必要さえないという事なのか、正門は昼間と同じように開いたままになっている。")
          (proc 0)
-         (text
-          "私とて、こんな時刻に不気味な構内に入り込もうなどとは思わないが、盗まれる物など無いという意志表示だろうか、これではあまりにも不用心過ぎるのではないだろうか。")
+         (str "Even I wouldn't want to sneak into these creepy premises at this hour, but maybe they're trying to show that there's nothing worth stealing. Still, isn't this just way too careless?")
          (proc 0)
          (nop@)
          (set-reg 551 #t))))
@@ -65,88 +63,82 @@
        (branch-index
         (</>
          (/
-          (text "そびえ立つ煉瓦の建物の向こうに見える空には、未だ厚い雲がかかり、古びた建物を押し潰さんばかりだ。")
+          (str "Thick clouds still hang in the sky beyond the towering brick building, almost pressing down hard enough to crush the old structure.")
           (proc 0)
-          (text
-           "ほとんどが、せいぜい二階建てどまりの家屋ばかりが並ぶアーカムではこの資料館が唯一の高層建築物だ、まるで空を支える唯一の支柱のように見える。")
+          (str "ほとんどが、せいぜい二階建てどまりの家屋ばかりが並ぶアーカムではこの資料館が唯一の高層建築物だ、まるで空を支える唯一の支柱のように見える。")
           (proc 0)
-          (text "孤独で崇高な命を与えられたこの煉瓦の建築物は、あとどれくらいの間その役目を全うできるのだろう。"))
+          (str "How much longer can this brick building, given a lonely and noble life, fulfill its role?"))
          (/
-          (text "アーカムの陰気で湿っぽい雰囲気を助長するかのように、厚い雲は一向に晴れる気配を見せない。")
+          (str "As if to enhance the gloomy, damp atmosphere of Arkham, the thick clouds show no sign of clearing up.")
           (proc 0)
-          (text "おそらくここは、大ブリテン島でももっとも人間が住むに相応しくない土地に違いない。")
+          (str "おそらくここは、大ブリテン島でももっとも人間が住むに相応しくない土地に違いない。")
           (proc 0)
-          (text
-           "ここに暮らす村人達は一年にどれほど太陽の姿を見る事が出来るのか。それともこの不穏な天候は、アーカムに入り込んだ場違いな侵入者である私たちのせいなのだろうか。"))
+          (str "How many times a year do the villagers living here get to see the sun? Or maybe this ominous weather is because of us, the out-of-place intruders who have wandered into Arkham."))
          (/
-          (text "どんよりと曇った空を見ていると、こちらまで陰気な気分になる。" 'br)
-          (text "あまり気にしない方がいいのだろうか。"))))
+          (str "Looking at the gloomy, overcast sky makes me feel kind of depressed too." 'br)
+          (str "Maybe I shouldn't worry about it too much."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text
-           "むき出しにされている煉瓦の壁は、濃い茶色が色あせて薄いピンク色に変色し始めている。大きなガラスをはめ込んだ窓も錆が浮き出して、いつまで重みを支えていられるか解ったものではない。")
+          (str "The exposed brick wall's dark brown has faded and started turning a pale pink. The large glass windows are rusting too, and it's anyone's guess how much longer they can hold up the weight.")
           (proc 0)
-          (text "この校舎跡が崩壊するまでに、あと１００年もかからないだろう。" 'br)
-          (text "少し惜しいような気もするがこんな所に建っていても何の利用価値もないだろう。"))
+          (str "It probably won't even take another 100 years before these school ruins collapse." 'br)
+          (str "It does feel a bit of a shame, but there’s really no use for it just standing here like this."))
          (/
-          (text "こんな辺鄙な村に大学が造られたのは、フィリップ・ダニッジが持ち込んだ金の力があってこそだろう。")
+          (str "The reason a university was built in such a remote village is probably thanks to the power of money Philip Dunwich brought in.")
           (proc 0)
-          (text "ドルリイ・ダニッジは、自分の父親が力で築き上げた大学の、しかも最後の学長になった訳だ。")
+          (str "ドルリイ・ダニッジは、自分の父親が力で築き上げた大学の、しかも最後の学長になった訳だ。")
           (proc 0)
-          (text "その事もドルリイにとっては重荷だったのではないだろうか。" 'br)
-          (text "父が行方不明になり、蓄えの金も底を尽きると、村の財力は急激に衰え始める。")
+          (str "Maybe that was a burden for Dollie too." 'br)
+          (str "When my dad went missing and our savings ran dry, the village's finances started taking a nosedive.")
           (proc 0)
-          (text "アーカムに関心を持っていた人々は、次第に村を離れていく‥‥‥‥" 'br)
-          (text "きっと村人達は村を支えていたダニッジ家の最後の当主であるドルリイを目の敵にしていたのではないだろうか。"))
+          (str "アーカムに関心を持っていた人々は、次第に村を離れていく‥‥‥‥" 'br)
+          (str "Surely the villagers must have had it out for Dollie, the last head of the Dunwich family who supported the village."))
          (/
-          (text "鋭く切り立った屋根は、教会の鐘楼塔かを思わせる。" 'br)
-          (text "いずれにしても大学の校舎というにはあまりにも不自然なように思われるが‥‥‥‥")
+          (str "The sharply sloping roof reminds me of the Church's bell tower." 'br)
+          (str "Anyway, it just seems way too unnatural to be a university building...")
           (proc 0)
-          (text "ミスカトニック大学をこの地に造ったフィリップ・ダニッジは、大学に何を求めたのだろう。")
+          (str "ミスカトニック大学をこの地に造ったフィリップ・ダニッジは、大学に何を求めたのだろう。")
           (proc 0)
-          (text "単に自分の財力を誇示したかったのだろうか？" 'br)
-          (text "それとも、何か重要な目的があったのだろうか。"))))
+          (str "Did he just want to show off his wealth？" 'br)
+          (str "Or maybe, did they have some important purpose?"))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "長い間放ったらかしにされているせいで、スレートの屋根はひび割れ、雨水の浸食を受けている。")
+          (str "Because it's been neglected for a long time, the slate roof is cracked and being eroded by rainwater.")
           (proc 0)
-          (text "見る者に威圧感を与えるよう、細心の注意をはらって設計されたであろう凝った造りも、こうなっては哀れを誘うだけだ。"))
+          (str "The elaborate design, which must have been crafted with the utmost care to intimidate anyone who looked at it, only stirs up pity now."))
          (/
-          (text
-           "私の母校があるオクスフォードのユニバーシティ博物館を模して造られたものであろう、切り立った屋根と明かり取りの窓が彼の地を思い起こさせる。")
+          (str "It was probably modeled after the University Museum in Oxford, my alma mater-the steep roofs and skylight windows remind me of that place.")
           (proc 0)
-          (text
-           "大学の創設者であるフィリップ・ダニッジは、アーカムをゴチック風の尖塔が立ち並ぶオクスフォードのような街にしたかったのだろうか。")
+          (str "Did Philip Dunwich, the founder of the university, want to make Arkham a city like Oxford, lined with Gothic-style spires?")
           (proc 0)
-          (text "だとすれば、彼は私が感じていたような金の亡者ではない。" 'br)
-          (text "大昔の領主のように、自分の土地が繁栄する事を願うまっとうな人物像を思い浮かべる事が出来るではないか。"))
+          (str "If that's the case, then he's not a money-grubber like I thought he was." 'br)
+          (str "大昔の領主のように、自分の土地が繁栄する事を願うまっとうな人物像を思い浮かべる事が出来るではないか。"))
          (/
-          (text "かつては威圧的な雄姿を誇っていたのだろうが、所々スレートの剥がれ落ちた様子からは、当時の威厳など全く感じられない。"))))
+          (str "It probably used to boast an intimidating presence, but with slate peeling off here and there, you can't feel any of that old dignity at all."))))
        (proc 0))
       (/
        (branch-index
         (</>
          (/
-          (text "開きっぱなしの扉をくぐると、中は芝生の庭になっているようだ。" 'br)
-          (text "建物の外観から想像すると、庭もどれくらいあれ果てているのか想像するに難くない。")
+          (str "開きっぱなしの扉をくぐると、中は芝生の庭になっているようだ。" 'br)
+          (str "Judging from the building's exterior, it's not hard to imagine just how rundown the garden must be too.")
           (proc 0)
-          (text "これほどの規模の大学ならば、校舎の他に多くの学寮や聖堂まで備えてあっても不思議ではない。")
+          (str "With a university this big, it’s no surprise there are a bunch of dorms and even a chapel besides the main building.")
           (proc 0)
-          (text "しかし、今のアーカムではただの記念碑にしか過ぎないそれらの大学の建物を維持する余裕などありはしないだろう。"))
+          (str "But now, Arkham probably can’t afford to maintain those university buildings, which are nothing more than monuments."))
          (/
-          (text
-           "入り口の扉は開いたままになっているが、昼間でさえ寄りつく人がないのに、夜半に入り込もうなどという人間がいる訳がないと決めつけているのだろうか。")
+          (str "The entrance door is left wide open, but maybe they assume no one would come near in the daytime, let alone sneak in at midnight.")
           (proc 0)
-          (text "確かに、ここに盗むような価値があるとも思えないし、そんな物があるならとうの昔に持ち去られているだろう。")
+          (str "Sure, it doesn’t seem like there’s anything here worth stealing, and if there was, it would’ve been taken a long time ago.")
           (proc 0)
-          (text "ひとりで膨大な書架を漁っても仕方がないし‥‥‥‥" 'br)
-          (text "また明日にでも出直して来るとしようか。"))))
+          (str "There’s no point in rummaging through these huge bookshelves all by myself..." 'br)
+          (str "Maybe I’ll just come back tomorrow or something."))))
        (proc 0))))
     (if (</> (// (? (!= A 0)) (nop@) (proc 3))))))
  (seg*
@@ -156,7 +148,7 @@
         (? (= V 0))
         (nop@)
         (proc 15)
-        (menu1 60 100 (</> (/ (text "　　　地図　　　"))))
+        (menu1 60 100 (</> (/ (str "　　　Map　　　"))))
         (proc 17))))
   (proc 14)
   (if (</>
